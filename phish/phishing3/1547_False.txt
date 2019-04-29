@@ -1,0 +1,59 @@
+Subject: Question about Item -- Respond Now Question for item #109910753540 
+SectionTitle {font-size: small; font-family: arial, sans-serif; font-weight:bold } 
+SmallTitle {font-size: x-small; font-family: arial, sans-serif; font-weight:bold } 
+SectionBody {font-size: x-small; font-family: arial, sans-serif} 
+DetailTable, 
+DetailTable th {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal } 
+Title {font-size: medium; font-family: verdana, arial, sans-serif} 
+BodyFont {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal} 
+BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif; font-weight:bold} 
+SmallBody {font-size: xx-small; font-family: arial, sans-serif; font-weight:normal; margin-top: 8 px; margin-bottom: 6 px} 
+Separator { COLOR: #CCCCCC; height: 1px} 
+HighlightedSeparator { COLOR: #9999cc; height: 1px} 
+FooterSeparator { COLOR: #CCCCCC; height: 1px} 
+Footer, 
+Footer p {font-size: xx-small; font-family:arial, sans-serif; color:#666666; margin-top: 2 px; margin-bottom: 8 px} 
+SmallPara, 
+SmallParap {margin-top: 8 px; margin-bottom: 6 px} 
+ItemTitle {font-size: 10pt; font-family: arial, sans-serif; font-weight:bold } 
+sectiontitle{font-size:small;font-weight:bold;} 
+pagetitle {font-size:medium;font-weight:bold;} eBay sent this message to from stocklotsuk
+ This message originated from eBay
+ Learn more
+ Question about Item -- Respond Now eBay sent this message on behalf of an eBay member through My Messages
+ Responses sent using email will go to the eBay member directly and will include your email address
+ Question from stocklotsuk stocklotsuk( 152) Positive feedback:100% Member since:Mar-03-00 Location:FL, United States Registered on:www
+ebay
+com Item Number (109910753540) This message was sent while the listing was active
+ stocklotsuk is a potential buyer
+ Please add me to your pre-approved list
+ I am interested in the buy it now option
+Is this price right or is this a misprint
+ Thanks Steff Respond to this question Responses in My Messages will not include your email address
+ Thank you,eBay Details for item number:
+109910753540 Item URL: http://cgi
+ebay
+com/ws/eBayISAPI
+dll
+Vie wItem&item=109910753540&sspagename=ADME:B:AAQ:US:1 End date: Tuesday, Feb 28, 2007 07:36:23 PDT Marketplace Safety Tip Always remember to complete your transactions on eBay - it's the safer way to trade
+ Is this message an offer to buy your item directly through email without winning the item on eBay
+ If so, please help make the eBay marketplace safer by reporting it to us
+ These "outside of eBay" transactions may be unsafe and are against eBay policy
+ Learn more about trading safely
+ Is this email inappropriate
+ Does it violate eBay policy
+ Help protect the Community by reporting it
+ See our Privacy Policy and User Agreement if you have questions about eBay's communication policies
+ Privacy Policy: http://pages
+ebay
+com/help/policies/privacy-policy
+ht mlUser Agreement: http://pages
+ebay
+com/help/policies/user-agreement
+ht mlCopyright 
+
+2006 eBay, Inc
+ All Rights Reserved
+Designated trademarks and brands are the property of their respective owners
+eBay and the eBay logo are registered trademarks or trademarks of eBay, Inc
+eBay is located at 2145 Hamilton Avenue, San Jose, CA 95125

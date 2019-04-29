@@ -1,0 +1,25 @@
+Subject: Your eBay account could be suspended <
+-- 
+page { background: #FFFFFF; color: #000000; } 
+tborder { background: #FFFFFF; color: #000000; border: 1px solid #833750; } td { font: 10pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif; } 
+alt1 { background: #FFF5F5; color: #000000; } 
+smallfont { font: 11px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif; } 
+thead { background: #995C70 url('gradient_thead
+gif') repeat-x top left; color: #FFF7F7; font-style:normal; font-variant:normal; font-weight:bold; font-size:11px; font-family:tahoma, verdana, geneva, lucida, lucida grande, arial, helvetica, sans-serif } td
+thead { padding: 4px; } 
+borderwrap{ /* this will affect the outlining border of all the tables and boxes through-out the skin
+ */ background: #FFF; border: 1px solid #072A66; padding: 0px; margin: 0px; } 
+ipbtable { width:100% } table
+ipbtable { /* required for text in tables, because tables do not inherit from body */ background: transparent; color: #222; font-size: 11px; line-height: 135%; } 
+post1{ background: #F5F9FD; } 
+ipbtable td{ /* gives all tables faux cellpadding of 5px */ padding: 5px; } 
+postcolor{ font-size: 12px; line-height: 160%; } 
+quotemain{ border-right:1px dotted #000; border-bottom:1px dotted #000; background:#FAFCFE; border-left:4px solid #8394B2; border-top:0px none; color: #465584; padding: 4px; margin-left:auto; margin-right:auto; margin-top:0; margin-bottom:8px } --> Dear eBay Member, We regret to inform you that your eBay account could be suspended
+ To resolve this problem please click here and re-enter your account information
+ If your problems could not be resolved your account will be suspended for a period of 3-4 days, after this period your account will be terminated
+ For the User Agreement, Section 9, we may immediately issue a warning, temporarily suspend, indefinitely suspend or terminate your membership and refuse to provide our services to you if we believe that your actions may cause financial loss or legal liability for you, our users or us
+ We may also take these actions if we are unable to verify or authenticate any information you provide to us
+ Due to the suspension of this account, please be advised you are prohibited from using eBay in any way
+ This includes the registering of a new account
+ Please note that this suspension does not relieve you of your agreed-upon obligation to pay any fees you may owe to eBay
+ Regards , Safeharbor Department eBay, Inc

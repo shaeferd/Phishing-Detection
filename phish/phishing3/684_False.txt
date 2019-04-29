@@ -1,0 +1,55 @@
+Subject: Question about item - Respond now 
+ Message from eBay Member Regarding Item #460347642211 
+SectionTitle {font-size: small; font-family: arial, sans-serif; font-weight:bold } 
+SmallTitle {font-size: x-small; font-family: arial, sans-serif; font-weight:bold } 
+SectionBody {font-size: x-small; font-family: arial, sans-serif} 
+DetailTable, 
+DetailTable th {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal } 
+Title {font-size: medium; font-family: verdana, arial, sans-serif} 
+BodyFont {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal} 
+BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif; font-weight:bold} 
+SmallBody {font-size: xx-small; font-family: arial, sans-serif; font-weight:normal; margin-top: 8 px; margin-bottom: 6 px} 
+Separator { COLOR: #CCCCCC; height: 1px} 
+HighlightedSeparator { COLOR: #9999cc; height: 1px} 
+FooterSeparator { COLOR: #CCCCCC; height: 1px} 
+Footer, 
+Footer p {font-size: xx-small; font-family:arial, sans-serif; color:#666666; margin-top: 2 px; margin-bottom: 8 px} 
+SmallPara, 
+SmallParap {margin-top: 8 px; margin-bottom: 6 px} 
+ItemTitle {font-size: 10pt; font-family: arial, sans-serif; font-weight:bold } 
+sectiontitle{font-size:small;font-weight:bold;} 
+pagetitle {font-size:medium;font-weight:bold;} eBay sent this message 
+ Your registered name is included to show this message originated from eBay
+ Learn more
+ Question about item - Respond now 
+ eBay sent this message on behalf of an eBay member via My Messages
+ Responses sent using email will go to the eBay member directly and will include your email address
+ Click the Respond Now button below to send your response via My Messages
+ Question from texasdesign texasdesign(42) Positive Feedback:100% Member Since:Aug-01-03 Location: FL, United States Registered On:www
+ebay
+com Item: (189131449341) This message was sent after the listing closed
+ hello , please tell me if the itemit`s still available for sale 
+
+ Respond to this question in My Messages
+ Item Details Item number: 189131449341 End date: July -23-07 10:20 PDT Thank you for using eBay
+ http://www
+ebay
+com/ Marketplace Safety Tip Always remember to complete your transactions on eBay - it's the safer way to trade
+ Is this message an offer to buy your item directly through email without winning the item on eBay
+ If so, please help make the eBay marketplace safer by reporting it to us
+ These "outside of eBay" transactions may be unsafe and are against eBay policy
+ Learn more about trading safely
+ This eBay notice was sent to you on behalf of another eBay member through the eBay platform and in accordance with our Privacy Policy
+ If you would like to receive this email in text format, change your notification preferences
+ See our Privacy Policy and User Agreement if you have questions about eBay's communication policies
+ Privacy Policy: http://pages
+ebay
+com/help/policies/privacy-policy
+html User Agreement: http://pages
+ebay
+com/help/policies/user-agreement
+html Copyright 2007 eBay, Inc
+ All Rights Reserved
+ Designated trademarks and brands are the property of their respective owners
+ eBay and the eBay logo are registered trademarks or trademarks of eBay, Inc
+ eBay is located at 2145 Hamilton Avenue, San Jose, CA 95125

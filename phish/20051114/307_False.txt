@@ -1,0 +1,73 @@
+Subject: Reactivate Your PayPal Account
+ PayPalBODY, TD {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} LI {line-height: 120%;} UL
+smallBorder {margin:10px 5px 10px 20px;} LI
+smallBorderLi {margin:0px 0px 5px 0px;} UL
+Narrow {margin:10px 5px 0px 40px;} HR
+dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;} 
+smallEmphasis {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;font-weight: bold;color: #000000;} 
+serifBig {font-family: serif;font-size: 20px;font-weight: bold;color: #000000;} 
+serif{font-family: serif;font-size: 16px;color: #000000;} 
+sansSerif{font-family: verdana,arial,helvetica,sans-serif; font-size: 16px;color: #000000;} 
+heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;} 
+subHeadingEoa {font-family: verdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: bold;color: #000000;} 
+subHeading {font-family: verdana,arial,helvetica,sans-serif;font-size: 16px;font-weight: bold;color: #003366;} 
+sidebarText {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #003366;} 
+sidebarTextBold {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color: #003366;} 
+xptFooter {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #aaaaaa;} 
+button {font-size: 13px; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset; color:#000000; background-color: #cccccc;} 
+smaller {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #000000;} 
+smallerSidebar {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;} 
+emphasis {font-weight: 700;} table#invoice, table#invoice_controls, table#invoice_note { width: 600px;} table#invoice_note {margin-top:10px; margin-bottom:10px;} table#invoice_controls {text-align: right;} table#invoice {border-collapse: collapse; border:1px solid #aaa; } table#invoice td {font-size:11px; border:1px solid #ccc; padding:2px;} table#invoice td
+field_label_right, table#invoice td
+field_label_right_error {font-weight:bold; text-align:right;} table#invoice td
+field_label_right_error, table#invoice td
+field_label_error {color:red;} table#invoice tr
+title td {font-weight:bold; line-height:20px; text-align:left; background-color: #ccddee;} table#invoice input
+readonly {border:0; text-align:right;} table#invoice input
+readonly_currency {border:0; width:10px;} 
+field_error, 
+field_error input
+readonly_currency {background-color:#FF3333;} 
+currency_highlight {background-color: #ffffcc;} 
+tax {font-weight: 400; float: left;} table#invoice td span
+curr {float: left;} table#invoice td
+currency {border-right:1px solid #fff;} table#invoice td
+calc {font-weight:bold; text-align:right;} 
+inlineBlue {color: #00f;} 
+small {font-size: 11px; font-weight: 400;} HR
+solid {width: 100%; margin-top: 5px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px solid #999;} 
+large {font-size: 17px;} 
+smallVerdanaGrey{font-family: verdana; font-size: 10px; color: #999999;} 
+smallVerdana {font-family: verdana; font-size: 10px; color :#000000;} 
+smallArial {font-family: arial; font-size: 13px; } 
+smallArialBlue {font-family: verdana; font-size: 9px; color: #0000FF;} 
+smallVerdanaGreen{font-family: verdana; font-size: 10px; color: #666666;} 
+smaller {font-size: 10px; color: gray;} 
+larger {font-size: 18px; font-family: arial; font-weight: 600; } 
+longTableValue{word-break:break-all;} 
+longSideBarText{width:190px; word-break: break-all;} Protect Your Account InfoMake sure you never provide your password to fraudulent websites
+To safely and securely access the PayPal website or your account, open a new web browser (e
+g
+ Internet Explorer or Netscape) and type in the PayPal URL to be sure you are on the real PayPal website
+https://www
+paypal
+com/us/) to be sure you are on the real PayPal site
+PayPal will never ask you to enter your password in an email
+For more information on protecting yourself from fraud, please review our Security Tips at https://www
+paypal
+com/us/securitytipsProtect Your PasswordYou should never give your PayPal password to anyone, including PayPal employees
+Activate Your Account
+Dear Paypal User,To complete your PayPal Premier account, you must click the link below and enter your password on the following page to confirm your email address
+Click here to activate your accountYour new PayPal account makes sending online payments fast, easy, and secure
+ With over 71 million members, it's the best way to:Buy from an online auctionPay on a merchant websiteSend money to anyone with an email addressConfirm your email now to make sure you can use your PayPal account the next time you make a purchase
+After you confirm your email address, you can send money for FREE, accept unlimited credit card and bank account payments, use special tools for sellers, and receive exclusive customer service hotline help 7 days a week
+ You will be subject to a low fees for receiving payments
+You can also confirm your email address by logging into your PayPal account at https://www
+paypal
+com/us
+ Click on the "Confirm email" link in the Activate Account box and then enter this confirmation number: 0327-5626-9907-4758-9977Thank you for using PayPal
+The PayPal TeamPlease do not reply to this email
+ This mailbox is not monitored and you will not receive a response
+ For assistance, log in to your PayPal account and choose the Help link located in the top right corner of any P ayPal page
+To receive email notifications in plain text instead of HTML, update your preferences here
+PayPal Email ID PP785

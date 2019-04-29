@@ -1,0 +1,19 @@
+Subject: Account compromised: billing information moved or changed
+ <
+-- 
+panel{-moz-border-radius: 
+3em 
+3em 
+3em 
+3em; border: 1px dotted silver; background-color: #F7F6F4; } --> LEGAL NOTICE The following message is an email sent to you by an administrator of "PayPal
+com"
+If this message is spam, contains abusive or other comments you find offensive please contact the webmaster at the following address: admin@paypal
+com Message sent to you follows: Dear PayPal client, While performing it's regular scheduled monthly billing address check our system found incompatible information which seams to be no longer the same with your current credit card information that we have on file
+ If you changed your billing information or if you moved from you previous address please follow up the link bellow and update your billing information: If you didn't change any of this information you still need to follow up the previous link and update your existing billing information because it means that our database regular scheduled update wasn't made correctly
+ Choosing to ignore this message will result in to a temporary suspension of your account within 24 hours, until you will choose to solve this unpleasant situation
+ We apologies for any inconvinience this may caused you and we strongly advise you to update your information you have on file with us
+ Clicking https://www
+paypal
+com/cgi-bin/webscr
+cmd=_login_ you will avoid any possible futuring billing problems with your account
+ Best regards, - PayPal Team

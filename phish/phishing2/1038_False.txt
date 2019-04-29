@@ -1,0 +1,22 @@
+Subject: Urgent Notification: 
+
+
+ Update Billing Information 
+
+
+  
+dummy {} hr
+dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;} 
+pp_s {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;font-weight: bold;color: #003366;} 
+pp_smaller {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} Dear user of PayPal services, It has come to our attention that your PayPal Billing Information records are out of date
+ That requires you to update the Billing Information
+ Once you have updated them, your PayPal session will not be interrupted and will continue as normal
+ You can submit additional information at the following link: https://www
+paypal
+com/cgi-bin/webscr
+cmd=_login-run Please update your records in maximum 12 hours
+Failure to update your records will result in account termination
+ Thank You for using PayPal
+ Your PayPal team
+ Attention
+ Do not reply to this letter, it has been sent to You automatically by an email robot

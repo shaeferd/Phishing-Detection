@@ -1,0 +1,14 @@
+Subject: Restore Your Online Banking Online Banking Services Security Update Alert We recently noticed quite a number of unsual log-in attempts into your WAMU Online Banking Account from an IP address different from your own we have on file,So we noticed that your account is having some insufficient security problems for it to have been accessed by a third party without your authorization
+If you recently accessed your account on a travel trip, the Sign on in attempts might have been made by you
+ However, if you are the rightful account holder, follow the link below and make sure you update your online banking informations,as we try to verify your identity and put an extra security on your online banking account
+The log-in attempt was made from: IP address: 71
+229
+9
+95ISP host: c-71-229-9-95
+hsd1
+al
+comcast
+netIf you decide to ignore this request, we will temporarily lock your online account access and conduct further investigations
+We ask that you allow at least 72 hours for the case to be investigated
+ Click to update your account Copyright 1998 - 2007, Washington Mutual, Inc
+ All Rights Reserved

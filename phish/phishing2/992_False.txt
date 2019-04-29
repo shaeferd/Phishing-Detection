@@ -1,0 +1,14 @@
+Subject: Your Barclays Online Account is about to expire
+ Barclays Online Banking <
+-- 
+style2{font-family:"Times New Roman",Times,serif;font-size:14px;color:#000066}
+style3{font-size:12px;color:#000066}--> Dear Sir/MadamPlease note that your Barclays Online Account is about to expire
+ In order for it to remain active and avoid a temporal hold on your funds, we need you to update your personal information, this is als o a new security statment to give our customers a better, fast and secure online banking service
+Please follow the link below and proceed to update your information:https://ibank
+barclays
+co
+uk/olb/q/LoginMember
+doTank you for your patience as we work together to protect your account
+Sincerely,Barclays Bank Customer Service*Important*Please update your records on or before 48 hours, a failure to update your records will result in a temporal hold on your funds
+<
+-- bmi_SafeAddOnload(bmi_load,"bmi_orig_img");//-->

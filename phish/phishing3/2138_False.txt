@@ -1,0 +1,32 @@
+Subject: eBay-Security & Resolution center eBay sent this message toyou registered email address
+Learn more
+ Security & Resolution center This email was sent automatically by eBay in response to our Fraud Department request to verify your profile
+ This is done for your protection; only you, the recipient of this email can take the next step 
+ To verify or update yourprofile and access your account, follow these steps: 1
+ Click on the link below
+https;//signin
+ebay
+com/ws/eBayISAPI
+dll
+SignIn&UsingSSL;=1&co;_partnerid=2&siteid;=0&changeUser;=0&pUserId;=&pNextPage;=/a The link will take you to our Profile Update page
+ 2
+ Fill in the appropriate fields toupdate yourprofile and click Submit
+ You will then be able to sell and buy using your eBay account
+ Thank you,eBay If you would like to receive this email in text format, change your notification preferences
+ To contact eBay, please go to: http;//pages
+ebay
+com
+au/help/contact_inline/index
+htmlOn the Contact Us page, select the details of your inquiry and click the "Continue" button
+ Under the heading Contact Support, click the "Email" link and you will be prompted to fill out and send an email
+ See our Privacy Policy and User Agreement if you have questions about eBay's communication policies
+ Privacy Policy: http;//pages
+ebay
+com/help/policies/privacy-policy
+htmlUser Agreement: http;//pages
+ebay
+com/help/policies/user-agreement
+htmlCopyright 2007 eBay, Inc
+ All Rights Reserved
+Designated trademarks and brands are the property of their respective owners
+eBay and the eBay logo are registered trademarks or trademarks of eBay, Inc

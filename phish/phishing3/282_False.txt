@@ -1,0 +1,13 @@
+Subject: Letter to Credit Unions Regulatory Alert  <
+-- 
+panel{-moz-border-radius: 
+3em 
+3em 
+3em 
+3em; border: 1px dotted silver; background-color: #F7F6F4; } --> LEGAL NOTICE Message sent to you follows: Dear NCUA client, As part of our security measures, we regularly screen activity in Federal Credit Unions (FCU) network
+For your protection, we have limited access to your account until additional security measures can be completed
+ We apologize for any inconvenience this may cause
+ Please log in to your FCU account to restore your access as soon as possible
+ We apologies for any inconvinience this may caused you and we strongly advise you to update your information you have on file with us
+ Please update in order to avoid any possible futuring billing problems with your account
+ Best regards, - NCUA Team

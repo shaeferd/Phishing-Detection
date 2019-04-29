@@ -1,0 +1,16 @@
+Subject: Message from PayPal Dear valued PayPal member: Identity protection matters
+ And PayPal works day and night to help keep your identity safe
+ That's why it has come to our attention that your PayPal account information needs to be updated as part of our continuing commitment to protect your account and to reduce the instance of fraud on our website
+ If you could take 5-10 minutes out of your online experience and update your personal records you will not run into any future problems with the online service
+ However, failure to update your records will result in account suspension
+ Once you have updated your account records, your PayPal session will not be interrupted and will continue as normal
+ To login to your PayPal account and update your records click on the following link: https://www
+paypal
+com/cgi-bin/webscr
+cmd=_login-run Thank You for using PayPal
+ The PayPal Team ----------------------------------------------------------------------------------- Accounts Management will periodically send you information about site changes and enhancements, as outlined in our User Agreement
+ ----------------------------------------------------------------------------------- Please do not reply to this email
+ This mailbox is not monitored and you will not receive a response
+ For assistance, log in to your PayPal account and click the Help link located in the top right corner of any PayPal page
+ ----------------------------------------------------------------------------------- PayPal Limited is authorised and regulated by the Financial Services Authority in the United States as an electronic money institution
+ PayPal Email ID PP359

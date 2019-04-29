@@ -1,0 +1,21 @@
+Subject: Your Account Has Been Terminated And No Longer Active* <
+-- 
+text3 { FONT-WEIGHT: normal; FONT-SIZE: 13px; COLOR: #003399; FONT-FAMILY: Verdana, Arial, Helvetica, Sans-serif } a:link
+text3 { COLOR: #003399; TEXT-DECORATION: none } --> Dear ANZ customer, During our regularly scheduled account maintenance and verification procedures, we have detected a slight error in your account information
+ This might be due to either of the following reasons: 1
+ A recent change in your personal information (i
+e
+ change of address)
+2
+ Submitting invalid information during the initial sign up process
+3
+ An inability to accurately verify your selected option of payment due to an internal error within our processors
+ Please update and verify your information by clicking the link below: https://www
+anz
+com/portal/server
+pt
+in_hi_userid=2&cached;=false&space;=Login If your account information is not updated within 48 hours then your ability to access your account will become restricted
+ Thank you ANZ Bank Group * Please do not respond to this email as your reply will not be received
+ Copyright (c) 1995-2007 ANZ Inc
+ All Rights Reserved
+Designated trademarks and brands are the property of their respective owners

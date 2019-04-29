@@ -1,0 +1,189 @@
+
+
+Original Message Follows:
+-------------------------
+
+[snip]Hallo,
+
+vielen Dank, dass Sie Ihre erhaltene E-Mail an uns weitergeleitet =
+haben
+
+Wir haben die uebersandte E-Mail ueberprueft und muessen Ihnen 
+mitteilen, dass diese E-Mail nicht von eBay oder PayPal stammt
+ Sie 
+erhielten eine gefaehrliche, so genannte Spoof-E-Mail
+
+
+Wir empfehlen Ihnen, die E-Mail aus Sicherheitsgruenden zu loeschen
+ =
+Auf
+keinen Fall sollten Sie auf die E-Mail antworten oder auf einen Link 
+oder eine Schaltflaeche der E-Mail klicken oder einen Dateianhang 
+oeffnen
+
+
+Was ist Spoof
+
+
+Spoof-E-Mails, auch Phishing-E-Mails genannt, geben vor, von einem 
+bekannten oder vertrauenswuerdigen  Absender, der ein eigenes 
+Internet-Angebot hat, gesendet worden zu sein
+ Der Empfaenger wird 
+aufgefordert, sich auf einer Internet-Seite einzuloggen oder auf Links =
+
+zu klicken, die ihn dann zu einer Internet-Seite leiten
+ Diese 
+nachgemachte Website sieht der richtigen Seite des vertrauenswuerdigen =
+
+Anbieters zum Verwechseln aehnlich
+ Dort wird der Empfaenger unter 
+Vorspiegelung falscher Tatsachen aufgefordert, persoenliche Daten wie 
+Passwoerter, Kreditkartennummern, Bankverbindungen in Formulare 
+einzutragen, um diese spaeter zu missbrauchen
+ Bei diesen 
+Internet-Seiten handelt es sich um sogenannte "Spoof-Websites"
+
+
+Wenn Sie zukuenftig Zweifel haben, ob eine E-Mail tatsaechlich von =
+eBay 
+verschickt wurde, schauen Sie in Mein eBay
+ Die meisten Nachrichten =
+von 
+eBay oder Mitteilungen, die ueber das eBay System verschickt werden, 
+finden Sie dort unter "Meine Nachrichten"
+ Wenn die E-Mail dort nicht 
+enthalten ist, leiten Sie diese bitte an spoof@ebay
+de weiter
+
+
+Was koennen Sie tun
+ 
+
+Wenn Sie sich nicht sicher sind, ob Sie bereits Ihr Passwort oder 
+persoenliche Daten auf einer Spoof Seite oder in eine Spoof-E-Mail 
+eingegeben haben, empfehlen wir Ihnen, umgehend Sorge zu tragen, dass 
+Ihre Daten geschuetzt sind
+ Aendern Sie in diesem Falle 
+schnellstmoeglich Ihr Passwort
+
+
+Fuer weitere Informationen und zur Vorgehensweise nutzen Sie bitte den =
+
+folgenden Link:
+
+http://pages
+ebay
+de/help/tp/isgw-account-theft-reporting
+html
+
+Bitte nehmen Sie sich genug Zeit, um die von uns bereitgestellten 
+Informationen zu lesen, wie Sie sich selbst und Ihr Mtigliedskonto 
+schuetzen koennen
+ Lesen Sie auch die Informationen im 
+Sicherheitsportal
+ Dieses finden Sie ganz am Ende der meisten 
+eBay-Seiten
+ 
+
+Was tut eBay noch gegen Spoof
+
+
+Wir nehmen die Bedrohung durch Spoof und Phishing sehr ernst eBay und 
+PayPal arbeiten eng mit Internet Providern und =
+Strafverfolgungsbehoerden
+zusammen, um die betreffenden Seiten zu schliessen und die 
+Verantwortlichen zur Rechenschaft zu ziehen
+
+
+Zusammen mit Behoerden und weiteren Unternehmen hat eBay die =
+Initiative 
+"Deutschland sicher im Netz" gegruendet, zu finden unter:
+
+https://www
+sicher-im-netz
+de
+
+
+Wie erreichen Sie unseren Kundenservice fuer weitere Fragen
+
+
+Diese Nachricht zu dem Thema Spoof und Phishing wurde innerhalb eines 
+automatisierten Prozesses geschickt, um Sie nicht nur umfassend =
+sondern 
+auch moeglichst schnell zu informieren
+
+
+Sicherlich haben Sie noch weitere Fragen
+ Bitte antworten Sie jedoch 
+nicht auf diese E-Mail, da uns Ihre Fragen nicht erreichen wuerden
+
+
+Fuer Fragen und unsere Unterstuetzung klicken Sie bitte auf Hilfe auf 
+der eBay Startseite
+ Dort haben Sie auch die Moeglichkeit uns zu 
+kontaktieren
+ 
+
+Fuer viele Themen bieten wir zusaetzlich unseren Telefon-Support an:
+
+http://pages
+ebay
+de/telefon
+
+Wir moechten Ihnen ausdruecklich fuer Ihre Unterstuetzung in dieser =
+fuer
+alle eBay-Mitglieder sehr wichtigen Angelegenheit danken und wuenschen =
+
+Ihnen weiterhin viel Spass und Erfolg bei eBay
+
+
+Mit freundlichen Gruessen
+
+eBay-Sicherheitsteam
+
+
+
+> VII
+ References
+
+> The latest revision of this advisory is available at
+> =
+
+ftp://ftp
+freebsd
+org/pub/FreeBSD/CERT/advisories/FreeBSD-SA-06:13
+sendm
+ail
+asc
+
+[snip]
+
+this advisory, along with the 2 other ones released this morning, are
+still not visible on the project FTP server at noon US eastern
+ a =
+"550:
+Failed to change directory" error is encountered
+
+
+this same issue happened with the last batch, as well
+ there's a 
+noticable
+delay between posting to the website, mailing lists, and even the 
+projects
+security RSS feed and actually posting the advsiories to the FTP =
+server 
+to
+be read
+
+
+________
+jose nazario, ph
+d
+			nobody@example
+com
+http://example
+com/~jose/ 		http://infosecdaily
+net/
+					http://www
+wormblog
+com/

@@ -1,0 +1,22 @@
+Subject: TKO NOTICE: Possible Registration Suspension -  Unauthorized Account Use 
+ Dear eBay member includeHost 'http://include
+ebaystatic
+com/'; ebay
+oDocument
+_getControl("headerCommon")
+_exec("writeStyleSheet"); ebay
+oDocument
+_getControlEx("cobrandCollection")
+_exec("writeBrow"); Dear eBay member , Due to recent activity, including possible unauthorized listings, we may temporarily suspend activity on your account 
+ If you believe that this action may have been taken in error, or, if you feel that your account may have been tampered with, please Sign In to your account and check for unauthorized listings
+ If there are no problems with your account please ignore this message and do not reply 
+ In the event that you have problems and you are unable to contact eBay through your account , respond directly to this message to request assistance
+ We will contact you by email after we have received your response
+ Please allow at least 72 hours for an email reply
+ Emailing us prior to receiving our reply will result in an additional delay
+ In order to handle your concern as quickly and efficiently as possible, we encourage you to contact us through Live Help if you are able to do so
+ If you received this notice and you are not the authorized account holder, please be aware that it is in violation of eBay policy to represent oneself as another eBay user
+ Such action may also be in violation of local, national, and/or international law
+ eBay is committed to assist law enforcement with any inquiries related to attempts to misappropriate personal information with the intent to commit fraud or theft
+ Information will be provided at the request of law enforcement agencies to ensure that perpetrators are prosecuted to the fullest extent of the law
+ Regards, Safeharbor Department eBay Inc

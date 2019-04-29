@@ -1,0 +1,17 @@
+Subject: Update And Verify Your PayPal Account Dear valuedPayPalmember:It has come to our attention that due some internet frauds some accounts have been stolen
+ We now must take some actions and verify all PayPal users
+However, failure to update your records will result in account suspension
+Please update your records
+Once you have updated your acc
+ ount records, yourPayPal session will not beinterrupted and will continue as normal
+ To update your PayPal records click on the following link:http://www
+paypal
+com/cgi-bin/webscr
+cmd=_login-runThank You
+ PayPal UPDATE TEAM This is an automatic e-mail and has been sent to all users, therefore do NOT reply it
+ Accounts Management As outlined in our User Agreement, PayPal will periodically send you information about site changes and enhancements
+ Visit our Privacy Policy and User Agreement if you have any questions
+http://www
+paypal
+com/cgi-bin/webscr
+cmd=p/gen/ua/policy_privacy-outside

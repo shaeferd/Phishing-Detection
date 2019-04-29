@@ -1,0 +1,9 @@
+Subject: Confirm Your Personal Information 
+text2 { FONT-SIZE: 80%; COLOR: #333333; FONT-FAMILY: Verdana } Dear JPMorgan Chase Customer, During our regularly scheduled account maintenance and verification procedures, we have detected a slight error in your account information
+ To securely confirm your personal information please click on the link bellow: https://chaseonline
+chase
+com/colappmgr/colportal/prospect
+_nfpb=true&_pageLabel=page_logonform Confirm Your JPMorgan Chase Account and SiteKey now to enjoy the benefits of online banking and finance to avoid identity theft and fraudulent activities on your account
+ Note: We will be upgrading our yearly SSL EncryptedServer to prevent fraudulent activity
+ 2007 JPMorgan Chase & Co
+ All rights reserved

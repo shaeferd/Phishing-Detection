@@ -1,0 +1,34 @@
+Subject: Upgrade Your Paypal Account For Free 
+ #message 
+SectionTitle {font-size: small; font-family: arial, sans-serif; font-weight:bold } #message 
+SmallTitle {font-size: x-small; font-family: arial, sans-serif; font-weight:bold } #message 
+SectionBody {font-size: x-small; font-family: arial, sans-serif} #message 
+DetailTable, #message 
+DetailTable th {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal } #message 
+Title {font-size: medium; font-family: verdana, arial, sans-serif} #message 
+BodyFont {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal} #message 
+BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif; font-weight:bold} #message 
+SmallBody {font-size: xx-small; font-family: arial, sans-serif; font-weight:normal; margin-top: 8 px; margin-bottom: 6 px} #message 
+Separator { COLOR: #CCCCCC; height: 1px} #message 
+HighlightedSeparator { COLOR: #FFCC00; height: 1px} #message 
+FooterSeparator { COLOR: #CCCCCC; height: 1px} #message 
+Footer, #message 
+Footer p {font-size: xx-small; font-family:arial, sans-serif; color:#666666; margin-top: 2 px; margin-bottom: 8 px} #message 
+SmallPara, #message 
+SmallParap {margin-top: 8 px; margin-bottom: 6 px} #message 
+ItemTitle {font-size: 10pt; font-family: arial, sans-serif; font-weight:bold } Upgrade Your Account - PayPal <
+-- function SymError() { return true; } window
+onerror SymError; var SymRealWinOpen window
+open; function SymWinOpen(url, name, attributes) { return (new Object()); } window
+open SymWinOpen; //--> <
+-- function SymError() { return true; } window
+onerror SymError; //--> Upgrade Your Account For Free Premier accounts include all the benefits of a Personal account
+ You also have the ability to: Accept all payment types for low fees Set up your PayPal Shopping Cart Access exclusive, professional customer service seven days a week Be identified as a Premier account in your reputation pop-up box Be featured in PayPal Shops, where over 100 million PayPal customers can make instant purchases from your website
+ Business accounts include all the benefits of Premier accounts
+ In addition, you can: Do business easily and affordably with our low-cost merchant account Operate under your business name Generate reports, financial statements and download settlement file Use eBay Tools Provide multiple employees with limited access to your account Get paid from buyers without PayPal accounts Free Upgrade Now Copyright 1999-2007 PayPal
+ All rights reserved
+ Information about FDIC pass-through insurance <
+-- window
+open SymRealWinOpen; //--> <
+-- window
+open SymRealWinOpen; //-->

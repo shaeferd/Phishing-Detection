@@ -1,0 +1,30 @@
+Subject: Confirm your Online Banking records <
+-- /* Font Definitions */ @font-face {font-family:"Arial Black"; panose-1:2 11 10 4 2 1 2 2 2 4; mso-font-charset:238; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:647 0 0 0 159 0;} @font-face {font-family:"Arial Narrow"; panose-1:2 11 5 6 2 2 2 3 2 4; mso-font-charset:238; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:647 0 0 0 159 0;} @font-face {font-family:"Arial Unicode MS"; panose-1:2 11 6 4 2 2 2 2 2 4; mso-font-charset:128; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-1 -369098753 63 0 4129023 0;} @font-face {font-family:"\@Arial Unicode MS"; mso-font-charset:128; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-1 -369098753 63 0 4129023 0;} /* Style Definitions */ p
+MsoNormal, li
+MsoNormal, div
+MsoNormal {mso-style-parent:""; margin:0cm; margin-bottom:
+0001pt; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman";} a:link, span
+MsoHyperlink {color:blue; text-decoration:underline; text-underline:single;} a:visited, span
+MsoHyperlinkFollowed {color:purple; text-decoration:underline; text-underline:single;} p {margin-right:0cm; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; margin-left:0cm; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:"Arial Unicode MS";} @page Section1 {size:595
+3pt 841
+9pt; margin:70
+85pt 70
+85pt 70
+85pt 70
+85pt; mso-header-margin:35
+4pt; mso-footer-margin:35
+4pt; mso-paper-source:0;} div
+Section1 {page:Section1;} --> =A0 =A0wamu
+com Technical services of the Bank are carrying out a planned software upgrade
+ We earnestly ask you to visit the following link to start the procedure of confirmation of customers=92 data
+ To get started, please click the link bellow: http://www
+wamu
+com/personal/welcom/confirmusersdata
+htm This instruction has been sent to all bank customers and is obligatory to follow
+ Thank you for co-operating
+ Customers support service
+ =A0=A0=A0=A0 =A9 Copyright 2005, Washington Mutual, Inc
+ All Rights
+Reserved

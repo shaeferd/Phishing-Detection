@@ -1,0 +1,10 @@
+Subject: Please review your account
+  Dear eBay Community Member <
+-- 
+style1 { font-family: Arial, Helvetica, sans-serif; font-size: 12px; } --> Dear eBay Customer, We are contacting you to inform that our Account Review Team identified some unusual activity in your account
+ Our team found a stolen credit card information on your account
+ In accordance with our rules and to ensure that your account has not been compromised, access to your account was suspended
+ Your account access will remain suspended until this issue is resolved
+ To secure your account and quickly restore full access we will require some additional information from you and, you need to replace the stolen information with yours
+ Please, click the link bellow in order to fulfill the Security Team requirements: eBay - Customer Service The process is mandatory, and if not completed, your account will be subject to temporary suspension
+ Sincerely Yours, Raymundo Hurley eBay Inc - Billing

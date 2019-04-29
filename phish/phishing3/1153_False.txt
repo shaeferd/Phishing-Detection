@@ -1,0 +1,11 @@
+Subject: Notfication of e-gold Payment Click here to accept the payment: https://www
+e-gold
+com/Scsi-Interface/accept_incoming_payment
+asp Payment Amount: 5376 USD Gold (Metal ID 1) e-gold batch number: 67163776 Payer e-gold account #3032141 Ounces (Troy) paid: 8
+574163 US Dollars per Ounce: 627
+00 Payment Hash: 3E78F640BC6754B1EC7499D9FE303262 Payment Receive Fee (ounces): 0
+001608 Timestamp (GMT): 1157097657 Version 2 Payment Hash: AB22757B1CB9CCF89F41528691F06C1D (This mail automatically generated)
+ Click here to accept the payment: https://www
+e-gold
+com/Scsi-Interface/accept_incoming_payment
+asp |Home |Terms of Use |About Us |FAQ/Contact | geovisit();

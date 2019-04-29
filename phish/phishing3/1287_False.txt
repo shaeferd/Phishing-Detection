@@ -1,0 +1,46 @@
+Subject: Bank of America alert: Compromised Online Banking account Bank of America Alert <
+-- #yiv702238087 a:link { color:#405ebe; background:#ffffff; } #yiv702238087 a:hover { color:#0000ff; background:#ffffff; } #yiv702238087 ,#yiv702238087 table,#yiv702238087 div,#yiv702238087 h1,#yiv702238087 h2,#yiv702238087 h3,#yiv702238087 h4,#yiv702238087 h5,#yiv702238087 h6,#yiv702238087 p { font-family:verdana; color:#333333; background:#ffffff; } #yiv702238087 
+font-sign-in { font-size:70%; font-family:"verdana"; font-weight:bold; background:#f0f0f0; line-height:1
+4; } #yiv702238087 h1 { font-size:100%; font-family:verdana; color:#d4001a; background:#ffffff; margin-bottom:0px; } #yiv702238087 
+font-title-red { font-size:105%; font-family:verdana; color:#d4001a; background:#ffffff; margin-bottom:0px; } #yiv702238087 
+font-x { font-size:75%; font-family:verdana, arial, geneva, helvetica, sans-serif; } #yiv702238087 
+font-y { font-size:70%; font-family:verdana, arial, geneva, helvetica, sans-serif; background:#f0f0f0; line-height:1
+4; } #yiv702238087 
+font-footer { color:#333333; background:#ffffff; font-size:70%; margin-top:0em; margin-bottom:1em; } #yiv702238087 
+inner-table { font-size:75%; font-family:verdana, arial, geneva, helvetica, sans-serif; margin-bottom:1em; line-height:1
+4; margin-top:
+8em; } #yiv702238087 
+paragraph- { font-size:70%; margin-top:0
+45em; margin-bottom:1em; color:#333333; background:#ffffff; line-height:1
+4; } #yiv702238087 
+paragraph-dynamic { color:#333333; background:#e9e8e3; font-size:70%; font-family:verdana; line-height:1
+4; } #yiv702238087 
+paragraph-fine-print { font-size:65%; font-family:verdana; margin-bottom:1em; color:#333333; background:#f0f0f0; line-height:1
+4; } #yiv702238087 
+email-address { text-transform:lowercase; background:#f0f0f0; } #yiv702238087 hr { width:100%; color:#999999; } #yiv702238087 
+red-heading { width:78
+6%; } #yiv702238087 
+bold {font-weight:bold;} #yiv702238087 
+first-col {width:15px;background:#f0f0f0;} #yiv702238087 
+second-col {width:145px;background:#f0f0f0;} #yiv702238087 
+third-col {width:15px;} #yiv702238087 
+fourth-col {width:572px;} #yiv702238087 
+first-second-col {width:160px;background:#f0f0f0;} #yiv702238087 
+third-fourth-col {width:587px;} #yiv702238087 
+first-second-third-col {width:175px;} #yiv702238087 
+all-four-col {width:747px;} #yiv702238087 
+banner-row {height:70px;} #yiv702238087 
+sub-banner-row {height:93px;} #yiv702238087 
+empty-row {height:25px;} --> We recently have determined that different computers have logged onto your Online Banking account, and multiple password failures were present before the logons
+ For your security we temporary suspended your account, for restoring your account you need to confirm your informations using the form below
+ If this is not completed by January 07, 2007, we will be forced to suspend your account indefinitely, as it may have been used for fraudulent purposes
+ To restore your Online Banking account use the following form: https://www
+bankofamerica
+com/state
+cgi
+adlink=00084740000484800938 Thank you for your patience in this matter
+ Bank of America Alert Service Please do not reply to this e-mail as this is only a notification
+ Mail sent to this address cannot be answered
+ Bank of America, Member FDIC
+ 2007 Bank of America Corporation
+ All Rights Reserved

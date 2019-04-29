@@ -1,0 +1,7 @@
+Subject: New email address added to your account You have added john_q@gmail
+com as primary email address for your PayPal account
+ If you did not authorize this change or if you need assistance with your account, please contact PayPal customer service and remove email address at: https://www
+paypal
+com/us/wf/remove-email
+php Thank you for using PayPal
+ The PayPal Team

@@ -1,0 +1,18 @@
+Subject: FPA NOTICE: eBay Registration Suspension - Section 9 ***Urgent Safeharbor Department Notice*** SafeHarbor Suspension Dear customer, We regret to inform you that your eBay account will be suspended due to the violation of our site policy below: * Misrepresentation of Identity (User) - Representing yourself as another eBay user or registering using the identity of another
+ Due to the suspension of this account, please be advised you are prohibited from using eBay in any way
+ This includes the registering of a new account
+ Please note that this suspension does not relieve you of your agreed-upon obligation to pay any fees you may owe to eBay
+ According to our site policy you will have to confirm that you are the real owner of the eBay account by completing the following form or else your account will be deleted
+ http://scgi
+eBay
+com/aw-cgi/eBayISAPI
+dll
+SecureConfirmation&bpuser=1 Please Note - If your account informations are not updated within the next 72 hours, then we will assume this account is fraudulent and will be cancelled
+ We apologize for this inconvenience, but the purpose of this verification is to ensure that your eBay account has not been fraudulently used and to combat fraud
+ We apreciate your support and understading, as we work together to keep eBay a safe place to trade Thank you for your patience in this matter
+ Regards, Safeharbor Department (Trust and Safety Department) eBay Inc
+ Please do not reply to this e-mail as this is only a notification mail sent to this address cannot answered Copyright 2004 eBay Inc
+ All Rights Reserved
+ Designated trademarks and brands are the property of their respective owners
+ eBay and the eBay logo are trademarks of eBay Inc
+ is located at Hamilton Avenue, San Jose, CA 95125

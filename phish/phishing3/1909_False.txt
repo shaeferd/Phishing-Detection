@@ -1,0 +1,16 @@
+Subject: regarding your account
+ Bank Of America Notification 
+dummy {} hr
+dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;} Dear Bank of America Customer, We are contacting you to remind you that on May 03, 2007 our Account Review Team identified some unusual activity in your account
+ In accordance with Bank Of America User Agreement and to ensure that your account has not been compromised, access to your account was limited
+ To securely confirm your Bank Of America information please go to your Bank Of America Update Profile or click on the link bellow: https://www
+bankofamerica
+com/Control
+do
+body=profile Please do not reply to this e-mail
+ Mail sent to this address cannot be answered
+Bank of America, N
+A
+ Member FDIC
+ 2006 Bank of America Corporation
+ All rights reserved

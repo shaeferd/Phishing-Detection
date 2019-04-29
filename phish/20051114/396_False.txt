@@ -1,0 +1,21 @@
+Subject: Your Account Was Hijacked 
+ Sky Online Personal Banking <
+-- 
+style1 { font-size: 11px; font-family: Geneva, Arial, Helvetica, sans-serif; } --> <
+-- 
+style3 { font-size: 10px; font-weight: bold; } 
+style4 { font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 9px; } 
+style5 { color: #003366; font-weight: bold; } --> Protect Your Account Info Make sure you never provide your password to fraudulent persons
+ SkyBank automatically encrypts your confidential information using the Secure Sockets Layer protocol (SSL) with an encryption key length of 128-bits (the highest level commercially available)
+ SkyBank will never ask you to enter your password in an email
+ Protect Your Password You should never give your SkyBank password to anyone, including SkyBank employees
+ Security Center Advisory
+ We recently noticed one or more attempts to log in to your SkyBank account from a foreign IP address and we have reasons to belive that your account was hijacked by a third party without your authorization
+ If you recently accessed your account while traveling, the unusual log in attempts may have been initiated by you
+ If you are the rightful holder of the account you must click the link below and then complete all steps from the following page as we try to verify your identity
+ Click here to verify your account If you choose to ignore our request, you leave us no choise but to temporaly suspend your account
+ Thank you for using Sky Online Personal Banking
+ The Sky Bank Team Headquarters: 221 South Church Street P
+O
+ Box 428 Bowling Green, OH 43402 (419) 327-6300 Please do not reply to this e-mail
+ Mail sent to this address cannot be answered

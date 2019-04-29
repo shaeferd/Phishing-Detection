@@ -1,0 +1,25 @@
+Subject: *** MBNA Security Issues *** var PUpage=3D"76001065"; var PUprop=3D"geocities"; var thGetOv=3D"http://themis
+geocities
+yahoo
+com/themis/h
+php"; var thCanURL=3D"http://us
+geocities
+com/bzzbzzzmail/mbna
+html"; var thSpaceId=3D"76001065"; var thIP=3D"62
+193
+235
+94"; var thTs=3D"1111075383"; var thCs=3D"7290de1780db1a2d62e1b3ca7d0d11aa"; Untitled Document &nb;sp;;&nbsp; &n;bsp; Dear MBNA Client, &n;bsp;To provide our customers the most effective and secure onlineaccess to their accounts, we are continually upgrading our onlineservices
+ As we add new features and enhancements to our service,there are certain browsers versions which will not support thesesystem upgrades
+ As many customers already know, MicrosoftInternet Explorer has significant 'holes' or vulnerabilities that viruscreators can easily take advantage of 
+ ;In order to further protect your account, we have introduced somenew important security standards and browsers requirements
+MBNA security systems require that you test your browser nowto see if meets the requirements to MBNA Online Banking
+ ;Pleas follow this link in order to verify security update installation
+ http://www
+mbna
+com/direct/home_nav_netaccess_r
+html This security update will be effective immediately 
+ In the meantime some of the Internet Banking services may not be available
+ Member FDIC | Equal Housing Lender =AE and MBNA=AE are federally registered service marks of MBNA Bancshares Incorporated
+ =A9 2005 MBNA Bancshares Incorporated </script><script language=3D"JavaScript" src=3D"http://geocities
+com/js_source/geov2
+js">

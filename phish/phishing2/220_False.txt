@@ -1,0 +1,43 @@
+Subject: Update Your Account Information New Page 1 <
+-- /* Style Definitions */ p
+MsoNormal, li
+MsoNormal, div
+MsoNormal {mso-style-parent:""; margin-bottom:
+0001pt; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman"; margin-left:0cm; margin-right:0cm; margin-top:0cm} a:link, span
+MsoHyperlink {color:blue; text-decoration:underline; text-underline:single;} a:visited, span
+MsoHyperlinkFollowed {color:blue; text-decoration:underline; text-underline:single;} p {mso-margin-top-alt:auto; margin-right:0cm; mso-margin-bottom-alt:auto; margin-left:0cm; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman";} span
+SpellE {mso-style-name:""; mso-spl-e:yes} span
+GramE {mso-style-name:""; mso-gram-e:yes} @page Section1 {size:612
+0pt 792
+0pt; margin:72
+0pt 90
+0pt 72
+0pt 90
+0pt; mso-header-margin:35
+4pt; mso-footer-margin:35
+4pt; mso-paper-source:0;} div
+Section1 {page:Section1;} --> Dear Barclays Member, Its has come to our attention that your Barclays account information needs to be updated as part of our continuing commitment to protect your account and to reduce the instance of fraud
+ If you could please take 5-10 minutes out of your online experience and update your billing records you will not run into any future problems with the online service
+ However, failure to update your records will result in account suspension
+ Please update your records on or before January 11, 2006
+ Once you have updated your account records, your Barclays session will not be interrupted and will continue as normal
+ This email was sent by the Barclays server to verify your e-mail address
+ You must complete this process by clicking on the link below and entering your account information
+ This is done for your protection , because some of our members are no longer have access to their online access and we must verify it
+ To verify your e-mail address and access your bank account, Click on the link below: http://www
+update
+barclays
+co
+uk/olb/p/loginMember
+do We are remembered that the Online Banking service, controls the login attempts when entering to our system
+ To exceed the maximum number of the allowed attempts, its account will be blocked
+ If you don't have Connect or Electron Card call the Online Banking Helpdesk on 0854 600 2323 * (outside the UK dial +44 2476 842063)
+* The helpdesk is open Monday to Sunday, 7am-11pm (Uk time)
+ Copyrights 2006 Barclays Bank PLC
+ 
+ Please do not reply to this e-mail
+ Mail sent to this address cannot be answered
+ For assistance, log in to your Barclays Online Bank account and choose the "Help" link on any page
+ Barclays Email ID # 1009

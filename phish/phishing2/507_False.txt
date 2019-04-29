@@ -1,0 +1,26 @@
+Subject: eBay Notification: Possibile Account THeft eBay Keep In Touch Process 
+SectionTitle {font-size: small; font-family: arial, sans-serif; font-weight:bold } 
+SmallTitle {font-size: x-small; font-family: arial, sans-serif; font-weight:bold } 
+SectionBody {font-size: x-small; font-family: arial, sans-serif} 
+DetailTable, 
+DetailTable th {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal } 
+Title {font-size: medium; font-family: verdana, arial, sans-serif} 
+BodyFont {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal} 
+BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif; font-weight:bold} 
+SmallBody {font-size: xx-small; font-family: arial, sans-serif; font-weight:normal; margin-top: 8 px; margin-bottom: 6 px} 
+Separator { COLOR: #CCCCCC; height: 1px} 
+HighlightedSeparator { COLOR: #9999cc; height: 1px} 
+FooterSeparator { COLOR: #CCCCCC; height: 1px} 
+Footer, 
+Footer p {font-size: xx-small; font-family:arial, sans-serif; color:#666666; margin-top: 2 px; margin-bottom: 8 px} 
+SmallPara, 
+SmallParap {margin-top: 8 px; margin-bottom: 6 px} Please note that this is a system generated email
+ Please do not reply to this email
+ If you have questions, please click the following link or paste it in your browser
+ http://pages
+ebay
+com/help/contact_us/_base/index
+html This is a routine email verification process,meant only to keep in touch with our customers and to verify user status
+ To proceed please click the link below
+ Click Here to Login To eBay Note : We will only ask you to login using your eBay username and password,no additional information will be needed
+ Thank You

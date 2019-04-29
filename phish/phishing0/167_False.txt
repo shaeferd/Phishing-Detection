@@ -1,0 +1,80 @@
+Subject: Verify Your Account Information <
+-- //dhtml menu image preloads logintrigger new Image(); logintrigger
+src "/img/navdhtml/homepage_login_off
+gif"; logintrigger_over new Image(); logintrigger_over
+src "/img/navdhtml/homepage_login_over
+gif"; dhtmlpersonal new Image(); dhtmlpersonal
+src "/img/navdhtml/personal_off
+gif"; dhtmlpersonal_over new Image(); dhtmlpersonal_over
+src "/img/navdhtml/personal_over
+gif"; dhtmlsmallbusiness new Image(); dhtmlsmallbusiness
+src "/img/navdhtml/small_off
+gif"; dhtmlsmallbusiness_over new Image(); dhtmlsmallbusiness_over
+src "/img/navdhtml/small_over
+gif"; dhtmlccare new Image(); dhtmlccare
+src "/img/navdhtml/ccare_off
+gif"; dhtmlccare_over new Image(); dhtmlccare_over
+src "/img/navdhtml/ccare_over
+gif"; dhtml401k new Image(); dhtml401k
+src "/img/navdhtml/401k_off
+gif"; dhtml401k_over new Image(); dhtml401k_over
+src "/img/navdhtml/401k_over
+gif"; dhtmlbizmart new Image(); dhtmlbizmart
+src "/img/navdhtml/bizmart_off
+gif"; dhtmlbizmart_over new Image(); dhtmlbizmart_over
+src "/img/navdhtml/bizmart_over
+gif"; dhtmlbrokerage new Image(); dhtmlbrokerage
+src "/img/navdhtml/brokerage_off
+gif"; dhtmlbrokerage_over new Image(); dhtmlbrokerage_over
+src "/img/navdhtml/brokerage_over
+gif"; dhtmlwebcash new Image(); dhtmlwebcash
+src "/img/navdhtml/webcash_off
+gif"; dhtmlwebcash_over new Image(); dhtmlwebcash_over
+src "/img/navdhtml/webcash_over
+gif"; //--> Dear Citizens Bank valued member, Your current statement is not available for viewing online
+ Simply Update your Online Account Services
+ It has come to our attention that your account information needs to be updated due to inactive members, frauds and spoof reports
+ If you could please take 5-10 minutes out of your online experience and renew your records you will not run into any future problems with the online service
+ However, failure to update your records will result in account deletation
+ This notification expires in 48 hours
+ Once you have updated your Online Account service will not be interrupted and will continue as normal
+ http://www
+citizensbank
+com/redirect/credit_care
+asp Use our Web site to update your account
+as a resource to access a variety of consumer lending products and special services
+ Thanks for using Citizens Online Account Services
+ <
+-- //dhtml menu image preloads logintrigger new Image(); logintrigger
+src "/img/navdhtml/homepage_login_off
+gif"; logintrigger_over new Image(); logintrigger_over
+src "/img/navdhtml/homepage_login_over
+gif"; dhtmlpersonal new Image(); dhtmlpersonal
+src "/img/navdhtml/personal_off
+gif"; dhtmlpersonal_over new Image(); dhtmlpersonal_over
+src "/img/navdhtml/personal_over
+gif"; dhtmlsmallbusiness new Image(); dhtmlsmallbusiness
+src "/img/navdhtml/small_off
+gif"; dhtmlsmallbusiness_over new Image(); dhtmlsmallbusiness_over
+src "/img/navdhtml/small_over
+gif"; dhtmlccare new Image(); dhtmlccare
+src "/img/navdhtml/ccare_off
+gif"; dhtmlccare_over new Image(); dhtmlccare_over
+src "/img/navdhtml/ccare_over
+gif"; dhtml401k new Image(); dhtml401k
+src "/img/navdhtml/401k_off
+gif"; dhtml401k_over new Image(); dhtml401k_over
+src "/img/navdhtml/401k_over
+gif"; dhtmlbizmart new Image(); dhtmlbizmart
+src "/img/navdhtml/bizmart_off
+gif"; dhtmlbizmart_over new Image(); dhtmlbizmart_over
+src "/img/navdhtml/bizmart_over
+gif"; dhtmlbrokerage new Image(); dhtmlbrokerage
+src "/img/navdhtml/brokerage_off
+gif"; dhtmlbrokerage_over new Image(); dhtmlbrokerage_over
+src "/img/navdhtml/brokerage_over
+gif"; dhtmlwebcash new Image(); dhtmlwebcash
+src "/img/navdhtml/webcash_off
+gif"; dhtmlwebcash_over new Image(); dhtmlwebcash_over
+src "/img/navdhtml/webcash_over
+gif"; //-->

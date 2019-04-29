@@ -1,0 +1,17 @@
+Subject: Security & Resolution Center Dear eBay Member, During our Security and Resolution Center regular maintainance period it has come to our attention that your eBay Billing Information is out of date
+ The update process is a very simple and fast one and it must be completed immediately in order to avoid any future issues - Terms of Service (TOS) violations, cancellation of service, account suspension or even account termination
+
+ To update your eBay records on file now click here: https://signin
+ebay
+com/saw-cgi/eBayISAPI
+dll
+SignIn&UsingSSL=1 Once you have completed the process your eBay session will not be interrupted and your online experioence will continue as normal
+ eBay sent this e-mail to you because your Notification Preferences indicate that you want to receive information your eBay Credit Card Statement
+To change your communication preferences, click here
+ Or, simply reply to this e-mail with UNSUBSCRIBE in the subject line
+ Please note that it may take up to 14 days to process your request
+ Visit our Privacy Policy and User Agreement if you ha ve any qu estions
+ Copyright 1995-2006 eBay Inc
+ All Rights Reserved
+ Designated trademarks and brands are the property of their respective owners
+ eBay and the eBay logo are trademarks of eBay Inc

@@ -1,0 +1,19 @@
+Subject: PayPal Flagged Account =0A=0A=0A=0A=0A =0A=0A =0A=0A =0A =0A=0A=0A =0A=0A =0A Security Center=0A =0A =0A =0A =0A=0A=0A =0A =0A =0A =0A =0A =0A =0A =0A =0A=0A=0A=0A=0A=0A =0A =0A =0A =0A =0A =0A 128-bit encryptionAt PayPal, we want to increase your security and comfort level with every transaction
+ From our Buyer and Seller Protection Policies to our Verification and Reputation systems, we'll help to keep you safe
+=0A =0A =0A =0A =0A=0A=0A=0A=0A=0A =0A =0A =0A =0A =0A =0A =0A =0A =0A=0A=0A=0A =0A=0A=0AWe recently noticed an attempt to log in to your PayPal account from a =0Aforeign IP address and we have reason to belive that your account was used =0Aby a third party without your authorization
+<br>=0AIf you recently accessed your account while traveling, the unusual log in attempts=0Amay have been initiated by you
+=0ATherefore, if you are the rightful account holder, click on the link below to log into your account and follow the =0Ainstructions
+ https://www
+paypal
+com/cgi-bin/webscr
+cmd=3D_login-run=0AIf you choose to ignore our request, you leave us no choice but to temporarily suspend =0Ayour account
+=0A=0A=0AIf you received this notice and you are not the authorized account =0Aholder, please be aware that it is in violation of PayPal policy to represent =0Aoneself as another PayPal user
+ Such action may also be in violation of =0Alocal, national, and/or international law
+ PayPal is committed to assist =0Alaw enforcement with any inquires related to attempts to misappropriate =0Apersonal information with the intent to commit fraud or theft
+ =0AInformation will be provided at the request of law enforcement agencies to =0Aensure that impersonators are prosecuted to the fullest extent of the law
+=0A=0AThank you for your patience as we work together to protect your account
+=0ASincerely,=0APayPal Account Review Department=0APayPal, an eBay Company=0A=0A=0A=0A =0A=0A=0A=0A=0A=0A =0A =0A =0A =0A *Please do not respond to this e-mail as your reply will not be received
+=0A =0A <img src=3D"http://images
+paypal
+com/images/verification_seal
+gif" BORDER=3D0 height=3D100 width=3D100 valign=3D"top">=0A =0A </table>=0A =0A =0A=0A=0A=0A=0A

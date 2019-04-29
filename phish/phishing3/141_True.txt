@@ -1,0 +1,12 @@
+Subject: Authorization failed, eBay
+com will get block in 12 hours your accont Dear eBay Community Member ,We regret to inform you that your eBay account has been suspended due to the violation of our site policy below:False or missing contact information - Falsifying or omitting your name, address, and/or telephone number (including use of fax machines pager numbers, modems or disconnected numbers)
+Due to the suspension of this account, please be advised you are prohibited from using eBay in any way
+ This prohibition includes the registering of a new account
+Please note that any seller fees due to eBay will immediately become due and payable
+eBay will charge any amounts you have not previously disputed to the billing method currently on file
+If you would like your account to be considered for reinstatement, please click on the link below, and provide us additional information
+http://signin
+ebay
+com/aw-cgi/eBayISAPI
+dll
+SignIn&ssPageName=h:h:sin:USRegards,eBay

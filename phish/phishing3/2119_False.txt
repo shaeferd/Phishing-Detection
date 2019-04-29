@@ -1,0 +1,73 @@
+Subject: Military Bank - Alert <
+-- p { font-family: verdana; color: #333333; background: #ffffff; } 
+banner-row { height: 70px; } 
+all-four-col { width: 747px; } 
+sub-banner-row { height: 93px; } 
+first-second-col { width: 160px; background: #f0f0f0;} 
+red-heading { width: 78
+6%; } 
+empty-row { height: 25px; } 
+first-col { width: 15px; background: #f0f0f0;} 
+second-col { width: 145px; background: #f0f0f0;} div { font-family: verdana; color: #333333; background: #ffffff; } 
+font-sign-in { font-size: 70%; font-family: "verdana"; font-weight: bold; background: #f0f0f0; line-height: 1
+4; } 
+third-col { width: 15px; } 
+fourth-col { width: 572px; } h1 { font-family: verdana; color: #333333; background: #ffffff; } h1 { font-size: 100%; font-family: verdana; color: #d4001a; background: #ffffff; margin-bottom: 0px; } table { font-family: verdana; color: #333333; background: #ffffff; } BODY TABLE { font-family: PrimaSans BT,Verdana,sans-serif; font-size:x-small } 
+inner-table { font-size: 75%; font-family: verdana, arial, geneva, helvetica, sans-serif; margin-bottom: 1em; line-height: 1
+4; margin-top: 
+8em; } 
+paragraph-body { font-size: 70%; margin-top: 0
+45em; margin-bottom: 1em; color: #333333; background: #ffffff; line-height: 1
+4; } 
+font-y { font-size: 70%; font-family: verdana, arial, geneva, helvetica, sans-serif; background: #f0f0f0; line-height: 1
+4; } 
+email-address { text-transform: lowercase; background: #f0f0f0; } 
+third-fourth-col { width: 587px; } 
+paragraph-dynamic { color: #333333; background: #e9e8e3; font-size: 70%; font-family: verdana; line-height: 1
+4; } 
+paragraph-fine-print { font-size: 65%; font-family: verdana; margin-bottom: 1em; color: #333333; background: #f0f0f0; line-height: 1
+4; } 
+font-footer { color: #333333; background: #ffffff; font-size: 70%; margin-top: 0em; margin-bottom: 1em; } --> <
+-- a:link { color: #405ebe; background: #ffffff; } a:hover { color: #0000ff; background: #ffffff; } p { font-family: verdana; color: #333333; background: #ffffff; } h6 { font-family: verdana; color: #333333; background: #ffffff; } h5 { font-family: verdana; color: #333333; background: #ffffff; } h4 { font-family: verdana; color: #333333; background: #ffffff; } h3 { font-family: verdana; color: #333333; background: #ffffff; } h2 { font-family: verdana; color: #333333; background: #ffffff; } h1 { font-family: verdana; color: #333333; background: #ffffff; } div { font-family: verdana; color: #333333; background: #ffffff; } table { font-family: verdana; color: #333333; background: #ffffff; } body { font-family: verdana; color: #333333; background: #ffffff; } 
+font-sign-in { font-size: 70%; font-family: "verdana"; font-weight: bold; background: #f0f0f0; line-height: 1
+4; } h1 { font-size: 100%; font-family: verdana; color: #d4001a; background: #ffffff; margin-bottom: 0px; } 
+font-title-red { font-size: 105%; font-family: verdana; color: #d4001a; background: #ffffff; margin-bottom: 0px; } 
+font-x { font-size: 75%; font-family: verdana, arial, geneva, helvetica, sans-serif; } 
+font-y { font-size: 70%; font-family: verdana, arial, geneva, helvetica, sans-serif; background: #f0f0f0; line-height: 1
+4; } 
+font-footer { color: #333333; background: #ffffff; font-size: 70%; margin-top: 0em; margin-bottom: 1em; } 
+inner-table { font-size: 75%; font-family: verdana, arial, geneva, helvetica, sans-serif; margin-bottom: 1em; line-height: 1
+4; margin-top: 
+8em; } 
+paragraph-body { font-size: 70%; margin-top: 0
+45em; margin-bottom: 1em; color: #333333; background: #ffffff; line-height: 1
+4; } 
+paragraph-dynamic { color: #333333; background: #e9e8e3; font-size: 70%; font-family: verdana; line-height: 1
+4; } 
+paragraph-fine-print { font-size: 65%; font-family: verdana; margin-bottom: 1em; color: #333333; background: #f0f0f0; line-height: 1
+4; } 
+email-address { text-transform: lowercase; background: #f0f0f0; } hr { width: 100%; color: #999999; } 
+red-heading { width: 78
+6%; } 
+bold { font-weight: bold; } 
+first-col { width: 15px; background: #f0f0f0;} 
+second-col { width: 145px; background: #f0f0f0;} 
+third-col { width: 15px; } 
+fourth-col { width: 572px; } 
+first-second-col { width: 160px; background: #f0f0f0;} 
+third-fourth-col { width: 587px; } 
+first-second-third-col { width: 175px; } 
+all-four-col { width: 747px; } 
+banner-row { height: 70px; } 
+sub-banner-row { height: 93px; } 
+empty-row { height: 25px; } --> Irregular Card Activity We detected irregular activity on your Bank of America Military Bank Card
+ For your protection, you must verify your information before you can continue using your card
+ Please click the link below to verify your account
+ https://militarybankonline
+bankofamerica
+com/efs/servlet/military/login
+jsp We will review your account with you and upon verification, we will remove any restrictions placed on your account
+ Because email is not a secure form of communication, please do not reply to this email
+ Bank of America, Member FDIC
+ 2007 Bank of America Corporation
+ All Rights Reserved

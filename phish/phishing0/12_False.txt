@@ -1,0 +1,19 @@
+Subject: Credit/Debit Card Update =20 =20 Dear eBay customer, During our regularly scheduled account maintenance and verification procedures,=20 we have detected a slight error in your billing information
+ This might be due to either of the following reasons: 1
+ A recent change in your personal information ( i
+e
+change=20 of address)
+ 2
+ Submiting invalid information during the initial sign up=20 process
+ 3
+ An inability to accurately verify your selected option of=20 payment due to an internal error within our processors
+ Please update and verify your information by clicking the link below: https://signin
+ebay
+com/ws/eBayISAPI
+dll
+SignIn If your account information is not updated within 48 hours=20 then your ability to sell or bid on eBay will become restricted
+ Thank you The eBay Billing Deptartment 
+ =20 =20 Copyright=20 =A9 1995-2004 eBay Inc
+ All Rights Reserved
+ Designated trademarks and brands are the property of their respective=20 owners
+ Use of this Web site constitutes acceptance of the eBay User=20 Agreement and Privacy=20 Policy

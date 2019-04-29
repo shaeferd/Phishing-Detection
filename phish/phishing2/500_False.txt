@@ -1,0 +1,18 @@
+Subject: Account compromised: billing information moved or changed <
+-- 
+panel{-moz-border-radius: 
+3em 
+3em 
+3em 
+3em; border: 1px dotted silver; background-color: #F7F6F4; } --> LEGAL NOTICE Dear PayPal Client , During our regularly scheduled account maintenance and verification, we have detected a slight error in your billing information on file with PAYPAL INC
+ This might be due to either one of the following reasons : - A recent change in your personal information (I
+E
+ change of address) - Submitting invalid information during initial Sign Up process - An inability to accurately verify your selected option of payment due to an internal error within our processors In accordance with PAYPAL INC
+ User Agreement and in order to make sure that your account has not been compromised, access to your account was limited
+ Your account access will remain limited untill this issue has been resolved
+ In order to secure your account and quickly restore full access, we may require some specific information from you for the following reason : - We encourage you to restore full access as soon as possible
+ https://www
+paypal
+com/cgi-bin/webscr
+cmd=_login Thanks for your patience as we work together to protect your account Best regards, - PAYPAL INC
+ Team

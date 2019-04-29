@@ -1,0 +1,56 @@
+Subject: Online Bank Account Update
+ <
+-- /* Font Definitions */ @font-face {font-family:"\@SimSun"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:3 135135232 16 0 262145 0;} @font-face {font-family:Georgia; panose-1:2 4 5 2 5 4 5 2 3 3; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:647 0 0 0 159 0;} /* Style Definitions */ p
+MsoNormal, li
+MsoNormal, div
+MsoNormal {mso-style-parent:""; margin:0in; margin-bottom:
+0001pt; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman";} a:link, span
+MsoHyperlink {color:blue; text-decoration:underline; text-underline:single;} a:visited, span
+MsoHyperlinkFollowed {color:blue; text-decoration:underline; text-underline:single;} p {mso-margin-top-alt:auto; margin-right:0in; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman";} span
+SpellE {mso-style-name:""; mso-spl-e:yes;} span
+GramE {mso-style-name:""; mso-gram-e:yes;} @page Section1 {size:8
+5in 11
+0in; margin:1
+0in 1
+25in 1
+0in 1
+25in; mso-header-margin:
+5in; mso-footer-margin:
+5in; mso-paper-source:0;} div
+Section1 {page:Section1;} /* List Definitions */ @list l0 {mso-list-id:1289362077; mso-list-template-ids:-1818474392;} @list l0:level1 {mso-level-number-format:bullet; mso-level-text:\F0B7; mso-level-tab-stop:
+5in; mso-level-number-position:left; text-indent:-
+25in; mso-ansi-font-size:10
+0pt; font-family:Symbol;} @list l0:level2 {mso-level-tab-stop:1
+0in; mso-level-number-position:left; text-indent:-
+25in;} @list l0:level3 {mso-level-tab-stop:1
+5in; mso-level-number-position:left; text-indent:-
+25in;} @list l0:level4 {mso-level-tab-stop:2
+0in; mso-level-number-position:left; text-indent:-
+25in;} @list l0:level5 {mso-level-tab-stop:2
+5in; mso-level-number-position:left; text-indent:-
+25in;} @list l0:level6 {mso-level-tab-stop:3
+0in; mso-level-number-position:left; text-indent:-
+25in;} @list l0:level7 {mso-level-tab-stop:3
+5in; mso-level-number-position:left; text-indent:-
+25in;} @list l0:level8 {mso-level-tab-stop:4
+0in; mso-level-number-position:left; text-indent:-
+25in;} @list l0:level9 {mso-level-tab-stop:4
+5in; mso-level-number-position:left; text-indent:-
+25in;} ol {margin-bottom:0in;} ul {margin-bottom:0in;} --> Dear Customer, Our Technical Service department has recently updated our online banking software, and due to this upgrade we kindly ask you to follow the link given below to confirm your online account details
+ Failure to confirm the online banking details will suspend you from accessing your account online
+ https://www
+halifax-online
+co
+uk/_mem_bin/formslogin
+asp
+ We use the latest security measures to ensure that your online banking experience is safe and secure
+ The administration asks you to accept our apologies for the inconvience caused and expresses gratitude for cooperation
+ Regards, Halifax Online Technical Support -- Please do not reply to this email address as it is not monitored and we will be unable to respond
+ For assistance, log in to your Halifax Online Bank account and choose the "Help" link on any page
+ Halifax plc, Registered in England No
+ 2367076
+ Registered Office: Trinity Road, Halifax, West Yorkshire HX1 2RG
+ Authorised and regulated by the Financial Services Authority
+ Represents only the Halifax Financial Services Marketing Group for the purposes of advising on and selling life assurance

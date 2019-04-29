@@ -1,0 +1,19 @@
+Subject: You are required to verify your eBay account Account Error Dear eBay customer, During our regularly scheduled account maintenance and verification procedures, we have detected a slight error in your billing information This might be due to either of the following reasons: 1
+A recent change in your personal information(i
+e
+ change of address) 2
+ Submiting invalid information during the initial sing up process
+ 3
+An inability to accurately verify your selected option of payment due to an internal error within our processors
+ Please update and verify your information by clicking the link below: http://signin
+ebay
+ca/aw-cgi/eBayISAPI
+dll
+SignIn If your account information is not updated within 48 hours then your ability to sell or bid on eBay will become restricted
+ Kenneth Pavel eBay Safe Harbour Dpt
+ As outlined in our User Agreement, eBay will periodically send you information about site changes and enhancements
+ Visit our Privacy Policy and User Agreement if you have any questions
+ Copyright 2003 eBay Inc
+ All Rights Reserved
+ Designated trademarks and brands are the property of their respective owners
+ eBay and the eBay logo are trademarks of eBay Inc

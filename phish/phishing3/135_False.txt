@@ -1,0 +1,29 @@
+Subject: Security Measures - Are You Traveling
+ New Page 1 Security Measures - Are You Traveling
+ PayPal is committed to maintaining a safe environment for its community of buyers and sellers
+ To protect the security of your account, PayPal employs some of the most advanced security systems in the world and our anti-fraud teams regularly screen the PayPal system for unusual activity
+ We recently noted one or more attempts to log in to your account from a foreign country
+ If you accessed your account while traveling, the attempt(s) may have been initiated by you
+ Because the behavior was unusual for your account, we would like to take an extra step to ensure your security and you will now be taken through a series of identity verification pages
+ IP Address Time Country 172
+183
+3
+102 Jul 13, 2005 12:47:01 PDT Germany 172
+183
+3
+102 Jul 13, 2005 18:37:55 PDT Germany 62
+38
+216
+36 Jul 14, 2005 16:42:16 PDT Romania 62
+38
+216
+36 Jul 15, 2005 16:58:03 PDT Romania Click here to verify your account Thank you for your prompt attention to this matter
+ Please understand that this is a security measure meant to help protect you and your account
+ We apologize for any inconvenience
+ If you choose to ignore our request, you leave us no choise but to temporaly suspend your account
+ Thank you for using PayPal
+ The PayPal Team Please do not reply to this e-mail
+ Mail sent to this address cannot be answered
+ For assistance, log in to your PayPal account and choose the "Help" link in the footer of any page
+ To receive email notifications in plain text instead of HTML, update your preferences here
+ PayPal Email ID PP697 geovisit();

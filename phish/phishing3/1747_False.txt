@@ -1,0 +1,11 @@
+Subject: Bid Retraction Notice
+ Dear eBay Community Member,A previously entered bid on your itemhttp://cgi
+ebay
+com/ws/eBayISAPI
+dll
+ViewItem&item=3D134089872329has been retracted or cancelled
+You can view the retraction/cancellation and the reason provided by selecting the (bid history) link from the individual item page
+As a result of this retraction/cancellation, there is a possibility that the high bid amount and the current high bidder have changed
+ You can always view the current status of any item by going to the individual item page
+ (Be sure to refresh or reload the page to view the most up-to-date information
+)Regards,eBay

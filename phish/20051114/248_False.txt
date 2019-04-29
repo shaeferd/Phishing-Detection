@@ -1,0 +1,18 @@
+Subject: eBay eBay Suspension eBay Suspension Need Help
+ Dear valued eBay member, We regret to inform you that your eBay account has been suspended due to concerns we have for the safety and integrity of the eBay community
+ Per the User Agreement, Section 9, we may immediately issue a warning, temporarily suspend, indefinitely suspend or terminate your membership and refuse to provide our services to you if we believe that your actions may cause financial loss or legal liability for you, our users or us
+ We may also take these actions if we are unable to verify or authenticate any information you provide to us
+ Due to the suspension of this account, please be advised you are prohibited from using eBay in any way
+ This includes the update of your actual account
+ If you could please take 5-10 minutes out of your online experience and update your personal records you will not run into any future problems with the online service
+ Please update your records by the 10th of September
+ Once you have updated your account records your eBay session will not be interrupted and will continue as normal
+ To update your eBay records click on the following link: http://cgi1
+ebay
+com/aw-cgi/ebayISAPI
+dll
+UPdate Regards, Safeharbor Department eBay, Inc
+ Copyright =A9 1995-2005 eBay Inc
+ All Rights Reserved
+Designated trademarks and brands are the property of their respective owners
+Use of this Web site constitutes acceptance of the eBay User Agreement and Privacy Policy

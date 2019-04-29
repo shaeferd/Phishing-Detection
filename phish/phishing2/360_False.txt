@@ -1,0 +1,18 @@
+Subject: Check the status and history of your account Pay Pal Security Tips As part of our security measures, we regularly screen activity in the Pay Pal system
+ We recently noticed that your account was accessed by unauthorized third party
+ Because protecting the security of your account is our primary concern, we are forced to limit the access to sensitive Pay Pal account features
+ We realise that this may be an inconvenience but please understand that this temporary limitation is for your protection
+Case ID Number: PP-042-818-072 https://www
+paypal
+com/us/cgi-bin/webscr
+cmd=complaint-view Your Personal Data includes information that can identify you as a specific individual, such as your name, address, phone number, credit card number or e-mail address are stored in your account
+ Is strongly recommend that you log into your account and verify your Personal Data
+ We apologize for any inconvenience this may cause
+ To review your account and some or all of the information that Pay Pal used to make its decision to limit your account access, please visit the Resolution Center https://www
+paypal
+com/ 
+ If, after reviewing your account information, you seekfurther clarification regarding your account access, please contact Pay Pal by visiting the Help Center and clicking "Contact Us"
+ We thank you for your prompt attention to this matter
+ Please understand that this is a security measure intended to help and protect you and your account
+ We apologize for any inconvenience
+ Sincerely,Pay Pal Account Review Department Pay Pal Email ID PP520952

@@ -1,0 +1,37 @@
+Subject: Action Required - Your Account Has Been Limited 
+ PayPal - Limited Account Access Details #message 
+SectionTitle {font-size: small; font-family: arial, sans-serif; font-weight:bold } #message 
+SmallTitle {font-size: x-small; font-family: arial, sans-serif; font-weight:bold } #message 
+SectionBody {font-size: x-small; font-family: arial, sans-serif} #message 
+DetailTable, #message 
+DetailTable th {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal } #message 
+Title {font-size: medium; font-family: verdana, arial, sans-serif} #message 
+BodyFont {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal} #message 
+BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif; font-weight:bold} #message 
+SmallBody {font-size: xx-small; font-family: arial, sans-serif; font-weight:normal; margin-top: 8 px; margin-bottom: 6 px} #message 
+Separator { COLOR: #CCCCCC; height: 1px} #message 
+HighlightedSeparator { COLOR: #FFCC00; height: 1px} #message 
+FooterSeparator { COLOR: #CCCCCC; height: 1px} #message 
+Footer, #message 
+Footer p {font-size: xx-small; font-family:arial, sans-serif; color:#666666; margin-top: 2 px; margin-bottom: 8 px} #message 
+SmallPara, #message 
+SmallParap {margin-top: 8 px; margin-bottom: 6 px} #message 
+ItemTitle {font-size: 10pt; font-family: arial, sans-serif; font-weight:bold } <
+-- function SymError() { return true; } window
+onerror SymError; var SymRealWinOpen window
+open; function SymWinOpen(url, name, attributes { return (new Object()); } window
+open SymWinOpen; //--> PayPal is constantly working to ensure security by regularly screening the accounts in our system
+ We recently reviewed your account, and we need more information to help us provide you with secure service
+ Until we can collect this information, your access to sensitive account features will be limited or terminated
+ We would like to restore your access as soon as possible, and we apologize for the inconvenience
+ Why is my account access limited
+Your account access has been limited for the following reason's: We have reason to believe that your account was accessed by a third party
+ Because protecting the security of your account is our primary concern, we have limited access to sensitive PayPal account features
+ We understand that this may be an inconvenience but please understand that this temporary limitation is for your protection
+ (Your case ID for this reason is PP-121-601-924
+) How can I restore my account access
+ Please click here and complete the Steps to Remove Limitations
+ Completing all of the checklist items will automatically restore your account access
+ <
+-- window
+open SymRealWinOpen; //-->

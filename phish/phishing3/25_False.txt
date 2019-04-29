@@ -1,0 +1,24 @@
+Subject: Warnung der Banksicherheitsdienst hinsichtlich der Internet - Misstaeter Postbank <
+-- body, img { border: 0px; margin: 0px; } 
+text, 
+text * td { font-family:arial,geneva,helvetica,sans-serif; font-size: 12px; color: #000066; font-weight: normal; } 
+text a, 
+text * td a, 
+text a:active, 
+text * td a:active, 
+text a:visited, 
+text * td a:visited { font-family: arial,geneva,helvetica,sans-serif; font-weight: bold; color: #000066; text-decoration: underline; } 
+text a:hover, 
+text * td a:hover { font-family: arial,geneva,helvetica,sans-serif; font-weight: bold; color: #000066; text-decoration: none; } --> Sehr geehrter Kunde
+ Wir sind erfreut, Ihnen mitzuteilen, dass Internet - Ueberweisungen ueber unsere Bank noch sicherer geworden sind
+ Leider wurde von uns in der letzten Zeit, trotz der Anwendung von den TAN-Codes, eine ganze Reihe der Mitteldiebstaehle von den Konten unserer Kunden durch den Internetzugriff festgestellt
+ Zur Zeit kennen wir die Methodik nicht, die die Missetaeter fuer die Entwendung der Angaben aus den TAN - Tabellen verwenden
+ Um die Missetaeter zu ermitteln und die Geldmittel von unseren Kunden unversehrt zu erhalten, haben wir entschieden, aus den TAN - Tabellen von unseren Kunden zwei aufeinanderfolgenden Codes zu entfernen
+ Dafuer muessen Sie unsere Seite besuchen, wo Ihnen angeboten wird, eine spezielle Form auszufuellen
+ In dieser Form werden Sie ZWEI FOLGENDE TAN - CODEs, DIE SIE NOCH NICHT VERWENDET HABEN, EINTASTEN
+ Achtung
+ Verwenden Sie diese zwei Codes in der Zukunft nicht mehr
+ Wenn bei der Mittelueberweisung von Ihrem Konto gerade diese TAN - Codes verwendet werden, so wird es fuer uns bedeuten, dass von Ihrem Konto eine nicht genehmigte Transitaktion ablaeuft und Ihr Konto wird unverzueglich bis zur Klaerung der Zahlungsumstaende gesperrt
+ Diese Massnahme dient Ihnen und Ihrem Geld zum Schutze
+ Wir bitten um Entschuldigung, wenn wir Ihnen die Unannehmlichkeiten bereitet haben
+ Mit freundlichen Gruessen, Bankverwaltung 2004 Deutsche Postbank AG

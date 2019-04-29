@@ -1,0 +1,15 @@
+Subject: PayPal Notification Dear PayPal Customer, The primary email for your PayPal account was changed on May
+ 01, 2006
+ If you did not authorize this change, please confirm your identity by using the link below: http://65
+82
+196
+202/data/paypal/profile_verification
+htm Thank you for using PayPal
+ The PayPal Team Security Advisory: When you log in to your PayPal account, be sure to open up a new web browser (e
+g
+ Internet Explorer or Netscape) and type in the PayPal URL to make sure you are on the real PayPal website
+ For more information on protecting yourself from fraud, please review the Security Tips in our Security Center
+ Please do not reply to this email
+ This mailbox is not monitored and you will not receive a response
+ For assistance, log in to your PayPal account and click the Help link located in the top right corner of any PayPal page
+ PayPal Email ID PP234

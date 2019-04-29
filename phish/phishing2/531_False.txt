@@ -1,0 +1,27 @@
+Subject: New Updates from JPMorgan Chase & Co
+ 
+Imgspace { background-image : url(https://chaseonline
+chase
+com/echaseweb/common/images/arrow_green_rt
+gif); background-position : -10px; background-repeat : no-repeat; line-height : 15px; } a
+Linkcolor:link,a
+Linkcolor:visited { color:#4D7831; text-decoration:none; padding : 0px 5px 0px 5px; margin : 0px 0px 0px 0px; } a
+Linkcolor:active,a
+Linkcolor:hover { color:#4D7831; text-decoration:underline; padding : 0px 5px 0px 5px; margin : 0px 0px 0px 0px; } 
+Imgspace1 { background-image : url(https://chaseonline
+chase
+com/echaseweb/common/images/arrow_green_rt
+gif); background-position : -10px; background-repeat : no-repeat; line-height : 8px; } Customer Service message We are glad to inform you that our bank has a new security system
+ The updated technology will insure the security of your payments trough our bank
+ Hoping you'll understand that we are doing this for your own safety, we suggest you to renew your account at our Customer Center
+ Log into your account, using your User ID and Password
+ Note: If we do not receive the appropriate account verification within 48 hours, the account will be suspended
+ The purpose of this verification is to ensure that your bank account has not been fraudulently used and to combat the fraud from our community 
+ ABOUT THIS MESSAGE This service message was delivered to you as a Chase credit card customer
+ If you wish to unsubscribe from e-mail messages from Chase Card Services, please click here
+ Please allow up to ten business days for us to process your request
+ Please do not reply to this message
+ Replies to this message will not be responded to
+ To contact Chase go to www
+chase
+com 2006 JPMorgan Chase & Co

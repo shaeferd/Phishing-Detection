@@ -1,0 +1,11 @@
+Subject: WARNING: Security Issues This message contains graphics
+ If you do not see the graphics, click here to view
+ Dear eBay =AE valued member, Due to concerns we have for the safety and integrity of the eBay community we have issued this warning
+ Per the User Agreement, Section 9, we may immediately issue a warning, temporarily suspend, indefinitely suspend or terminate your membership and refuse to provide our services to you if we believe that your actions<br> may cause financial loss or legal liability for you, our users or us
+ We may also take these actions if we are unable to verify or authenticate any information you provide to us
+ Please follow the link below and update your account information
+ http://signin
+ebay
+com/aw-cgi/eBayISAPI
+dll
+SignIn&ssPageName; Regards, eBay Service Department

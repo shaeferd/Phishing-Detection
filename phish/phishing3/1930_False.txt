@@ -1,0 +1,18 @@
+Subject: Question from eBay Member- Respond now
+ #wmMessage 
+SectionTitle {font-size: small; font-family: arial, sans-serif; font-weight:bold }#wmMessage 
+SmallTitle {font-size: x-small; font-family: arial, sans-serif; font-weight:bold }#wmMessage 
+SectionBody {font-size: x-small; font-family: arial, sans-serif}#wmMessage 
+DetailTable, #wmMessage 
+DetailTable th {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal }#wmMessage 
+Title {font-size: medium; font-family: verdana, arial, sans-serif}#wmMessage 
+BodyFont {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal}#wmMessage 
+BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif; font-weight:bold}#wmMessage 
+SmallBody {font-size: xx-small; font-family: arial, sans-serif; font-weight:normal; margin-top: 8 px; margin-bottom: 6 px }#wmMessage 
+Separator { COLOR: #CCCCCC; height: 1px}#wmMessage 
+HighlightedSeparator { COLOR: #FFCC00; height: 1px}#wmMessage 
+FooterSeparator { COLOR: #CCCCCC; height: 1px}#wmMessage 
+Footer, #wmMessage 
+Footer p {font-size: xx-small; font-family:arial, sans-serif; color:#666666; margin-top: 2 px; margin-bottom: 8 px}#wmMessage 
+SmallPara, #wmMessage 
+SmallParap {margin-top: 8 px; margin-bottom: 6 px}

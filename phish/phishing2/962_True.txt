@@ -1,0 +1,24 @@
+Subject: PayPal Account Information newm <
+-- 
+sidebarTextBold {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color: #003366;} td {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} 
+sidebarText {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #003366;} 
+longSideBarText{width:190px; word-break: break-all;} 
+emphasis {font-weight: 700;} 
+heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;} 
+sansSerif{font-family: verdana,arial,helvetica,sans-serif; font-size: 16px;color: #000000;} HR
+dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;} 
+xptFooter {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #aaaaaa;} --> Protect Your Account Info Make sure you never provide your password to fraudulent websites
+PayPal will never ask you to enter your password in an email
+For more information on protecting yourself from fraud, please review our Security Tips at https://www
+paypal
+com/us/securitytips Protect Your Password You should never give your PayPal password to anyone, including PayPal employees
+ You have successfully added a new email address to your PayPal account Dear PayPal Customer, The primary email for your PayPal account was changed on May
+ 1st, 2006
+ If you don't agree with this email webcarter@aol
+com and if you need assistance with your account, please click here and login to your account
+ Thank you for using PayPal
+ The PayPal Team Please do not reply to this email
+ This mailbox is not monitored and you will not receive a response
+ For assistance, log in to your PayPal account and choose the Help link located in the top right corner of any PayPal page
+To receive email notifications in plain text instead of HTML, update your preferences here
+ PayPal Email ID PP059

@@ -1,0 +1,30 @@
+Subject: eBay Unpaid Item Mutual Agreement: #7132017949 - Response Required 
+SectionTitle {font-size: small; font-family: arial, sans-serif; font-weight:bold }
+SmallTitle {font-size: x-small; font-family: arial, sans-serif; font-weight:bold }
+SectionBody {font-size: x-small; font-family: arial, sans-serif}
+DetailTable th {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal }
+DetailTable {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal }
+Title {font-size: medium; font-family: verdana, arial, sans-serif}
+BodyFont {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal}
+BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif; font-weight:bold}
+SmallBody {font-size: xx-small; font-family: arial, sans-serif; font-weight:normal; margin-top: 8 px; margin-bottom: 6 px}
+Separator { COLOR: #CCCCCC; height: 1px}
+HighlightedSeparator { COLOR: #FFCC00; height: 1px}
+FooterSeparator { COLOR: #CCCCCC; height: 1px}
+Footer p {font-size: xx-small; font-family:arial, sans-serif; color:#666666; margin- top: 2 px; margin-bottom: 8 px}
+F <style xmlns:x="urn:schemas-microsoft-com:xslt"> 
+ItemTitle {font-size: 10pt; font-family: arial, sans-serif; font-weight:bold } eBay Unpaid Item Mutual Agreement: #7132017949 - Response Required Response Required We are contacting you about the following item: COMPLETE Horse Travel Set BARGAIN 6'0" (#7132017949) The seller, the-whitehouse tells us you have mutually agreed not to complete the transaction (e
+g
+ because you returned or are returning the item for a refund or because there was a misunderstanding) and has requested a credit for their eBay fees
+ Please respond by 28-Aug-2006 so eBay knows whether you have agreed
+ Respond to this notice: Please note: you and the seller will still be able to leave feedback for each other regarding this transaction
+ Regards, eBay eBay treats your personal information with the utmost care, and our Privacy Policy is designed to protect you and your information
+ eBay will never ask their users for personal information, such as bank account numbers, credit card numbers, pin numbers, passwords, or Social Security numbers in an email
+ For more information on how to protect your eBay password and your account, please visit User Account Protection
+ This eBay notice was sent to you based on your eBay account preferences and in accordance with our Privacy Policy
+ To change your notification preferences, click here
+ If you would like to receive this email in text format, click here
+ Copyright 1995-2006 eBay Inc
+ All Rights Reserved
+ Designated trademarks and brands are the property of their respective owners
+ eBay and the eBay logo are trademarks of eBay Inc

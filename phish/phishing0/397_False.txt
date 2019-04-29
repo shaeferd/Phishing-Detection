@@ -1,0 +1,286 @@
+Security Wire Perspectives, June 9, 2005
+In-depth analysis, opinion and insight
+
+
+This issue is brought to you by: 
+Consul risk management
+
+IN THIS ISSUE:
+*Editor's Note
+
+*Experts: Best of breed security may not be the wisest path
+When examining your options for security products, note that the more
+established vendors may not always offer a complete solution -- then
+it's time to consider point solutions from smaller companies
+
+
+*Something sure looks phishy
+In light of clever phishing scams, companies -- particularly those in
+the security industry -- need to be more aware about how they request
+sensitive information
+
+
+*A look at the news from SearchSecurity
+com, including: a "cloudy"
+forecast for security; a Trojan trio that collaborates to steal
+confidential information; and leading analysts say mobile malware
+will cause widespread damage, but not until 2007
+
+
+=====================================================
+SECURITY WIRE PERSPECTIVES IS SPONSORED BY: Consul risk management
+
+Gartner and Consul Compliance Advisory Series 
+
+To maximize corporate governance, an organization must implement a
+framework for identifying and managing risk, without straining the
+business and limiting productivity
+ Join Gartner and for an
+educational discussion on: establishing and maintaining a risk
+management culture; aligning IT resources and investments with a
+common risk framework; and creating a holistic compliance and risk
+architecture
+ 
+
+Register Today
+
+http://searchSecurity
+com/r/0,,42262,00
+htm
+track=NL-358&ad=519329
+
+=====================================================
+EDITOR'S NOTE
+
+We don't hear as much about hype in the security industry these days,
+but here comes FUD-buster analyst firm Gartner Group to tell us which
+security threats aren't as huge as some want to believe
+ Check out
+our story on SearchSecurity
+com to find out what made the list
+
+You'll find it at:
+http://searchsecurity
+techtarget
+com/originalContent/0,289142,sid14_gci1096135,00
+html
+
+track=NL-358&ad=519329
+
+Elsewhere during the Gartner IT Security Summit, analysts decided
+it's time for admins to get their head in the clouds
+[http://searchsecurity
+techtarget
+com/originalContent/0,289142,sid14_gci1095562,00
+html
+track=NL-358&ad=519329 ] and said compliance shouldn't be a primary security driver [http://searchsecurity
+techtarget
+com/originalContent/0,289142,sid14_gci1095317,00
+html
+track=NL-358&ad=519329 ]
+ Inside each article is a Sound Off link where you can share your thoughts on analyst opinions
+ 
+
+Also, don't forget to take our latest minipoll on which of the five
+over-hyped security threats reported by Garter is the most overblown
+[http://searchsecurity
+techtarget
+com/news/0,289141,sid14,00
+html
+track=NL-358&ad=519329 ]
+
+
+--Shawna McAlearney, editor, Security Wire Perspectives 
+
+=====================================================
+A READ ON THE NEWS
+
+*Experts: Best of breed security may not be the wisest path
+By Shawna McAlearney, News Editor
+
+Today's information security professionals face tough decisions when
+trying to identify and deploy the correct security products for their
+enterprise environments -- "Should I use another product from a
+current best of breed provider or take a chance on an emerging vendor
+with more targeted technology
+" New threats and attacks are emerging
+on all the time, which sometimes require very specific solutions
+
+Flying in the face of traditional wisdom, some experts are
+recommending point solutions
+ What can these less-established vendors
+contribute to your organization that the big boys can't
+ Find out:
+http://searchsecurity
+techtarget
+com/originalContent/0,289142,sid14_gci1096619,00
+html
+track=NL-358&ad=519329
+
+=====================================================
+Don't miss the latest article
+
+
+MacIntosh vs
+ Windows: Choosing to take a bite of the Apple
+
+Hardly a day goes by without hearing about a new worm, virus or other
+attack targeting vulnerabilities in a Windows OS, wasting admins'
+time with patching and/or cleaning their networks
+ Cybersecurity guru
+and noted author Winn Schwartau switches from Windows to Mac and says
+it may solve his security ills
+ Installments in this ongoing series
+will be posted each week so don't forget to check back, it may
+benefit your organization
+
+
+This week:
+Mad as Hell IV: Security basics for Ma&Pa 
+http://searchsecurity
+techtarget
+com/columnItem/0,294698,sid14_gci1096261,00
+html
+track=NL-358&ad=519329
+Schwartau takes a look at the three fingered reboot salute and the
+tenets of CIA
+  
+
+Mad as Hell archive:
+http://searchsecurity
+techtarget
+com/general/0,295582,sid14_gci1094430,00
+html
+track=NL-358&ad=519329
+
+=====================================================
+SOUND BYTES
+
+*Something sure looks phishy
+By Clay Ruth, Contributing Writer
+
+Phishing scams are increasingly clever, but it still came as a
+surprise to one security professional to receive an e-mail from a
+leading security vendor requesting detailed information through an
+insecure channel
+ Though the questionnaire was legitimate, it
+highlights the need for organizations across the industry to consider
+what types of information they request -- and how -- before
+enterprising phishers use this technique to really take us all to the
+cleaners
+ Find out how one expert was nearly fooled into offering up
+information on his company network:
+http://searchsecurity
+techtarget
+com/columnItem/0,294698,sid14_gci1096504,00
+html
+track=NL-358&ad=519329
+
+=====================================================
+SearchSecurity
+com's Web Security School
+
+How well do you know Web security
+ If you think you're an expert,
+take this quiz
+ If you can't ace this exam, we recommend you come to
+SearchSecurity
+com's free Web Security School
+ You'll learn how to
+harden a Web server and apply countermeasures to prevent hackers from
+wreaking havoc with your Web site
+ Guest instructor Michael Cobb,
+author of "IIS Security," guides you through the three lessons
+ Each
+includes an on-demand webcast, technical paper, quiz and handy
+checklists
+ CISSPs and SSCPs earn one CPE credit per webcast
+
+
+http://searchsecurity
+techtarget
+com/general/0,295582,sid14_gci1080309,00
+html
+track=NL-358&ad=519329&promo 
+
+=====================================================
+HEADLINES
+
+*Mobile malware will cause widespread damage -- in 2007
+http://searchsecurity
+techtarget
+com/originalContent/0,289142,sid14_gci1096135,00
+html
+track=NL-358&ad=519329
+Leading analysts offer up what they say are the "five most
+over-hyped" security threats
+
+
+*Analysts say 'cloudy' forecast is OK
+http://searchsecurity
+techtarget
+com/originalContent/0,289142,sid14_gci1095562,00
+html
+track=NL-358&ad=519329
+Gartner Security Summit analysts predict security will move off
+networks and into the Internet cloud
+ 
+
+*Trojan trio disables Windows, AV updates
+http://searchsecurity
+techtarget
+com/originalContent/0,289142,sid14_gci1094469,00
+html
+track=NL-358&ad=519329
+Three Trojan horse programs collaborate to hijack as many machines as
+possible
+ Their goal: access bank account numbers, steal identities
+and more
+
+
+Keep up to date with the latest security news, go to
+http://searchsecurity
+techtarget
+com/news/0,289141,sid14,00
+html
+track=NL-358&ad=519329
+
+:::::::::::::::::::::  ABOUT THIS NEWSLETTER  ::::::::::::::::::::::
+
+Security Wire Perspectives is an e-mail newsletter brought to you on
+Thursdays by Information Security, the industry's leading magazine
+for security news and information, and SearchSecurity
+com, the Web's
+best security-specific information resource for enterprise IT
+professionals
+ Copyright (c) 2005, TechTarget
+ No reuse or
+redistribution without the express written authorization of
+TechTarget
+ Additional newsletters available at
+http://searchsecurity
+techtarget
+com/registerProfile
+track=NL-358&ad=519329
+
+_____________________________________________________________________
+
+To unsubscribe from "Security Wire Perspectives":
+ 
+Go to unsubscribe: http://SearchSecurity
+com/u
+em=username%40domain
+com&uid=1410123&cid=519329&track=NL-358
+ 
+Please note, unsubscribe requests may take up to 24 hours to process;
+you may receive additional mailings during that time
+ A confirmation
+e-mail will be sent when your request has been successfully
+processed
+
+ 
+Contact us:
+SearchSecurity
+Member Services
+117 Kendrick Street, Suite 800
+Needham, MA 02494

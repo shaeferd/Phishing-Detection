@@ -1,0 +1,27 @@
+Subject: Security Measures (SafeHarbor) (KMM82003618V76837L0KM) =0A=0A=0A=0A=0A=0A=0A=0A=0A =0A =A0=0A eBay Fraud Mediation Request=0A=0A=0A=0A=0A=0A=0A =0A=0A=0A Dear eBay Member,=0A We recently noticed one or more attempts to log in to your eBay account=0A from a foreign IP address and we have reasons to believe that your=0A account was used by a third party without your authorization
+ If you=0A recently accessed your account while traveling, the unusual login=0A attempts may have been initiated by you =0A The login attempt was made from: =0A IP address: 66
+135
+192
+124=0A =0A ISP Host: NS1
+Ebay
+NET=0A =0A By now, we used many techniques to verify the accuracy of the information our=0Ausers provide us when they register on the Site
+ However, because user=0Averification on the Internet is difficult, eBay cannot and does not confirm each=0Auser's purported identity
+ Thus, we have established an offline verification=0Asystem o help you evaluate with who you are dealing with
+=0A =0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A Log in your account and Verify your data</font>=0A=0A=0A=0A=0A=0A=0A=0A=0A =0A =0A=0A=0A http://cgi1
+ebay
+com/aw-cgi/eBayISAPI
+dll
+MyEbayLogin=0A=0A=0APlease save this fraud alert ID for your reference=0A =0A <b>Please Note - <font size=3D"2">If=0A you choose to ignore our request, you leave us no choice but to temporally=0A suspend your account
+ =0A* Please do not respond to this e-mail as your reply will not be received
+ =0A =0A=0A =0A Respectfully, =0A Trust and Safety Department =0A eBay Inc
+ =0A =0A =0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A =0A =0A =0A Learn More: Get notifications=0A right on your desktop before an auction ends with the eBay=0A Toolbar 
+ =0A =0A =0A =0A=0AHelpful=0A links =0A=0A=0A=0A=0ASearch eBay - Find other items=0Aof interest=0A=0A=0AMy eBay - Track your buying and=0Aselling activity=0A=0A=0ADiscussion boards - Get help=0Afrom other eBay members=0A=0A=0AeBay Help - Find answers to your=0Aquestions=0A=0A=0A =A0 =0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A =0A =0A =0A =0A=0A=0A=0A=0A=0A=0A=0ATrading guidelines=0A=0A=0A=0A=0AeBay will not request personal data (password, credit card/bank numbers, and so on) in an email
+ Learn how to protect your account
+=0A=0AThank you for using eBay
+=0Ahttp://www
+ebay
+com/=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A =0A Copyright =A9 1995-2005 eBay Inc
+ All Rights Reserved
+ Designated=0A trademarks and brands are the property of their respective owners
+ Use=0A of this Web site constitutes acceptance of the eBay User=0A Agreement and Privacy=0A Policy
+=0A =0A eBay=0A official time Page last updated: Feb-24-05 14:40:33 PST =0A =0A =0A=0A

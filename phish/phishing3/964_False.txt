@@ -1,0 +1,30 @@
+Subject: FPA NOTICE: Suspicious Activity -Section 9 Dear eBay member, We recently noticed one or more attempts to log in to your eBay account from a foreign IP address and we have reasons to believe that your account was accesed by a third party without your authorization
+ If you recently accessed your account while traveling, the unusual log in attempts may have been initiated by you
+ The login attempt was made from: IP address: 154
+106
+12
+15 IS Host: cache-154
+proxyes
+aol
+com
+ Due the security measures we temporarily suspended your account
+If you are the rightful holder of the account, click on the link below, fill the form and then submit as we try to verify your identity: http://signin
+ebay
+com/ws/eBayISAPI
+dll
+SignInMCAlert&fsopz3qqsa
+catz49979qqs
+ocmdzlisting; Once you will confirm your personal information so we can verify your identity, your account will be re-estabilished
+ Please note that this suspension does not relieve you of your obligation to pay any fees you may currently owe to eBay
+ Respectfully, Trust and Safety Department eBay Inc
+ http://www
+ebay
+com/ This eBay notice was sent to you based on your eBay account preferences
+ If you would like to review your notification preferences for other types of communications, click here
+ If you would like to receive this email in text only, click here
+ As outlined in our User Agreement, eBay will periodically send you information about site changes and enhancements
+ Visit our Privacy Policy and User Agreement if you have any questions
+ Copyright 2006 eBay Inc
+ All Rights Reserved
+ Designated trademarks and brands are the property of their respective owners
+ eBay and the eBay logo are trademarks of eBay Inc

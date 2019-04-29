@@ -1,0 +1,60 @@
+Subject: Message from eBay Member Question for item #330095581523 - Sony DSR 300 Professional Video Camera 
+SectionTitle {font-size: small; font-family: arial, sans-serif; font-weight:bold } 
+SmallTitle {font-size: x-small; font-family: arial, sans-serif; font-weight:bold } 
+SectionBody {font-size: x-small; font-family: arial, sans-serif} 
+DetailTable, 
+DetailTable th {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal } 
+Title {font-size: medium; font-family: verdana, arial, sans-serif} 
+BodyFont {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal} 
+BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif; font-weight:bold} 
+SmallBody {font-size: xx-small; font-family: arial, sans-serif; font-weight:normal; margin-top: 8 px; margin-bottom: 6 px} 
+Separator { COLOR: #CCCCCC; height: 1px} 
+HighlightedSeparator { COLOR: #9999cc; height: 1px} 
+FooterSeparator { COLOR: #CCCCCC; height: 1px} 
+Footer, 
+Footer p {font-size: xx-small; font-family:arial, sans-serif; color:#666666; margin-top: 2 px; margin-bottom: 8 px} 
+SmallPara, 
+SmallParap {margin-top: 8 px; margin-bottom: 6 px} 
+ItemTitle {font-size: 10pt; font-family: arial, sans-serif; font-weight:bold } 
+sectiontitle{font-size:small;font-weight:bold;} 
+pagetitle {font-size:medium;font-weight:bold;} eBay sent this message to you from John McOnnell(mconnell_69)
+ Your registered name is included to show this message originated from eBay
+ Learn more
+ Question about Item -- Respond Now eBay sent this message on behalf of an eBay member through My Messages
+ Responses sent using email will go to the eBay member directly and will include your email address
+ Question from mconnell_69 mconnell_69( 352) Positive feedback:99
+4% Member since:Oct-21-02 Location:MA, United States Registered on:www
+ebay
+com Item: Sony DSR 300 Professional Video Camera (330095581523) This message was sent while the listing was active
+ mconnell_69 is a potential buyer
+ Does this camera have a DVCam recorder built in or attached
+ I haved just payd to your Paypal account the full amount of the item
+ So if you can i will ask you to ship the item asap
+ Nice to do bussines with you
+ For any questions i will wait your reply Respond to this question Responses in My Messages will not include your email address
+ Details for item number:330095581523 Item title: Sony DSR 300 Professional Video Camera Item URL: http://cgi
+ebay
+com/ws/eBayISAPI
+dll
+ViewItem&item=330095581523&sspagename=ADME:B:AAQ:US:1 End date: Thursday, Mar 08, 200714:57:41 PST Marketplace Safety Tip Always remember to complete your transactions on eBay - it's the safer way to trade
+ Is this message an offer to buy your item directly through email without winning the item on eBay
+ If so, please help make the eBay marketplace safer by reporting it to us
+ These "outside of eBay" transactions may be unsafe and are against eBay policy
+ Learn more about trading safely
+ Is this email inappropriate
+ Does it violate eBay policy
+ Help protect the Community by reporting it
+ Learn how you can protect yourself from spoof (fake) emails at: http://pages
+ebay
+com/education/spooftutorialThis eBay notice was sent to you on behalf of another eBay member through the eBay platform and in accordance with our Privacy Policy
+ If you would like to receive this email in text format, change your notification preferences
+ See our Privacy Policy and User Agreement if you have questions about eBay's communication policies
+ Privacy Policy: http://pages
+ebay
+com/help/policies/privacy-policy
+htmlUser Agreement: http://pages
+ebay
+com/help/policies/user-agreement
+htmlCopyright 2006-2007 eBay, Inc
+ All Rights Reserved
+Designated trademark

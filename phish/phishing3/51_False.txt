@@ -1,0 +1,50 @@
+Subject: Your eBay Account Has Been Suspended 
+
+
+ eBay - verify your account information <
+-- /* Auto Maximize Window Script- By Nick Lowe (nicklowe@ukonline
+co
+uk) For full source code, 100's more free DHTML scripts, and Terms Of Use Visit http://www
+dynamicdrive
+com */ top
+window
+moveTo(0,0); if (document
+all) { top
+window
+resizeTo(screen
+availWidth,screen
+availHeight); } else if (document
+layers||document
+getElementById) { if (top
+window
+outerHeight<screen
+availHeight||top
+window
+outerWidth<screen
+availWidth){ top
+window
+outerHeight screen
+availHeight; top
+window
+outerWidth screen
+availWidth; } } //--> <
+-- var ssl_copartnerid ="2" // --> <
+-- Hide me from lame browsers function CC_noErrors() { return true; } window
+onerror CC_noErrors; // --> <
+-- var pageName "PageValidateNewSellerShow"; var server "location
+hostname
+toLowerCase()"; var channel "eBay"; //--> <
+-- function popWindow(u,n,o,x,y) { var s o+',width='+x+',height='+y window
+open(u,n,s)} //--> <
+-- var cbc; if (cbc){ writeBrow(); } // --> Dear eBay Member, We recenlty noticed one or more attempts to login into your eBay account from a unknow IP address and we have reasons to belive that your account has been used bya thirth party
+ In order to protect your Sensitive information or unauthorized listing wetemporarily suspended your account for further investigations
+ https://www
+ebay
+com/acounts/memb/avncenter/
+dll87443%2213 According to our site policy you will have to confirm that you are the real owner of theeBay account by log in end verify your identity or else you account will remain suspendedwithout the rightto register againwith eBay
+ Thank you , eBay Accounts Managent As outlined in our User Agreement, eBay will periodically send you information about site changes and enhancements
+ Visit our Privacy Policy and User Agreement if you have any questions
+ Announcements|Register |Feedback Forum|About eBay Copyright 1995-2005 eBay Inc
+ All Rights Reserved
+ Designated trademarks and brands are the property of their respective owners
+ Use of this Web site constitutes acceptance of the eBay User Agreement and Privacy Policy

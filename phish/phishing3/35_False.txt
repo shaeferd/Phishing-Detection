@@ -1,0 +1,18 @@
+Subject: Chevy Chase Bank: Unusual activity in your account 
+ P { FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica, sans-serif } BODY { FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica, sans-serif } TD { FONT-SIZE: 8pt; FONT-FAMILY: Arial, Helvetica, sans-serif } H2 { FONT-WEIGHT: bold; FONT-SIZE: 16pt; FONT-FAMILY: Arial, Helvetica, sans-serif } H3 { FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Arial, Helvetica, sans-serif } 
+TDError { FONT-WEIGHT: bold; FONT-SIZE: 12pt; FONT-FAMILY: Arial, Helvetica, sans-serif } Dear Customer, We are contacting you to remind you that our Account Review Team identified some unusual activity in your account
+ In accordance with Chevy Chase Bank's User Agreement and to ensure that your account has not been compromised, access to your account was limited
+ Your account access will remain limited until this issue has been resolved
+ We encourage you to sign on and perform the steps necessary to restore your account access as soon as possible
+ Allowing your account access to remain limited for an extended period of time may result in further limitations on the use of your account and possible account closure
+ To view and perform the verification process, please click on the link below: https://banking
+chevychasebank
+com/login
+html
+User=verification Chevy Chase Bank is committed to maintaining a safe environment for our customers
+ To protect the security of your account, our bank employs some of the most advanced security systems in the world and our anti-fraud teams regularly screen the Online Banking system for unusual activity
+ Thank you for your prompt attention to this matter
+ Please understand that this is a security measure meant to help protect you and your account
+ We apologize for any inconvenience
+ Sincerely, Chevy Chase Bank, Customer Service
+ XCTDTCJCNGNRKCNVGQNZCDPFNQERWBDETTOEFX

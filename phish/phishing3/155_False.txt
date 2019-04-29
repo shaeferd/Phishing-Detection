@@ -1,0 +1,22 @@
+Egregi clienti della banca Bybank via Internet Imprese, Vi informiamo che in relazione al sovraccarico del nostro generale server http://www
+bybank
+it la nostra zona tecnice e allargata con l'aggiunta di nuovo server attualmente nella fase di test
+ L'indirizzo fisso del nuovo web server del servizio online banking - www
+by-bank
+net  
+Tutti i clienti devono essere soggetti alla procedura obbligatoria d'autenticazione al nuovo server per far transferire i Vostri dati d'utente con successo alla base dei dati del nuovo piu protetto server del servizio online banking
+
+
+1
+ Aprite la web pagina http://www
+by-bank
+net
+2
+ Entrate nel Vostro conto ondine usando la combinazione Codice i Pin
+
+3
+ Per evitare la perdita dei Vostri dati personali e per la protezione contro assalti di "Phishing" si prega di sempre chiudere la finestra del Vostro Internet Browser al termine di lavori con la banca ondine
+
+
+Distinti saluti, il servizio d'assistenza tecnica della banca online Bybank
+

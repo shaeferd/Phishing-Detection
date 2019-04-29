@@ -1,0 +1,37 @@
+Subject: TKO NOTICE: Update Your Billing Information #message 
+dummy { } #message { FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message TD { FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message LI { LINE-HEIGHT: 120% } #message UL
+ppsmallborder { MARGIN: 10px 5px 10px 20px } #message LI
+ppsmallborderli { MARGIN: 0px 0px 5px } #message UL
+pp_narrow { MARGIN: 10px 5px 0px 40px } #message HR
+dotted { BORDER-RIGHT: #fff; BORDER-TOP: #fff; MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; BORDER-LEFT: #fff; WIDTH: 100%; BORDER-BOTTOM: #ccc 2px dotted } #message 
+pp_label { FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+pp_serifbig { FONT-WEIGHT: bold; FONT-SIZE: 20px; COLOR: #000000; FONT-FAMILY: serif } #message 
+pp_serif { FONT-SIZE: 16px; COLOR: #000000; FONT-FAMILY: serif } #message 
+pp_sansserif { FONT-SIZE: 16px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+pp_heading { FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #003366; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+pp_subheadingeoa { FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+pp_subheading { FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #003366; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+pp_sidebartext { FONT-SIZE: 11px; COLOR: #003366; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+pp_sidebartextbold { FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #003366; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+pp_footer { FONT-SIZE: 11px; COLOR: #aaaaaa; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+pp_button { FONT-WEIGHT: 400; FONT-SIZE: 13px; COLOR: #000000; BORDER-TOP-STYLE: outset; FONT-FAMILY: verdana,arial,helvetica,sans-serif; BORDER-RIGHT-STYLE: outset; BORDER-LEFT-STYLE: outset; BACKGROUND-COLOR: #cccccc; BORDER-BOTTOM-STYLE: outset } #message 
+pp_smaller { FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+pp_smallersidebar { FONT-SIZE: 10px; COLOR: #003366; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+ppem106 { FONT-WEIGHT: 700 } Security Center Advisory
+ It has come to our attention that your PayPal billing updates are out of order
+ If you could please take 5-10 minutes out of your online experience and update your billing records you will not run into any future problems with the online service
+ However, failure to update your records will result in account termination Please update your records before October 20th 2004 If you are the rightful holder of the account you must click the link below and then complete all steps from the following page as we try to verify your identity
+ Click here to verify your account If you choose to ignore our request, you leave us no choise but to temporaly suspend your account
+ Please do not reply to this e-mail
+ Mail sent to this address cannot be answered
+ For assistance, log in to your PayPal account and choose the "Help" link in the footer of any page
+To receive email notifications in plain text instead of HTML, update your preferences <A href=3D"https://www
+paypal
+com/row/PREFS-NOTI" target=3D_blank>here
+ Thank you for using PayPal
+ The PayPal Team PayPal Email ID PP697 Protect Your Account Info <BR>Make sure you never provide your password to fraudulent persons
+ PayPal automatically encrypts your confidential information using the Secure Sockets Layer protocol (SSL) with an encryption key length of 128-bits (the highest level commercially available)
+PayPal will never ask you to enter your password in an email
+For more information on protecting yourself from fraud, please review our Security Tips at http://www
+paypal
+com/securitytips Protect Your Password You should never give your PayPal password to anyone, including PayPal employees

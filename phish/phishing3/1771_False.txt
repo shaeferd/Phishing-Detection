@@ -1,0 +1,20 @@
+Subject: Alert: Account Update
+ Citi - verify your account information <
+-- var ssl_copartnerid ="2" // --> <
+-- Hide me from lame browsers function CC_noErrors() { return true; } window
+onerror CC_noErrors; // --> <
+-- var pageName "PageValidateNewSellerShow"; var server "location
+hostname
+toLowerCase()"; var channel "Citi"; //--> <
+-- function popWindow(u,n,o,x,y) { var s o+',width='+x+',height='+y window
+open(u,n,s)} //--> Dear CitiBank member, This email was sent by the Citibank server to verify your e-mail address
+ You must complete this process by clicking on the link below and entering your account information 
+ This is done for your protection , becaurse some of our members no longer have access to their online access and we must verify it
+ To verify your e-mail address and access your bank account, click on the link below
+ https://web
+da-us
+citibank
+com/signin/citifi/verify/%
+6488820019 Please fill in the required information
+ This is required for us to continue to offer you a safe and risk free environment 
+ Thank you Accounts Management Citigroup Privacy Promise Terms & Conditions Copyright 2004 Citicorp

@@ -1,0 +1,17 @@
+Subject: Get Verified
+ =0A=0A=0A=0A=0A=0APayPal=0A=0A=0A=0A=0A=0A#xptErrorBox {width: 100%; margin: 0px 0px 10px 0px;}=0A#xptErrorBox TABLE {border: 1px solid #aaa; width: 100%; background-color: #ffc;}=0A#xptErrorBox TR {vertical-align: top;}=0A#xptErrorBox TD {padding: 4px;}=0A#xptErrorBox P {padding-bottom: 0px; font-size: 13px; font-weight: 700; color: #f00;}=0A=0A=0A =0A=0A =0A=0A=0A=0A =0A =0A =0A =0A =0A =0A =0A=0A =0A =0A=0A Dear users of PayPal services,=0A =0ADue to upcoming year 2006, and recent changes in PayPal's Service Agreement you need to submit additional details on your PayPal account
+ Starting from 2006 all PayPal accounts will come with complete detailed information
+=0A=0A Identity protection matters
+ And PayPal works day and night to help keep your identity safe
+ =0A =0A=0A=0A=0A=0A=0A=0AIdentity protection matters
+ Get Verified
+=0A=0A=0A=0A According the new changes in Service Agreement any unverified account will be deleted from the system in 72 hours after receiving this letter
+=0A=0A=0A=0A =0A=0A =0A =0A =0A =0A =0A =0A =0A =0A =0A =0A =0A </td>=0A =0A =0A=0A Your Account=0A =0A =0A =0A=0A=0A =0A =0A =0A=0A =0A Tips to Protect Your Account =0A =0A=0A PayPal's world class fraud investigators share =0A 5 important actions you can take to help prevent identity theft and protect your account
+=0A =0A=0A =0A =0A=0A Update Your Profile=0A =0A If you've closed a credit card or bank account recently, remember to go to PayPal's website =0A to update your profile
+=0A =0A =0A=0A =0A=0A =0A =0A =0A=0A =0A =0A =0A=0A =0A=0A =0A=0A=0A=0A =0A =0A =0A =0A =0A =0A Identity Protection Highlights=0A=0A =0A =0A =0A=0A =0A =0A=0A=0A =0A =0A=0A =0A =0A =0A =0A =0A New spoof tutorial =0A =0A Learn how to spot and avoid fraudulent "spoof" emails and websites with PayPal's handy =0A 5-step spoof tutorial
+=0A =0A=0A =0A=0A =0A =0A =0A=0A=0A =0A =0A=0A =0A =0A =0A <td>=0A =0A <b>Protect yourself with tools=0A =0A Guard yourself against "spoof" emails with the SafetyBar, and against fraudulent websites =0A with the eBay Toolbar
+=0A =0A=0A =0A=0A =0A =0A =0A =0A =0A =0A=0A =0A=0A=0A =0A =0A =0A =0A =0A =0A =0A=0A Checklist if you are a victim
+
+ =0A =0A When you suspect a problem with your identity, you have to act fast
+ Use PayPal's checklist =0A for what you should do
+=0A =0A =0A =0A=0A =0A=0A =0A=0A =0A =0A =0A =0A Merchant Offers=0A =0A =0A=0A =0A=0A =0A

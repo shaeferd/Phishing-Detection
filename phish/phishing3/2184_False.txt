@@ -1,0 +1,48 @@
+ 
+
+Sehr geehrter PayPal Kunde,
+
+sowie wir Ihnen bereits mitgeteilt haben, haben wir die langerwartete Banklizenz erhalten
+ Sie konnen selbstverstandlich wie gewohnt Ihr PayPal Konto weiternutzen
+ 
+
+Bitte beachten Sie die Einfuhrung einer neuen Sicherheitsmassnahme
+
+Unsere Programmierer haben fur Sie ein ausgeklugeltes, elektronisches E-Tan System entwickelt, die Ihre Arbeit mit PayPal Banking noch sichere macht
+
+
+Wichtig
+Mit diesem Schreiben erhalten Sie einmalig ein Exemplar von Ihrem personlichen E-TAN Generator ID 515343431 
+ Bitte installieren Sie umgehend ihre personlich Software und entfernen Sie aus Sicherheitsgr&#252;nden diese Email aus ihren Postfach
+ Die Aktivierung der E-Tan Software wird gleich mit dem ersten Einloggen in Ihren PayPal Kundenbereich erfolgen
+
+
+WICHTIG - AUS SICHERHEITSGRUNDEN IST DAS PROGRAMM KEINE EXE DATEI - SIE KONNEN DIESE ABER ABSOLUT SICHER UND PROBLEMLOS INSTALLIEREN 
+
+
+Was ist eine E-TAN
+
+Das E-TAN System besitzt die hochste Sicherheitsstufe im Onlinebanking
+ Es wird fur jede Transaktion aus ihrem personlichen Schlussel der schon im Programm implementiert ist eine sechs stellige Nummer erstellt, die nur eine bestimmte Zeit und nur f&#252;r eine Transaktion gultig ist
+
+
+Was muss ich tun um meine PayPal Konto weiterhin zu nutzen
+
+Bitte installieren Sie umgehend das mitgeschickte Programm
+ Ohne die Installation wird in naher Zukunft Ihr PayPal Konto gesperrt
+ 
+
+Wie wird es funktionieren
+ 
+Nach der Installation werden Sie auf Ihrem Desktop eine PayPal Verknupfung sehen
+ Falls Sie auf der Paypal Seite nach einer E-TAN gefragt werden so starten Sie diese Programm und drucken auf "E-TAN generieren" - bitte bedenken Sie, dass jede E-TAN nur 15 Minuten gultig ist
+
+
+Wie sicher ist E-TAN
+ 
+- es gibt nur ein Exemplar von E-TAN Generator pro Kunde
+- jeder E-TAN ist nur 15 Minuten gultig, dies macht es unmoglich f&#252;r Phischer und durch Trojaner Ihre Konto zu benutzen
+- jeder E-Tan wird nach Ihrem personlichen Schlussel generiert und kann nicht gehackt werden
+
+
+Mit freundlichen Grussen Ihr PayPal Team

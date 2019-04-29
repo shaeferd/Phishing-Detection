@@ -1,0 +1,24 @@
+Subject: Please sign in to your eBay account and update your billing information
+ During our regularly schedule account maintenance and verification we have detected a slight error in your billing information on file with eBay
+ This might be due to either following reasons: &nb;sp;- A recent change in your personal information (i
+e
+ change of address)&nbs;p;- Submitting invalid information during the initial sign up process
+&n;bsp;-An inability to accurately verify your selected option of payment due an internal error within&nb;sp; ourprocessors
+ Your credit card on file with eBay Card number: XXXX-XXXX-XXXX-XXXX (Not shown for security purposes) Expiration date: XX/XX Please sign in to your eBay account and update your billing information: http://cart
+express
+ebay
+com/ws/eBayISAPI
+dll
+ExpressCart&action
+view=3D&from=3DHeader If your account information is not update, your ability to sell or bid on eBay will become restricted
+ Thank you,eBay Billing Department eBay treats your personal information with the utmost care, and our Privacy Policy is designed to protect you and your information
+ eBay will never ask their users for personal information, such as bank account numbers, credit card numbers, pin numbers, passwords, or Social Security numbers in an email
+ For more information on how to protect your eBay password and your account, please visit User Account Protection
+ This eBay notice was sent toyou based on your eBay account preferences and in accordance with our Privacy Policy</A>
+ To change your notification preferences, click here
+ If you would like to receive this email in text format, click here
+ Copyright =A9 2006 eBay Inc
+ All Rights Reserved
+ Designated trademarks and brands are the property of their respective owners
+eBay and the eBay logo are trademarks of eBay Inc
+</TR>

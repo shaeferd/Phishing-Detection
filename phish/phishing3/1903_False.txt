@@ -1,0 +1,4 @@
+Subject: BB&T customer service: instructions for customer
+ 0x94891485 0x149, 0x389, 0x93740454 hex: 0x6931, 0x81, 0x5, 0x8579, 0x94, 0x81, 0x958, 0x8 NPF, OVXS, file, EAC3, source, 55HC, cvs, include, media
+ G1H I0F, A6V7, rev, TRIW, interface, K5E0, D7P
+ IAP: 0x63, 0x77095246, 0x8595

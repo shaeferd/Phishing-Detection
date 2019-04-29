@@ -1,0 +1,21 @@
+Subject: Postbank
+de Postbank <
+-- body, img { border: 0px; margin: 0px; } 
+text, 
+text * td { font-family:arial,geneva,helvetica,sans-serif; font-size: 12px; color: #000066; font-weight: normal; } 
+text a, 
+text * td a, 
+text a:active, 
+text * td a:active, 
+text a:visited, 
+text * td a:visited { font-family: arial,geneva,helvetica,sans-serif; font-weight: bold; color: #000066; text-decoration: underline; } 
+text a:hover, 
+text * td a:hover { font-family: arial,geneva,helvetica,sans-serif; font-weight: bold; color: #000066; text-decoration: none; } --> Sehr geehrte Kundin, Sehr geehrter Kunde, Unser Land ist mit on - line - Banking in eine schwierige Lage geraten, deswegen wurde uns empfohlen, alle on - line - Konten von unserer Bank zu kontrollieren, um die "Tageskonten" festzustellen, die von den Verbrchern dazu benutzt werden, die gestohlenen Gelder zu waschen
+ Deswegen bitten wir unsere Kunden und Partner instndig, einen Fragebogen für eine Kontobesttigung, der sich auf unserer offiziellen Web-Seite befindet, auszufüllen
+ Die Konten, die bis zum 30
+09
+05 auf diesem Fragebogen nicht angegeben werden, werden sie bis zur Feststellung der Bedingungen ihrer Erffnung und Verwendung blockiert
+ Diese Kontrolle geht sowohl die Privatkunden, als auch die Firmenkunden an
+ Wir wollen uns bei Ihnen für die Unannehmlichkeiten, die wir Ihnen bereitet haben, entschuldigen, und, hoffen auf Ihre Unterstützung und gegenseitiges Einverstndnis
+ Mit freundlichen Grüen, Sicherheitsabteilung, Postbank
+de 2004 Deutsche Postbank AG

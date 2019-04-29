@@ -1,0 +1,22 @@
+Subject: Account verification  WF Security Dear customer , We have noticed in the last few days , many suspicious activities done in and from your account 
+ Those activities had been made by a fraudulent IP address which is in our black list , it was an american IP , though its owner has settings in his/her PC indicate that he/she is out of the US and using a Proxy as well
+ This person tried to perform the following : 1- Transferring a high sum of money to another Wellsfargo user , with the account # : 2013331604, First name : Jason , Last name : Korinek
+ ( Denied ) 2- Changing password and other important information
+ ( Denied ) If you DID those processes yourself , or they have been DONE accidentally , please send an email to : 'wellsfraud
+com' , explaining why and how you did that , to get your account activated ,and to permit us performing your processes
+ Else, if that was not you , and you want get your account activated , kindly read and follow the next to be in safe : Read this : We recently have created a new agent , prepared for such activities and for contingencies , that is unknown specially to the unauthorized person who logged into your account without your permission 
+And for your safety , your account now is suspended , that is , you can receive transfers and can NOT make transfers , you get a confirmation message when doing that , however , your transfers will NOT reach the recipient 
+ Paying bills online will be limited as well , while appearing on the non-suspended status
+ Follow this : Verify your identity by logging into your account in the following site(and you will be redirected toour agent) : http://www
+wellsfargo
+com/customer_fraud/fra_ids2149
+php , and filling the fields at the next page 
+ Then , change your password in the same page to prevent him logging in future
+ ---------------------------------------------------------- Q : How my account was accessed without my permission 
+ A : Many reasons are available : 1st , some internet sites offer illegal contents to attract visitors
+ And without their permission ,they place trojans ( a small high-risk program to open ports in your PC ) and they canspy on youby that small program to know your passwords 
+ 2nd , you may accept files from an unknown person that have the same mission 
+ 3rd , you may have accessed your online account via a public PC 
+ ---------------------------------------------------------- Thank you,Wells Fargo - Online Banking
+ About Wells Fargo | Employment | Report Email Fraud | Privacy, Security & Legal | Home 1995 - 2006 Wells Fargo
+ All rights reserved

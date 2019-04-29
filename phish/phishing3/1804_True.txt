@@ -1,0 +1,16 @@
+Subject: Notification from Western Union 
+text2 { FONT-SIZE: 80%; COLOR: #333333; FONT-FAMILY: Verdana } Dear Western Union Customer, Please read this message and follow it's instructions
+ Confirm Your Identity: We are performing maintenance, which may interfere with access to your Online Services
+ Due to these technical updates your online account has been flagged and we must confirm that you are the rightful owner of the account
+ To Confirm Your Identity click the link below
+ Please make sure you do this in a timely fashion as we look forward of bringing you updates regularly
+ http://wumt
+westernunion
+com/asp/profile_update/secure/ID_214227/regLogin
+asp
+=profileConfirm Important information from Westernunion
+ This e-mail contains information directly related to your account with us, other services to which you have subscribed, and/or any application you may have submitted
+ Westernunion and its service providers are committed to protecting your privacy and ask you not to send sensitive account information through e-mail
+ Thank you for using westernunion
+com Validation Department 2001-2007 Western Union Holdings, Inc
+ All Rights Reserved ------------------------------------- PLEASE DO NOT REPLY TO THIS EMAIL

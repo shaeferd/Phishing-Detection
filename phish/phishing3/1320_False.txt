@@ -1,0 +1,45 @@
+Subject: Your Amazon account might be compromised Your Amazon account might be compromised <
+-- #branding { font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: normal; width: 600px; margin-left: auto; margin-right: auto; height: 45px; } #content { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; margin-left: auto; margin-right: auto; width: 600px; margin-top: 13px; } #copyright { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; width: 600px; margin-left: auto; margin-right: auto; color: #999999; margin-bottom: 10px; } #logo { background-image: url(http://g-images
+amazon
+com/images/G/04/icons/amazon-logo
+gif); width: 255px; height: 40px; margin-right: auto; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; font-style: normal; font-weight: normal; font-variant: normal; background-repeat: no-repeat; margin-top: 20px; display: block; text-indent: -9999px; margin-bottom: 10px; } #branding 
+logo h1 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; } #blue { background-image: url(); background-repeat: repeat-x; background-color: #EEEECC; height: 29px; } html { font-family: Verdana, Arial, Helvetica, sans-serif; } body { margin-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 10px; } 
+ppl_link { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; display: block; width: 520px; height: 30px; margin-top: 10px; text-align: center; background-color: #EEEECC; border: 1px solid #EEEECC; padding-top: 15px; } #right { font-family: Verdana, Arial, Helvetica, sans-serif; width: 251px; float: right; border: 1px solid #CCCCCC; display: block; margin-left: 10px; margin-right: 10px; margin-bottom: 10px; overflow: auto; } 
+heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;} /*ul { font-family: Verdana, Arial, Helvetica, sans-serif; display: block; width: 95px; height: 99px; list-style-type: none; margin-left: auto; margin-right: auto; margin-top: 10px; } */ #right #protect { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: bold; font-variant: normal; color: #000000; display: block; background-color: #DBDBDB; margin-top: 5px; margin-bottom: 5px; line-height: 22px; text-align: center; } #content #right #nota { font-family: Verdana, Arial, Helvetica, sans-serif; color: #000000; display: block; margin: 10px; } li { font-family: Arial, Helvetica, sans-serif; background-image: url(http://www
+aksi
+net/site-security-info/verisign-logo
+gif); width: 95px; height: 99px; display: block; background-repeat: no-repeat; margin: 5; } ul { font-family: Verdana, Arial, Helvetica, sans-serif; display: block; width: 95px; height: 99px; list-style-type: none; position: relative; margin-right: 42px; float: inherit; } #nav { font-family: Arial, Helvetica, sans-serif; } #content #right #nav #repplace { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; font-weight: normal; display: block; width: 95px; height: 99px; background-image: url(http://www
+aksi
+net/site-security-info/verisign-logo
+gif); margin-left: auto; margin-right: auto; } 
+a { font-family: Verdana, Arial, Helvetica, sans-serif; height: 92px; width: 95px; float: left; display: block; background-image: url(http://www
+aksi
+net/site-security-info/verisign-logo
+gif); background-repeat: no-repeat; text-indent: -9999px; } --> Amazon Protect Your Password You should never give your Amazon password to anyone, including Amazon employees
+ Your Amazon account might be compromised We have not yet received a valid method of payment and thus are unable to proceed with your order (#002-4082816-7257663)
+ Your order remains open
+ Your credit card payment for the above transaction could not be completed
+ An issuing bank will often decline an attempt to charge a credit card if the name, expiration date, or ZIP Code you entered at Amazon
+ com does not exactly match the bank's information
+ Valid credit card information must be received within 3 days of purchase, otherwise your order will be canceled
+ To verify and/or update payment information for this order, please visit the following page: https://www
+amazon
+com/gp/css/account/cards/view
+html
+payment-update
+html This e-mail contains information directly related to your account with us, other services to which you have subscribed, and/or any application you may have submitted
+ Amazon and its service providers are committed to protecting your privacy and ask you not to send sensitive account information through e-mail
+ You can view our privacy policy and contact information at https://www
+amazon
+com/gp/help/customer/display
+html
+policy_privacy Please understand that this is a security measure intended to help protect you and your account
+ We apologize for any inconvenience
+If you choose to ignore our request, you leave us no choice but to temporary suspend your account
+ Please do not reply to this e-mail
+ For assistance, log in to your Amazon account and choose the "Help" link in the header of any page
+ Thank you for using Amazon
+ The Amazon Team Please do not reply to this email
+ This mailbox is not monitored and you will not receive a response
+ For assistance, log in to your Amazon account and choose the Help link located in the top right corner of any Amazon page
+ To receive email notifications in plain text instead of HTML, update your preferences here

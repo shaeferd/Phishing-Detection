@@ -1,0 +1,11 @@
+Subject: eBay account verification
+ Dear valued customer, Our records indicate that you haven't submited the correct information to update your account
+ Please re-update your account
+ You HAVE to fill all the tabs in the form
+Do not respond to this email, as your reply will not be received
+ If you would like to update your eBay account please use this link:http://signin
+ebay
+com//aw-cgi/eBayISAPI
+dll
+SignIn&ssPageName=h:h:sin:US Thank you for your patience in this matter
+ Regards, Customer Support (Trust and Safety Department)eBay Inc

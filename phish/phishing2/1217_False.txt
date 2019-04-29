@@ -1,0 +1,24 @@
+Subject: eBay Unpaid Item Reminder: #7557660205 eBay Unpaid Item Reminder: #7557660205 #message 
+SectionTitle {font-size: small; font-family: arial, sans-serif; font-weight:bold } #message 
+SmallTitle {font-size: x-small; font-family: arial, sans-serif; font-weight:bold } #message 
+SectionBody {font-size: x-small; font-family: arial, sans-serif} #message 
+DetailTable, #message 
+DetailTable th {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal } #message 
+Title {font-size: medium; font-family: verdana, arial, sans-serif} #message 
+BodyFont {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal} #message 
+BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif; font-weight:bold} #message 
+SmallBody {font-size: xx-small; font-family: arial, sans-serif; font-weight:normal; margin-top: 8 px; margin-bottom: 6 px} #message 
+Separator { COLOR: #CCCCCC; height: 1px} #message 
+HighlightedSeparator { COLOR: #FFCC00; height: 1px} #message 
+FooterSeparator { COLOR: #CCCCCC; height: 1px} #message 
+Footer, #message 
+Footer p {font-size: xx-small; font-family:arial, sans-serif; color:#666666; margin-top: 2 px; margin-bottom: 8 px} #message 
+SmallPara, #message 
+SmallParap {margin-top: 8 px; margin-bottom: 6 px} #message 
+ItemTitle {font-size: 10pt; font-family: arial, sans-serif; font-weight:bold } eBay Unpaid Item Reminder: #7557660205 Dear eBay Member: kwikdigital has informed us that they have not yet received your payment for the following item: CANON IR 8500 w/ NetworkPrinter +K3N FINISHER 85PPM - (#7557660205) No action is being taken against your account at this time
+ However, it is important to remember that when you bid on or buy an item you are agreeing to a contract between you and the seller
+ If the situation isn't resolved within 7 days of this reminder, you may receive an Unpaid Item strike under eBay's Unpaid Item Policy
+ 
+ If you don't respond by June-23-2006 you may receive an Unpaid Item strike
+ Most Unpaid Item disputes can be resolved through direct communication between the buyer and seller, and we encourage you to work with your trading partner to reach a resolution
+ Regards, eBay

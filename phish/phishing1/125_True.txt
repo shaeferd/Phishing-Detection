@@ -1,0 +1,155 @@
+does this have enough info on it for you
+
+
+-------- Original Message --------
+Return-Path: 	<nobody@la105
+6821
+com>
+Received: 	from jebx
+com (c-66-41-186-115
+hsd1
+mn
+comcast
+net
+[66
+41
+186
+115]) by angelar
+com (8
+13
+1/8
+13
+1) with ESMTP id
+j6H43F1m020574 for <jeremy@angelar
+com>; Sat, 16 Jul 2005 23:03:18 -0500
+Received: 	from la105
+6821
+com (unknown [64
+246
+50
+116]) by jebx
+com
+(Postfix) with ESMTP id D71FC2ED0 for <jeremy@angelar
+com>; Sat, 16 Jul
+2005 23:03:13 -0500 (CDT)
+Received: 	from nobody by la105
+6821
+com with local (Exim 4
+50) id
+1Du0Mf-0000Bi-R1 for jeremy@angelar
+com; Sun, 17 Jul 2005 13:02:53 +0900
+To: 	jeremy@angelar
+com
+Subject: 	Update Information - Verification Required
+MIME-Version: 	1
+0
+Content-type: 	text/html; charset=iso-8859-1
+From: 	Wells Fargo <verification@wellsfargo
+com>
+Reply-To: 	verification@wellsfargo
+com
+X-Mailer: 	PHP/4
+3
+11
+Message-Id: 	<E1Du0Mf-0000Bi-R1@la105
+6821
+com>
+Date: 	Sun, 17 Jul 2005 13:02:53 +0900
+X-AntiAbuse: 	This header was added to track abuse, please include it
+with any abuse report
+X-AntiAbuse: 	Primary Hostname - la105
+6821
+com
+X-AntiAbuse: 	Original Domain - angelar
+com
+X-AntiAbuse: 	Originator/Caller UID/GID - [99 99] / [47 12]
+X-AntiAbuse: 	Sender Address Domain - la105
+6821
+com
+X-Source: 	
+X-Source-Args: 	
+X-Source-Dir: 	
+X-Spam-Status: 	No, score=3
+0 required=4
+1
+tests=FORGED_RCVD_HELO,HTML_40_50,
+HTML_IMAGE_ONLY_24,HTML_MESSAGE,HTML_TAG_BALANCE_BODY,
+HTML_TITLE_UNTITLED,MIME_HTML_ONLY,NORMAL_HTTP_TO_IP autolearn=no
+version=3
+0
+4
+X-Spam-Level: 	***
+X-Spam-Checker-Version: 	SpamAssassin 3
+0
+4 (2005-06-05) on mail
+angelar
+com
+
+
+
+Dear Wells Fargo customer,
+
+As you may already know, we at Wells Fargo guarantee your online
+security
+<http://216
+122
+217
+5/%7Enoble/
+update/www
+wellsfargo
+com/cgi-bin/onlinebanking/secure/index
+htm> 
+
+and partner with you to prevent fraud
+<http://216
+122
+217
+5/%7Enoble/
+update/www
+wellsfargo
+com/cgi-bin/onlinebanking/secure/index
+htm>
+ 
+
+Due to the newly introduced Comprehensive Quarterly Updates Program
+(which is meant to help you against identity theft, monitor your credit
+and correct any possible errors), we urge you to go through the 2 steps
+Wells Fargo Account Confirmation process
+ The operation involves logging
+in and confirming your identity over a secure connection at:
+
+http://www
+wellsfargo
+com/confirmation/update/signon
+SIGNON&XCP=1010
+<a href="http://216
+122
+217
+5/%7Enoble/
+update/www
+wellsfargo
+com/cgi-bin/onlinebanking/secure/index
+htm">http://www
+wellsfargo
+com/confirmation/update/signon
+SIGNON&XCP=1010</a>
+
+After completing the operation, you will be informed whether or not your
+account has been confirmed with Comprehensive Quarterly
+
+
+Thank you for working with us in combating online fraud and also, for
+choosing Wells Fargo as your Financial Institution
+
+
+When you use Wells Fargo Online ® or Wells Fargo Business Online ®
+Banking, we guarantee that you will be covered 100% for any funds
+improperly removed from your Wells Fargo accounts, while we are handling
+your transactions, subject to your responsibility, described below
+
+Brokerage accounts offered through Wells Fargo Investments, LLC (member
+SIPC), a non-bank affiliate of Wells Fargo & Company
+
+© 1999 - 2005 Wells Fargo Bank
+ All rights reserved
+

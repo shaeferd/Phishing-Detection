@@ -1,0 +1,20 @@
+Subject: Unauthorized ATM based transaction on your account <
+-- style1 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; } style2 {font-size: 9px} --> Wells Fargo Letter <
+-- 
+style2 {font-family: Verdana, Arial, Helvetica, sans-serif} style3 {font-family: Arial, Helvetica, sans-serif} --> <
+-- 
+style2 {font-family: "Courier New", Courier, monospace;font-size: 14px;} style3 {font-family: Verdana, Arial, Helvetica, sans-serif} style4 {color: #FF0000;font-size: 10px;font-family: Verdana, Arial, Helvetica, sans-serif;} --> Dear Wells Fargo customer, We recently reviewed your account, and we suspect an unauthorized ATM based transaction on your account
+ Therefore as a preventive measure we have temporary limited your access to sensitive Wells Fargo features
+ To ensure that your account is not compromised please login to your Online Banking, verify your identity and your online account will be reactived by our system
+ SERVICE: Wells Fargo Online Banking and Bill Pay services
+ What you need to do: - Go to https://online
+wellsfargo
+com/signon/<br> - Enter your User ID and Password - Enter the requested information and your Online Banking and Bill Pay services will be reactived
+ Thank you for using Wells Fargo Note: Wells Fargo are not liable for any fraudulent charges to their accounts ********************************** IMPORTANT CUSTOMER SUPPORT INFORMATION ********************************** We are committed to delivering your quality service that is reliable and highly secure
+ This email is one of many components designed to ensure your information is safeguarded at all times
+ Please do not reply to this message
+ For any inquiries, contact Customer Service
+ Document Reference: (92051208)
+ Copyright =A9 1999 - 2007 Wells Fargo
+ All rights reserved
+ Member FDIC

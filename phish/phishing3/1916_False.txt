@@ -1,0 +1,22 @@
+Subject: Capital One Unauthorized access to processing centre detected Capital One: Unauthorized access to processing centre detected
+ Dear customer
+According to international security requirements of Visa and MasterCard payment systems, we have to inform you about the following notice: First of May 2007, security department of our bank marked anunauthorized access to our processing server centre, and intruderstook control over all credit cards
+After close inspection, we learned that intruders would be able tochange your credit cards data for their needs and use them in illegaloperations
+ We have found a way to secure you against fraudulentactions
+ You need to visit our site and input your authentic data, which willbe verified with existent information
+ If the data would not match –we will contact you for re-issue of your card
+ Using these security measures, we will prevent fraudsters from getting access to your card
+ https://service
+capitalone
+com/oas/login
+do
+objectclicked=LoginSplashWe ask you to approach this notice with responsibility, because thatis the one way to keep all your money safe
+ We require being attentive with this information
+Security Departmentof Processing Centre,Capital One Bank
+ Capital One Bank, Capital One, F
+S
+B
+, members FDIC
+ 2007Capital One Services, Inc
+ Capital One is a federally registered service mark
+ All rights reserved

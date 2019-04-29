@@ -1,0 +1,12 @@
+Subject: New message from Chase Bank
+ Documento sin título <
+-- Estilo1 { color: #FF0000; font-weight: bold; } Estilo3 {font-family: "Times New Roman", Times, serif} --> Chase Bank Online=AE Department Notice You have received this email because you or someone had used your account from different locations
+ For security purpose, we are required to open an investigation into this matter
+ In order to safeguard your account, we requir e that you confirm your banking details
+ To help speed up this process, please access the following link so we can complete the verification of your Chase Online=AE Banking Account registration information : https://www
+chase
+com/chaseonline/logon/ssologon
+jsp Important: If we do no receive the appropriate account verification within 48 hours, then we will assume this Chase Bank account is fraudulent and will be suspended
+ The purpose of this verification is to ensure that your bank account has not been fraudulently used and to combat the fraud from our community
+ We appreciate your support and understanding and thank you for your prompt attention to this matter
+ Regards, Chase Bank - Chase Online=AE Banking Department

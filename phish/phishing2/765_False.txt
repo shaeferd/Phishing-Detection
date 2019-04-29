@@ -1,0 +1,17 @@
+Subject: Notification of Limited Account Access (Routing Code: C840-L001-Q190-T1812) Dear Sir,PayPal is committed to maintaining a safe environment for its community ofbuyers and sellers
+ To protect the security of your account, PayPal employssome of the most advanced security systems in the world and our anti-fraudteams regularly screen the PayPal system for unusual activity
+Recently, our Account Review Team identified some unusual activity in youraccount
+ In accordance with PayPal's User Agreement and to ensure that youraccount has not been compromised, access to your account was limited
+ Youraccount access will remain limited until this issue has been resolved
+ Thisis a fraud prevention measure meant to ensure that your account is notcompromised
+In order to secure your account and quickly restore full access, we mayrequire some specific information from you for the following reason: We would like to ensure that your account was not accessed by anunauthorized third party
+ Because protecting the security of your accountis our primary concern, we have limited access to sensitive PayPal accountfeatures
+ We understand that this may be an inconvenience but pleaseunderstand that this temporary limitation is for your protection Case ID Number: PP-046-631-789We encourage you to log in and restore full access as soon as possible
+Should access to your account remain limited for an extended period oftime, it may result in further limitations on the use of your account ormay result in eventual account closure
+Thank you for your prompt attention to this matter
+ Please understand thatthis is a security measure meant to help protect you and your account
+ Weapologize for any inconvenience
+ To keep your account active, click here: http://www
+paypal
+com/cgi-bin/webscr
+cmd=3Dp/gen/accounts-outside<BR>Sincerely,PayPal Account Review DepartmentPayPal Email ID PP576

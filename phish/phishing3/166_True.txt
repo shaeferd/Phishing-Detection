@@ -1,0 +1,15 @@
+Subject: FPO Notice: Important information about your eBay account Dear eBay Member, During our regularly scheduled account maintenance and verification procedures, we have detected a slight error in your billing information
+ This might be due to either of the following reasons: 1
+ A recent change in your personal information ( i
+e
+change of address)
+ 2
+ Submiting invalid information during the initial sign up process
+ 3
+ An inability to accurately verify your selected option of payment due to an internal error within our processors
+ Go to your account page and verify your informations: https://www
+ebay
+com/ws2/eBayISAPI
+dll
+SignIn&ssPageName;=h:h:sin:US If your account information is not updated within 48 hours then your ability to use eBay will become restricted
+ Sincerely, Member Services eBay, Inc

@@ -1,0 +1,82 @@
+Subject: Updated information on your credit card accounts
+ <
+--// if(document
+layers) { document
+write("<link rel='stylesheet' type='text/css' href='http://www
+chase
+com/ccpmweb/shared/document/ChaseNS
+css'/>") } else if (document
+all){ document
+write("<link rel='stylesheet' type='text/css' href='http://www
+chase
+com/ccpmweb/shared/document/ChaseIE
+css'/>") } else { document
+write("<link rel='stylesheet' type='text/css' href='http://www
+chase
+com/ccpmweb/shared/document/ChaseNS_MAC
+css'/>") } //--> Chase All Online Blank Desktop <
+-- TD { FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 100% } TH { FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 100% } INPUT { FONT-FAMILY: Verdana,Helvetica } --> <
+-- if(document
+images) { navOn new Image(); navOn
+src "http://www
+chase
+com/ccpmweb/shared/image/bullet_green_anim
+gif"; navOff new Image(); navOff
+src "http://www
+chase
+com/ccpmweb/shared/image/bullet_static
+gif"; } function swap(x, y) { if(document
+images) { document
+images[x]
+src eval(y + "
+src"); } } function showHide(el) { var itemStyle document
+getElementById(el)
+style; if(itemStyle
+display ="none") { closeAll(); itemStyle
+display "block"; } else { itemStyle
+display "none"; } } function closeAll() { for (i 1; i < 11; i++) { if(document
+getElementById) { document
+getElementById("detail" + i)
+style
+display "none"; } } } //--> /* a:link, a:visited, a:active, a:hover {color: #095AA6;}*/ 
+detail {color: #333; font: 10px Verdana, Arial, Helvetica, sans-serif; padding: 0px 0px 0px 30px} 
+reflection {background-image: url("/ccpmweb/card_servicing/image/chaseAll_card_reflection
+jpg");background-repeat:no-repeat;} 
+copy {color:#333; font: bold 11px Verdana, Arial, Helvetica, sans-serif; margin: 20px;} a:link, a:visited, a:active, a:hover {color:#074580; text-decoration:underline;} 
+detail {color: #333; font: 10px Verdana, Arial, Helvetica, sans-serif; padding: 0px 0px 0px 30px} 
+reflection {background-image: url("/ccpmweb/card_servicing/image/chaseAll_card_reflection
+jpg");background-repeat:no-repeat;} DIV
+mainL1 {text-align:center; width:100%:} DIV
+mainL2 {width:779px;} 
+logo {margin-left:17px; margin-right:17px; margin-top:15px; margin-bottom:15px;} a
+footerLink:link, a
+footerLink:visited {color:#666666; text-decoration:none;} a
+footerLink:active, a
+footerLink:hover {color:#666666; text-decoration:underline;} 
+topFooterLinkPad {padding-left:10px; padding-right:20px; padding-top:30px; color:#666666; font-family:arial; font-size:70%;} 
+copyright {color:#666666; margin-top:20; margin-bottom:10; font-family:arial; font-size:70%; text-align:center;} 
+topBar {background-color:#095aa6;} 
+bgGrid {background-image:url("/ccpmweb/card_servicing/image/bg_grid_fade
+jpg"); background-repeat:no-repeat;} 
+pageBody {border: solid #095aa6 2px; border-top:0px;padding-bottom:5px; padding-left:10px;} 
+content {margin:20px 0px 0px 50px; text-align:left; font: 
+8em Arial, Helvetica, sans-serif } Pay your bill online using your checking account
+ Pay monthly, or set up automatic payments and never miss a payment
+ Transfer your high-rate balances online and save money on interest
+ You choose the delivery options and reminders you prefer
+ We'll send you Free Alerts about your credit card account to your phone, PDA, pager or e-mail
+ Chase Online SM Credit Card statements provide you with everything you get in your paper statement, but faster than the mail and without the clutter
+ It's quick and easy to request the extra credit you need
+ When you request your credit line increase online, you'll receive faster approval notification via email
+ Instantly update your address online in one easy step so important information always gets to you
+ Disputing a charge on your Chase credit card is quick and easy
+ Disputes are resolved up to two weeks faster than through the mail
+ It's easy and secure to send and receive messages from us
+ Go to the Message Center today
+ You can see your account activity 24 hours a day, 7 days a week
+ Chase OnlineSM gives you convenient, 24-hour access to the most updated information on your credit card accounts
+ Sign Up for Chase Online today to make managing your accounts easier
+ Already a Chase member
+ LOG ON NOW
+ Chase
+com Privacy|Security|Terms|Agreements 2005 JPMorgan Chase & Co

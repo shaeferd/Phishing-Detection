@@ -1,0 +1,12 @@
+Subject: Alert: Account Locked
+  Account Locked 
+ Dear Chase Member, Due to the number of incorrect login attempts, your Chase Account has been locked for your security
+ This has been done to secure your accounts and to protect your private information in case the login attempts were not done by you
+
+ At Chase Bank we care about your security so, for your protection we are proactively notifying you of this activity
+ If you did not trigger this lockout, follow this link to Log on to your Chase Online Account : Click here to unlock your account Thank you for your prompt attention to this matter
+ We apologize for any inconvenience
+ Thank you for using Chase
+ Please do not reply to this e-mail
+ Mail sent to this address cannot be answered
+ geovisit();

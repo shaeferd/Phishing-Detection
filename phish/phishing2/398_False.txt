@@ -1,0 +1,38 @@
+Subject: Quarterly Statement Notice PayPal #message 
+dummy {} #message, #message TD {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} #message LI {line-height: 120%;} #message UL
+pp_narrow {margin:10px 5px 0px 40px;} #message BR
+h6 {font-size: 6px; line-height: 6px;} #message 
+pp_normal {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} #message 
+ppem106 {font-size: 13px; font-family: verdana,arial,helvetica,sans-serif; font-weight: 700;} #message 
+pp_label {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;font-weight: bold;color: #000000;} #message 
+pp_heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;} #message 
+pp_subheading {font-family: verdana,arial,helvetica,sans-serif;font-size: 16px;font-weight: bold;color: #003366;} #message 
+pp_sidebartext {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #003366;} #message 
+pp_sidebartextbold {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color: #003366;} #message 
+pp_footer_black {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #000000;} #message 
+pp_footer {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #aaaaaa;} #message 
+pp_button {font-size: 13px; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset; color:#000000; background-color: #cccccc;} #message 
+pp_smaller {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #000000;} Quarterly Statement Notice Dear member, You are receiving this notification because PayPal is required by law to notify you at least quarterly of the availability of your online account statement
+ The account statement for your PayPal account registered to www
+paypal
+com can be viewed at any time by visiting our website at https://www
+paypal
+com/
+ Once you log in, upgrade your Personal Account Identity Verification and see your most recent statement
+ If you need help logging in to your account, click the Help link which is at the upper right hand side of the PayPal website
+ To report errors in your statement or make inquiries, click the Contact Us link in the footer on any page of the PayPal website, call our Customer Service center at (402) 938-3630, or write us at: PayPal, Inc
+ P
+O
+ Box 45950 Omaha, NE 68145 Sincerely, PayPal This PayPal notification was sent to resolve your issues
+ To modify your notification preferences, log in to your PayPal account, click the Profile sub-tab, then click the Notifications link under Account Information
+ Changes may take up to 10 days to be reflected in our mailings
+ PayPal will not sell or rent any of your personally identifiable information to third parties
+ For more information about the security of your information, read our Privacy Policy at https://www
+paypal
+com/privacy
+ Copyright 2006 PayPal Inc
+ All rights reserved
+ Designated trademarks and brands are the property of their respective owners
+ PayPal is located at 2211 N
+ First St
+, San Jose, CA 95131

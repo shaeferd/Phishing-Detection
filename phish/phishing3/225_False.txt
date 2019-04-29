@@ -1,0 +1,13 @@
+Subject: Please Verify Your eBay Identity Dear eBay User, Dear valued eBay member, It has come to our attention that your eBay Billing Information records are out of date
+ That requires you to update the Billing Information
+ However, failure to do so will result in account termination
+ Please update your records in maximum 24 hours
+ Once you have updated your account records, your eBay session will not be interrupted and will continue as normal
+ Please click the secure link below to update your billing records
+ https://ebay
+com/awcgi/eBayISAPI
+dll/%ebay
+verify/support Thank you, eBay Accounts Management --------------------------------------------- Thank you for using eBay
+ --------------------------------------------- Do not reply to this email
+ Copyright 1995-2004 eBay Inc
+ All Rights Reserved

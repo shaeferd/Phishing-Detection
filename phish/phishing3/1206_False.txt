@@ -1,0 +1,14 @@
+Subject: Security - Unlock Your Account Access Dear Washington Mutual customer Dear Washington Mutual customer, We recently reviewed your account, and suspect that your Washington Mutual Internet Banking account has been accessed by an unauthorized third party
+Protecting the security of your account and of the Washington Mutual network is our primary concern
+ Therefore, as a preventative measure, your profile has been locked due to inactivity or because of too many failed login attempts
+ To restore your account access, please take the following steps to ensure that your account has not been compromised: 1
+ You can unlock your profile online with your ATM/Visa Check Card number and PIN by following the link bellow
+ To get started, please click the link below: https://login
+personal
+wamu
+com/error/SignOnError
+asp We apologize for any inconvenience this may cause, and appreciate your assistance in helping us maintain the integrity of the entire Washington Mutual system
+ Thank you for attention to this matter
+ Sincerely, The Washington Mutual Team Please do not reply to this e-mail
+ Mail sent to this address cannot be answered
+ For assistance, log in to your Washington Mutual account and choose the "Help" link in the header of any page

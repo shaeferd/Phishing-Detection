@@ -1,0 +1,14 @@
+Subject: ***Urgent Fraud Prevention Group Notice*** Security Center Military Grade Encryption is Only Start At PayPal, we want to increase your security and comfort level with every transaction
+ From our Buyer and Seller Protection Policies to out Verification and Reputation systems, we`ll help to keep you safe
+ We Recently noticed one or more attempts to log in to your PayPal account from foreign IP adress and we have reasons to believe that your account was hijacked by a third party without your authorization If you recently noticed one or more attempts your account while traveling, the unusual log in attempts may have been initiated by you
+ However, if your are rightful holder of the account, click on the link below to log into your account and fallow the intrusctions
+https://www
+paypal
+com/cgi-bin/webscr
+cmd=login-run If you choose to ignore our request, you leave us no choise but not temporaly suspend account
+ We ask that you fallow at least 72 hours for the case to be investigated and we strongly recomanded to verify your account in that time
+If you recived this notice and you are not the authorized account holder, please be aware that it is in violation of PayPal policy to represent oneself as another PayPal user
+Such action may also be in violation of local, national, and/or international law
+ Paypal is misappropriate at the request of law enforment agencies to ensure that perpetrators are prosecuted to the fullest extent of the law
+Thanks for your patiance as we work togheter to protect your account
+Sincerly,PayPal Account Review DepartmentPayPal, an ebay Company * Please do not respond to this e-mail adress as your reply will not be recived

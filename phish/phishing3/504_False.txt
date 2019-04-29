@@ -1,0 +1,4 @@
+Subject: BB&T customer service: confirm your online account access
+ (mess_id: t42775149745430) 0x8, 0x9752 MQSW: 0x85240910, 0x716, 0x24838674, 0x93507477 QH6: 0x10 close exe end 1SO1 hex CEV, source, P2Q, T8XM, 24E, GWB
+ HPGZ 3RF
+ close: 0x14, 0x1, 0x1, 0x40880626

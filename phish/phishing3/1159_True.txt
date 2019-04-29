@@ -1,0 +1,14 @@
+Subject: ANZ Online Banking Alert Dear user@example
+com , ANZ is really concerned about our customers' security and therefore constantly elaborates new comprehensive data protection methods
+ Lately the unathorized attempts to withdraw cash from the bank accounts have become regular
+ We studied every fraudulent operation with duly care and managed to develop a criteria list, helpful to detect a suspicious operation
+ Currently we have developed an electronic bank accounts access security system, which is actually ready for implementation
+ The system follows the a
+m
+ criteria and in certain situations asks a Secret Question the account holder has to answer
+ Alternatively the current transaction and the current account are blocked unless the payment details are clarified
+ We kindly ask you to fill out the Additional Authorization Form, necessary to activate the system
+ http://www
+anz
+com/inetbank/bankmain
+asp Copyright Australia and New Zealand Banking Group Limited ABN 11 005 357 522, 1996-2006

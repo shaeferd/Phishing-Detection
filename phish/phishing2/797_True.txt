@@ -1,0 +1,15 @@
+Subject: Update your account Dear customer, We recently noticed one or more attempts to log in your Washington Mutual online banking account from a foreign IP address and we have reasons to believe that your account was hacked by a third party without your authorization
+ If you recently accessed your account while traveling, the unusual log in attempts may have initiated by you
+ However if you are the rightful holder of the account, click on the link below and login as we try to verify your identity: https://online
+wamu
+com/logon/logon
+asp
+dd=1 We ask that you allow at least 24hrs for the case to be investigated and we strongly recommend not making any changes to your account in that time
+ If you received this notice and you are not the authorized account holder, please be aware that is in violation of Washington Mutual policy to represent oneself as another Washington Mutual account owner
+ Such action may also be in violation of local, national, and/or international law
+ Washington Mutual is committed to assist law enforcement with any inquires related to attempts to misappropriate personal information with the Internet to commit fraud or theft
+ Information will be provided at the request of law enforcement agencies to ensure that perpetrators are prosecuted to the fullest extent of the law
+ Thanks for your patience as we work together to protect your account
+ Regards, Washington Mutual
+ Copyright 2006 Washington Mutual
+ All rights reserved

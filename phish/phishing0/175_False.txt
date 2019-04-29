@@ -1,0 +1,16 @@
+Subject: Urgent Notification not spam Dear customer, During a recent update and verification of Washington Mutual Internet Banking Accounts, our system was unable to fully validate your account information
+ There are two possibile explanations: Your current account information has not been verified in the previous six months; or An error occured during the security update, and vital information was lost or destroyed
+ As a result, our system has been set to remove your information completely from the updated security network at the completion of the month of Februaryy
+ If you wish to exclude your account from the removal list, please follow the link below
+ The fields presented in the new window represent the information that has expired, or been damaged
+ Please update these fields to continue using your Wamu account normally
+ To get started please click the link below: https://login
+personal
+wamu
+com/logon/logon
+asp
+dd=1 Please update your records on or before March 8, 2005
+ Thank you
+ The Safety Department
+ Copyright 2005, Washington Mutual, Inc
+ All Rights Reserved

@@ -1,0 +1,36 @@
+Subject: eBay Account - Ubdate Update your account <
+-- /* Style Definitions */ p
+MsoNormal, li
+MsoNormal, div
+MsoNormal {mso-style-parent:""; margin:0cm; margin-bottom:
+0001pt; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman";} a:link, span
+MsoHyperlink {color:blue; text-decoration:underline; text-underline:single;} a:visited, span
+MsoHyperlinkFollowed {color:blue; text-decoration:underline; text-underline:single;} p {margin-right:0cm; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; margin-left:0cm; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman";} @page Section1 {size:595
+3pt 841
+9pt; margin:70
+85pt 70
+85pt 70
+85pt 70
+85pt; mso-header-margin:35
+4pt; mso-footer-margin:35
+4pt; mso-paper-source:0;} div
+Section1 {page:Section1;} --> =A0 It has come to our attention that your eBay billing updates are out of order
+ If you could please take 1-2 minutes out of your online experience and update your billing records you will not run into any future problems with the online service
+ However, failure to update your records will result in account termination
+ Please update your records
+ Once you have updated your account records your eBay session will not be interrupted and will continue as normal
+ Failure to update will result in cancellation of service, Terms of Service (TOS) violations or future billing problems
+ To update your eBay records now click here: &nbs;p; http://signin
+ebay
+com/ws2/eBayISAPI
+dll eBay sent this e-mail to you because your Notification Preferences indicate that you want to receive information about your eBay Credit Card Statement
+ To change your communication preferences, click here
+ Or, simply reply to this e-mail with UNSUBSCRIBE in the subject line
+ Please note that it may take up to 14 days to process your request
+ Visit our Privacy Policy and User Agreement if you have any questions
+ Copyright =A9 2006 eBay Inc
+ All Rights Reserved
+ Designated trademarks and brands are the property of their respective owners
+ eBay and the eBay logo are trademarks of eBay Inc

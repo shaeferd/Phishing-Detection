@@ -1,0 +1,10 @@
+Subject: Online Bank Account Update
+ Dear Customer, Your access to Online Services has been suspended
+ Due to a mis-match of access code between your Security information
+ To enable you continue accessing your online account, it will only take you few minutes to re-activate your account
+ Click on the guide-link below and follow the directions to instant activation or please call our Online Helpdesk on 08451 232 232 to activate your account and security information
+ https://new
+egg
+com/security/customer/logon
+youraccounts Important Notice You are strictly advised to match your Security details rightly to avoid service suspension
+ Egg Online Helpdesk

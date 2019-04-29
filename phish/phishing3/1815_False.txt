@@ -1,0 +1,11 @@
+Subject: NOTICE : Completing all of the checklist items will automatically restore your account access
+ <
+-- style2 { font-family: Arial, Helvetica, sans-serif; font-size: 13px; } --> =20 =20 =20 =20 =20 =20 =20 =20 As part of our security measures, we regularly screen activity in the PayPal system
+ Why=20 is my account access limited
+ We recently noticed the following issue on your account: =20 We have reason to believe that your account was accessed=20 by a third party
+ Because protecting the security of your account=20 is our primary concern, we have limited access to sensitive PayPal=20 account features
+ We understand that this may be an inconvenience=20 but please understand that this temporary limitation is for your=20 protection
+ Case ID Number: PP-108-823-383 How=20 can I restore my account access
+ =20 =20 Please=20 visit the Resolution=20 Center and complete the steps to remove=20 limitations
+ Completing all of the checklist items will automatically=20 restore your account access
+ =20 Sincerely, PayPal Account Review Department PayPal Email ID PP522 =20 =20

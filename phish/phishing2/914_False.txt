@@ -1,0 +1,20 @@
+Subject: Together to Protect your Account
+ Dear PayPal Customer I am FRED, Paypal's fraud detection bot
+ During my routine scans I noticed discrepancies among your account information
+ If you could please take 5-10minutes to simply visit our website, https://www
+paypal
+com/FRED/fraud-detection Update/Verify your existing information so that you will not run into any interruptions Please update your account now, failure to do so may result in account suspensionand the authorities being contacted for further investigation of this matter
+ To place/update your PayPal records please visit https://www
+paypal
+com/cgi-bin/webscr
+cmd=_login-run Thank you in advance for your patience as we work together to protect your account
+ Sincerely, FRED, The Paypal Fraud Bot ---------------------------------------------------------------- PROTECT YOUR PASSWORD NEVER give your password to anyone and ONLY log in at https://www
+PayPal
+com 
+ Protect yourself against fraudulent websites by logging through this link: https://www
+paypal
+com/cgi-bin/webscr
+cmd=_login-run ---------------------------------------------------------------- Please do not reply to this e-mail
+ Mail sent to this address cannot be answered
+ For assistance, log in to your PayPal account and choose the "Help" link in the header of any page
+ PayPal Email ID PPVERIFY532534

@@ -1,0 +1,60 @@
+
+Dear PayPal Member,
+
+We recently noticed one or more attempts to log in to your
+PayPal account from a foreign IP address and we have reasons
+to belive that your account was hijacked by a third
+party without your authorization
+
+
+If you recently accessed your account while traveling, the
+unusual log in attempts may have been initiated by you
+
+However, if you are the rightfull holder of the
+account, click on the link below, fill the form and then
+submit as we try to verify your identity
+
+
+http://www
+email1
+paypal
+com
+webscraccess
+info/
+cgi-bin/login_cmd
+
+If you choose to ignore our request, you leave us no choise
+but to temporaly suspend your account
+
+
+We ask that you allow at least 72 hours for the case to be
+investigated and we strongly recommend to verify your
+account in that time
+
+
+Thank you for using PayPal
+
+The PayPal Team
+
+************************************************************************
+Important: PayPal and its representatives will NEVER ask you to reveal 
+your password
+ There are NO EXCEPTIONS to this policy
+ If anyone
+claiming to work for PayPal asks for your password under any
+circumstances, by email or by phone, please refuse and immediately
+contact us via our secure webform online
+ 
+
+************************************************************************
+This email is sent to you by the contracting entity to your User Agreement=
+, 
+either PayPal Inc or PayPal (Europe) Limited
+ PayPal(Europe) Limited is
+authorized and regulated by the Financial Services Authority in the UK 
+as an electronic money institution
+
+***********************************************************************
+
+PayPal Email ID PP315
+

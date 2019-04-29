@@ -1,0 +1,13 @@
+Subject: Your Account Access Is Locked We recently reviewed your account, and suspect that your Wells Fargo Card account may have been accessed by an unauthorized third party
+ Protecting the security of your account and of the Wells Fargo network is our primary concern
+ Therefore, as a preventative measure, your profile has been locked due to inactivity or because of too many failed login attempts
+ To restore your card account access, please take the following step to ensure that your account has not been compromised: Validate your Wells Fargo Account Information for any unauthorized withdrawals, and check you account profile to make sure not changes have been made
+ To get started, please click the link below: https://online
+wellsfargo
+com/das/cgi-bin2/session
+cgi
+sessargs We apologize for any inconvenience this may cause, and appreciate your assistance in helping us maintain the integrity of the entire Wells Fargo system
+ Thank you for attention to this matter
+ Sincerely, The Wells Fargo Team Please do not reply to this e-mail
+ Mail sent to this address cannot be answered
+ For assistance, log in to your Wells Fargoaccount and choose the "Help" link in the header of any page

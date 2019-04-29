@@ -1,0 +1,49 @@
+Subject: FPA NOTICE: eBay Account Suspension - Please review your account immediately
+ eBay - New & used electronics, cars, apparel, collectibles, sporting goods & more at low prices 
+buttonsm { FONT-SIZE: 11px; CURSOR: hand } 
+btmbrdr { BACKGROUND: url(http://pics
+ebaystatic
+com/aw/pics/userSitePrefs/bottomDropShadow_20x20
+gif) #ffffe5 repeat-x 50% bottom } 
+rtbrdr { BACKGROUND: url(http://pics
+ebaystatic
+com/aw/pics/userSitePrefs/sideDropShadow_20x20
+gif) #ffffe5 repeat-y left 50% } 
+rt1brdr { BACKGROUND: url(http://pics
+ebaystatic
+com/aw/pics/userSitePrefs/dropshadow2_20x10
+gif) #ffffe5 repeat-y left 50% } 
+lftbrdr { BORDER-LEFT: #f9b709 2px solid; BACKGROUND-COLOR: #feeea3 } 
+lft1brdr { BORDER-LEFT: #f9b709 2px solid; BACKGROUND-COLOR: #ffffe5 } 
+topbrdr { BORDER-TOP: #f9b709 2px solid; BACKGROUND-COLOR: #feeea3 } @media All { IE\:HOMEPAGE { BEHAVIOR: url(#default#homepage) } } Fraud Alert ID:01627435 Help Dear valued eBay member, We regret to inform you that your eBay account has been suspended due to concerns we have for the safety and integrity of the eBay community
+ Per the User Agreement, Section 9, we may immediately issue a warning, temporarily suspend, indefinitely suspend or terminate your membership and refuse to provide our services to you if we believe that your actions may cause financial loss or legal liability for you, our users or us
+ We may also take these actions if we are unable to verify or authenticate any information you provide to us
+ Due to the suspension of this account, please be advised you are prohibited from using eBay in any way
+ This includes the update of your actual account
+ However, failure to update your records will result in account suspension
+ Please update your recordson or beforeSeptember 24, 2005
+ Once you have updated your account If you could please take 5-10 minutes out of your online experience and update your personal records you will not run into any future problems with the online service
+ Once you have updated your account records your eBay session will not be interrupted and will continue as normal
+ To update your eBay records click on the following link: http://cgi1
+ebay
+com/aw-cgi/ebayISAPI
+dll
+UPdate Regards, Safeharbor Department eBay, Inc
+ <
+-- var prop25 =3D 'Inactive CRUR1'; var writeLL =3D 1;var ssIsHP =3D 1;var pageName =3D 'eBay Home Page';var server =3D location
+hostname; server
+toLowerCase(); //--> <
+-- ebay
+oDocument
+oPage
+createConfig =3D function() { var c =3D getStandardAdTableConfig('homePage','homepage
+inactive',['inactive'],3,['234x60','234x60','234x60'],'h',1,0,760,70); c
+addParam('tw','760') c
+addParam('ta','center') return c; } writeAdTable(ebay
+oDocument
+oPage
+createConfig()); //--> Argentina| Australia| Austria| Belgium| Brazil| Canada| China| France| Germany| Hong Kong| India| Ireland| Italy| Korea| Malaysia| Mexico| Netherlands| New Zealand| Philippines| Poland| Singapore| Spain| Sweden| Switzerland| Taiwan| United Kingdom Feedback Forum| eBay Toolbar| Downloads| Gift Certificates| PayPal| Jobs| Affiliates| Developers| The eBay Shop About eBay|Announcements|Security & Resolution Center|Policies|Government Relations|Site Map|;Help Copyright =A9 1995-2005 eBay Inc
+ All Rights Reserved
+Designated trademarks and brands are the property of their respective owners
+Use of this Web site constitutes acceptance of the eBay User Agreement and Privacy Policy
+ eBay official time

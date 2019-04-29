@@ -1,0 +1,15 @@
+Subject: WARNING-IFRAME-Your account at eBay has been suspended My eBay Need Help
+ Dear eBay User, We regret to inform you, that we had to block your eBay account because we have been notified that your account may have been compromised by outside parties
+ Our terms and conditions you agreed to state that your account must always be under your control or those you designate at all times
+ We have noticed some activity related to your account that indicates that other parties may have access and or control of your information in your account
+ Please be aware that until we can verify your identity no further access to your account will be allowed
+As a result,Your access to bid or buy on eBay has been restricted
+To start using your eBay account fully,Please uptake and verify your information by clicking below http://signin
+ebay
+com/aw-c gi/eBayISAPI
+dll
+Verify Regards, eBay Member Service **Please Do Not Reply To This E-mail As You Will Not Receive A Response** Announcements | Regi ster | Safe Trading Tips | Policies | Feedback Forum | About eBay Copyright 
+1995-2003 eBay Inc
+ All Rights Reserved
+Designated trademarks and brands are the property of their respective owners
+Use of this Web site constitutes acceptance of the eBay User Agreement and Privacy Policy

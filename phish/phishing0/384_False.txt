@@ -1,0 +1,30 @@
+Subject: =
+iso-8859-1
+B
+UGF5UGFsIEFjY291bnQgSW5jaWRlbnQgICAgM2Q=
+= Dear valuedPayPalmember: PayPal is committed to maintaining a safe environment for its community of buyers and sellers
+ To protect the security of your account, PayPal employs some of the most advanced security systems in the world and our anti-fraud teams regularly screen the PayPal system for unusual activity
+ Recently, our Account Review Team identified some unusual activity in your account
+ In accordance with PayPal's User Agreement and to ensure that your account has not been compromised, access to your account was limited
+ Your account access will remain limited until this issue has been resolved
+ This is a fraud prevention measure meant to ensure that your account is not compromised
+ In order to secure your account and quickly restore full access, we may require some specific information from you for the following reason: We would like to ensure that your account was not accessed by an unauthorized third party
+ Because protecting the security of your account is our primary concern, we have limited access to sensitive PayPal account features
+ We understand that this may be an inconvenience but please understand that this temporary limitation is for your protection
+ Case ID Number: PP-040-187-541 We encourage you to log in and restore full access as soon as possible
+ Should access to your account remain limited for an extended period of time, it may result in further limitations on the use of your account
+ However, failure to restore your records will result in account suspension
+Please update your recordson or beforeJune 27, 2005
+Once you have updated your account records, yourPayPal session will not beinterrupted and will continue as normal
+ To update your Paypal records click on the following link:https://www
+paypal
+com/cgi-bin/webscr
+cmd=_login-run Thank you for your prompt attention to this matter
+ Please understand that this is a security measure meant to help protect you and your account
+ We apologize for any inconvenience
+ Sincerely, PayPal Account Review Department PayPal Email ID PP522 Accounts Management As outlined in our User Agreement, PayPal willperiodically send you information about site changes and enhancements
+ Visit our Privacy Policy and User Agreement if you have any questions
+http://www
+paypal
+com/cgi-bin/webscr
+cmd=p/gen/ua/policy_privacy-outside

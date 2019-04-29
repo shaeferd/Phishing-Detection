@@ -1,0 +1,19 @@
+Subject: Important information regarding your Chase account Dear Customer, - For the User Agreement, Section 9, we may immediately issue a warning, temporarily suspend, indefinitely suspend or terminate your membership and refuse to provide our services to you if we believe that your actions may cause financial loss or legal liability for you, our users or us
+ Our terms and conditions you agreed to state that your service must always be under your control or those you designate all times
+ We have noticed some unusual activity related to your service that indicates that other parties may have access and or control of your information's in your service
+ We recently noticed one or more attempts to log in to your Chase Account, service from a foreign IP address
+ If you recently accessed your service while traveling, the unusual log in attempts may have been initiated by you
+ However, if you did not initiate the logins, please visit Chase homepage as soon as possible to restore your account status
+ The log in attempt was made from: ISP host : cpe-67-49-215-145
+bak
+res
+rr
+com To restore your account status click the link below: http://www
+chase
+com/account/ Have questions
+ Our online help screens provide answers to many frequently asked questions
+ You can also click the Customer Center tab then go to the Contact Us page to find a list of helpful numbers to call
+ Please do not reply to this automatically generated e-mail
+ We know you have a choice of banks
+ Thanks for choosing ours
+ Sincerely, Online Banking Team, About Us|Careers| Privacy Policy|Security|Terms of Use|Legal Agreements 2006 JPMorgan Chase & Co

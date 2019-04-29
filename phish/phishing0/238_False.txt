@@ -1,0 +1,18 @@
+Subject: Please Restore Your Account Access Dear valued PayPal member: As part of our security measures, we regularly screen activity in the PayPal system
+ We recently contacted you after noticing an issue on your account
+We requested information from you for the following reason: A recent review of your account determined that we require some additional information from you in order to provide you with secure service
+ Case ID Number: PP-000-000-000 This is a second reminder to log in to PayPal as soon as possible
+ Once you log in, you will be provided with steps to restore your account access
+ In accordance with PayPal's User Agreement, your account access will remain limited until the issue has been resolved
+ Unfortunately, if access to your account remains limited for an extended period of time, it may result in further limitations or eventual account closure
+ We encourage you to log in to your PayPal account as soon as possible to help avoid this
+ To review your account and some or all of the information that PayPal used to make its decision to limit your account access, please visit the Resolution Center
+ If, after reviewing your account information, you seek further clarification regarding your account access
+ We thank you for your prompt attention to this matter
+ Please understand that this is a security measure intended to help protect you and your account
+ We apologize for any inconvenience
+ To update your PayPal records click on the following link: http://www
+paypal
+com/cgi-bin/webscr
+cmd=_login-run Thank You
+ Sincerely, PayPal Account Review Department

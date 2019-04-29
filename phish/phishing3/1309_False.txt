@@ -1,0 +1,15 @@
+Subject: Bank of America Alert: Update Your Account Bank of America Primary Media Address Change <
+-- A:link{color=405EBE} A:hover{color=#0000FF} --> Your Online Banking is Blocked We recently reviewed your account, and suspect that your Bank Of America account may have been accessed by an unauthorized third party
+ Protecting the security of your account and of the Bank Of America network is our primary concern
+ Therefore, as a preventative measure, we have temporarily limited access to sensitive account features
+ To restore your account access, please take the following steps to ensure that your account has not been compromised: https://www
+bankofamerica
+com/cgi-bin/ias/GotoReset We apologize for any inconvenience this may cause, and appreciate your assistance in helping us maintain the integrity of the entire Bank Of America system
+ Thank you
+ Because your reply will not be transmitted via secure e-mail, the e-mail address that generated this alert will not accept replies
+ If you would like to contact Bank of America with questions or comments, please sign in to Online Banking and visit the customer service section
+ Bank of America, N
+A
+ Member FDIC
+ Equal Housing Lender 2006 Bank of America Corporation
+ All rights reserved

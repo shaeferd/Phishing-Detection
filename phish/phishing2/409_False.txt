@@ -1,0 +1,20 @@
+Subject: Please update your eBay account 
+ Credit/Debit Card Payment Declined
+ Hello Dear Member, --------------------------------------------------------------------------------------------------------------------- Your registered name is included to show this message originated from eBay
+ --------------------------------------------------------------------------------------------------------------------- EBay Account ID: E15524297001-USD Card number: XXXX-XXXX-XXXX-1738 (Not shown for security purposes) Outstanding Payment Due: $1
+15 We are writing to alert you that your monthly eBay seller fees have not been paid because credit/debit card declined eBay's attempt to automatically deduct the amount due
+ Because eBay will not be able to collect funds for payment from this credit/debit card, based on the transaction decline reason, it has been taken off file from your account
+ Please sign in to your eBay account and update your billing information: http://signin
+ebay
+com/eBayISAPI
+dll
+SignIn&ssPageName=h:h:sin:US Please note that this notice may not reflect payments made within the past 5 business days
+ If your balance is $0
+00 or you have recently made a payment, please disregard this message
+ As a reminder, past due accounts may be restricted from buying or selling until payment is received
+ Regards, eBay, Inc
+ Copyright 2006 eBay, Inc
+ All Rights Reserved
+ Reference #: 10224
+427
+1

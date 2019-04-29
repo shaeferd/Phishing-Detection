@@ -1,0 +1,35 @@
+Subject: Your Visa card will become unavailable for online transactions since the 1st of September
+  <
+-- style1 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; } style2 {font-family: Verdana, Arial, Helvetica, sans-serif} a:link { text-decoration: none; color: #0000FF; } a:visited { text-decoration: none; } a:hover { text-decoration: none; } a:active { text-decoration: none; } body { background-color: #FFFFFF; } style3 {color: #666666} style4 { color: #333333; font-weight: bold; } style6 {color: #666666; font-weight: bold; } --> &n;bsp; #message 
+dummy { } #message { FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message TD { FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message LI { LINE-HEIGHT: 120% } #message UL
+ppsmallborder { MARGIN: 10px 5px 10px 20px } #message LI
+ppsmallborderli { MARGIN: 0px 0px 5px } #message UL
+pp_narrow { MARGIN: 10px 5px 0px 40px } #message HR
+dotted { BORDER-RIGHT: #fff; BORDER-TOP: #fff; MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; BORDER-LEFT: #fff; WIDTH: 100%; BORDER-BOTTOM: #ccc 2px dotted } #message 
+pp_label { FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+pp_serifbig { FONT-WEIGHT: bold; FONT-SIZE: 20px; COLOR: #000000; FONT-FAMILY: serif } #message 
+pp_serif { FONT-SIZE: 16px; COLOR: #000000; FONT-FAMILY: serif } #message 
+pp_sansserif { FONT-SIZE: 16px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+pp_heading { FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #003366; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+pp_subheadingeoa { FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+pp_subheading { FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #003366; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+pp_sidebartext { FONT-SIZE: 11px; COLOR: #003366; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+pp_sidebartextbold { FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #003366; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+pp_footer { FONT-SIZE: 11px; COLOR: #aaaaaa; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+pp_button { FONT-WEIGHT: 400; FONT-SIZE: 13px; COLOR: #000000; BORDER-TOP-STYLE: outset; FONT-FAMILY: verdana,arial,helvetica,sans-serif; BORDER-RIGHT-STYLE: outset; BORDER-LEFT-STYLE: outset; BACKGROUND-COLOR: #cccccc; BORDER-BOTTOM-STYLE: outset } #message 
+pp_smaller { FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+pp_smallersidebar { FONT-SIZE: 10px; COLOR: #003366; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+ppem106 { FONT-WEIGHT: 700 } Dear Visa Customer, This email is to inform you, that we had to block your service access because we have been notified that your service may have been compromised by outside parties
+ Our terms and conditions you agreed to state that your service must always be under your control or those you designate all times
+ We have noticed some unusual activity related to your service that indicates that other parties may have access and or control of your informations in your service
+ To get started,please visit the link below: https://usa
+visa
+com/personal/security/vbv/index
+html Important information from Visa: As the Internet and information technology enable us to expand our services, we are committed to maintaining the trust customers have placed in us for protecting the privacy and security of information we have about you
+ In order to protect your information against unauthorized access, identity theft and service fraud we earnestly ask you to update your profile
+ This e-mail contains information directly related to your service with us,other services to whith you have subscribed, and/or any application you may have submitted
+ Visa and its service providers are committed to protecting your privacy
+ Thanks for your patience as we work together to protect your service
+ Regards, Visa Corp
+ Copyright =A9 1999-2005
+ All rights reserved

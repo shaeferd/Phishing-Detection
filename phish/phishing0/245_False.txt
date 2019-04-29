@@ -1,0 +1,9 @@
+Subject: *** Security Issues *** Dear Regions Bank customer This message contains graphics
+ If you do not see the graphics, click here to view
+ Dear client of Regions Bank, Technical services of the Regions Bank are carrying out a planned software upgrade
+ We earnestly ask you to visit the following link to start the procedure of confirmation on customers data
+ To get started, please click the link below: https://online
+regions
+com/ibsregions/cmserver/users/default/confirm
+cfm This instruction has been sent to all bank customers and is obligatory to fallow
+ Thank you, Customers Support Service

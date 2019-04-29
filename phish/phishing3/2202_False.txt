@@ -1,0 +1,8 @@
+Subject: Confirm Your E-Gold Information Dear E-gold customer, Your account has been paid via e-gold shopping cart interface (SCI) : Payement Amount 125
+00 USD Gold (Metal ID 1) e-gold batch number: 77900203 Payer e-gold account #1889155 Ounces (Troy) paid: 0
+208231 US Dollars per Ounce: 653
+60 Payement Hash: 737c76859E6AF73DSER754A9652C9744 Payment Receive Fee (ounces): 0
+000008 Timestamp (GMT): 1179874100 Version 2 Payment Hash: E65A1A1EE7449C8A33E7550EC499FE1F (This mail automatically generated) You can view your new account balance at: https://www
+e-gold
+com/acct/login
+html

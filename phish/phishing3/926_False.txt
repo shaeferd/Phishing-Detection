@@ -1,0 +1,36 @@
+Subject: Change of E-mail Requested on your eBay Account 
+ Change of E-mail Requested on your eBay Account
+ #message 
+SectionTitle {font-size: small; font-family: arial, sans-serif; font-weight:bold } #message 
+SmallTitle {font-size: x-small; font-family: arial, sans-serif; font-weight:bold } #message 
+SectionBody {font-size: x-small; font-family: arial, sans-serif} #message 
+DetailTable, #message 
+DetailTable th {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal } #message 
+Title {font-size: medium; font-family: verdana, arial, sans-serif} #message 
+BodyFont {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal} #message 
+BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif; font-weight:bold} #message 
+SmallBody {font-size: xx-small; font-family: arial, sans-serif; font-weight:normal; margin-top: 8 px; margin-bottom : 6 px} #message 
+Separator { COLOR: #CCCCCC; height: 1px} #message 
+HighlightedSeparator { COLOR: #FFCC00; height: 1px} #message 
+FooterSeparator { COLOR: #CCCCCC; height: 1px} #message 
+Footer, #message 
+Footer p {font-size: xx-small; font-family:arial, sans-serif; color:#666666; margin-top: 2 px; ma rgin-bottom: 8 px} #message 
+SmallPara, #message 
+SmallParap {margin-top: 8 px; margin-bottom: 6 px} #message 
+ItemTitle {font-size: 10pt; font-family: arial, sans -serif; font-weight:bold } Change of E-mail requested on your eBay Account
+ Dear eBay Member: Change of email has been requested from 66
+219
+66
+31 For the User Agreement, Section 9 , we may immediately issue a warning , temporarily suspend , indefinitely suspend or terminate your membership and refuse to provide our services to you if we believe that actions may cause financial loss or legal liability for you , our users or us
+ We may also take these actions if we are unable to verify or authenticate any information you provide to us
+ We regret to inform you that your eBay account could be suspended if you don`t re-update your account information
+ To resolve this problems please use the link below and re-enter your account information
+ If your problems could not be resolved your account wull be suspended for a period of 24 hours, after this period your account will be terminated
+Due to the suspension of this account, please be advised you are prohibited from using eBay in any way
+ This includes the registering of a new account
+Please note that this suspension does not relieve you of your agreed-upon obligation to pay any fees you may owe to eBay
+ To update your record please click here: It is highly recomended that you click on the link and select "Open in new window" option as some mail client will not allow you to proceed
+ 
+ We apologize in advance for any inconvenience this may cause you and we would like to thank you for your cooperation as we review this matter
+ eBay will not request personal data (password , credit card/bank numbers, and so on)on this email Thank you for using eBay
+ eBay

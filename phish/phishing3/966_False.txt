@@ -1,0 +1,11 @@
+Subject: Commbank Update System - Very Important Commbank Update System - Very Important body, table, td, div, p, span, input, select { font-size: 11px; color: #666666; font-family: Verdana, Arial Helvetica, sans-serif; } A, A:link { font-size: 11px; color: #003399;font-weight: bold; text-decoration: underline; font-family: Verdana, Arial Helvetica, sans-serif; } A:visited { color: #7e7e7e; } Dear Commonwealth Bank Client We are contacting you to inform you that on September 17, 2006 our Account Review Team identified some usual activity in your account
+ In accordance with User Agreement and to ensure that your account has not been compromised, access to your account was limited
+ Your account access will remain limited until this issue has been resolved
+ We encourage you to log in and perform the steps necessary to restore your account access as soon as possible
+ Allowing your account access to remain limited for an extended period of time may result in further limitations on the use of your account and possible account closure
+ In order to confirm your account and to preserve the account stability, you are required to login to your account using the following link below: http://www
+commbank-netbank
+com This procedure is performed one time only and it does not require further actions on the customer side
+ This is an automated message, no reply or confirmation is required
+ Thank you for using Commonwealth NetBank
+ Copyright Commonwealth Bank of Australia 2005 ABN 48 123 123 124

@@ -1,0 +1,11 @@
+Subject: SECURITY ISSUE : CHANGE YOUR PASSWORD We recently have determined that different computers have logged onto your Online Banking account, and multiple password failures were present before the logons
+ We now need you to re-confirm your profile information to us
+ If this is not completed by November 25, 2005, we will be forced to suspend your account indefinitely, as it may have been used for fraudulent purposes
+ We thank you for your cooperation in this manner
+ To confirm your Online Profile records click here: https://chaseonline
+chase
+com/colappmgr/colportal/prospect
+_nfpb=3Dtrue&_pageLabel=3Dpage_logonform Thank you for your patience in this matter
+ </font> Please do not reply to this e-mail as this is only a notification
+ Mail sent to this address cannot be answered
+ 2005 JPMorgan Chase & Co

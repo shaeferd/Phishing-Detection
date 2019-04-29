@@ -1,0 +1,81 @@
+Subject: Mesage from ebay member <
+-- var bluecoat_allow_popup false; var bluecoat_original_open window
+open; window
+open bluecoat_gated_open; function bluecoat_gated_open(url, name, parms) { if (bluecoat_allow_popup) { // A navigation event is restricted to opening at most one window
+ bluecoat_allow_popup false; return bluecoat_original_open(url, name, parms); } else if (window
+event && window
+event
+shiftKey) { // Popups can open freely while the shift key is held down
+ // Only works in IE, and even then, not inside a Java app
+ return bluecoat_original_open(url, name, parms); } else { // alert("blocked popup ('" + url + "', '" + name + "')"); window
+status='blocked popup window -- use CTRL Refresh to see all popups'; return null; } } function bluecoat_stop_error() { return true; } window
+onerror bluecoat_stop_error; function bluecoat_fixhandler(elem, attr) { var h elem
+getAttribute(attr); if (h 
+null) { if (typeof(h) ="string") { if (h
+substring(0,11) ="javascript:") { if (h
+substring(11,13) 
+"//") { elem
+setAttribute(attr, "javascript:bluecoat_allow_popup=true;" + h
+substring(11) + ";void(bluecoat_allow_popup=false)"); } } else { elem
+setAttribute(attr, "bluecoat_allow_popup=true;try{\n" + h + "\n}finally{bluecoat_allow_popup=false;}"); } } else { elem
+setAttribute(attr, function() { bluecoat_allow_popup true; var result h
+call(elem); bluecoat_allow_popup false; return result; }); } } } function bluecoat_fixpopups() { var i; var j; var ls document
+links; for (i 0; i < ls
+length; ++i) { var link ls[i]; if (link
+protocol ="javascript:" && link
+href
+substring(11,13) 
+"//") { link
+href "javascript:bluecoat_allow_popup=true;" + link
+href
+substring(11) + ";void(bluecoat_allow_popup=false)"; } bluecoat_fixhandler(link, "onclick"); bluecoat_fixhandler(link, "onmousedown"); bluecoat_fixhandler(link, "onmouseup"); } var fs document
+forms; for (i 0; i < fs
+length; ++i) { var f fs[i]; bluecoat_fixhandler(f, "onsubmit"); var es f
+elements; for (j 0; j < es
+length; ++j) { bluecoat_fixhandler(es[j], "onclick"); bluecoat_fixhandler(es[j], "onmousedown"); bluecoat_fixhandler(es[j], "onmouseup"); } } } //--> Question about Item -- Respond Now eBay sent this message on behalf of an eBay member via My Messages
+ Responses sent using email will go to the eBay member directly and will include your email address
+ Click the Respond Now button below to send your response via My Messages (your email address will not be included)
+ Question from seller Item: (6436472319) This message was sent while the listing was active
+ jell is a potential buyer
+ hi, could i be placed on your buyers list, so i can bid on your item
+ many thanks Respond to this question in My Messages
+ Item Details Item number: 6436472319 End date: 29-July-0618:56:12 BST View item description: htps://cgi
+ebay
+co
+uk/ws/eBayISAPI
+dll
+ViewItem&item=6436472319&sspagename=ADME:B:AAQ:UK:1 Thank you for using eBay http://www
+ebay
+co
+uk/ Marketplace Safety Tip Always remember to complete your transactions on eBay - it's the safer way to trade
+Is this message an offer to buy your item directly through email without winning the item on eBay
+ If so, please help make the eBay marketplace safer by reporting it to us
+ These external transactions may be unsafe and are against eBay policy
+ Learn more about trading safely
+ Is this email inappropriate
+ Does it breach eBay policy
+ Help protect the community by reporting it
+ Learn how you can protect yourself from spoof (fake) emails at:https://pages
+ebay
+co
+uk/education/spooftutorial This eBay notice was sent to mihaisellers0@yahoo
+com on behalf of another eBay member through the eBay platform and in accordance with our Privacy Policy
+ If you would like to receive this email in text format, change your notification preferences
+ See our Privacy Policy and User Agreement if you have questions about eBay's communication policies
+Privacy Policy: https://pages
+ebay
+co
+uk/help/policies/privacy-policy
+htmlUser Agreement: https://pages
+ebay
+co
+uk/help/policies/user-agreement
+html Copyright 2005 eBay, Inc
+ All Rights Reserved
+Designated trademarks and brands are the property of their respective owners
+eBay and the eBay logo are registered trademarks or trademarks of eBay, Inc
+ <
+-- bluecoat_old_onload window
+onload; window
+onload function() { if (bluecoat_old_onload 
+null) { try { bluecoat_old_onload(); } catch (e) { } } bluecoat_fixpopups(); }; //-->

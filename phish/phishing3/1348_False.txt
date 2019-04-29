@@ -1,0 +1,24 @@
+Subject: Your opinion counts <
+-- 
+page { background: #FFFFFF; color: #000000; } 
+tborder { background: #FFFFFF; color: #000000; border: 1px solid #833750; } td { font: 10pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif; } 
+alt1 { background: #FFF5F5; color: #000000; } 
+smallfont { font: 11px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif; } 
+thead { background: #995C70 url('gradient_thead
+gif') repeat-x top left; color: #FFF7F7; font-style:normal; font-variant:normal; font-weight:bold; font-size:11px; font-family:tahoma, verdana, geneva, lucida, lucida grande, arial, helvetica, sans-serif } td
+thead { padding: 4px; } 
+borderwrap{ /* this will affect the outlining border of all the tables and boxes through-out the skin
+ */ background: #FFF; border: 1px solid #072A66; padding: 0px; margin: 0px; } 
+ipbtable { width:100% } table
+ipbtable { /* required for text in tables, because tables do not inherit from body */ background: transparent; color: #222; font-size: 11px; line-height: 135%; } 
+post1{ background: #F5F9FD; } 
+ipbtable td{ /* gives all tables faux cellpadding of 5px */ padding: 5px; } 
+postcolor{ font-size: 12px; line-height: 160%; } 
+quotemain{ border-right:1px dotted #000; border-bottom:1px dotted #000; background:#FAFCFE; border-left:4px solid #8394B2; border-top:0px none; color: #465584; padding: 4px; margin-left:auto; margin-right:auto; margin-top:0; margin-bottom:8px } --> January 19, 2007 Dear eBay Community: We have decided to close eBay on 27 February 2007 due to the repeatedly abuses on our company
+ We ask your opinion on this matter and we want to know if you agree with us or disagree 
+Below you can make your choice
+ If you want eBay to stay open click YES otherwise click NO 
+Your opinion is very important to us
+ If 50% of the eBay members vote positive eBay stays open otherwise it will be closed
+ Regards, eBay Team YES NO eBay sent this message to you based on your good account standing
+ Your registered name is included to show this message originated from eBay

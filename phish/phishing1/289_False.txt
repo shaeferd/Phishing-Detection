@@ -1,0 +1,19 @@
+Subject: Your account has been limited  PayPal is committed to maintaining a safe environment for its community of buyers and sellers
+ To protect the security of your account, PayPal employs some of the most advanced security systems in the world and our anti-fraud teams regularly screen the PayPal system for unusual activity
+ We are contacting you to inform you that on 29th Sep 2005 our Account Review Team identified some unusual activity in your account
+ In accordance with PayPal's User Agreement and to ensure that your account has not been compromised, access to your account has been limited
+ Your account access will remain limited until this issue has been resolved
+ Why has my account access become limited
+ Your account access has become limited for the following reason(s): 13th SEP 2005: We believe your account was accessed by an unauthorized third party
+ (Your case ID for this reason is PP-069-848-295
+) We understand that this may be an inconvenience but please understand that this temporary limitation is for your protection
+ How can I restore my account access
+ By logging into your PayPal account at https://www
+paypal
+com/us/cgi-bin/webscr and you will be directed to the verifying page
+ Completing all the items will automatically restore your account access
+ Please do not reply to this e-mail
+ Mail sent to this address cannot be answered
+ Copyright 2005 PayPal Inc
+ All rights reserved
+ Designated trademarks and brands are the property of their respective owners

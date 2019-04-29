@@ -1,0 +1,9 @@
+Subject: Your account has been selected to be verified
+ PayPal <
+-- hr
+dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;} --> Dear PayPal Member We are currently performing regular maintenance of our security measures
+ Your account has been selected to be verified andyou will now have to be taken to a series of verification process to validate your identity, if you want to continue to use your account normally
+ If we don't receive any response from you we are allowed to suspend your account
+ A verification page will appear after you Log In into your account
+ Protecting the security of your account is our primary concern, and we apologize for any inconvenience this may cause Please Click Here and Log In Copyright 1999-2007 PayPal
+ All rights reserved

@@ -1,0 +1,31 @@
+Subject: PayPal Account Security Measures dummy {} BODY, TD {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} LI {line-HEIGHT: 120%;} UL
+ppsmallborder {margin:10px 5px 10px 20px;} LI
+ppsmallborderli {margin:0px 0px 5px 0px;} UL
+pp_narrow {margin:10px 5px 0px 40px;} hr
+dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;} pp_label {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;font-weight: bold;color: #000000;} pp_serifbig {font-family: serif;font-size: 20px;font-weight: bold;color: #000000;} pp_serif{font-family: serif;font-size: 16px;color: #000000;} pp_sansserif{font-family: verdana,arial,helvetica,sans-serif; font-size: 16px;color: #000000;} pp_heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;} pp_subheadingeoa {font-family: verdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: bold;color: #000000;} pp_subheading {font-family: verdana,arial,helvetica,sans-serif;font-size: 16px;font-weight: bold;color: #003366;} pp_sidebartext {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #003366;} pp_sidebartextbold {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color: #003366;} pp_footer {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #aaaaaa;} pp_button {font-size: 13px; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset; color:#000000; BACKGROUND-color: #cccccc;} pp_smaller {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #000000;} pp_smallersidebar {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;} ppem106 {font-weight: 700;} ACCOUNT LIMITED PayPal is committed to maintaining a safe environment for its community of buyers and sellers
+ To protect the security of your account, PayPal employs some of the most advanced security systems in the world and our anti-fraud teams regularly screen the PayPal system for unusual activity
+ We are contacting you to inform you that on 03-01-06 our Account Review Team identified some unusual activity in your account
+ In accordance with PayPal's User Agreement and to ensure that your account has not been compromised, access to your account was limited
+ Your account access will remain limited until this issue has been resolved by updating your billing information
+ Our system requires further account verification
+ Case ID Number: PP-135-606-368 We encourage you to log in and perform the steps necessary to restore your account access as soon as possible
+ Allowing your account access to remain limited for an extended period of time may result in further limitations on the use of your account and possible account closure
+ Click here to restore your account You can also confirm your identity by logging into your PayPal account at https://www
+paypal
+com/us/
+ and you will be directed to the verifying page
+ Thank you for using PayPal
+ The PayPal Team Please do not reply to this e-mail
+ Mail sent to this address cannot be answered
+ For assistance, log in to your PayPal account and choose the "Help" link in the footer of any page
+ To receive email notifications in plain text instead of HTML, update your preferences here
+ PayPal Email ID PP6246 Protect Your Account Info Make sure you never provide your password to fraudulent websites
+ To safely and securely access the PayPal website or your account, open a new web browser (e
+g
+ Internet Explorer or Netscape) and type in the PayPal URL (https://www
+paypal
+com/) to be sure you are on the real PayPal site
+PayPal will never ask you to enter your password in an email
+ For more information on protecting yourself from fraud, please review our Security Tips at https://www
+paypal
+com/securitytips Protect Your Password You should never give your PayPal password to anyone, including PayPal employees

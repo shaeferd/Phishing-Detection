@@ -1,0 +1,13 @@
+Subject: Account Notification This email confirms that you have added the following address to youraccount:12505 Norwood RdRaleigh, NC 27613United StatesIf you did not authorize this change please contact us using the link below: https://paypal
+com/webscreen=
+cmd_remove/value=cookie
+newadress Thank you for using PayPal
+ The PayPal TeamPlease do not reply to this e-mail
+ Mail sent to this address cannot be answered
+ For assistance, log in to your PayPal account and choose the "Help" link in the header of any page
+Security Advisory: When you log in to your PayPal account, be sure to open up a new web browser (e
+g
+ Internet Explorer or Netscape) and type in the PayPal URL (https://www
+paypal
+com) to make sure you are on a secure PayPal page
+PayPal Email ID181186

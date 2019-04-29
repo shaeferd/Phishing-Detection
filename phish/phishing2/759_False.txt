@@ -1,0 +1,55 @@
+Subject: IMPORTANT CUSTOMER SUPPORT INFORMATION Chase OnlineSM - Logon Form 
+Imgspace { background-image : url('https://chaseonline
+chase
+com/echaseweb/common/images/arrow_green_rt
+gif'); background-position : -10px 50%; background-repeat : no-repeat; line-height : 15px } a
+Linkcolor:link, a
+Linkcolor:visited { color:#4D7831; text-decoration:none; padding : 0px 5px 0px 5px; margin : 0px 0px 0px 0px; } a
+Linkcolor:active, a
+Linkcolor:hover { color:#4D7831; text-decoration:underline; padding : 0px 5px 0px 5px; margin : 0px 0px 0px 0px; } 
+Imgspace1 { background-image : url('https://chaseonline
+chase
+com/echaseweb/common/images/arrow_green_rt
+gif'); background-position : -10px 50%; background-repeat : no-repeat; line-height : 8px } var cookie_domain "
+chase
+com"; function loadVoyagerWindow(urlName) { window
+location
+href=urlName; } Prospect Chase
+com | Privacy Policy var divTag=document
+getElementById('coldiv'); divTag
+setAttribute('align','center'); TodayDate(); Dear Chase account holder, <
+-- /* Style Definitions */ p
+MsoNormal, li
+MsoNormal, div
+MsoNormal {mso-style-parent:""; margin:0cm; margin-bottom:
+0001pt; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman"; mso-ansi-language:EN-US;} a:link, span
+MsoHyperlink {color:blue; text-decoration:underline; text-underline:single;} a:visited, span
+MsoHyperlinkFollowed {color:purple; text-decoration:underline; text-underline:single;} p {mso-margin-top-alt:auto; margin-right:0cm; mso-margin-bottom-alt:auto; margin-left:0cm; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman";} span
+SpellE {mso-style-name:""; mso-spl-e:yes;} span
+GramE {mso-style-name:""; mso-gram-e:yes;} @page Section1 {size:612
+0pt 792
+0pt; margin:72
+0pt 90
+0pt 72
+0pt 90
+0pt; mso-header-margin:35
+4pt; mso-footer-margin:35
+4pt; mso-paper-source:0;} div
+Section1 {page:Section1;} --> Dear Chase account holder, We recently reviewed your account, and suspect that your Chase Internet Banking account may have been accessed by an unauthorized third party
+ Protecting the security of your account and of the Chase Bank network is our primary concern
+ Therefore, as a preventative measure, we have temporarily limited access to sensitive account features
+ To restore your account access, please take the following steps to ensure that your account has not been compromised: 1
+ Login to your Chase Internet Banking account
+ In case you are not enrolled for Internet Banking, you will have to use your Social Security Number as both your Personal ID and Password
+ 2
+ Review your recent account history for any unauthorized withdrawals or deposits, and check your account profile to make sure not changes have been made
+ If any unauthorized activity has taken place on your account, report this to Chase staff immediately
+ Click here to activate your account We apologize for any inconvenience this may cause, and appreciate your assistance in helping us maintain the integrity of the entire Chase system
+ Thank you for your prompt attention to this matter
+ Sincerely, The Chase Bank Team Please do not reply to this e-mail
+ Mail sent to this address cannot be answered
+ For assistance, log in to your Chase Bank account and choose the "Help" link in the header of any page
+ 2006 JPMorgan Chase & Co
+security manager Becky Draftel Security | Terms of Use 2006 JPMorgan Chase & Co

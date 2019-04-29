@@ -1,0 +1,6 @@
+Subject: Bank of America alert : Sign-in Error : Verify Your Account Information Bank of America <
+-- style1 { font-family: Arial, Helvetica, sans-serif; font-weight: bold; color: #CC0000; font-size: 18px; } style2 {font-family: Arial, Helvetica, sans-serif} style4 {font-family: Arial, Helvetica, sans-serif; font-size: 18px; } style5 {font-size: 12px} style6 {font-family: Arial, Helvetica, sans-serif; font-size: 12px; } style7 {font-size: 10px} style8 {color: #333333} style10 {font-size: 10px; color: #333333; } --> Your Online Banking is Blocked -------------------------------------------------------------------------------- Online Banking: 26/3/2007 Due to the number of incorrect login attempts, your Bank of America Online Banking Account has been locked for your security on 26/3/2007
+ You must reset your Passcode before you can enter Online Banking
+ You can reset your Passcode by Click Here and selecting the "Reset passcode" link And Updtate Your Account information Thank you for your patience as we work together to protect your account
+ Sincerely, -------------------------------------------------------------------------------- Bank of America 2007 Bank of America Corporation
+ All rights reserved X-HSTID:24475

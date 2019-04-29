@@ -1,0 +1,92 @@
+Subject: Update And Verify Your PayPal Account  #message 
+dummy {} #message, #message TD {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} #message LI {line-height: 120%;} #mesage UL
+ppsmallborder {margin:10px 5px 10px 20px;} #message LI
+ppsmallborderli {margin:0px 0px 5px 0px;} #message UL
+pp_narrow {margin:10px 5px 0px 40px;} #message hr
+dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;} #message 
+pp_label {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;font-weight: bold;color: #000000;} #message 
+pp_serifbig {font-family: serif;font-size: 20px;font-weight: bold;color: #000000;} #message 
+pp_serif{font-family: serif;font-size: 16px;color: #000000;} #message 
+pp_sansserif{font-family: verdana,arial,helvetica,sans-serif; font-size: 16px;color: #000000;} #message 
+pp_heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;} #message 
+pp_subheadingeoa {font-family: verdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: bold;color: #000000;} #message 
+pp_subheading {font-family: verdana,arial,helvetica,sans-serif;font-size: 16px;font-weight: bold;color: #003366;} #message 
+pp_sidebartext {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #003366;} #message 
+pp_sidebartextbold {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color: #003366;} #message 
+pp_footer {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #aaaaaa;} #message 
+pp_button {font-size: 13px; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset; color:#000000; background-color: #cccccc;} #message 
+pp_smaller {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #000000;} #message 
+pp_smallersidebar {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;} #message 
+ppem106 {font-weight: 700;} Confirm Your Bank Account This is a reminder that we need you to confirm your bank account
+ This bank account was added to your PayPal account and will be end in 15/06/2005
+ How To Confirm Your Bank Account PayPal has made two small deposits into the bank account you registered
+ These deposits should appear in your bank account in 2-4 business days
+ Step 1:Call your bank, use your ATM statement, or go to your online bank account to find out what the exact amounts of these two deposits are
+ You can also check your paper bank statement for these amounts
+ They will be listed as deposits from PayPal
+ Step 2:Go to https://www
+paypal
+com/cgi-bin/webscr
+cmd=login-run log in to your PayPal account
+ Complecte your "Bank Account" information and "Activate Account"
+ Why Confirm Your Bank Account
+ It increases securityWhen you enter the two amounts that PayPal deposited into your bank account, you confirm that you are the owner of this bank account
+ This is because only you as the owner would have access to the exact amounts of the 2 deposits PayPal sent
+ This process increases the safety of the entire PayPal payments network
+ Your PayPal account will become verifiedYour PayPal account becomes verified once you confirm your bank account
+ With a verified account, there is no limit on the amount of money you can send through PayPal when you choose to make these payments using funds from your bank account
+ Your $2,000
+00 USD sending limit will be removedOnce you confirm your bank account, your sending limit will be lifted and there will be no limit on the amount of money you can send through PayPal using your bank account funds
+ Protect Your Password Never give your password to anyone and only log in at https://www
+paypal
+com/cgi-bin/webscr
+cmd=login-run 
+ If anyone asks for your password, please follow the Security Tips instructions on the PayPal website
+ Thank you for using PayPal
+ The PayPal Team Please do not reply to this e-mail
+ Mail sent to this address cannot be answered
+ For assistance, log in to your PayPal account and choose the "Help" link in the footer of any page
+To receive email notifications in plain text instead of HTML, update your preferences here
+ PayPal Email ID PP432 Phone Numbers of Major U
+S
+ Banks To assist you in confirming your bank account, we have provided the following list of major U
+S
+ banks, their customer service phone numbers and URLs
+ Please contact your bank to find out the exact amounts that PayPal deposited into your bank account:Bank of America http://www
+bankamerica
+com Arizona, Arkansas, Iowa, Illinois, Kansas, Missouri, Nevada, New Mexico, Oklahoma:1-800-944-0404California1-800-237-8052Florida, Georgia1-800-299-2265Idaho, Washington1-800-442-6680Seattle1-206-358-6299Maryland1-800-235-8844North Carolina, South Carolina1-800-333-6262Oregon: 1-800-873-2632Tennessee1-800-999-1642Texas1-800-247-6262Virginia1-800-880-5454Washington, DC1-800-337-2324All Other States1-800-880-5454 Bank One http://www
+bankone
+com Arizona1-800-366-2265Colorado1-800-372-2651Florida1-800-225-5623Illinois - Chicago Metro1-888-963-4000Illinois - Outside of Chicago Metro1-800-452-3141Indiana1-800-234-7350Kentucky1-800-542-2218Louisiana1-800-777-8837Michigan1-800-225-5623Ohio1-800-310-1111Oklahoma1-800-995-0712Texas1-800-695-1111Utah1-800-877-0608West Virginia - Central1-800-862-2651West Virginia - South1-800-828-8445Wisconsin1-800-947-1111 Bank Boston http://www
+bankboston
+com1-800-788-5000California Federal Bank http://www
+calfed
+com1-800-843-2265Charter One Bank http://www
+charterone
+com1-877-242-7837Citibank http://www
+citibank
+com1-800-627-3999Commerce Bank http://bank
+commerceonline
+com1-888-751-9000Commerce Bank http://www
+commercebank
+com1-800-746-8704First Union National Bank http://www
+firstunion
+com1-800-275-3862Fifth Third Bank http://www
+53
+com1-800-972-3030Fleet Bank http://www
+fleet
+com1-800-841-4000Key Bank http://www
+keybank
+com1-800-539-2968The Chase Manhattan Bank http://www
+chase
+com1-800-242-7324 U
+S
+ Bank http://www
+usbank
+com Minneapolis, St
+ Paul Metro(612) 872-2657Portland Metro(503) 872-2657Denver Metro(303) 585-8585All Other Locations1-800-872-2657 Union Bank of California http://www
+uboc
+com1-800-238-4486Washington Mutual Bank http://www
+washingtonmutual
+com1-800-756-8000 Wells Fargo Bank/Norwest Bank http://www
+wellsfargo
+com New Mexico, Nevada, Utah, Arizona, Texas, Iowa, Colorado1-877-206-7990California and all other states1-800-869-3557

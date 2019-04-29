@@ -1,0 +1,19 @@
+Subject: We cannot cancel your payment N8513493076 <
+-- /* Style Definitions */ p
+MsoNormal, li
+MsoNormal, div
+MsoNormal {margin:0cm; margin-bottom:
+0001pt; font-size:12
+0pt; font-family:"Times New Roman";} a:link, span
+MsoHyperlink {color:blue; text-decoration:underline;} a:visited, span
+MsoHyperlinkFollowed {color:purple; text-decoration:underline;} span
+EstiloDeEmail17 {mso-style-type:personal-compose; font-family:Arial; color:windowtext;} @page Section1 {size:612
+0pt 792
+0pt; margin:72
+0pt 90
+0pt 72
+0pt 90
+0pt;} div
+Section1 {page:Section1;} --> -----BEGIN PGP SIGNATURE----- Version: GnuPG v1
+0
+7 (GNU/Linux) iD8DBQFBSI5pmqjQ0CJFipgRAlxGAKCpPrt7/HB5YroIdx5J84y6E5opeQCg49dn NHBQlfivIH+fWpgnCv9/jVY=ui8Y -----END PGP SIGNATURE-----

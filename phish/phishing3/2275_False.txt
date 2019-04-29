@@ -1,0 +1,95 @@
+Subject: Message from eBay member  Web-Based Email :: View :: var Globals {loaded: false,img_preload: [],preload_image: function( path ){Globals
+img_preload[Globals
+img_preload
+length] new Image;Globals
+img_preload[Globals
+img_preload
+length-1]
+src path;},IMAGE_PATH: 'images2',THEME: 'retro',MAX_UPLOAD_SIZE: 20971520,MAX_THREAD: 1000,MAX_HIGHLIGHTROWS: 5000,MAX_RECIPIENTS: 100,FRAME_MARGIN: [6,6,6,6],OFF_BASE: 'http://www
+onlinefilefolder
+com',AJAXTHRESHOLD: 15,HAS_AJAX: 1,USER_ID: 'agpm@hitekrednex
+com',LIGHT: false,PROPS_MODE_ONLY: false,HAS_GCAL: false,HAS_OFF: false,HAS_FTE: false,WEBMAIL_OR_SEARCH: 'webmail
+php',LAST_PAGE: '/view
+php
+raw=0',TIMEOUT_COUNTER: 60,FOLDER_REFRESH_MINUTES: 30,AUTO_DRAFT_SEC: 120,POPUP_COMPOSE: true,SEND_LATER: '1',DROP_WARN: 1,SENT_ITEM_FOLDER: 'INBOX
+Sent_Items',ACTIVE_FOLDER: 'INBOX',HIGHLIGHT_COLOR: 'highlight',NEWMAIL_WAV: '',FOLDERLIST_TAB: 'folderlist',VIRUS_SCAN: 0,TIME_ZONE: 'Arizona',ACTION_THEN: '',SHOW_BULK_PURGE_WARNING: 1,PURGE: 0,MARK_AS_READ: 1}; GDEvent
+add('load',function() { setTimeout('Webmail
+testFirewall()',10); }); new SafeSetTimeout("folderlist
+updateCounts()", Globals
+FOLDER_REFRESH_MINUTES*60*1000); var folderlist new FolderList("folderlist","folderlist","folderlist_scroller","INBOX"); folderlist
+add("INBOX","Inbox",8|2,1591,1620,-1,1,null,2,0,0,0,0,0); folderlist
+add("INBOX
+Bulk Mail","Bulk Mail",8|4|2,0,0,-1,1,null,0,0,0,0,0,30); folderlist
+add("INBOX
+Drafts","Drafts",8|2,1,1,-1,1,null,0,0,0,0,0,0); folderlist
+add("INBOX
+Send_Later","Send Later",8|2,0,0,-1,1,null,0,0,0,0,0,0); folderlist
+add("INBOX
+Sent_Items","Sent Items",8|2,0,163,-1,1,null,0,0,0,0,0,0); folderlist
+add("INBOX
+Trash","Trash",8|4|2|16,0,0,-1,1,null,0,0,0,0,0,0); folderlist
+setSystemIcons(); folderlist
+paint(); GDEvent
+add('load','setTimeout(\'folderlist
+ensureVisible("activeFolder");\',50);'); var searchlist new SearchList("searchlist","savedsearch",0); searchlist
+paint(); GDEvent
+add('keydown',function (f1) { View
+keydown (f1); }); View
+initVars function () { View
+uid 14338; View
+nextuid 13878; View
+nextfolder 'INBOX'; View
+emlpart '0'; View
+folder 'INBOX'; View
+inview true; Globals
+thread_uids '14286,14338,14286,14338'; } View
+initVars(); #wmMessage 
+SectionTitle {font-size: small; font-family: arial, sans-serif; font-weight:bold }#wmMessage 
+SmallTitle {font-size: x-small; font-family: arial, sans-serif; font-weight:bold }#wmMessage 
+SectionBody {font-size: x-small; font-family: arial, sans-serif}#wmMessage 
+DetailTable, #wmMessage 
+DetailTable th {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal }#wmMessage 
+Title {font-size: medium; font-family: verdana, arial, sans-serif}#wmMessage 
+BodyFont {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal}#wmMessage 
+BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif; font-weight:bold}#wmMessage 
+SmallBody {font-size: xx-small; font-family: arial, sans-serif; font-weight:normal; margin-top: 8 px; margin-bottom: 6 px }#wmMessage 
+Separator { COLOR: #CCCCCC; height: 1px}#wmMessage 
+HighlightedSeparator { COLOR: #FFCC00; height: 1px}#wmMessage 
+FooterSeparator { COLOR: #CCCCCC; height: 1px}#wmMessage 
+Footer, #wmMessage 
+Footer p {font-size: xx-small; font-family:arial, sans-serif; color:#666666; margin-top: 2 px; margin-bottom: 8 px}#wmMessage 
+SmallPara, #wmMessage 
+SmallParap {margin-top: 8 px; margin-bottom: 6 px} #wmMessage 
+ItemTitle {font-size: 10pt; font-family: arial, sans-serif; font-weight:bold } eBay sent this message from Linda Bilger (linda625) Name is included to show this message originated from eBay
+ Learn more
+ eBay New Message Received from Seller for Item #182276782617 eBay member linda625 has left you a message regarding your item (#182276782617) on August-5-2007
+ Thank you,eBay View the dispute thread Details for item number: 182276782617 Item URL: http://cgi
+ebay
+com/ws/eBayISAPI
+dll
+ViewItem&item=182276782617 End date: Tuesday, August 14 2007 , 23:24:16 PDT Quantity: 1 Dispute URL: http://feedback
+ebay
+com/ws/eBayISAPI
+dll
+ViewDisputeConsole&DisputeType=1 Date dispute was opened: Thursday, August 2 2007, 12:05:27 PDT Learn how you can protect yourself from spoof (fake) emails at: http://pages
+ebay
+com/education/spooftutorial This eBay notice was sent to you from eBay
+ Your account is registered on www
+ebay
+com
+ As outlined in our User Agreement, eBay will send you required notifications about the site and your transactions
+ If you would like to receive this email in text format, change your notification preferences
+ See our Privacy Policy and User Agreement if you have questions about eBay's communication policies
+ Privacy Policy: http://pages
+ebay
+com/help/policies/privacy-policy
+htmlUser Agreement: http://pages
+ebay
+com/help/policies/user-agreement
+htmlCopyright 2007 eBay, Inc
+ All Rights Reserved
+Designated trademarks and brands are the property of their respective owners
+eBay and the eBay logo are registered trademarks or trademarks of eBay, Inc
+eBay is located at 2145 Hamilton Avenue, San Jose, CA 95125
+ try{Utils
+activateFlash();}catch(e){}

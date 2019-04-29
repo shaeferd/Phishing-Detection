@@ -1,0 +1,10 @@
+Subject: Security Alert
+ Your Citizens Online Bank account has been compromised - Wed, 9 Aug 2006 09:23:52 - 0100 We recently noticed one or more unusual attempts to log in to your Citizens Bank account from a different IP address
+ If you recently tried to access your account while traveling, these discrepancies may have been initiated by you
+ However, if you have not tried to access your account from another computer; visit Citizens Bank internet banking login page directly via the link below as soon as possible to view your accounts and verify that no fruadulent activities have taken place : https://www
+citizensbankonline
+com/default
+asp For Customer Service please call: Personal customers: 1-800-656-6561
+ Business customers: 1-877-229-6428
+ Member FDIC Equal Housing Lender Privacy & Security | Terms of Use | Citizens Bank Online Guarantee TM 2005 Citizens Bank
+ All Rights Reserved

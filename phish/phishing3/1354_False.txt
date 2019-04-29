@@ -1,0 +1,27 @@
+Subject: New email address added to your account You've added an additional email address to your PayPal account <
+-- #message #yiv135359863 /* Style Definitions */ p
+MsoNormal,#message #yiv135359863 li
+MsoNormal,#message #yiv135359863 div
+MsoNormal {margin:0in; margin-bottom:
+0001pt; font-size:12
+0pt; font-family:"Times New Roman";} #message #yiv135359863 a:link,#message #yiv135359863 span
+MsoHyperlink {color:blue; text-decoration:underline;} #message #yiv135359863 a:visited,#message #yiv135359863 span
+MsoHyperlinkFollowed {color:purple; text-decoration:underline;} #message #yiv135359863 p {margin-right:0in; margin-left:0in; font-size:12
+0pt; font-family:"Times New Roman";} #message _filtered #yiv135359863 { margin:1
+0in 1
+25in 1
+0in 1
+25in;} #message #yiv135359863 div
+Section1 {} --> You've added an additional email address to your PayPal account
+ If you don
+t agree with this email tcgrady@cox
+net and if you need assistance with your account, please click here to login to your account
+ To make sure you can use your PayPal account the next time you make a purchase, all you need to do is confirm or not your email address
+ If your email program has problems with hypertext links, you may also confirm your email address by logging in to your account
+ Thank you for using PayPal
+ The PayPal Team ---------------------------------------------------------------- Please do not reply to this email
+ This mailbox is not monitored and you will not receive a response
+ For assistance, log in to your PayPal account and click the Help link located in the top right corner of any PayPal page
+ ---------------------------------------------------------------- PayPal Email ID PP059 Powered by Digital Placebo, LLC www
+digitalplacebo
+com

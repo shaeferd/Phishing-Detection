@@ -1,0 +1,46 @@
+Subject: Notification of Limited Account Acces PayPal Security Center: Urgent PayPal Account Login Request
+ Notice of account temporary suspension Dear PayPal member : We regret to inform you that your PayPal account, has been temporarily blocked due to various login attempts from different global locations
+ As Romania is one of the most high rated fraudulent countries, we temporarily blocked your account to avoid future problems or misusage of your PayPal account
+ Here are the last 3 login attempts : 1
+ IP address : 194
+102
+104
+2 ISP host : st13
+i-cafe
+onix
+ro Location : Romania 2
+ IP address : 217
+156
+19
+129 ISP host : rds-net
+vl
+ro Location : Romania 3
+ IP address : 62
+177
+188
+59 ISP host : adsl
+bbeyond
+ro Location : Romania If you are traveling and made these login attempts yourself or borrowed your PayPal account to someone else , please log in below
+ Travelling confirmation Here If you want to re-activate your PayPal account , please follow our instructions
+ Re-activate your account Here If this situation is not solved in the next 24 hours your account will be permanently suspended
+ Sincerely, PayPal This is an automated email, please do not respond to it as your inquiry would not be received
+ Email Id : PP458 Copyright 1995-2006 PayPal Inc
+ All Rights Reserved
+Designated trademarks and brands are the property of their respective owners
+Use of this Web site constitutes acceptance of the PayPal User Agreement and Privacy Policy
+ How to protect your account Make sure you never give away your PayPal login and password
+ to someone you don`t know
+ Please respect PayPal policy and privacy statements
+ For more information on how to protect your account, please visit our security center
+ http://www
+paypal
+com/cgi-bin/cmd=3D_security-center-outside Increase your security Become a Verified PayPal member
+ Examine all privacy and security seals before doing business with a particular website and make sure they are legitimate
+PayPal is a licensee of the TRUSTe Privacy Program
+ Protect your password Never give away your password and always choose a combination of letters, numbers, and symbols
+ For example, $coo
+place2l
+ve or 2Barry5Bonds#1
+ Avoid choosing obvious words or dates such as a nickname or your birth date
+ Don't use the same password for PayPal and other online services such as AOL, eBay, MSN, or Yahoo
+ Using the same password for multiple websites increases the likelihood that someone could learn your password and gain access to your account

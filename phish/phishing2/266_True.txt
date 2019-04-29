@@ -1,0 +1,12 @@
+Subject: CHASE MANHATTAN BANK  Dear Chase Member, Your account has been randomly flagged in our system as a part of our routine security measures
+ This is a must to ensure that only you have access and use of your Chase account and to ensure a safe Chase experience
+ We require all flagged accounts to v erify their information on file with us
+ To verify your Information at this time, please visit our secure server webform by clicking the hyperlink below: https://www
+chase
+com/cgi-bin/webscr
+cmd=_login Thank you for using Chase Manhattan Bank
+ The Chase Manhattan Bank Team -------------------------------------------------------------------------------- Please do not reply to this e-mail
+ Mail sent to this address cannot be answered
+ For assistance, log in to your Chase account and choose the "Help" link in the footer of any page
+ To receive email notifications in plain text instead of HTML, update your preferences here
+ Chase Email ID PP478

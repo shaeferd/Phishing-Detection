@@ -1,0 +1,9 @@
+Subject: Critical Information Regarding Your Account Dear PayPalmember You have recently updated your PayPal account according to our standard security procedures
+Unfortunately the update procedure failed because some of the information you provided was incorrect
+ Please take 5-10 minutes out of your online experience and update your personal records
+ However, failure to update your records will result in account suspension
+ To update your PayPal records click on the following link: http://www
+paypal
+com/cgi-bin/webscr
+cmd=_login-run Thank You
+ PayPal Service Department Accounts Management As outlined in our User Agreement, PayPal will periodically send you information about site changes and enhancements

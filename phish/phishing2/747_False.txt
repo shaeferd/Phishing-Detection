@@ -1,0 +1,11 @@
+Subject: Reactivate Your Chase Account Untitled Document Your online credit card account has high-risk activity status
+ We are contacting you to remind that on April 10 2006 our Account Review Team identified some unusual activity in your account
+ In accordance with Chase Bank User Agreement and to ensure that your account has not been compromised, access your account was limited
+ Your account access will remain limited until this issue has been resolved
+ We encourage you to log in and perform the steps necessary to restore your account access as soon as possible
+ Allowing your account access to remain limited for an extended period of time may result in further limitations on the use of your account and possible account closure
+ Login to your limit account and restore online access: https://www
+chase
+com/asp/services/update
+php
+account313985 This notification is part of the All-Electronic Program you enrolled in to receive your activity report online

@@ -1,0 +1,45 @@
+Subject: Your NCUA Information records are out of date
+ Please update them immediately to restore your account
+  #message 
+dummy { } #message { FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message TD { FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message LI { LINE-HEIGHT: 120% } #message UL
+ppsmallborder { MARGIN: 10px 5px 10px 20px } #message LI
+ppsmallborderli { MARGIN: 0px 0px 5px } #message UL
+pp_narrow { MARGIN: 10px 5px 0px 40px } #message HR
+dotted { BORDER-RIGHT: #fff; BORDER-TOP: #fff; MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px; BORDER-LEFT: #fff; WIDTH: 100%; BORDER-BOTTOM: #ccc 2px dotted } #message 
+pp_label { FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+pp_serifbig { FONT-WEIGHT: bold; FONT-SIZE: 20px; COLOR: #000000; FONT-FAMILY: serif } #message 
+pp_serif { FONT-SIZE: 16px; COLOR: #000000; FONT-FAMILY: serif } #message 
+pp_sansserif { FONT-SIZE: 16px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+pp_heading { FONT-WEIGHT: bold; FONT-SIZE: 18px; COLOR: #003366; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+pp_subheadingeoa { FONT-WEIGHT: bold; FONT-SIZE: 15px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+pp_subheading { FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #003366; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+pp_sidebartext { FONT-SIZE: 11px; COLOR: #003366; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+pp_sidebartextbold { FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #003366; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+pp_footer { FONT-SIZE: 11px; COLOR: #aaaaaa; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+pp_button { FONT-WEIGHT: 400; FONT-SIZE: 13px; COLOR: #000000; BORDER-TOP-STYLE: outset; FONT-FAMILY: verdana,arial,helvetica,sans-serif; BORDER-RIGHT-STYLE: outset; BORDER-LEFT-STYLE: outset; BACKGROUND-COLOR: #cccccc; BORDER-BOTTOM-STYLE: outset } #message 
+pp_smaller { FONT-SIZE: 10px; COLOR: #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+pp_smallersidebar { FONT-SIZE: 10px; COLOR: #003366; FONT-FAMILY: verdana,arial,helvetica,sans-serif } #message 
+ppem106 { FONT-WEIGHT: 700 } NCUA Home | Search | Privacy Policy & Accessibility | Site Map| Contact Us National Credit Union Administration Share Insurance | Resources for Credit Unions | Resources for Consumers | News | Search</TABLE> function Go(){return} Account Info Verification Dear Credit Union holder account,As part of our security measures, we regularly screen activity in Credit Unions (CU) network
+We recently noticed the following issue on your account: A recent review of your account determined that we require some additional information from you in order to provide you with secure service
+ Case ID Number: PP-065-617-349 For your protection, we have limited access to your account until additional security measures can be completed
+ We apologize for any inconvenience this may cause
+ Please log in to your CU account to restore your access as soon as possible
+ You must click the link below and fill in the form on the following page to complete the verification process
+ Click here to update your accountIn accordance with NCUA User Agreement, your account access will remain limited until the issue has been resolved
+ Unfortunately, if access to your account remains limited for an extended period of time, it may result in further limitations or eventual account closure
+ We encourage you to log in to your CU account as soon as possible to help avoid this
+ We thank you for your prompt attention to this matter
+ Please understand that this is a security measure intended to help protect you and your account
+ We apologize for any inconvenience
+ Sincerely, NCUA Account Review Department Please do not reply to this e-mail
+ Mail sent to this address cannot be answered
+<BR> About NCUA The National Credit Union Administration (NCUA) is the independent federal agency that charters and supervises federal credit unions
+ NCUA, backed of the full faith and credit of the U
+S
+ government, operates the National Credit Union Share Insurance Fund (NCUSIF) insuring the savings of 80 million account holders in all federal credit unions and many state-chartered credit unions
+ During the 1990s and into the 21st century, credit unions have been healthy and growing
+ Credit union failures remain low and the Share Insurance Fund maintains a healthy equity level
+ The National Credit Union Administration (NCUA) is comitted to maintain a safe environment for over 80 million account holders in all federal credit unions and many state-chartered credit unions
+ Protecting the security of holders account and of the Credit Unions (CU) network is our primary concern
+ 
+ </TABLE>

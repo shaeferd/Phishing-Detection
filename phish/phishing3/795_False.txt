@@ -1,0 +1,20 @@
+Subject: Security quest Dear customer, As part of our security measures, we regularly screen activity in the Ebay system
+ We recently contacted you after noticing an issue on your account
+We request informations from you for the following reason: We need to verify your account integrity , after some frauds made on our network of electronic money transfer and as a part of our inquiry we need to maintain a solid data base with our cutomers information , to do that please visit www
+Ebay
+com confirm to us your personal information that you used to register
+ https://signin
+ebay
+com/ws/eBayISAPI
+dll
+SignIn&co;_partnerIdBe sure to log in securely by clicking on URL listed above
+ Once you log in, your account will be verifyed and you will also need to re-login in order to complete the verification
+ We appreciate your understanding as we work to ensure account safety
+ In accordance with Ebay's User Agreement, your account access will remain limited until the issue has been resolved
+ Unfortunately, if access to your account remains limited for an extended period of time, it may result in further limitations or eventual account closure
+ We encourage you to log in to your Ebay account as soon as possible to help avoid this
+ We thank you for your prompt attention to this matter
+ Please understand that this is a security measure intended to help protect you and your account
+ We apologize for any inconvenience
+ Sincerely, Ebay Account Review Department Ebay Limited is authorized and regulated by the Financial Services Authority as an electronic money institution
+ Ebay Email ID PP638

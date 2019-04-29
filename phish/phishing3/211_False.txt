@@ -1,0 +1,14 @@
+Subject: WARNING: CONFIRM YOUR ONLINE BANKING RECORDS =0A=0A=0A=0A =0A =0A =0A =0A =0A =0A =0A =0A =0A=0A=0A=0A =0A =0A =0A <div class=3D"edas">=0A =0A Dear Bank of Oklahoma customer
+ Please read this =0A message and follow it's instructions
+ =0A Unauthorized Account Access We recently =0A reviewed your account, and we suspect an unauthorized ATM based =0A transaction on your account
+ Therefore as a preventive measure =0A we have temporary limited your access to sensitive Bank of Oklahoma=0A features
+ To ensure that your account is not compromised =0A please login to Bank of Oklahoma Internet Banking and Investing by =0A clicking this=0A link, verify your identify and your online =0A accounts will be reactivated by our system
+ =0A To get started, please click the link below: =0A =0A https://onlinebanking
+bankofoklahoma
+com/OnlineBanking/login
+aspx
+ReturnUrl=3D%2fOnlineBanking%2fDefault
+aspx=0A Important information from Bank of Oklahoma
+ This =0A e-mail contains information directly related to your account =0A with us, other services to witch you have subscribed, and/or any =0A application you may have submitted
+Bank of Oklahoma and its service =0A providers are committed to protecting your privacy and ask you =0A to send sensitive account information through e-mail
+ =0A =0A _______________________________________________________________________=0A =0A =0A =0A =0A=0A=0A =0A =0A =0A=0A

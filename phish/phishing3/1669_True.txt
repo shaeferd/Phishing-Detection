@@ -1,0 +1,28 @@
+Dear PayPal member,
+
+Continuous Monitoring is an integral part of PayPal multiple layers of security
+ In addition to other fraud monitoring tools, we can often spot fraud based upon transactions on the card that are outside of cardholders typical purchasing pattern
+ This allows us to spot fraudulent activity as quickly as possible and acts as an early-warning system to identify fraudulent activity
+ 
+
+During a recent checkout we detected suspicious activity and your credit card may have been compromised
+ Fraudulent activity made it necessary to limit your card for online services, your case ID number for this matter: AT09GP32D506 : Conform to our security requirements and in order to continue online services with your card, we must validate your identity
+ 
+
+Please use our link below to proceed
+ 
+
+http://0xca
+0x74
+0x30
+0x44/www
+paypal
+com/cgi-bin/
+
+PayPal takes online security very seriously so that you can shop safely on the Internet
+ As part of our commitment to fighting fraud we have the right to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of the terms and conditions
+
+
+
+Copyright © 1999-2007 PayPal
+ All rights reserved

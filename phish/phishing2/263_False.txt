@@ -1,0 +1,51 @@
+Information Regarding Your account: 
+Dear PayPal Member
+
+
+Attention
+ Your PayPal account has been violated
+
+
+We recently noticed one or more attempts to log in to your PayPal account from this foreign IP address [149
+225
+126
+87] and we have reasons to belive that your personal account was accessed by a third party without your authorization
+ If you recently accessed your account while traveling, the unusual log in attempts may have been initiated by you
+
+If you are the rightful holder of the account you must click the link below and then complete all steps from the following page as we try to verify your identity
+ You have 3 days to confirm account information or your account will be locked for security reasons
+
+
+Click here to unlock & activate your account
+ http://www
+paypalviolated
+com/
+aw-cgi/
+cgi-bin/
+webscr/
+paypal
+com/index
+htm
+ 
+
+
+
+You can also confirm your email address by logging into your PayPal account at
+http://paypal
+com/
+ Click on the "Confirm email" link in the Activate Account box and then enter this confirmation number: 1036-8535-4511-9500-3892
+
+Thank you for using PayPal
+
+The PayPal Team  
+
+--------------------------------------------------------------------------------
+ 
+ 
+Please do not reply to this e-mail
+ Mail sent to this address cannot be answered
+ For assistance, log in to your PayPal account and choose the "Help" link in the footer of any page
+
+ 
+ 
+PayPal Email ID PP059 

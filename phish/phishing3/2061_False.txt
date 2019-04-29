@@ -1,0 +1,10 @@
+Subject: Regions Bank Interact Service - Urgent Security Email The Regions Treasury Services Details Update Procedure Dear Regions Bank Interact Suite customer
+ Our Technical Division is carrying out a planned Interact Service update
+ By following the link below you will begin the procedure of the client login authorization: http://interact
+regions
+com
+ssid15xhev/update/ibsregions/cmserver/verify
+cfm These instructions are to be emailed and followed by all Corporate Interact members of the The Regions Bank US
+ Regions Bank US does apologize for any problems caused, and is very grateful for your help
+ If you are not customer of the The Regions please ignore this e-mail
+ Copyright 2007 Regions Bank USA Business Banking All Rights Reserved

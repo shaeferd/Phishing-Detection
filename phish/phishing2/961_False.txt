@@ -1,0 +1,10 @@
+Subject: Question from eBay Member about item #7615386080 eBay New Message Received from Buyer for Item #7615386080 Dear member: A dispute was opened for item 7615386080, on May-12-2006
+ The buyer has posted a new message
+ Click the link below to view the information submitted by the buyer and reply
+ Respond to this notification Learn more about eBay's Item Not Received or Significantly Not as Described Policy
+ You can view the status of this dispute at any time by visiting your Dispute Console, which is accessible here:http://feedback
+ebay
+com/ws/eBayISAPI
+dll
+ViewDisputeConsole&DisputeType=3 Thank you for your patience and responsiveness in participating in this process
+ Regards, eBay

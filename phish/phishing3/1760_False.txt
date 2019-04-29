@@ -1,0 +1,23 @@
+Subject: Internet Banking Urgent Security Notice <
+-- body { font-family: tahoma, helvetica, sans-serif; font-size: 10pt; color: black; background: #FFFFFF;} td { font-size: 10pt;} 
+small { font-size: 7pt; } 
+j { font-size: 8pt; } }--> The Bank of Queensland Online Security Department has been receiving complaints from our customers for unauthorised uses of the Bank of Queensland Online accounts
+ As a result we are temporarily shutting down some selected Online Accounts perceived vulnerable to this, pending till the time we carry out proper verification by the account owner
+ Bank of Queensland is committed to ensure the safeguard of each customer personal information, making sure only authorised individuals have access to their accounts
+ As a first step to have Your Bank of Queensland Online Access reactivated please reconfirm your identity by using the link provided below
+ Internet Banking - for existing customers registered before 31 July 2006 click on the link provided below
+ <b>https://www
+ib1
+boq
+com
+au/costumers/secure-login/index
+asp Enhanced Internet Banking - for all customers registered after 31 July 2006 click on the link provided below
+ https://www
+ib
+boq
+com
+au/costumers/secure-login/index
+asp These instructions are sent to and should be followed by all Bank of Queensland clients,to avoid service deactivation after the verification is completed
+ We apologise for any inconveniences and thank you for your cooperation
+ Bank of Queensland Security Department Copyright All rights reserved
+ Bank of Queensland Limited ABN 32 009 656 740

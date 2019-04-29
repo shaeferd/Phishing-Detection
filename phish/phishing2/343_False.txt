@@ -1,0 +1,13 @@
+Subject: [*** POSIBLE SPAM***] Notification of Your Account Suspension
+ ID#1139082654  PayPal Inc
+ Issued on February 3, 2006 We regret to inform you that your online profile with PayPal was not successfully updated and your PayPal account has been temporary suspended
+ In order to regain access to your account you must update your profile in the next 48 hours or else your PayPal account will be deleted
+ To update your PayPal profile click on the following link: https://www
+paypal
+com/cgi-bin/webscr
+cmd=_login-run Regards, PayPal Security Departament Copyright 2006 PayPal Inc
+ All rights reserved
+ Designated trademarks and brands are the property of their respective owners
+ PayPal is located at 2211 N
+ First St
+, San Jose, CA 95131

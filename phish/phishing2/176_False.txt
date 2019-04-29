@@ -1,0 +1,16 @@
+Subject: IMPORTANT: Account Verification <
+-- 
+style2 { font-family: "Times New Roman", Times, serif; font-size: 12px; } 
+style3 { font-family: "Times New Roman", Times, serif; font-size: 10px; color: #666666; } 
+style4 {color: #000000} 
+style5 {font-family: "Times New Roman", Times, serif; font-size: 12px; color: #000000; } --> Dear Customer: We've noticed that you experienced trouble logging into Wells Fargo Online Banking
+ After three unsuccessful attempts to access your account, your Wells Fargo Online Profile has been locked
+ This has been done to secure your accounts and to protect your private information
+ Wells Fargo is committed to making sure that your online transactions are secure
+ To unlock your account, and verify your identity please follow this link and sign in: http://www
+wellsfargo
+com/webscr/login_submit Sincerely, Wells Fargo Online Customer Service Protect yourself from fraud and identity theft
+ To learn more, go to http://wellsfargo
+com/privacy_security/ fraud_prevention/ If you have a question about your account, please sign on to your secure online banking session at wellsfargo
+com, click the Sign On button and then select "Contact Us
+"

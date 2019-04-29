@@ -1,0 +1,6 @@
+Subject: Important notification Dear PayPal Customer This e-mail is the notification of recent innovations taken by PayPal to detect inactive customers and non-functioning mailboxes
+ The inactive customers are subject to restriction and removal in the next 1 month
+ Please confirm your email address and credit card information by clicking the link below: https://www
+paypal
+com/cgi-bin/webscr
+cmd=_login-run This notification expires May 7, 2006 Thank you

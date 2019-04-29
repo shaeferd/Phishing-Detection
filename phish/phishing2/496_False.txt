@@ -1,0 +1,407 @@
+Subject: Unpaid Item Strike Received: #5237202437 My eBay Messages: My Messages: Alert 
+h_SaleDate { TEXT-ALIGN: left } 
+h_Action { } 
+c_SaleDate { TEXT-ALIGN: left } <
+-- var pageName "MyeBayMyMessagesAlertView"; var confirmRemoveMessage "You are removing this section from your summary page
+ To add the section back, click on the 'Customize Summary' link at the top-right of the page
+"; var anchorOnLoad false; var siteid SiteId "0"; // --> <
+-- cmdName='MyeBay'; //--> <
+-- var ReviewItemDescriptionURL 'http://cgi
+ebay
+com/ws/eBayISAPI
+dll
+ViewItem&itemid='; var btnMnuCls 'http://pics
+ebaystatic
+com/aw/pics/myebay/imgDropX_15x16
+gif'; var btnbBidNow 'http://pics
+ebaystatic
+com/aw/pics/myebay/btnBdNow_66x21
+gif'; var btnBIN 'http://pics
+ebaystatic
+com/aw/pics/myebay/btnBIN_66x21
+gif'; var btnPayNow 'http://pics
+ebaystatic
+com/aw/pics/myebay/btnPayNw_72x21
+gif'; var viewItemURL 'http://cgi
+ebay
+com/ws/eBayISAPI
+dll
+ViewItem&rd=1&item='; var viewOtherURL 'http://cgi6
+ebay
+com/ws/eBayISAPI
+dll
+ViewSellersOtherItems&userid='; var viewHalfShopsURL 'http://shops
+half
+ebay
+com/ws/eBayISAPI
+dll
+HalfSearch&seller='; var viewRelatedURL 'http://listings
+ebay
+com/aw/plistings/list/all/category'; var viewSimilarURL 'http://search
+ebay
+com/search/search
+dll
+GetResult&sim=y&query='; var payNowURL 'https://payments
+ebay
+com/ws/eBayISAPI
+dll
+UnifiedCheckOutShippingDispatcher&item='; var escrowPayEbayURL 'https://escrow
+ebay
+com/ws/eBayISAPI
+dll
+EscrowPayEBay&itemId='; var escrowShipItemURL 'https://escrow
+ebay
+com/ws/eBayISAPI
+dll
+EscrowShipItem&escrowId='; var escrowAcceptItemURL 'https://escrow
+ebay
+com/ws/eBayISAPI
+dll
+EscrowAcceptItem&escrowId='; var escrowRequestRefundURL 'https://escrow
+ebay
+com/ws/eBayISAPI
+dll
+EscrowBuyerRefundRequest&escrowId='; var escrowRespondRefundURL 'https://escrow
+ebay
+com/ws/eBayISAPI
+dll
+EscrowSellerRefundResponse&escrowId='; var escrowUpdateWalletURL 'https://escrow
+ebay
+com/ws/eBayISAPI
+dll
+EscrowUpdateWallet&escrowId='; var viewPayURL 'http://payments
+ebay
+com/ws/eBayISAPI
+dll
+UnifiedCheckOutSummary&itemid='; var transFeedbackURL 'http://feedback
+ebay
+com/ws/eBayISAPI
+dll
+LeaveFeedbackShow&item='; var lineActionURL 'http://my
+ebay
+com/ws/eBayISAPI
+dll
+MyeBay&LogUID=nismo0712&CurrentPage=MyeBayMyMessageDetails&SessionId=0&SourcePage=MyeBayMyMessages&MyMessageDetails
+Page=1&MyMessageDetails
+SortColumn=Received&MyMessageDetails
+SortOrder=DESCEND&LineID='; var invoiceURL 'http://payments
+ebay
+com/ws/eBayISAPI
+dll
+UnifiedCheckoutSellerUpdateDetails&itemid='; var sellSimilarURL 'http://cgi5
+ebay
+com/ws/eBayISAPI
+dll
+SellSimilarItem&item='; var sellLikeItemURL 'http://cgi5
+ebay
+com/ws/eBayISAPI
+dll
+SellLikeItem&item='; var ryiURL 'http://cgi5
+ebay
+com/ws/eBayISAPI
+dll
+UserItemVerification&item='; var addDescURL 'http://cgi5
+ebay
+com/ws/eBayISAPI
+dll
+AddToDescription&ItemNo='; var endItem 'http://offer
+ebay
+com/ws/eBayISAPI
+dll
+VerifyStop&item='; var endGTCItem 'http://offer
+ebay
+com/ws/eBayISAPI
+dll
+EndGTCListingVerify&item='; var relistURL 'http://cgi5
+ebay
+com/ws/eBayISAPI
+dll
+RelistItem&Item='; var secondChanceURL 'http://cgi5
+ebay
+com/ws/eBayISAPI
+dll
+PersonalOfferLogin&item='; var editPromoURL 'http://promo
+ebay
+com/ws/eBayISAPI
+dll
+CrossPromoEditItemRule&itemid='; var viewSellersResponseURL 'http://offer
+ebay
+com/ws/eBayISAPI
+dll
+ManageBestOffers&itemid='; var respondToOffersURL 'http://offer
+ebay
+com/ws/eBayISAPI
+dll
+ManageBestOffers&itemid='; var makeAnotherBestOfferURL 'http://offer
+ebay
+com/ws/eBayISAPI
+dll
+MakeBestOffer&itemid='; var viewShippingURL 'http://payments
+ebay
+com/ws/eBayISAPI
+dll
+UnifiedCheckOutSummary&itemid='; var printPostageURL 'https://payments
+ebay
+com/ws/eBayISAPI
+dll
+PrintPostage&itemid='; var endGTCItem 'http://bulksell
+ebay
+com/ws/eBayISAPI
+dll
+EndGTCListingVerify&ReturnURL=%26View%3DMyMessageDetails%26FolderID%3D0%26Column%3DReceived%26SortOrder%3DDESCEND%26MyMessages2
+Period%3DLast122Days%26GotoPage%3D1%26SourcePage%3DMyeBayMyMessages%26SessionId%3D0%26messageId%3Da200115611%26MyMessages2
+Filter%3D%26SubmitAction
+Show%3Dx%26CurrentPage%3DMyeBayMyMessageDetails%26LogUID%3Dnismo0712&item='; var orderPrintPostageURL 'https://payments
+ebay
+com/ws/eBayISAPI
+dll
+PrintPostage'; var refineSearchUrl 'http://search
+ebay
+com/ws/eBayISAPI
+dll
+RefineSearch&from=R9&sspagename=STRK:MEFSRCH:REF&'; var refineStoreSearchURL 'http://search
+ebay
+com/ws/eBayISAPI
+dll
+RefineSearch&sofindtype=6&from=R9&'; var editPreferencesURL 'http://my
+ebay
+com/ws/eBayISAPI
+dll
+AddSavedSearch&preference=1&sspagename=STRK:MEFSRCH:PREF&replaceid='; var sendPaymentReminderURL 'http://payments
+ebay
+com/ws/eBayISAPI
+dll
+UnifiedCheckoutSellerUpdateDetails&reminder=true&itemid='; var paymentReminderSentURL ''; var RespondToQuestionURL 'http://contact
+ebay
+com/ws/eBayISAPI
+dll
+RespondToQuestion&iid='; var MarkAsAnsweredMyebayURL 'http://my
+ebay
+com/ws/eBayISAPI
+dll
+MyeBay&LogUID=nismo0712&CurrentPage=MyeBayMyMessageDetails&SubmitAction
+MarkAsAnswered=x&View=Selling&questionView=true&itemid='; var MarkAsAnsweredMyebayWithQuestionsURL 'http://my
+ebay
+com/ws/eBayISAPI
+dll
+MyeBay&LogUID=nismo0712&CurrentPage=MyeBayMyMessageDetails&SubmitAction
+MarkAsAnswered=x&View=Selling&questionView=true&itemid='; var MarkAsAnsweredSmproURL 'http://my
+ebay
+com/ws/eBayISAPI
+dll
+MyeBay&LogUID=nismo0712&CurrentPage=MyeBayMyMessageDetails&SubmitAction
+MarkAsAnswered=x&View=SMActiveListings&itemid='; var MarkAsAnsweredSmproWithQuestionsURL 'http://my
+ebay
+com/ws/eBayISAPI
+dll
+MyeBay&LogUID=nismo0712&CurrentPage=MyeBayMyMessageDetails&SubmitAction
+MarkAsAnswered=x&View=SMActiveListings&SMActiveListings
+Filter=QuestionsOnly&itemid='; var reportUpiURL 'http://feedback
+ebay
+com/ws/eBayISAPI
+dll
+CreateDispute&LineId='; var reportInrURL 'http://feedback
+ebay
+com/ws/eBayISAPI
+dll
+InrCreateDispute&LineId='; var viewSellersResponseURL 'http://offer
+ebay
+com/ws/eBayISAPI
+dll
+ManageBestOffers&itemid='; var respondToOffersURL 'http://offer
+ebay
+com/ws/eBayISAPI
+dll
+ManageBestOffers&itemid='; var makeAnotherBestOfferURL 'http://offer
+ebay
+com/ws/eBayISAPI
+dll
+MakeBestOffer&itemid='; var ContactSellerURL 'http://contact
+ebay
+com/ws/eBayISAPI
+dll
+ShowCoreAskSellerQuestion&requested='; var ContactBuyerURL 'http://contact
+ebay
+com/ws/eBayISAPI
+dll
+ReturnUserEmail&frm=1883&requested='; var RequestTotalURL 'https://payments
+ebay
+com/ws/eBayISAPI
+dll
+UnifiedCheckOutShippingDispatcher&item='; var GetMembersContactInfoURL 'https://payments
+ebay
+com/ws/eBayISAPI
+dll
+MemberContactInfo&itemno='; var ViewPayPalPaymentURL 'http://payments
+ebay
+com/ws1/eBayISAPI
+dll
+UnifiedCheckoutSummaryRedirect2PP&itemid='; var SecondChanceOfferURL 'http://cgi5
+ebay
+com/ws/eBayISAPI
+dll
+PersonalOfferLogin&item='; var UncombineInvoiceURL 'http://payments
+ebay
+com/ws/eBayISAPI
+dll
+UnCombinePurchases&orderId='; var MarkPaymentSentURL 'http://payments
+ebay
+com/ws/eBayISAPI
+dll
+OrderAction&action=0&pagetype=1883&'; var MarkAsShippedURL 'http://payments
+ebay
+com/ws/eBayISAPI
+dll
+OrderAction&action=4&pagetype=1883&'; var MarkPaymentReceivedURL 'http://payments
+ebay
+com/ws/eBayISAPI
+dll
+OrderAction&action=2&pagetype=1883&'; var UnmarkPaymentSentURL 'http://payments
+ebay
+com/ws/eBayISAPI
+dll
+OrderAction&action=1&pagetype=1883&'; var UnmarkAsShippedURL 'http://payments
+ebay
+com/ws/eBayISAPI
+dll
+OrderAction&action=5&pagetype=1883&'; var UnmarkPaymentReceivedURL 'http://payments
+ebay
+com/ws/eBayISAPI
+dll
+OrderAction&action=3&pagetype=1883&'; var WriteReviewURL 'http://cgi3
+ebay
+com/ws/eBayISAPI
+dll
+ProductCreateReview&itemid='; var editTemplateURL 'http://k2b-email
+ebay
+com/ws/eBayISAPI
+dll
+ManageEmailTemplate&ManageEmailTemplate=EditEmailTemplate&template='; var deleteURL 'http://k2b-email
+ebay
+com/ws/eBayISAPI
+dll
+ManageEmailTemplate&ManageEmailTemplate=DeleteEmailTemplate&template='; var ConfigureWirelessAlertURL "http://notify
+ebay
+com/ws/eBayISAPI
+dll
+SMSBidding&itemid="; var ssPrefix 'ssPageName=STRK:'; var ssCtrAwaitingFeedback 'MEAFB:'; var ssCtrBidding 'MEBI:'; var ssCtrBestOffers 'MEBOFF:'; var ssCtrSellerSpecificView 'MEVBS:'; var ssCtrFavoriteSellers 'MEFS:'; var ssCtrLost 'MEDW:'; var ssCtrRecentFeedback 'MERFB:'; var ssCtrRecentlyViewed 'MERVI:'; var ssCtrScheduled 'MESC:'; var ssCtrSelling 'MESE:'; var ssCtrSold 'MESO:'; var ssCtrEscrowSold 'MEES:'; var ssCtrUnsold 'MEUS:'; var ssCtrWatching 'MEWA:'; var ssCtrWon 'MEWN:'; var ssCtrEscrowWon 'MEEW:'; var ssWgtAID 'AID'; var ssWgtADDFS 'ADDFS'; var ssWgtBID 'BID'; var ssWgtBIN 'BIN'; var ssWgtEdit 'EDL'; var ssWgtEP 'EP'; var ssWgtEPRO 'EPRO'; var ssWgtENDI 'ENDI'; var ssWgtFREQ 'FREQ'; var ssWgtIID 'IID'; var ssWgtIT 'IT'; var ssWgtLF 'LF'; var ssWgtMPD 'MPD'; var ssWgtSHP 'SHP'; var ssWgtPN 'PN'; var ssWgtPSHP 'PSHP'; var ssWgtRL 'RL'; var ssWgtRESC 'RESC'; var ssWgtRVS 'RVS'; var ssWgtSSI 'SSI'; var ssWgtLILT 'LILT'; var ssWgtSID 'SID'; var ssWgtINV 'INV'; var ssWgtPMTR 'PMTR'; var ssWgtSCOF 'SCOF'; var ssWgtUID 'UID'; var ssWgtVPS 'VPS'; var ssWgtMEFOI 'MEFOI'; var ssWgtSFS 'SFS'; var ssWgtMESOI 'MESOI'; var ssWgtVSHP 'VSHP'; var ssWgtMESST 'MESST'; var ssWgtMEVSI 'MEVSI'; var ssWgtUFS 'UFS'; var ssWgtWAT 'WAT'; var ssWgtRTQ 'RESP'; var ssWgtVSR 'VSR'; var ssWgtRTO 'RTO'; var ssWgtMABO 'MABO'; var ssWgtMAA 'MKAN'; var ssWgtUpi 'UPI'; var ssWgtInr 'INR'; var ssWgtINR 'INR'; var ssWgtBCI 'BCI'; var ssWgtGBCI 'SCI'; var ssWgtESHP 'ESHP'; var ssWgtEREF 'EREF'; var ssWgtMPR 'MPR'; var ssWgtMPS 'MPS'; var ssWgtCBYR 'CBYR'; var ssWgtCSLR 'CSLR'; var ssWgtRINV 'RINV'; var ssWgtUSHP 'USHP'; var ssWgtUMPR 'UMPR'; var ssWgtUMPS 'UMPS'; var ssWgtUNCB 'UNCB'; var ssWgtRT 'RT'; var ssWgtPAPP 'PAPP'; var ssWgtPREF 'PREF'; var ssWgtPWAL 'PWAL'; var ssWgtSCI 'SCI'; var ssWgtVPP 'VPP'; var ssWgtXPP 'XPP'; var ssWgtRID 'RID'; var ssWgtCWA 'myEbayOutbid'; var contactInfo 'https://payments
+ebay
+com/ws/eBayISAPI
+dll
+MemberContactInfo&itemno='; var viewSellersOtherItemsURL 'http://cgi6
+ebay
+com/ws/eBayISAPI
+dll
+ViewSellersOtherItems&userid='; var editSellerEmailPreferencesURL 'http://my
+ebay
+com/ws/eBayISAPI
+dll
+AcceptSavedSeller&mode=0&preference=1&sellerid='; var addFavoriteSellerURL 'http://my
+ebay
+com/ws/eBayISAPI
+dll
+AcceptSavedSeller&mode=0&preference=0&sellerid='; var viewSellersStoreURL 'http://stores
+ebay
+com/id='; var onlineURL 'http://cgi5
+ebay
+com/ws/eBayISAPI
+dll
+ConvertSIFToCore&SaleType=1&ReturnURL=%26View%3DMyMessageDetails%26FolderID%3D0%26Column%3DReceived%26SortOrder%3DDESCEND%26MyMessages2
+Period%3DLast122Days%26GotoPage%3D1%26SourcePage%3DMyeBayMyMessages%26SessionId%3D0%26messageId%3Da200115611%26MyMessages2
+Filter%3D%26SubmitAction
+Show%3Dx%26CurrentPage%3DMyeBayMyMessageDetails%26LogUID%3Dnismo0712&LineID='; var fixedPriceURL 'http://cgi5
+ebay
+com/ws/eBayISAPI
+dll
+ConvertSIFToCore&SaleType=9&ReturnURL=%26View%3DMyMessageDetails%26FolderID%3D0%26Column%3DReceived%26SortOrder%3DDESCEND%26MyMessages2
+Period%3DLast122Days%26GotoPage%3D1%26SourcePage%3DMyeBayMyMessages%26SessionId%3D0%26messageId%3Da200115611%26MyMessages2
+Filter%3D%26SubmitAction
+Show%3Dx%26CurrentPage%3DMyeBayMyMessageDetails%26LogUID%3Dnismo0712&LineID='; var relistAsStoreURL 'http://cgi5
+ebay
+com/ws/eBayISAPI
+dll
+RelistAsSIF&ReturnURL=%26View%3DMyMessageDetails%26FolderID%3D0%26Column%3DReceived%26SortOrder%3DDESCEND%26MyMessages2
+Period%3DLast122Days%26GotoPage%3D1%26SourcePage%3DMyeBayMyMessages%26SessionId%3D0%26messageId%3Da200115611%26MyMessages2
+Filter%3D%26SubmitAction
+Show%3Dx%26CurrentPage%3DMyeBayMyMessageDetails%26LogUID%3Dnismo0712&LineID='; var emailFavoriteSellerToFriendURL 'http://contact
+ebay
+com/ws1/eBayISAPI
+dll
+ShowEmailAuctionToFriend&type=9&backuri=MyeBayMyMessageDetails&id='; var emailFavoriteSearchToFriendURL 'http://search
+ebay
+com/ws/eBayISAPI
+dll
+RedirectWithItemInfo&command=PageShowEmailAuctionToFriend&type=7&backuri=MyeBayMyMessageDetails&sspagename=STRK:MEFSRCH:EM&id='; var btnSellerStore 'http://pics
+ebaystatic
+com/aw/pics/icon/iconStoresNW_20x20
+gif'; var requestConnectionURL 'http://promo
+ebay
+com/ws/eBayISAPI
+dll
+CrossSellerRequestReview'; var getAReminderURL 'http://my
+ebay
+com/ws/eBayISAPI
+dll
+WatchEmailReminder&action=StandaloneSubscribeMyeBay&confirmationType=1&searchId='; var arrangeFreightShippingURL 'http://ebay
+freightquote
+com'; var WINPostURL 'http://wantitnow
+ebay
+com/ws/eBayISAPI
+dll
+WantItNowPost&sspagename=STRK:MEFSRCH:WIN&savedsearch='; var assignRulesURL 'http://rebulk
+ebay
+com/ws/eBayISAPI
+dll
+SMRules&urlstack=&smptemplateIds='; var removeRulesURL 'http://rebulk
+ebay
+com/ws/eBayISAPI
+dll
+SMRulesRemove&urlstack=&ViewRemoveRules=1&smptemplateIds='; var automateScoURL 'http://rebulk
+ebay
+com/ws/eBayISAPI
+dll
+SMRules&urlstack=&ruletype=90&smptemplateIds='; var removeScoURL 'http://rebulk
+ebay
+com/ws/eBayISAPI
+dll
+SMRulesRemove&urlstack=&ViewRemoveRules=1&ruletype=90&smptemplateIds='; var MarkAsResolvedURL 'http://k2b-bulk
+ebay
+com/ws/eBayISAPI
+dll
+SMRulesErrors&markresolved=1&ruleerrortype=&filter=&id='; var UpdateQuantityURL 'http://k2b-bulk
+ebay
+com/ws/eBayISAPI
+dll
+SMProUpdateQuantity&urlstack=&selectedGroupIds='; var sendSco 'http://cgi5
+ebay
+com/ws/eBayISAPI
+dll
+PersonalOfferLogin&item='; // --> <
+-- var btnDrp "http://pics
+ebaystatic
+com/aw/pics/myebay/imgDropCK_15x16
+gif"; var msg_ItemRelisted Localize("Item has been relisted"); var ReportUpiLabel Localize("Report an Unpaid Item"); var ReportInrLabel Localize("Report an Item Not Received"); var JSActions [ /* 00 */ [actionView,"View Item"], /* 01 */ [actionView,"Preview Item"], /* 02 */ [actionBid,null], /* 03 */ [actionBIN,null], /* 04 */ [actionViewOther,"View Seller's Other Items"], /* 05 */ [actionViewRelated,"View Related Items"], /* 06 */ [actionPayNow,null], /* 07 */ [actionPayStatus,"View Payment Status"], /* 08 */ [actionLeaveSellerFeedback,"Leave Feedback"], /* 09 */ [actionLeaveBuyerFeedback,"Leave Feedback"], /* 10 */ [actionMarkPaid,"Mark As Paid"], /* 11 */ [actionMarkNotPaid,"Mark Not Paid"], /* 12 */ [actionMarkShipped,"Mark Shipped"], /* 13 */ [actionMarkNotShipped,"Mark Not Shipped"], /* 14 */ [actionSendInvoice,"Send Invoice"], /* 15 */ [actionSellSimilar,"Sell Similar"], /* 16 */ [actionRYI,"Edit"], /* 17 */ [actionRYI,"Revise"], /* 18 */ [actionAddDesc,"Add To Description"], /* 19 */ [actionEndItem,"End Item"], /* 20 */ [actionEndGTCItem,"End Item"], /* 21 */ [actionRelist,"Relist"], /* 22 */ [actionRelistFlagged,"Relist"], /* 23 */ [actionSecondChance,"Second Chance Offer"], /* 24 */ [actionEditPromo,"Edit Promotions"], /* 25 */ [actionViewShippingStatus,"View Shipment Status"], /* 26 */ [actionPrintPostage,"Print Shipping Label"], /* 27 */ [actionRefineSearch,"Refine Search"], /* 28 */ [actionRefineStoreSearch,"Refine Search"], /* 29 */ [actionEditPreferences,"Edit Preferences"], /* 30 */ [actionSendPaymentReminder2,"Send Payment Reminder"], /* 31 */ [msgPaymentReminderSent,"Payment Reminder Sent"] , /* 32 */ [actionRespondToQuestion,"Respond"], /* 33 */ [actionMarkAsAnsweredMyebay,"Mark As Answered"], /* 34 */ [actionMarkAsAnsweredMyebayWithQuestions,"Mark As Answered"], /* 35 */ [actionMarkAsAnsweredSmpro,"Mark As Answered"], /* 36 */ [actionMarkAsAnsweredSmproWithQuestions,"Mark As Answered"], /* 37 */ [actionContactBuyer,"Contact Buyer"], /* 38 */ [actionContactSeller,"Contact Seller"], /* 39 */ [actionAcceptEscrowPaymentRelease,"Go To Payment Approval"], /* 40 */ [actionEscrowShipItem,"Provide Shipment Information"], /* 41 */ [actionRespondEscrowRefundReq,"Respond to Refund Request"], /* 42 */ [actionRequestEscrowRefundReq,"Request Refund"], /* 43 */ [actionUpdateWalletInfo,"Provide Wallet Information"], /* 44 */ [actionBuyerSelectEscrow,null], /* 45 */ [actionViewSellerOtherItems,"View Seller's Other Items"], /* 46 */ [actionEditSellerEmailFrequencyPreferences,"Edit Preferences"], /* 47 */ [actionAddFavoriteSeller,"Add to Favorite Sellers"], /* 48 */ [actionViewSellerStore,"Visit Seller's Store"], /* */ /* 49 */ [actionOnline,"Send to Online Auction"], /* 50 */ [actionFixedPrice,"Send to Fixed Price"], /* 51 */ [actionRelistAsStore,"Relist as Store Inventory"], /* */ /* 52 */ [actionViewSimilar,"View Similar Items"], /* 53 */ [actionReportUpi,ReportUpiLabel], /* 54 */ [actionReportInr,ReportInrLabel], /* 55 */ [actionSellLikeItem,"List an Item Like This"], /* 56 */ [actionMakeAnotherBestOffer,"Make Another Best Offer"], /* 57 */ [actionViewSellersResponse,"View Seller's Response"], /* 58 */ [actionRespondToOffers,"Respond to Offers"], /* 59 */ [actionEmailFavoriteSellerToFriend,"Email to a Friend"], /* 60 */ [actionEmailFavoriteSearchToFriend,"Email to a Friend"], /* 61 */ [actionEmailFavoriteCategoryToFriend,"Email to a Friend"], /* */ /* 62 */ [actionMarkPaymentSent,"Mark As Payment Sent"], /* 63 */ [actionMarkPaymentReceived,"Mark As Payment Received"], /* 64 */ [actionViewShippingStatus,"View Payment Details"], /* 65 */ [actionContactSellerMember,"Contact Seller"], /* 66 */ [actionContactBuyerMember,"Contact Buyer"], /* 67 */ [actionRequestTotal,"Request Total"], /* 68 */ [actionUncombineInvoice2,"Uncombine Invoice"], /* 69 */ [actionGetMembersContactInfo,"Get Seller Contact Information"], /* 70 */ [actionGetMembersContactInfo,"Get Buyer Contact Information"], /* 71 */ [actionViewPayPalPaymentBuyer,"View PayPal Payment"], /* 72 */ [actionViewPayPalPaymentSeller,"View PayPal Payment"], /* 73 */ [actionSecondChanceOffer,"Make Second Chance Offer"], /* 74 */ [actionUnmarkPaymentReceived,"Unmark As Payment Received"], /* 75 */ [actionUnmarkPaymentSent,"Unmark As Payment Sent"], /* 76 */ [actionUnmarkShipped,"Mark Not Shipped"], /* 77*/ [actionMarkAsPaid,"Mark As Paid"], /* 78 */ [actionMarkAsNotPaid,"Mark Not Paid"], /* 79 */ [actionAddCurrentSellerToFavoriteSellers,"Add to Favorite Sellers"], /* 80 */ [actionArrangeFreightShipping,"Arrange Freight Shipping"], /* 81 */ [actionArrangeFreightShipping,"Arrange Freight Shipping"], /* 82 */ [actionRequestConnection,"Request Connection"], /* 83 */ [actionReviewItemDescription,"Review Item Description"], /* 84 */ [actionWriteReview,"Write a Review"], /* 85 */ [actionReviewItemDescription,"Review Item Description"], /* 86 */ [actionEditTemplate,"Edit"], /* 87 */ [actionDelete,"Delete"], /* 88*/ [actionAssignRules,"Assign Automation Rules"], /* 89 */ [actionRemoveRules,"Remove Automation Rules"], /* 90 */ [actionEditProductTemplate,"Edit Template"], /* 91 */ [actionAssignSco,"Automate Second Chance Offers"], /* 92 */ [actionRemoveSco,"Turn Off Automatic Second Chance Offers"], /* 93 */ [actionAssignRules,"Edit Automation Rules"], /* 94 */ [actionAssignSco,"Edit Second Chance Offers"], /* 95 */ [actionMarkAsResolved,"Mark As Resolved"], /* 96 */ [actionRelistManually,"Relist Manually"], /* 97 */ [actionSendSco,"Send Second Chance Offer"], /* 98 */ [actionUpdateQuantity,"Update Quantity"], /* 99 */ [actionEditInvTemplate,"Edit Template"], /* 100 */ [actionWINPost,"Create a Want It Now Post"], /* 101 */ [actionGetAReminder,"Get a Reminder"], /* 102*/ [actionViewHalfSellersShop,"View Seller's Items on Half
+com"], /* 103 */ [actionConfigureWirelessAlerts,"Configure Wireless Alerts"] ]; function actionRequestConnection(msg, sid, tid, slr, cat, byr, rid, ctr, qry, qty, eid, enctitle){ var pagename "STRK:MEFS:XPP"; return '<a href="' + cobrandURL(requestConnectionURL) + '&option=sellername&sellername=' + slr + statsParam(ctr,'XPP') + '&ru=1883%26CurrentPage%3dMyeBayMyMessageDetails">'+msg+'</a>'; } function actionUncombineInvoice2(msg, sid, tid, slr, cat, byr, rid, ctr, qry, qty, eid, enctitle, oid){ var pagename "STRK:MESO:UNCB"; return '<a href="'+cobrandURL(UncombineInvoiceURL)+oid+'&mode=0&' + statsParam(ctr,pagename) + 'returnURL='+escape(window
+location
+protocol+'//'+window
+location
+hostname+window
+location
+pathname+replacePagename(window
+location
+search,pagename))+'">'+msg+'</a>'; } function actionSendPaymentReminder2(msg, sid, tid, slr, cat, byr, rid, ctr, qry, qty, eid, enctitle, oid){ var pagename "STRK:MESO:PMTR"; return '<a href="'+cobrandURL(sendPaymentReminderURL)+sid+'&transId='+tid+'&' + statsParam(ctr,pagename) +'">'+msg+'</a>'; } function actionViewHalfSellersShop(msg, sid, tid, slr, cat, byr, rid, ctr, qry, qty, eid, enctitle, oid){ return '<a href="'+cobrandURL(viewHalfShopsURL)+ slr +'">'+msg+'</a>'; } // --> <
+-- var pageName "MyeBayMyMessagesAlertView"; function Localize(text){return text;} // --> <
+-- body { margin-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; } --> Subject: eBay Unpaid Item Strike Received: #5237202437 Received: Mar-02-06 From: eBay Expires: Apr-02-06 Item ID: 5237202437 You acted on this alert in My Messages, but it may still require your attention
+ eBay Unpaid Item Strike Received: #5237202437 Dear eBay User, you have received an Unpaid Item strike You were the winning buyer on eBay item #5237202437, 2
+1 GB Hard Drive pulled from a Presario 1220 +CADDY 
+ The seller, chdem has informed eBay that payment for the item has still not been received, or that the two of you were not able to come to agreement
+ As a result, you have received an Unpaid Item strike
+ If you would like additional information regarding the item in question, please review the dispute details page
+ Remember, repeated Unpaid Item strikes may result in your suspension from eBay
+ Here you can check the status of this transaction: 5237202437
+ You can appeal this Unpaid Item strike if you believe it is not deserved
+ First, read the requirements for appealing the strike
+ If you meet them, you can submit your appeal on that page
+ If your appeal is successful the strike will be removed
+ If you have recently paid for the item or have otherwise resolved this dispute, you can ask the seller to remove the Unpaid Item Strike
+ Regards, eBay

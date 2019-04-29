@@ -1,0 +1,13 @@
+Subject: PayPal Inc
+ Member Notice Dear PayPal User It has come to our attention that yourPayPal account information needs to beupdated as part of our continuing commitment to protect your account and toreduce the instance of fraud on our website
+ If you could please take 5-10 minutesout of your online experience and update your personal records you will not run intoany future problems with the online service
+ To update your PayPal account records click on the following link: https://www
+paypal
+com/cgi-bin/webscr
+cmd=login-run Thank you for your patience in this matter
+ Sincerely, Ammy Handor,PayPal Inc
+Access Security Departament
+ Please do not reply to this e-mail as this is only a notification
+ Mail sent to this address cannot be answered
+ Copyright 2005,PayPal INC
+ All Rights Reserved

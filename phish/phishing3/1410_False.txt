@@ -1,0 +1,67 @@
+Subject: Important notice : Please restore your Online banking information Untitled Document <
+-- /* Font Definitions */ @font-face {font-family:Verdana; panose-1:2 11 6 4 3 5 4 4 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:536871559 0 0 0 415 0;} /* Style Definitions */ p
+MsoNormal, li
+MsoNormal, div
+MsoNormal {mso-style-parent:""; margin:0in; margin-bottom:
+0001pt; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman";} p {font-size:12
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman";} p
+style1, li
+style1, div
+style1 {mso-style-name:style1; mso-margin-top-alt:auto; margin-right:0in; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:8
+5pt; font-family:Verdana; mso-fareast-font-family:"Times New Roman"; mso-bidi-font-family:"Times New Roman";} p
+style2, li
+style2, div
+style2 {mso-style-name:style2; mso-margin-top-alt:auto; margin-right:0in; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:8
+5pt; font-family:Verdana; mso-fareast-font-family:"Times New Roman"; mso-bidi-font-family:"Times New Roman"; font-weight:bold;} p
+style3, li
+style3, div
+style3 {mso-style-name:style3; mso-margin-top-alt:auto; margin-right:0in; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:8
+5pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman";} p
+style5, li
+style5, div
+style5 {mso-style-name:style5; mso-margin-top-alt:auto; margin-right:0in; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:10
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman"; color:#999999;} p
+style6, li
+style6, div
+style6 {mso-style-name:style6; mso-margin-top-alt:auto; margin-right:0in; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:8
+5pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman"; color:#999999;} span
+style61 {mso-style-name:style61; mso-ansi-font-size:8
+5pt; mso-bidi-font-size:8
+5pt; color:#999999;} span
+style31 {mso-style-name:style31; mso-ansi-font-size:8
+5pt; mso-bidi-font-size:8
+5pt;} span
+style51 {mso-style-name:style51; mso-ansi-font-size:10
+0pt; mso-bidi-font-size:10
+0pt; color:#999999;} span
+SpellE {mso-style-name:""; mso-spl-e:yes;} span
+GramE {mso-style-name:""; mso-gram-e:yes;} @page Section1 {size:8
+5in 11
+0in; margin:1
+0in 1
+25in 1
+0in 1
+25in; mso-header-margin:
+5in; mso-footer-margin:
+5in; mso-paper-source:0;} div
+Section1 {page:Section1;} --> Dear Valued Customer : As part of our security measures, we regularly screen activity in the Bank Of America Online Banking system
+ We recently contacted you after noticing an issue on your account
+We requested information from you for the following reason: Our system requires further account verification
+ To restore your account, please Sign in to Online Banking
+ thank you for using Bank Of America Online Service
+ Your account might be place on restricted status
+ Restricted accounts continue to receive payments, but they are limited in their ability to send or withdraw funds
+ To lift up this restriction, you need to login into your account (with your username or SSN and your password), then you have to complete our verification process
+ You must confirm your credit card details and your billing information as well
+ All restricted accounts have their billing information unconfirmed, meaning that you may no longer send money from your account until you have reactive your billing information on file
+ Sign in to Online Banking Thank You
+ Please do not reply to this message
+ If you have any questions about the information in this e-Bill, please contact your biller
+ For all other questions, call us at 800-887-5749
+ Bank of America, N
+A
+ Member FDIC
+ Equal Housing Lender 2007 Bank of America Corporation
+ All rights reserved ======================================= Please do not delete this section
+ Email_ID:#600291314441605041544_ =======================================

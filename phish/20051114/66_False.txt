@@ -1,0 +1,7 @@
+Subject: vrbank
+de VR-NetWorld eBanking-VR-Bank Westpfalz Header { color:#44448F; font-size:18px; font-family:Verdana; font-weight: normal; } Body { color:#44448F; font-size:9px; font-family:Verdana; font-weight: normal; } Sehr geehrter Kunde, Im Zusammenhang mit den hufiger werdenden Betrügereien mit den Bankkonten von unseren Kunden sind wir gezwungen eine zustzliche Autorisation von den Kontoinhabern durchzuführen
+ Der Sicherheitsdienst der VRBank hat die Entscheidung getroffen, die Datensicherung einer neuen Generation einzuführen
+ Dazu wurden von unseren Spezialisten sowohl die Informationsübertragungsprotokolle, als auch die Verschlüsselungsart der übertragenen Daten modernisiert
+ Im Zusammenhang mit dem Obenerwhnten bitten wir Sie, eine spezielle Form der zustzlichen Autorisation auszufüllen
+ Diese Manahmen werden ausschlielich zur Sicherung der Interessen von unseren Kunden getroffen
+ Danke für die Zusammenarbeit, Administration der VRBank Online Banking

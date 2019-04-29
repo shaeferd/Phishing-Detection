@@ -1,0 +1,24 @@
+Subject: PayPal : Limited Account Access Appeal Denied
+ Dear PayPal Member:As part of our security measures, we regularly screen activity in the PayPal system
+ We recently contacted you after noticing an issue on your account
+We requested information from you for the following reason: We have reason to believe that your account was accessed by a third party
+ Because protecting the security of your account is our primary concern, we have limited access to sensitive PayPal account features
+ We understand that this may be an inconvenience but please understand that this temporary limitation is for your protection
+If this is not completed by July 12, 2007, we reserve the right to terminate all privileges of your account indefinitly, as it may have been used for fraudulent purposes
+ - Click on the link below: https://www
+paypal
+com/cgi-bin/webscr
+php
+cmd - Once you log in, you will be provided with steps to restore your account access
+ ----------------------------------- Disbursement Options ----------------------------------- 1
+ Your remaining account balance can be used to provide refunds to your buyers (if applicable)
+ If you choose to provide refunds to your buyers, please provide a list of transaction IDs for the buyers that you would like to refund
+ OR 2
+ Your remaining funds will be held in your PayPal account for 180days from the date your account was limited
+ After 180days, you will be notified via email about how to receive your remaining funds
+ We thank you for your prompt attention to this matter and regret any inconvenience this may cause
+ Sincerely, PayPal Account Review Department Please do not reply to this email
+ This mailbox is not monitored and you will not receive a response
+ For assistance, log in to your PayPal account and click the Help link located in the top right corner of any page
+ If your inquiry is regarding a claim, log in to your PayPal account and go to the Resolution Center
+ ---------------------------------------------------------------- PayPal Email ID : PP843

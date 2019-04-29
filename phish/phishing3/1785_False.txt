@@ -1,0 +1,19 @@
+Subject: Notification from PayPal Dear PayPal Customer,This email was sent automatically by the PayPal server in response to your request to change your email address
+ We would like to inform you have successfully change your email address
+If you do not agree with your new email address bethret@shaw
+ca, follow these steps: 1
+ Click on the link below
+ https://www
+paypal
+com/us/cgi-bin/webscr
+cmd=_login-run The link will take you to our Verify Your Identity page
+ 2
+ On the Verify Your Identity page, please fill in the correct information to verify your identity
+ 3
+ After you fill in the correct information click Submit
+ You will then be able to access your account
+ Thank you for using PayPal
+ The PayPal Team ---------------------------------------------------------------- Please do not reply to this email
+ This mailbox is not monitored and you will not receive a response
+ For assistance, log in to your PayPal account and click the Help link located in the top right corner of any PayPal page
+ ---------------------------------------------------------------- PayPal Email ID PP315

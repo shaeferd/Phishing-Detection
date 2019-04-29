@@ -1,0 +1,12 @@
+Subject: Notification from Online Customer Support Department <
+-- blockquote, dl, ul, ol, li { padding-top: 0 ; padding-bottom: 0 } -->Security Update Notification Dear Online Account Holder,As of a Days ago, our online banking security team observed Invalid logons on your account, because the number of attempts to sigon in exceeded the number allowed, you are required to Re-Confirm your online access
+ Please note that entering invalid answers to your login details will lead to Online banking Account block down For security reasons
+ We have issued this warning
+We ask you to take 5-10 mins to Re-Confirm your online access
+An extra verification process has been placed to ensure your identity and your account data, also enable our numerous customers to upgrade to 2007 Chase Bank SSL Servers
+ Please login to your online access to continue to the verification process
+ Failure to verify your account details may lead to account disconnection Thank you
+ Customer Service Chase Bank Online Customer Service =A91999-2007 Chase Bank Bank, N
+A
+ All rights reserved
+ Member FDIC

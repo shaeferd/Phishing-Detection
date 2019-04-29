@@ -1,0 +1,36 @@
+Subject: Notification of Limited Account Access #message 
+dummy {} #message td {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} #message {font-family: 4verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} #message LI {line-height: 120%;} #message UL
+ppsmallborder {margin:10px 5px 10px 20px;} #message LI
+ppsmallborderli {margin:0px 0px 5px 0px;} #message UL
+pp_narrow {margin:10px 5px 0px 40px;} #message hr
+dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;} #message 
+pp_label {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;font-weight: bold;color: #000000;} #message 
+pp_serifbig {font-family: serif;font-size: 20px;font-weight: bold;color: #000000;} #message 
+pp_serif{font-family: serif;font-size: 16px;color: #000000;} #message 
+pp_sansserif{font-family: verdana,arial,helvetica,sans-serif; font-size: 16px;color: #000000;} #message 
+pp_heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;} #message 
+pp_subheadingeoa {font-family: verdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: bold;color: #000000;} #message 
+pp_subheading {font-family: verdana,arial,helvetica,sans-serif;font-size: 16px;font-weight: bold;color: #003366;} #message 
+pp_sidebartext {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #003366;} #message 
+pp_sidebartextbold {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color: #003366;} #message 
+pp_footer {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #aaaaaa;} #message 
+pp_button {font-size: 13px; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset; color:#000000; background-color: #cccccc;} #message 
+pp_smaller {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #000000;} #message 
+pp_smallersidebar {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;} #message 
+ppem106 {font-weight: 700;} <
+-- #message td {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} #message 
+pp_heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;} #message 
+pp_sansserif{font-family: verdana,arial,helvetica,sans-serif; font-size: 16px;color: #000000;} #message hr
+dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;} #message 
+pp_footer {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #aaaaaa;} --> Notification of Limited Account Access As part of our security measures, we regularly screen activity in the PayPal system
+ We recently noticed the following issue on your account: Unusual account activity has made it necessary to limit account access until additional verification information can be collected
+ Case ID: Number: PP-673-872-456 For your protection, we have limited access to your account until additional security measures can be completed
+ We apologize for any inconvenience this may cause
+ Click here to verify your account Please understand that this is a security measure intended to help protect you and your account
+ We apologize for any inconvenience
+ If you choose to ignore our request, you leave us no choise but to temporaly suspend your account
+ Sincerely, PayPal Account Review Department
+ Please do not reply to this e-mail
+ Mail sent to this address cannot be answered
+ For assistance, log in to your PayPal account and choose the "Help" link in the footer of any page
+ To receive email notifications in plain text instead of HTML, update your preferences here

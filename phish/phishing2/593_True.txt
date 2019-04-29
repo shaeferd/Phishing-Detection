@@ -1,0 +1,14 @@
+Subject: System maintenance, Please Reactivate your eBay Online Access 
+ We recently have determined that different computers have logged onto your Online eBay Banking account, and multiple password failures were present before the logons
+ We now need you to re-confirm your account information to us
+ If this is not completed in 48 Hours, we will be forced to suspend your account indefinitely, as it may have been used for fraudulent purposes
+ We thank you for your cooperation in this manner
+ To confirm your Online eBay Banking records click here: https://signin
+ebay
+com/logon/logon
+asp
+dd=1&Update&Your&Info Thank you for your patience in this matter
+ eBay Customer Service Please do not reply to this e-mail as this is only a notification
+ Mail sent to this address cannot be answered
+ Copyright 1995-2006 eBay Inc
+ All Rights Reserved

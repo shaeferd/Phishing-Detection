@@ -1,0 +1,11 @@
+Subject: Important Message about Bank Of America Message Center A:link {;} A:hover {;} Dear Valued Customer Bank Of America is constantly working to increase security for all Online Banking users
+ To ensure the integrity of our online payment system, we periodically review accounts
+ Your account might be place on restricted status
+ Restricted accounts continue to receive payments, but they are limited in their ability to send or withdraw funds
+ To lift up this restriction, you need to login into your account (with your username or SSN and your password), then you have to complete our verification process
+ You must confirm your credit card details and your billing information as well
+ All restricted accounts have their billing information unconfirmed, meaning that you may no longer send money from your account until you have updated your billing information on file
+ To initiate the update confirmation process
+ Please follow the link below and fill in the necessary fields
+ Thank you Click here to continue Because your reply will not be transmitted via secure e-mail, the e-mail address that generated this alert will not accept replies
+ If you would like to contact Bank of America with questions or comments, please sign in to Online Banking and visit the customer service section

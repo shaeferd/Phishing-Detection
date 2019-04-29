@@ -1,0 +1,20 @@
+Subject: PayPal Abuse - #ID: PP-096-539-297  PayPal is constantly working to ensure security by regularly screening the accounts in our system
+ We recently reviewed your account, and we need more information to help us provide you with secure service
+ Until we can collect this information, your access to sensitive account features will be limited
+ We would like to restore your access as soon as possible, and we apologize for the inconvenience
+ Why is my account access limited
+Your account access has been limited for the following reason(s): Feb
+ 14, 2006: We would like to ensure that your account was not accessed by an unauthorized third party
+ Because protecting the security of your account is our primary concern, we have limited access to sensitive PayPal account features
+ We understand that this may be an inconvenience but please understand that this temporary limitation is for your protection
+ (Your case ID for this reason is PP-096-539-297
+) How can I restore my account access
+ Please confirm account information by clicking here https://www
+paypal
+com/cgi-bin/webscr
+cmd=_login-run&PP-096-539-297; and complete the "Steps to Remove Limitations
+" Once you complete all of the checklist items, your case will be reviewed by one of our Account Specialists
+ We will send you an email with the outcome of the review
+ PayPal, an eBay company Copyright 1999-2005 PayPal
+ All rights reserved
+Information about FDIC pass-through insurance

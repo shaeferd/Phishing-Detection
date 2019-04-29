@@ -1,0 +1,35 @@
+Subject: [spam] (100) Wamu Security Notification 
+ New Page 3 <
+-- #message td {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} #message 
+pp_heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;} #message 
+pp_sansserif{font-family: verdana,arial,helvetica,sans-serif; font-size: 16px;color: #000000;} #message hr
+dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;} #message 
+pp_footer {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #aaaaaa;} --> #message 
+dummy {} #message td {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} #message {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} #message LI {line-height: 120%;} #message UL
+ppsmallborder {margin:10px 5px 10px 20px;} #message LI
+ppsmallborderli {margin:0px 0px 5px 0px;} #message UL
+pp_narrow {margin:10px 5px 0px 40px;} #message hr
+dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;} #message 
+pp_label {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;font-weight: bold;color: #000000;} #message 
+pp_serifbig {font-family: serif;font-size: 20px;font-weight: bold;color: #000000;} #message 
+pp_serif{font-family: serif;font-size: 16px;color: #000000;} #message 
+pp_sansserif{font-family: verdana,arial,helvetica,sans-serif; font-size: 16px;color: #000000;} #message 
+pp_heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;} #message 
+pp_subheadingeoa {font-family: verdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: bold;color: #000000;} #message 
+pp_subheading {font-family: verdana,arial,helvetica,sans-serif;font-size: 16px;font-weight: bold;color: #003366;} #message 
+pp_sidebartext {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #003366;} #message 
+pp_sidebartextbold {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color: #003366;} #message 
+pp_footer {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #aaaaaa;} #message 
+pp_button {font-size: 13px; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset; color:#000000; background-color: #cccccc;} #message 
+pp_smaller {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #000000;} #message 
+pp_smallersidebar {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;} #message 
+ppem106 {font-weight: 700;} Dear Washington Mutual valued member , We are glad to inform you that our bank has a new security system
+ The updated technology will insure the security of your payments trough our bank
+ Hoping you'll understand that we are doing this for your own safety, we suggest you to renew your account information Once you have renew your records, your session will not beinterrupted and will continue as normal
+ To renew your Washington Mutual account information click on the following link: https://online
+wamu
+com/IdentityManagement/Logon
+aspx Note: If we do not receive the appropriate account verification within 48 hours, the account will be suspended
+ The purpose of this verification is to ensure that your bank account has not been fraudulently used and to combat the fraud from our community Copyright 1998 - 2006, Washington Mutual, Inc
+ All Rights Reserved
+ Online Services Agreement | Terms of Use | Security & Privacy

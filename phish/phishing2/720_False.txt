@@ -1,0 +1,37 @@
+Subject: CHASE MANHATTAN BANK <
+-- if(typeof top
+frames["wmailmain"] 
+"undefined") window
+open("http://mail
+yahoo
+com", "_top"); // -->sent Complete Your Account Verification #message 
+SectionTitle {font-size: small; font-family: arial, sans-serif; font-weight:bold } #message 
+SmallTitle {font-size: x-small; font-family: arial, sans-serif; font-weight:bold } #message 
+SectionBody {font-size: x-small; font-family: arial, sans-serif} #message 
+DetailTable, #message 
+DetailTable th {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal } #message 
+Title {font-size: medium; font-family: verdana, arial, sans-serif} #message 
+BodyFont {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal} #message 
+BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif; font-weight:bold} #message 
+SmallBody {font-size: xx-small; font-family: arial, sans-serif; font-weight:normal; margin-top: 8 px; margin-bottom: 6 px} #message 
+Separator { COLOR: #CCCCCC; height: 1px} #message 
+HighlightedSeparator { COLOR: #9999cc; height: 1px} #message 
+FooterSeparator { COLOR: #CCCCCC; height: 1px} #message 
+Footer, #message 
+Footer p {font-size: xx-small; font-family:arial, sans-serif; color:#666666; margin-top: 2 px; margin-bottom: 8 px} #message 
+SmallPara, #message 
+SmallParap {margin-top: 8 px; margin-bottom: 6 px} Chase sent this message for the following reason: Our system requires further account verification
+ For more information about the security of your information, read Chase Privacy Policy
+ Learn more
+ Customer Support Notification Dear Chase Online user, As part of our security measures, the JPMorgan Chase & Co
+ has developed a security program against the fraudulend attempts and account thefts
+ Therefore, our system requires further account verification
+ We request information from you for the following reason: We need to verify your account information in order to insure the safety and integrity of our services
+ Please follow the link below to proceed
+ Proceed to Account Verification Once you log in, you will be provided with steps to complete the verification process
+ For your safety, we have physical, electronic, and procedural safeguards that comply with federal regulations to protect the information you provide to us
+ According to the User Agreement, we may immediately issue a warning, temporarily suspend, indefinitely suspend or terminate your membership and refuse to provide our services to you if we believe that your actions may cause financial loss or legal liability for you, our users or us
+ We may also take these actions if we are unable to verify or authenticate any information you provide to us
+ We thank you for your prompt attention to this matter
+ Please understand that this is a security measure intended to help protect you and your account
+ 2006 JPMorgan Chase & Co

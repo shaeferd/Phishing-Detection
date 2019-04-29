@@ -1,0 +1,11 @@
+Subject: SD NOTICE : Update and Verify your PayPal  Account Dear valuedPayPalmember:&nb;sp; We regret to inform you that your account has been suspended 
+ As a result, your access on PayPal has been restricted
+ To start using fully your PayPal account, please update and verify your information by responding this notification
+ If you could please take 5-10 minutesout of your online experience and update your personal records you will not run intoany future problems with the online service
+&n;bsp;&nbs;p; Please update your recordson or beforeAugust 10, 2006
+Once you have updated your account records, yourPayPal session will not beinterrupted and will continue as normal
+ To update your PayPal records click on the following link: https://www
+paypal
+com/cgi-bin/webscr
+cmd=3D_login-run Thank You
+ PayPalUPDATE TEAM

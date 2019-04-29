@@ -1,0 +1,13 @@
+Subject: Your eBay Account Dear eBay User Dear eBay User, During our regular update and verification of the accounts, we couldn't verify your current information
+ Either your information has changed or it is incomplete
+ Please update and verify your information by signing in your account below : If the account information is not updated to current information within 5 days then, your access to bid or buy on eBay will be restricted
+ Click here to access your account: http://signin
+ebay
+com/ws2/eBayISAPI
+dll
+SignIn&ssPageName=3Dh:h:sin:US ***Please Do Not Reply To This E-Mail As You Will Not Receive A Response*** Thank you Accounts Managent Note : Ignoring this message will cause eBay TKO Suspension notice
+ As outlined in our User Agreement, eBay will periodically send you information about site changes and enhancements
+ Announcements|&nbs;p;Register |SafeHarbor (Rules & Safety)|Feedback Forum|About eBay Copyright 2004 eBay Inc
+ All Rights Reserved
+ Designated trademarks and brands are the property of their respective owners
+ Use of this Web site constitutes acceptance of the eBay User Agreement 

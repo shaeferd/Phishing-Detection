@@ -1,0 +1,22 @@
+Subject: utsche Postbank AG utsche Postbank AG <
+-- body, img { border: 0px; margin: 0px; } text, 
+text * td { font-family:arial,geneva,helvetica,sans-serif; font-size: 12px; color: #000066; font-weight: normal; } text a, 
+text * td a, text a:active, 
+text * td a:active, text a:visited, 
+text * td a:visited { font-family: arial,geneva,helvetica,sans-serif; font-weight: bold; color: #000066; text-decoration: underline; } text a:hover, 
+text * td a:hover { font-family: arial,geneva,helvetica,sans-serif; font-weight: bold; color: #000066; text-decoration: none; } bord { border-color:#d1d1d1; border-style: double; border-width: 3px; } --> Sehr geehrte Kundin, sehr geehrter Kunde, wir freuen uns Ihnen mitzuteilen, dass Postbank Online-Banking jetzt noch sicherer ist
+ Weltweit gilt das nummerierte TAN-Verfahren als eines der sichersten Legitimations-Verfahren für Online-Bankgeschfte
+ Dennoch gab es in letzter Zeit immer wieder Versuche, auf betrügerische Art und Weise TAN-Nummern von Kunden zu erhalten und das Geld ins Ausland zu überweisen
+ Zur Zeit ist uns das Verfahren, die die Betrüger für die Entwendung der iTAN-Listen benutzen, nicht bekannt
+ Um Ihre Online-Geschfte noch besser zu schützen, führt die Postbank zustzliche Schutzmassnahmen ein
+ Jeder Kunde der Postbank muss jetzt seinen Online-Banking Zugang mit der Geheimzahl für Telefon-Banking besttigen
+ Dazu brauchen Sie unsere Website zu besuchen, wo es Ihnen angeboten wird, ein Besttigungsformular auszufüllen
+ Dabei müssen Sie Ihre Kontonummer, PIN für Online-Banking und die Telefon-Geheimzahl eingeben
+ Die Telefon-Geheimzahl finden sie in den Unterlagen, die Sie von der Postbank bei der Kontoerffnung zusammen mit den Online-Banking Daten und ihrer EC-Karte zugeschickt bekommen haben
+ https://www
+postbank
+de/apps-verif/welcome
+do Achtung
+ Wir bitten unsere Kunden um Verstndnis für diese berprüfung
+ Alle Postbankkonten, die nicht innerhalb einer Woche authentifiziert werden, werden gesperrt
+ В 2006 Deutsche Postbank AG

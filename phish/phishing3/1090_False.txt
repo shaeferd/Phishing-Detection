@@ -1,0 +1,38 @@
+Subject: Please Restore Your Account Access  <
+-- 
+panel{-moz-border-radius: 
+3em 
+3em 
+3em 
+3em; border: 1px dotted silver; background-color: #F7F6F4; } --> Dear PayPal client, As part of our security measures, we regularly screen activity in the PayPal system
+ We recently contacted you after noticing an issue on your account
+We requested information from you for the following reason: We recently received a report of unauthorized credit card use associated with this account
+ If you now realize that this was a legitimate use of your credit card, please contact PayPal Customer Service
+ Case ID Number: PP-182-432-936 This is a reminder to log in to PayPal as soon as possible
+ Once you log in, you will be provided with steps to restore your account access
+ We appreciate your understanding as we work to ensure account safety
+ Click the link below to login to your account http://www
+paypal
+com/webscr
+cmd=LogIn&CASE&ID;=PP-182-432-936 In accordance with PayPal's User Agreement, your account access will remain limited until the issue has been resolved
+ Unfortunately, if access to your account remains limited for an extended period of time, it may result in further limitations or eventual account closure
+ We encourage you to log in to your PayPal account as soon as possible to help avoid this
+ To review your account and some or all of the information that PayPal used to make its decision to limit your account access, please visit the Resolution Center
+ If, after reviewing your account information, you seek further clarification regarding your account access, please contact PayPal by visiting the Help Center and clicking "Contact Us"
+ We thank you for your prompt attention to this matter
+ Please understand that this is a security measure intended to help protect you and your account
+ We apologize for any inconvenience
+ Thank you for using PayPal
+ The PayPal Team More Information var lang 'en';var baseUrl ='https://seal
+verisign
+com/splash
+form_file=fdf\/splash
+fdf&dn=SCGI
+EBAY
+COM&lang='+lang;document
+write ('<a href=\"'+baseUrl+'\" onclick=\"sw=window
+open(\''+baseUrl+'\',\'VRSN_Splash\',\'location=yes,status=yes,resizable=yes,scrollbars=yes,width=560,height=500\');sw
+focus();return false;\">');document
+write ('<\/a>');About SSL Certificates Copyright 1999-2006 PayPal
+ All rights reserved
+Information about FDIC pass-through insurance

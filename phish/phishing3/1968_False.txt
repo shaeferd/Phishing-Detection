@@ -1,0 +1,50 @@
+Subject: Bank of America alert: Sign-in to Online Banking locked Bank of America Alert <
+-- a:link { color: #405ebe; background: #ffffff; } a:hover { color: #0000ff; background: #ffffff; } body, table, div, h1, h2, h3, h4, h5, h6, p { font-family: verdana; color: #333333; background: #ffffff; } 
+font-sign-in { font-size: 70%; font-family: "verdana"; font-weight: bold; background: #f0f0f0; line-height: 1
+4; } h1 { font-size: 100%; font-family: verdana; color: #d4001a; background: #ffffff; margin-bottom: 0px; } 
+font-title-red { font-size: 105%; font-family: verdana; color: #d4001a; background: #ffffff; margin-bottom: 0px; } 
+font-x { font-size: 75%; font-family: verdana, arial, geneva, helvetica, sans-serif; } 
+font-y { font-size: 70%; font-family: verdana, arial, geneva, helvetica, sans-serif; background: #f0f0f0; line-height: 1
+4; } 
+font-footer { color: #333333; background: #ffffff; font-size: 70%; margin-top: 0em; margin-bottom: 1em; } 
+inner-table { font-size: 75%; font-family: verdana, arial, geneva, helvetica, sans-serif; margin-bottom: 1em; line-height: 1
+4; margin-top: 
+8em; } 
+paragraph-body { font-size: 70%; margin-top: 0
+45em; margin-bottom: 1em; color: #333333; background: #ffffff; line-height: 1
+4; } 
+paragraph-dynamic { color: #333333; background: #e9e8e3; font-size: 70%; font-family: verdana; line-height: 1
+4; } 
+paragraph-fine-print { font-size: 65%; font-family: verdana; margin-bottom: 1em; color: #333333; background: #f0f0f0; line-height: 1
+4; } 
+email-address { text-transform: lowercase; background: #f0f0f0; } hr { width: 100%; color: #999999; } 
+red-heading { width: 78
+6%; } 
+bold { font-weight: bold; } 
+first-col { width: 15px; background: #f0f0f0;} 
+second-col { width: 145px; background: #f0f0f0;} 
+third-col { width: 15px; } 
+fourth-col { width: 572px; } 
+first-second-col { width: 160px; background: #f0f0f0;} 
+third-fourth-col { width: 587px; } 
+first-second-third-col { width: 175px; } 
+all-four-col { width: 747px; } 
+banner-row { height: 70px; } 
+sub-banner-row { height: 93px; } 
+empty-row { height: 25px; } --> to reset your passcode please Sign In Online Banking Sign-in Error For your security, access to Online Banking has been locked because the number of attempts to sign in exceeded the number allowed
+ To regain access, you must restore your account
+ Please click here and submin your information
+ Want to confirm this email is from Bank of America
+ Sign in to Online Banking and select Alerts History to verify this alert
+ Want to get more alerts
+ Sign in to Bank of America Online Banking and click the "Manage Alerts" link in the "I want to
+
+
+" box
+ Because email is not a secure form of communication, please do not reply to this email
+ If you have any questions about your account or need assistance, please call the phone number on your statement or go to Contact Us at www
+bankofamerica
+com
+ Bank of America, Member FDIC
+ 2007 Bank of America Corporation
+ All Rights Reserved

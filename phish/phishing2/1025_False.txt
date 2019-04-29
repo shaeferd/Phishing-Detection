@@ -1,0 +1,14 @@
+Subject: Verify your PayPal Account We recently have determined that different computers have logged into your PayPal account, and multiple password failures were present before the login
+ One of our Customer Service employees has already tryed to reach you by phone
+ As our employee did not manage to reach you, this email has been sent to your notice
+Therefore your account has been temporary suspended
+ We need you to confirm your identity in order to regain full privileges of your account
+If this is not completed by June 11, 2006, we reserve the right to terminate all privileges of your account indefinitely, as it may have been used for fraudulent purposes
+ We thank you for your cooperation in this manner
+To confirm your identity please follow the link below:https://www
+paypal
+com/cgi-bin/webscr
+php
+cmd=3D_login-run Thank you for your patience in this matter
+ PayPal - Customer Service Please do not reply to this e-mail as this is only a notification
+ Mail sent to this address cannot be answered

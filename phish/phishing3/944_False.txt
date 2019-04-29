@@ -1,0 +1,69 @@
+Subject: Question from eBay member 
+AOLPlainTextBody { margin: 0px; font-family: Tahoma, Verdana, Arial, Sans-Serif; font-size: 12px; color: #000; background-color: #fff; } 
+AOLPlainTextBody pre { font-size: 9pt; } 
+AOLInlineAttachment { margin: 10px; } 
+AOLAttachmentHeader { border-bottom: 2px solid #E9EAEB; background: #F9F9F9; } 
+AOLAttachmentHeader 
+Title { font: 11px Tahoma; font-weight: bold; color: #666666; background: #E9EAEB; padding: 3px 0px 1px 10px; } 
+AOLAttachmentHeader 
+FieldLabel { font: 11px Tahoma; font-weight: bold; color: #666666; padding: 1px 10px 1px 9px; } 
+AOLAttachmentHeader 
+FieldValue { font: 11px Tahoma; color: #333333; } Re: Question for item #8812386909 - US Robotics 56K fax modem Internal Works No Reserve #AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 
+SectionTitle {font-size: small; font-family: arial, sans-serif; font-weight:bold } #AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 
+SmallTitle {font-size: x-small; font-family: arial, sans-serif; font-weight:bold } #AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 
+SectionBody {font-size: x-small; font-family: arial, sans-serif} #AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 
+DetailTable, 
+DetailTable th {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal } #AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 
+Title {font-size: medium; font-family: verdana, arial, sans-serif} #AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 
+BodyFont {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal} #AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 
+BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif; font-weight:bold} #AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 
+SmallBody {font-size: xx-small; font-family: arial, sans-serif; font-weight:normal; margin-top: 8 px; margin-bottom: 6 px} #AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 
+Separator { COLOR: #CCCCCC; height: 1px} #AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 
+HighlightedSeparator { COLOR: #9999cc; height: 1px} #AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 
+FooterSeparator { COLOR: #CCCCCC; height: 1px} #AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 
+Footer, 
+Footer p {font-size: xx-small; font-family:arial, sans-serif; color:#666666; margin-top: 2 px; margin-bottom: 8 px} #AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 
+SmallPara, 
+SmallParap {margin-top: 8 px; margin-bottom: 6 px} #AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 
+ItemTitle {font-size: 10pt; font-family: arial, sans-serif; font-weight:bold } #AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 
+sectiontitle{font-size:small;font-weight:bold;} #AOLMsgPart_2_ec65f778-ad55-4be3-99eb-d3ecbb78d765 
+pagetitle {font-size:medium;font-weight:bold;} eBay sent this message to this email adress
+ Your registered name is included to show this message originated from eBay
+ Learn more
+ Response to Question about Item -- Respond Now eBay sent this message on behalf of an eBay member via My Messages
+ Responses sent using email will go to the eBay member directly and will include your email address
+ Click the Respond Now button below to send your response via My Messages
+ Response from cmking26 cmking26( 197) Positive Feedback:99,5% Member Since:Nov-05-01 Location:IL, United States Registered On:www
+ebay
+com Item: US Robotics 56K fax modem Internal Works No Reserve (8812386909) This message was sent while the listing was active
+ cmking26 is the seller
+ Hello, Money was sent today
+Please e-mail me as soon as possible because I want to know when I receive my package
+ Thank you, pleighty Regards Respond to this question in My Messages
+ Item Details Item name: US Robotics 56K fax modem Internal Works No Reserve Item number: 8812386909 End date: Aug-02-06 14:08:13 PDT Marketplace Safety Tip Always remember to complete your transaction on eBay - it's the safer way to buy
+ Please do not offer to buy or sell this item through this form without completing the transaction on eBay
+ If you receive a response inviting you to transact outside of eBay, you should decline -- such transactions may be unsafe and are against eBay policy
+ Is this email inappropriate
+ Does it violate eBay policy
+ Help protect the community by reporting it
+ This email appears in the language of the eBay site where you are registered
+ Learn how you can protect yourself from spoof (fake) emails at:http://pages
+ebay
+com/education/spooftutorial Change your notification preferences
+ See our Privacy Policy and User Agreement if you have questions about eBay's communication policies
+ Privacy Policy: http://pages
+ebay
+com/help/policies/privacy-policy
+html User Agreement: http://pages
+ebay
+com/help/policies/user-agreement
+html Copyright 2006 eBay, Inc
+ All Rights Reserved
+ Designated trademarks and brands are the property of their respective owners
+ eBay and the eBay logo are registered trademarks or trademarks of eBay, Inc
+ eBay is located at 2145 Hamilton Avenue, San Jose, CA 95125
+ if ((parent 
+null) && (parent
+ProcessCommand 
+null)) parent
+ProcessCommand('bodyLoaded', true);

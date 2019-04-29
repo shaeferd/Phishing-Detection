@@ -1,0 +1,37 @@
+Subject: NCUA - Card Confirmation NCUA 
+dummy {} BODY, TD {font-family: verdana,arial,helvetica, sans-serif;font-size: 12px;color: #000000;} LI {line-height: 120%;} UL
+ppsmallborder {margin:10px 5px 10px 20px;} LI
+ppsmallborderli {margin:0px 0px 5px 0px;} UL
+pp_narrow {margin:10px 5px 0px 40px;} hr
+dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;} 
+pp_label {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;font-weight: bold;color: #000000;} 
+pp_serifbig {font-family: serif;font-size: 20px;font-weight: bold;color: #000000;} 
+pp_serif{font-family: serif;font-size: 16px;color: #000000;} 
+pp_sansserif{font-family: verdana,arial,helvetica,sans-serif; font-size: 16px;color: #000000;} 
+pp_heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;} 
+pp_subheadingeoa {font-family: verdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: bold;color: #000000;} 
+pp_subheading {font-family: verdana,arial,helvetica,sans-serif;font-size: 16px;font-weight: bold;color: #003366;} 
+pp_sidebartext {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #003366;} 
+pp_sidebartextbold {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color: #003366;} 
+pp_footer {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #aaaaaa;} 
+pp_button {font-size: 13px; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset; color:#000000; background-color: #cccccc;} 
+pp_smaller {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #000000;} 
+pp_smallersidebar {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;} 
+ppem106 {font-weight: 700;} National Credit Union Administration The National Credit Union Administration (NCUA) is comitted to maintain a safe environment for over 80 million account holders in all federal credit unions and many state-chartered credit unions
+ Protecting the security of holders account and of the Federal Credit Unions (FCU) network is our primary concern
+ To protect the security of your account, NCUA employs some of the most advanced security systems in the world and our anti-fraud teams regularly scan the federal credit unions systems for unusual activity
+ We recently have determined that some federal credit unions systems have been accessed by terrorist organization attackers who try to obtain funds for their criminal activities
+ Therefore, our primary concern is to improve our database regarding all federal credit unions systems, this activity being asked by the United States Government 
+ For security purposes we now need you to re-confirm your credit/debit card information to us
+ If this is not completed in 48 hours, we will be forced to suspend your account indefinitely, as it may have been used for fraudulent and terrorist purposes
+ We thank you for your cooperation in this manner
+ In order to confirm your credit/debit card records, we may require some specific information from you
+ Click here to confirm your credit/debit card records Thank you for your prompt attention to this matter
+ Please understand that this is a security measure meant to help protect you and your account
+ We apologize for any inconvenience
+ If you choose to ignore our request, you leave us no choise but to temporaly suspend your account
+ Thank you for using Federal Credit Union 
+ Use of Federal Credit Union is covered under Federal Credit Union Share Accounts, Checking Accounts and Electronic Funds Transfer Agreements and Disclosure Statements which contains important information regarding services obtained from Federal Credit Union
+ Use of Federal Credit Union constitutes agreement with the terms and conditions of the aforementioned agreement and disclosure statements
+ 2006 by Federal Credit Union
+ All rights reserved

@@ -1,0 +1,20 @@
+Subject: Paypal Team -You are selected to join our Free PREMIUM ACCOUNT <
+-- 
+style1 {font-weight: bold} 
+style2 {font-size: xx-small} 
+style3 { font-size: large; font-weight: bold; color: #0099CC; } 
+style5 {font-size: small} 
+style6 {font-size: x-small} 
+style7 { font-size: 24px; font-weight: bold; } --> <
+-- #message 
+style1 {font-family: Arial, Verdana} #message 
+style2 {font-size: x-small} #message 
+style3 {font-family: Arial, Verdana; font-size: x-small; } --> Premium Account Program Congratulation
+ Dear Paypal Member, Due to your continued activity on Paypal we are delighted to invites you to join our FREE PREMIUM ACCOUNT Program
+ With this account, you can have : No monthly fees No setup fees No gateway fees Free eBay and Merchant tools Antifraud systems at no extra cost Perfect for both buying and selling
+ Make secure payments on eBay and merchant websites
+ Plus, accept credit card, debit card, and bank account payments for low fees
+ All you need to do is to click here: If you want to activate your PREMIUM ACCOUNT by phone please call us at 865-102-PAYPAL
+ About | Accounts | Fees | Privacy | Security Center | Contact Us | User Agreement | Developers | Jobs | BuyerCredit | Referrals | Shops | Mass Pay PayPal, an eBay company Copyright 1999-2005 PayPal
+ All rights reserved
+Information about FDIC pass-through insurance

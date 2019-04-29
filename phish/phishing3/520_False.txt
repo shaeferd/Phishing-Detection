@@ -1,0 +1,20 @@
+Subject: Dear PayPal Customer 
+ dummy {} BODY, TD {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} LI {line-height: 120%;} UL
+ppsmallborder {margin:10px 5px 10px 20px;} LI
+ppsmallborderli {margin:0px 0px 5px 0px;} UL
+pp_narrow {margin:10px 5px 0px 40px;} hr
+dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;} pp_label {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;font-weight: bold;color: #000000;} pp_serifbig {font-family: serif;font-size: 20px;font-weight: bold;color: #000000;} pp_serif{font-family: serif;font-size: 16px;color: #000000;} pp_sansserif{font-family: verdana,arial,helvetica,sans-serif; font-size: 16px;color: #000000;} pp_heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;} pp_subheadingeoa {font-family: verdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: bold;color: #000000;} pp_subheading {font-family: verdana,arial,helvetica,sans-serif;font-size: 16px;font-weight: bold;color: #003366;} pp_sidebartext {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #003366;} pp_sidebartextbold {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color: #003366;} pp_footer {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #aaaaaa;} pp_button {font-size: 13px; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset; color:#000000; background-color: #cccccc;} pp_smaller {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #000000;} pp_smallersidebar {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;} ppem106 {font-weight: 700;} Dear PayPal Member, This email confirms that you have paid LWP ELECTRONICS (sales@lwpelectronics
+com) $274
+99 USD using PayPal
+ This credit card transaction will appear on your bill as "PAYPAL LWPELECTRONICS*"
+ PayPal Shopping Cart Contents Item Name: BRAND NEW NOKIA 6600 CELL PHONE Quantity: 1 Total: $274
+99 USD Cart Subtotal: $254
+99 USD Shipping Charge: $20
+00 USD Cart Total: $274
+99 USD Shipping Information Shipping Info: Bill Chang 202 N Magnolia Dr
+ Saco, ME 04072 United States Address Status: Unconfirmed If you haven't authorized this charge, click the link below to cancel the payment and get a full refund
+ Dispute Transaction Thank you for using PayPal
+ The PayPal Team Please do not reply to this e-mail
+ Mail sent to this address cannot be answered
+ For assistance, log in to your PayPal account and choose the "Help" link in the footer of any page
+ PayPal Email ID PP924

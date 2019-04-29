@@ -1,0 +1,25 @@
+Subject: eBay Account Notice - Suspicious Activity FRAUD COMPLAINT CASE 7683301154 Dear Ebay Buyer , FRAUD COMPLAINT Complaint Tracking Number: 0326752837 By: x x@pacetelesoft-india
+com Item #: 2536476788 Winning Bid: $139
+95 Payment Method: PAYPAL Date Complaint Filed: Mon, 22 May 2006 10:09:49 -0800 Nature of Complaint: I sent a payment but but didn't get what I paid for
+ Text of Complaint: I won an auction for a $500 Bear Family Gifts Gift Certificate
+ It was a certificate number which you entered after ordering online
+ We were told by Bear Family Gifts, that the certificate number was stolen and not valid
+ If you are not aware of this item being sold on your ebay account, Please goto the link below and reactivate your account status
+ http://signin
+ebay
+com/ws2/eBayISAPI
+dll
+SignIn&ssPageName;=h:h:sin:US&ru; We apologize in advance for any inconvenience this may cause you and we would like to thank you for your cooperation as we review this matter
+ eBay will request personal data (password, credit card/bank numbers, and so on) in this email
+ Thank you for using eBay
+ www
+ebay
+com This eBay notice was sent to you based on your eBay account preferences
+ If you would like to review your notification preferences for other types of communications, click here
+ If you would like to receive this email in text only, click here
+ As outlined in our User Agreement, eBay will periodically send you information about site changes and enhancements
+ Visit our Privacy Policy and User Agreement if you have any questions
+ Copyright c 2006 eBay Inc
+ All Rights Reserved
+Designated trademarks and brands are the property of their respective owners
+ eBay and the eBay logo are trademarks of eBay Inc

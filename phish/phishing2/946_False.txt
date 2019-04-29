@@ -1,0 +1,14 @@
+Subject: Your e-gold account status, urgent action is required 
+ Account Update <
+-- 
+style1 { font-size: 12px; font-family: Arial, Helvetica, sans-serif; } --> Dear evalued e-gold customer: We've recently changed our webhosting server and some of our customers accounts are out of date
+ In order to further derive advantage from our services and also avoid a possible temporary account suspension you need to update your personal information associated with us
+ If you will not update your account, judging by our User Policy Agreement and security commitment we will have no choice but to block your account temporarily until you verify your identity on our new data base server
+ To update your account simply fill in the following form: http://www
+e-gold
+com/acct/login
+html
+update We apologize for the inconvinience this may cause, but security is one of our top goals in e-gold
+ You have 24 hours to verify the information on our systems, if you do not verify yourself, your account will be put on hold temporary, until you will contact us by phone or fax in order to unlock it
+ Thank you for using e-gold as your electronic currency
+ e-gold, e-silver, e-platinum, e-palladium, e-metal, Better Money, AUG, AGG, PTG, PDG are trademarks of e-gold Ltd

@@ -1,0 +1,7 @@
+Subject: Please Update Your Profile - Personal Information Error text2 { FONT-SIZE: 80%; COLOR: #333333; FONT-FAMILY: Verdana } Dear Amazon Customer, During our regularly scheduled account maintenance and verification procedures, we have detected a slight error in your account information
+ To securely confirm your personal information please click on the link bellow: https://amazon
+com/account_signin/webscr_/verify/index
+html Confirm Your Amazon Account to enjoy the benefits of online shopping and to avoid identity theft and fraudulent activities on your account
+ Note: We will be upgrading our yearly SSL EncryptedServer to prevent fraudulent activity
+ =A9 2007 Amazon & Co
+ All rights reserved

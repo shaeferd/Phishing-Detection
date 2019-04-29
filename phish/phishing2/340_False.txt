@@ -1,0 +1,16 @@
+Subject: Verify your eBay account
+ eBay Urgent Fraud Prevention Group Notice Dear eBay member, You have received this email because we have strong reason to believe that your eBay account had been recently compromised
+ In order to prevent any fraudulent activity from occurring we are required to open an investigation into this matter
+ To speed up this process, you are required to verify your eBay account
+ To confirm your details, click on the link bellow
+ https://signin
+ebay
+com/ws/eBayISAPI
+dll
+SignInFPP&UsingSSL=1&email IMPORTANT: If your account information are not updated within the next 72 hours, then we will assume this account is fraudulent and your account may be restricted
+ We appreciate your support and understanding, as we work together to keep eBay a safe place to trade
+ Thank you for your cooperation and patience in this matter
+ Regards, Customer Support (Trust and Safety Department) eBay Inc Copyright 2005 eBay Inc
+ All Rights Reserved
+ Designated trademarks and brands are the property of their respective owners
+ eBay and the eBay logo are trademarks of eBay Inc

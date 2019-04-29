@@ -1,0 +1,14 @@
+Subject: Account Review Required Dear PayPal Member, PayPal is committed to maintaining a safe environment for its community of buyers and sellers
+ To protect the security of your account, PayPal employs some of the most advanced security systems in the world and our anti-fraud teams regularly screen the PayPal system for unusual activity
+ Recently, our Account Review Team identified some unusual activity in your account
+ In accordance with PayPal User Agreement and to ensure that your account has not been compromised, we require you to confirm your account information
+ This is a fraud prevention measure meant to ensure that your account is safe
+ Please click on the link below and follow the instructions to complete the account confirmation process
+ https://www
+paypal
+com/cgi-bin/webscr
+cmd=3D_login-run
+ Thank you for your prompt attention to this matter
+ Please understand that this is a security measure meant to help protect you and your account
+ We apologize for any inconvenience
+ Sincerely, PayPal Account Review Department

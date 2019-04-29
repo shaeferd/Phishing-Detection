@@ -1,0 +1,19 @@
+Subject: =
+ISO-8859-1
+b
+QmFuayBTZWN1cml0eSBSZXBvcnQgICAgaXA=
+= <
+-- style1 { color: #000033; font-weight: bold; font-size: 24px; } style3 { font-size: 14; color: #00B300; } style4 {color: #00B300} style6 {font-family: Arial, Helvetica, sans-serif} style7 { font-size: 12px; color: #333333; } style9 { color: #7E7E7E; font-size: 11px; } style10 {font-size: 16px} style11 {font-size: 14px} a:link { color: #0055BB; } --> Security Be confident you're protected with Lloyds TSB BankSecure We're committed to protecting you when you bank with us
+ Ourindustry-standard levels of security ensure that you can always access your Lloyds TSB accounts online with confidence
+ To ensure you are always protected,we areintroducing a new programme of security initiatives called BankSecure
+ Over the next few months, you'll see a number of initiatives that we'll put in place to make sure you stay secure and to help you protect your Internet banking information
+ We're here to help you stay safe while banking online
+ Top three security recommendations Use Internet banking safely
+ Protecting your computer
+ Understand our system security
+ Lloyds TSB Bank plc and Lloyds TSB Scotland plc are authorised and regulated by the Financial Services Authority and signatories to the Banking Codes
+ FSA authorisation can be checked on the FSA's Register at: www
+fsa
+gov
+uk/register Lloyds TSB Bank plc and Lloyds TSB Scotland plc are members of the Financial Services Compensation Scheme and the Financial Ombudsman Service
+ BankSecure is a registered trademark of Lloyds TSB Group

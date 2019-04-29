@@ -1,0 +1,63 @@
+Subject: Melinda Navarro has just sent you $93
+50 USD with PayPal Melinda Navarro has just sent you $93
+50 USD with PayPal #message, #message TD {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} #message LI {line-height: 120%;} #message UL
+smallBorder {margin:10px 5px 10px 20px;} #message LI
+smallBorderLi {margin:0px 0px 5px 0px;} #message UL
+Narrow {margin:10px 5px 0px 40px;} #message HR
+dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;} #message 
+smallEmphasis {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color: #000000;} #message 
+serifBig {font-family: serif;font-size: 20px;font-weight: bold;color: #000000;} #message 
+serif{font-family: serif;font-size: 16px;color: #000000;} #message 
+sansSerif{font-family: verdana,arial,helvetica,sans-serif; font-size: 16px;color: #000000;} #message 
+heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;} #message 
+subHeadingEoa {font-family: verdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: bold;color: #000000;} #message 
+subHeading {font-family: verdana,arial,helvetica,sans-serif;font-size: 16px;font-weight: bold;color: #003366;} #message 
+sidebarText {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #003366;} #message 
+sidebarTextBold {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color: #003366;} #message 
+xptFooter {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #aaaaaa;} #message 
+button {font-size: 13px; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset; color:#000000; background-color: #cccccc;} #message 
+smaller {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #000000;} #message 
+smallerSidebar {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;} #message 
+emphasis {font-weight: 700;} #message table#invoice, #message table#invoice_controls, #message table#invoice_note { width: 600px;} #message table#invoice_note {margin-top:10px; margin-bottom:10px;} #message table#invoice_controls {text-align: right;} #message table#invoice {border-collapse: collapse; border:1px solid #aaa; } #message table#invoice td {font-size:11px; border:1px solid #ccc; padding:2px;} #message table#invoice td
+field_label_right, #message table#invoice td
+field_label_right_error {font-weight:bold; text-align:right;} #message table#invoice td
+field_label_right_error, #message table#invoice td
+field_label_error {color:red;} #message table#invoice tr
+title td {font-weight:bold; line-height:20px; text-align:left; background-color: #ccddee;} #message table#invoice input
+readonly {border:0px none; text-align:right} #message table#invoice input
+readonly_currency {border:0px none; width:10px} #message 
+field_error, #message 
+field_error input
+readonly_currency {background-color:#FF3333;} #message 
+currency_highlight {background-color: #ffffcc;} #message 
+tax {font-weight: 400; float: left;} #message table#invoice td span
+curr {float: left;} #message table#invoice td
+currency {border-right:1px solid #fff;} #message table#invoice td
+calc {font-weight:bold; text-align:right;} #message 
+inlineBlue {color: #00f;} #message 
+small {font-size: 11px; font-weight: 400;} #message HR
+solid {width: 100%; margin-top: 5px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px solid #999;} #message 
+large {font-size: 17px;} #message 
+smallVerdanaGrey{font-family: verdana; font-size: 10px; color: #999999;} #message 
+smallVerdana {font-family: verdana; font-size: 10px; color :#000000;} #message 
+smallArial {font-family: arial; font-size: 13px; } #message 
+smallArialBlue {font-family: verdana; font-size: 9px; color: #0000FF;} #message 
+smallVerdanaGreen{font-family: verdana; font-size: 10px; color: #666666;} #message 
+smaller {font-size: 10px; color: gray;} #message 
+larger {font-size: 18px; font-family: arial; font-weight: 600; } #message 
+longTableValue{word-break:break-all;} #message 
+longSideBarText{word-break: normal;} #message 
+geCompliantName{font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;font-weight: normal; color: #003366;} Protect Your Account InfoMake sure you never provide your password to fraudulent websites
+To safely and securely access the PayPal website or your account, open a new web browser (e
+g
+ Internet Explorer or Netscape) and type in the PayPal URL (https://www
+paypal
+com/us/) to be sure you are on the real PayPal site
+PayPal will never ask you to enter you r password in an email
+To learn more about protecting yourself from fraud, visit the Security Center
+ Click "Security Center" on the bottom of any PayPal pageProtect Your PasswordYou should never give your PayPal password to anyone, including PayPal employees
+ Melinda Navarro just sent you money with PayPal
+ Melinda Navarro is a Verified buyer
+ Payment Details Amount: $93
+50 USD Transaction ID: 9FW55189WD400453J View the details of this transaction onlineShipping InformationAddress: Melinda Navarro308 Sleepy Hollow Dr Cleveland, TX77327United StatesAddress Status:Confirmed Thank you for using PayPal
+The PayPal Team PayPal Email ID PP274

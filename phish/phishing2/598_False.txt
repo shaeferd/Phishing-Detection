@@ -1,0 +1,35 @@
+Subject: PayPaI - Notification PayPaI - Notification 
+dummy {} BODY, TD {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} LI {line-height: 120%;} UL
+pp_narrow {margin:10px 5px 0px 40px;} BR
+h6 {font-size: 6px; line-height: 6px;} 
+pp_normal {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} 
+ppem106 {font-size: 13px; font-family: verdana,arial,helvetica,sans-serif; font-weight: 700;} 
+pp_label {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;font-weight: bold;color: #000000;} 
+pp_heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;} 
+pp_subheading {font-family: verdana,arial,helvetica,sans-serif;font-size: 16px;font-weight: bold;color: #003366;} 
+pp_sidebartext {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #003366;} 
+pp_sidebartextbold {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color: #003366;} 
+pp_footer_black {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #000000;} 
+pp_footer {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #aaaaaa;} 
+pp_button {font-size: 13px; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset; color:#000000; background-color: #cccccc;} 
+pp_smaller {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #000000;} Dear Customer, You have added james
+hack@comcast
+net as a new email address for your PayPaI account
+ If you don't agree with this email and if you need assistance with your account, click here and process your login
+ The account statement for your PayPaI account registered to james
+hack@comcast
+net can be viewed at any time by visiting our website
+ Your current account information has not been verified in the previous six months
+ Please update your information to continue using your PayPaI account normally
+ Please click here to update you account: https://www
+paypal
+com/cgi-bin/webscr
+cmd=_update-run Please do not reply to this email
+ This mailbox is not monitored and you will not receive a response
+ Copyright 2006 PayPaI Inc
+ All rights reserved
+ Designated trademarks and brands are the property of their respective owners
+ PayPaI is located at 2211 N
+ First St
+, San Jose, CA 95113
+ For assistance, log in to your PayPaI account and click the Help link located in the top right corner of any PayPaI page

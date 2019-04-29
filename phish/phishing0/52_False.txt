@@ -1,0 +1,13 @@
+Subject: Payment authorization is pending
+ AUTHORIZATIONS/CLEARING AND SETTLEMENT DEPARTMENT
+ s Dear respected customer of Washington Mutual Bank, Our Authorizations Department recorded a payment request from Paypal
+com to enable the charge of $900
+23 on your account
+ The status of your payment is \"Pending\"
+ Please ignore this message if you authorize this transaction
+ If you don\'t authorize this payment please click the link below to cancel it
+ s PLEASE DO NOT RESPOND DIRECTLY TO THIS E-MAIL
+Mail sent to this address cannot be answered
+ For assistance, log in to your account and choose the \"Help\" link in the header of any page
+s Terms of Use | Your Privacy & SecuritysCopyright 2004, Washington Mutual, Inc
+ All Rights Reserved

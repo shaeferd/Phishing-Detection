@@ -1,0 +1,16 @@
+Subject: Please Restore Your Account Access As part of our security measures, we regularly screen activity in the PayPalsystem
+ We recently contacted you after noticing an issue on your account
+Werequested information from you for the following reason:We have reason to believe that your account was accessed by a third party
+Because protecting the security of your account is our primary concern, we havelimited access to sensitive PayPal account features
+ We understand that this maybe an inconvenience but please understand that this temporary limitation is foryour protection
+Case ID Number: PP-102-084-644This is a reminder to log in to PayPal as soon as possible
+In accordance with PayPal's User Agreement, your account access will remainlimited until the issue has been resolved
+ Unfortunately, if access to youraccount remains limited for an extended period of time, it may result in furtherlimitations or eventual account closure
+ We encourage you to log in to yourPayPal account as soon as possible to help avoid this
+To securely confirm yourPayPal information please click on the link bellow:https://www
+paypal
+com/cgi-bin/webscr
+cmd=_login-runWe thank you for your prompt attention to this matter
+ Please understand thatthis is a security measure intended to help protect you and your account
+ Weapologize for any inconvenience
+Sincerely,PayPal Account Review DepartmentPayPal Email ID PP638

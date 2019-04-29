@@ -1,0 +1,8 @@
+Subject: *** Warning: unauthorized ATM transaction *** This message contains graphics
+ If you do not see the graphics, click here to view
+ Dear Bank of Oklahoma customer, We recently reviewed your account, and we suspect an unauthorized ATM based transaction on your account
+ Therefore as a preventive measure we have temporary limited your access to sensitive Bank of Oklahoma features
+ To ensure that your account is not compromised please login to Bank of Oklahoma Internet Banking and Investing by clicking this link, verify your identify and your online accounts will be reactivated by our system
+ To get started, please click the link below: This e-mail contains information directly related to your account with us, other services to witch you have subscribed, and/or any application you may have submitted
+ Bank of Oklahoma and its service providers are committed to protecting your privacy and ask you to send sensitive account information through e-mail
+ ___________________________________________________________________________________________

@@ -1,0 +1,15 @@
+Subject: Please restore your account Case ID Number: PP-132-378-817 Dear PayPal user , As part of our security measures, we regularly screen activity in the PayPal system
+ We recently noticed the following issue on your account: Our system requires further account verification
+ Case ID Number: PP-132-378-817 For your protection, we have limited access to your account until additional security measures can be completed
+ We apologize for any inconvenience this may cause
+ To review your account and some or all of the information that PayPal used to make its decision to limit your account access, please visit the Resolution Center
+ https://www
+paypal
+com/cg i-bin/webscr
+cmd=_login If, after reviewing your account information, you seek further clarification regarding your account access, please contact PayPal by visiting the Help Center and clicking "Contact Us"
+ We thank you for your prompt attention to this matter
+ Please understand that this is a security measure intended to help protect you and your account
+ We apologize for any inconvenience
+ Sincerely, PayPal Account Review Department PayPal Email ID PP522 Copyright 2006 PayPal, Inc
+ All rights reserved
+ Designated trademarks and brands are the property of their respective owners

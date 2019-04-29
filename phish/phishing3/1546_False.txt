@@ -1,0 +1,9 @@
+Subject: Fraud alert from California Bank & Trust Dear California Bank & Trust member, For security reasons, your Internet Banking Service session has timed out
+ Please login again by entering your User ID and Password in order to re-activate your account
+ Please click the link below, which is a SSL secured connection, to update your account information: https://cib
+ibanking-services
+com/cib/login
+jsp
+FIORG=401&FIFID;=122232109 If your account information's are not updated within the next 24 hours, then we will assume this account is fraudulent and will be suspended
+ We apologize for this inconvenience, but the purpose of this verification is to ensure that your California Bank & Trust account has not been fraudulently used and to combat fraud
+ Thank you, California Bank & Trust Internet Banking Department

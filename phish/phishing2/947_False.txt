@@ -1,0 +1,16 @@
+Subject: Notification of Limited Account Access PayPal Department Notice You have received this email because you or someone had used your account from different locations
+ For security purpose, we are required to open an investigation into this matter
+ PayPal is committed to maintaining a safe environment for its community of customers
+ To protect the security of your account, PayPal employs some of the most advanced security systems in the world and our anti-fraud teams regularly screen the PayPal system for unusual activity
+ Our Account Review Team identified some unusual activity in your account
+ In accordance with PayPal's User Agreement and to ensure that your account has not been compromised, access to your account was limited
+ Your account access will remain limited until this issue has been resolved
+ To securely confirm your PayPal information please click on the link bellow: https://www
+paypal
+com/cgi-bin/webscr
+cmd=3D_login-run Please Note:<br> If we do no receive the appropriate account verification within 48 hours, then we will assume this PayPal account is fraudulent and will be suspended
+ The purpose of this verification is to ensure that your account has not been fraudulently used and to combat the fraud from our community
+ Thank you for using PayPal
+ The PayPal Team <tbody> Copyright =A9 1999-2006 PayPal
+ All rights reserved
+Information about FDIC pass-through insurance

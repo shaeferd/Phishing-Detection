@@ -1,0 +1,17 @@
+Subject: TKO Notice: ***Urgent Safeharbor Department Notice***  eBay Suspension Need Help
+ Dear valued eBay member, During our regularly scheduled account maintenance and verification procedures, we have detected a slight error in your billing information
+ This might be due to either of the following reasons: 1
+ A recent change in your personal information ( i
+e
+change of address)
+ 2
+ Submiting invalid information during the initial sign up process
+ 3
+ An inability to accurately verify your selected option of payment due to an internal error within our processors
+ Once you have updated your account records your eBay session will not be interrupted and will continue as normal
+ To update your eBay records click on the following link: http://cgi1
+ebay
+com/aw-cgi/ebayISAPI
+dll
+UPdate If your account information is not updated within 48 hours then your ability to use eBay will become restricted
+ Regards, Safeharbor Department eBay, Inc

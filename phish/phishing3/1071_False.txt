@@ -1,0 +1,15 @@
+Subject: Online Banking Alert Wells Fargo Primary Media Address Change <
+-- A:link{color=3D405EBE} A:hover{color=3D#0000FF} --> We recently reviewed your account, and suspect that your Wells Fargo account may have been accessed by an unauthorized third party
+ Protecting the security of your account and of the Wells Fargo network is our primary concern
+ Therefore, as a preventative measure, we have temporarily limited access to sensitive account features
+ To restore your account access, please take the following steps to ensure that your account has not been compromised: https://www
+wellsfargo
+com/wfonline/access/GotoReset We apologize for any inconvenience this may cause, and appreciate your assistance in helping us maintain the integrity of the entire Wells Fargo Online Banking system
+ Thank you
+ Because your reply will not be transmitted via secure e-mail, the e-mail address that generated this alert will not accept replies
+ If you would like to contact Wells Fargo with questions or comments, please sign in to Online Banking and visit the customer service section
+ Wells Fargo, N
+A
+ Member FDIC
+ Equal Housing Lender =FFFFFFA9 2006 Wells Fargo Corporation
+ All rights reserved

@@ -1,0 +1,28 @@
+Subject: Attention 
+ Your Account Has Been Violated 
+ We recently noticed one or more attempts to log in to your eBay account from a foreign IP address and we have reasons to believe that your account was used by a third party without your authorization
+ If you recently accessed your account while traveling, the unusual login attempts may have been initiated by you The login attempt was made from: IP address: 172
+25
+210
+66 ISP Host: cache-66
+proxy
+aol
+com By now, we used many techniques to verify the accuracy of the information our users provide us when they register on the Site
+ However, because user verification on the Internet is difficult, eBay cannot and does not confirm each user's purported identity
+ Thus, we have established an offline verification system to help you evaluate with who you are dealing with
+ Sign In Need Help
+ New to eBay
+ Already an eBay user
+ If you want to sign in, you'll need to register first
+ Registration is fast and free
+"> eBay members, sign in to save time for bidding, selling, and other activities
+ eBay User IDForgot your User ID
+ PasswordForgot your password
+ "> Keep me signed in on this computer unless I sign out
+ Account protection tips You can also register or sign in using the following service: Announcements | Register | Security Center | Policies | Feedback Forum | About eBay Copyright =A9 1995-2004 eBay Inc
+ All Rights Reserved
+ Designated trademarks and brands are the property of their respective owners
+ Use of this Web site constitutes acceptance of the eBay User Agreement and Privacy Policy
+</TABLE>eBay official time Please Note - If you choose to ignore our request, you leave us no choice but to temporally suspend your account
+ * Please do not respond to this e-mail as your reply will not be received
+ Respectfully, Trust and Safety Department eBay Inc

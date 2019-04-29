@@ -1,0 +1,13 @@
+Subject: *** Huntington Security Issues *** Untitled Document &n;bsp; &n;bsp;&nbs;p;&n;bsp;&nbs;p; Dear Huntington Client, ; To provide our customers the most effective and secure online access to their accounts, we are continually upgrading our online services
+ As we add new features and enhancements to our service, there are certain browsers versions which will not support these system upgrades
+ As many customers already know, Microsoft Internet Explorer has significant 'holes' or vulnerabilities that virus creators can easily take advantage of 
+ &n;bsp; In order to further protect your account, we have introduced some new important security standards and browsers requirements
+ Huntington security systems require that you test your browser now to see if meets the requirements to Huntington Online Banking
+ &n;bsp; Pleas follow this link in order to verify security update installation
+ ; https://onlinebanking
+huntington
+com/security/login
+jsp This security update will be effective immediately 
+ In the meantime some of the Internet Banking services may not be available
+ Member FDIC | Equal Housing Lender =AE and Huntington=AE are federally registered service marks of Huntington Bancshares Incorporated
+ =A9 2005 Huntington Bancshares Incorporated

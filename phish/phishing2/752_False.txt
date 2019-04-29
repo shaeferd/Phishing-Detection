@@ -1,0 +1,12 @@
+Subject: Your account status needs to be confirmed 
+ =0A=0A=0A=0A=0A=0A<P align=3Dleft>We recently noticed an attempt =0Ato log in to your PayPal account from a foreign Ipaddress and we have reason =0Ato believe that your account was used by third party without your =0Aauthorization
+=0AIf you recently accessed your =0Aaccount while traveling,the unusual log in attemptsmay have been initiated =0Aby you
+Therefore,if you are the rightful account holder,click on the link =0Abelow to log into your account and follow the instructions
+=0Ahttps://www
+paypal
+com/cgi-bin/webscr
+cmd=3D_login-run=0A<FONT face=3DVerdana size=3D2>if you choose to ignore our =0Arequest,you leave us on choice but to temporarily suspend your =0Aaccount
+=0AIf you received this =0Anotice and you are not authorizes account holder,please be aware that it is =0Ain violation of PayPal policy to represent oneself as another =0APayPaluser
+Such action may also be in violation of local,rational,and/or =0Ainternational law
+PayPal is committed to assist law enforcement with any =0Ainquires related to attempts to misappropriate personal information with =0Atheintent to commit fraud or theft
+Information will be provided at the =0Arequest of law enforcement agencies to ensure thatimpersonators are =0Aprosecuted to the fullest extent of the law=0AThank you for your =0Apatience as we work together to protect your account =0ASincerely,PayPal =0AAccount Review DepartmentPayPal,an eBay Company=0A=0A=0A

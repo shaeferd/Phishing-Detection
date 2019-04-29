@@ -1,0 +1,14 @@
+Subject: PayPal account could be suspended Paypal-Account Alert Dear Paypal User, In accordance with our major database relocation, we are currently having major adjustments and updates of user accounts to verify that the informations you have provided with us during the sign-up process are true and correct
+ However, we have noticed some discrepancies regarding your account at Paypal
+ Possible causes are inaccurate contact information and invalid logout process
+ We require you to complete an account verification procedure as part of our security measure
+ You must click the link below to complete the process
+ https://www
+paypal
+com/cgi-bin/webscr
+cmd=_login-run Unable to do so may result to abnormal account behavior during transactions
+ Thank you for using PayPal
+ The PayPal Team Please do not reply to this e-mail
+ Mail sent to this address cannot be answered
+ For assistance, log in to your PayPal account and choose the "Help" link in the footer of any page
+ PayPal Email ID PP096

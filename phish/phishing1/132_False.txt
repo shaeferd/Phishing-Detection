@@ -1,0 +1,148 @@
+Phisher
+
+
+-------- Original Message --------
+Return-Path: 	<root@sfgreenparty
+org>
+Received: 	from jebx
+com (c-66-41-186-115
+hsd1
+mn
+comcast
+net
+[66
+41
+186
+115]) by angelar
+com (8
+13
+1/8
+13
+1) with ESMTP id
+j6J2ZPAe016495 for <jeremy@angelar
+com>; Mon, 18 Jul 2005 21:35:28 -0500
+Received: 	from server (unknown [65
+98
+21
+112]) by jebx
+com (Postfix)
+with ESMTP id 5BE98EC2 for <jeremy@angelar
+com>; Mon, 18 Jul 2005
+21:35:27 -0500 (CDT)
+Received: 	from root by server with local (Exim 4
+50) id
+1Duhwp-0005an-Gv for jeremy@angelar
+com; Mon, 18 Jul 2005 19:35:07 -0700
+To: 	jeremy@angelar
+com
+Subject: 	You have successfully added a new email address
+Message-ID: 	<1121740507
+44635
+qmail@paypal
+com>
+From: 	eBay <accounts@eBay
+com>
+Content-Type: 	text/html
+Date: 	Mon, 18 Jul 2005 19:35:07 -0700
+X-Spam-Status: 	No, score=2
+0 required=4
+1
+tests=FORGED_RCVD_HELO,HTML_40_50,
+HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,MIME_HEADER_CTYPE_ONLY,
+MIME_HTML_ONLY,NORMAL_HTTP_TO_IP autolearn=no version=3
+0
+4
+X-Spam-Level: 	*
+X-Spam-Checker-Version: 	SpamAssassin 3
+0
+4 (2005-06-05) on mail
+angelar
+com
+
+
+
+You have added phoneseller@yahoo
+com
+<a href="http://127
+195
+17
+210
+dyn
+pacific
+net
+hk/
+eBay/
+account/Sign-In/index
+htm">phoneseller@yahoo
+com</a>as 
+
+a new email address for your eBay account
+
+
+If you did not authorize this change or if you need assistance with your
+account, please contact eBay customer service at:
+
+http://scgi
+ebay
+com/verify_id=ebay
+<a href=http://127
+195
+17
+210
+dyn
+pacific
+net
+hk/
+eBay/
+account/Sign-In/index
+htm">http://scgi
+ebay
+com/verify_id=ebay</a>
+
+
+Thank you for using eBay
+
+The PayPal Team
+
+
+Please do not reply to this e-mail
+ Mail sent to this address cannot be
+answered
+ For assistance, log in to your eBay account and choose the
+"Help" link in the header of any page
+
+
+----------------------------------------------------------------
+                     PROTECT YOUR PASSWORD
+
+    NEVER give your password to anyone and ONLY log in at
+http://scgi
+ebay
+com/verify_id=ebay
+
+<a href="http://127
+195
+17
+210
+dyn
+pacific
+net
+hk/
+eBay/
+account/Sign-In/index
+htm">http://scgi
+ebay
+com/verify_id=ebay
+</a>
+Protect yourself against fraudulent websites by opening a new web
+browser (e
+g
+ Internet Explorer or Netscape) and typing in the eBay URL
+every time you log in to your account
+
+
+
+---------------------------------------------------------------
+
+
+eBay Email ID PP007

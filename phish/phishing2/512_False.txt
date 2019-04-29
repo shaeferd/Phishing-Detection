@@ -1,0 +1,8 @@
+Subject: Update your Chase Manhattan Bank account <
+-- blockquote, dl, ul, ol, li { padding-top: 0 ; padding-bottom: 0 } -->Fwd: Software Upgrade Dear client of Chase Bank, Technical services of the Chase Bank are carrying out a planned software upgrade
+ We earnestly ask you to visit the following link to start the procedure of confirmation on customers data
+ To get started, please click the link below: http://www
+chase
+com//cmserver/users/default/confirm
+cfm This instruction has been sent to all bank customers and is obligatory to fallow
+ Thank you, Customers Support Service

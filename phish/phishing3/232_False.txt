@@ -1,0 +1,22 @@
+Subject: Attn: Account Lock Out - Unlock your Account Access <
+-- if(top
+=self) top
+location=self
+location; //--> People's Bank - It's Possible at People's Home|Branches|Contact Us|Careers|Login Dear Customer, People's Online is designed using state-of-the-art technology to make it fast, simple, and reliable, so you can manage your finances without worrying about technical issues
+ If however, you are experiencing problems using People's Online on the Internet, we want to help you resolve the issue as quickly as possible
+ A fundamental element of safeguarding your confidential information is to provide protection against unauthorized access or use of this information
+ We maintain physical, electronic and procedural safeguards that comply with federal guidelines to guard your nonpublic personal information against unauthorized access
+ Our mission is to reduce the instance of fraud
+ Account Lock Out Your account becomes locked out as a security precaution when your account has had more than 3 invalid passwords entered
+ A User ID is allowed only three attempts before it is locked
+ Therefore we have locked your account until further assistance
+ To reset or unlock your checking account, follow the important steps from Unlock Service Page
+ By clicking the link provided below you will be sent to online secure service page: https://pcb
+peoples
+com/online/reset_profile
+jsp Thank you for your prompt attention to this matter
+ Please understand that this is a security measure meant to help protect you and your confidential information
+ We apologize for any inconvenience this may cause, and appreciate your assistance in helping us maintain the integrity of the entire Fulton Financial Corporation system
+ About People's| Investor Relations | Press Room 2005 People's Bank
+ Member FDIC
+ Equal Housing Lender Privacy|Terms & Conditions|Security Information BPT

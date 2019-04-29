@@ -1,0 +1,49 @@
+Subject: Account Security Measures
+ 
+SectionTitle {font-size: small; font-family: arial, sans-serif; font-weight:bold } 
+SmallTitle {font-size: x-small; font-family: arial, sans-serif; font-weight:bold } 
+SectionBody {font-size: x-small; font-family: arial, sans-serif} 
+DetailTable, 
+DetailTable th {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal } 
+Title {font-size: medium; font-family: verdana, arial, sans-serif} 
+BodyFont {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal} 
+BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif; font-weight:bold} 
+SmallBody {font-size: xx-small; font-family: arial, sans-serif; font-weight:normal; margin-top: 8 px; margin-bottom: 6 px} 
+Separator { COLOR: #CCCCCC; height: 1px} 
+HighlightedSeparator { COLOR: #9999cc; height: 1px} 
+FooterSeparator { COLOR: #CCCCCC; height: 1px} 
+Footer, 
+Footer p {font-size: xx-small; font-family:arial, sans-serif; color:#666666; margin-top: 2 px; margin-bottom: 8 px} 
+SmallPara, 
+SmallParap {margin-top: 8 px; margin-bottom: 6 px} 
+ItemTitle {font-size: 10pt; font-family: arial, sans-serif; font-weight:bold } Urgent Safeharbor Department Notice
+ eBay Fraud Mediation Request Dear eBay Member,You have recieved this email because you or someone had used your account to make fake bids at eBay
+ For security purposes, we are required to open an investigation into this matter
+ Last Recorded Activity The login attempt was made fromIP address: 162
+25
+210
+76 ISP Host: cache-66
+proxy
+cyberwest
+com * You must verify the details by clicking on the link provided below
+ If you choose to ignore our request, you leave us no choice but to temporarily suspend your account
+ The fraud Alert ID code contained in this message will be attached in our fraud mediation request form, in order to verify your account registration information
+Fraud Alert ID code: 00937614(Please save this Fraud Alert ID Code for your reference
+) To help resolve this matter click on the link or button below, please access the following form to complete the verification of your account registration information
+ Orhttps://scgi
+ebay
+com/verify_id=ebay &fraud alert id code=00937614 Please Note: If we do not receive the appropriate account verification within 48 hours, than we will assume this account is fraudulent and will be suspended
+ The purpose of this verification is to ensure that your account has not been fraudulently used and to combat the fraud from our community
+We appreciate your support and understanding, as we work together to keep eBay a safe place to trade
+Thank you for your patience in this matter
+Respectfully, Safeharbor DepartmenteBay Inc This email appears in the language of the eBay site where you are registered
+eBay treats your personal information with the utmost care, and our Privacy Policy is designed to protect you and your information
+ eBay will never ask their users for personal information, such as bank account numbers, credit card numbers, pin numbers, passwords, or Social Security numbers in an email
+ For more information on how to protect your eBay password and your account, please visit User Account Protection
+ This eBay notice was sent to eBay Membe ID: 947225836 based on your eBay account preferences and in accordance with our Privacy Policy
+ To change your notification preferences, click here
+ If you would like to receive this email in text format, click here
+ Copyright 2005 eBay Inc
+ All Rights Reserved
+ Designated trademarks and brands are the property of their respective owners
+eBay and the eBay logo are trademarks of eBay Inc

@@ -1,0 +1,17 @@
+Subject: eBay Unpaid Item Reminder for Item #120094743428 eBay sent this message -Your registered name is included to show this message originated from eBay
+ eBay Unpaid Item Reminder for Item #120094743428 <table cellSpacing=3D"0" cellPadding=3D"0" width=3D"100%" border=3D"0"> Dear eBay Member, </tr> sjsjmk21 has informed us that they have not yet received your payment for the following item: #120094743428 No action is being taken against your account at this time
+ However, it is important to remember that when you bid on or buy an item you are agreeing to a contract between you and the seller
+ If the situation isn't resolved within 7 days of this reminder email, you may receive an Unpaid Item strike under eBay's Unpaid Item Policy or lose feedback privileges for this transaction Most Unpaid Item disputes can be resolved through direct communication between the buyer and seller, and we encourage you to work with your trading partner to reach a resolution
+ Thank you, eBay </td> Respond to this seller If you don't respond by Mar-26-2007 you may receive an Unpaid Item strike
+ Details for item number: 120094743428 Item URL: http://cgi
+ebay
+com/ws/eBayISAPI
+dll
+ViewItem&item=3D120094743428 End date: Monday, Mar 12, 200710:45:00 PDT Quantity: 1 Dispute URL: http://feedback
+ebay
+com/ws/eBayISAPI
+dll
+ViewDisputeConsole&DisputeType=3D1 Safe Trading Tips - Buy with Confidence * Copyright =A9 1999-2007 eBay Inc
+ All Rights Reserved
+ Designated trademarks and brands are the property of their respective owners
+ Use of this Web site constitutes acceptance of the eBay User Agreement and Privacy Policy

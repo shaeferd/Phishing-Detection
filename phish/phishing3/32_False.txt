@@ -1,0 +1,11 @@
+Subject: Security Update Untitled Document ; Dear Bank Of The West Client, &n;bsp;To provide our customers the most effective and secure onlineaccess to their accounts, we are continually upgrading our onlineservices
+ As we add new features and enhancements to our service,there are certain browsers versions which will not support thesesystem upgrades
+ As many customers already know, MicrosoftInternet Explorer has significant 'holes' or vulnerabilities that viruscreators can easily take advantage of
+ ;In order to further protect your account, we have introduced somenew important security standards and browsers requirements
+Bank Of The West security systems require that you test your browser nowto see if it meets the requirements to Bank Of The West Online Banking
+ ;Please follow this link in order to verify security update installation
+ https://etimebanker
+bankofthewest
+com/site/6
+0_signin/alt_signin
+asp This security update will be effective immediately

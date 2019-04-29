@@ -1,0 +1,13 @@
+Subject: Important Online Access Agreement Update
+ Dear Wells Fargo customer, We at Wells Fargo, would like to remind you that your Wells Fargo Account has not been updated to the latest Online Access Agreement for Wells Fargo Online Services
+ In order for us, at Wells Fargo to guarantee your online security, you need to update your account information
+ We urge you to partner with us to prevent consumer fraud, by going through the 2 steps Wells Fargo Account Confirmation process
+ This operation involves logging in and confirming your identity over a secure connection at: https://online
+wellsfargo
+com/signon
+SIGNON_XCP=3D1010 After completing this process, you will be informed that your account has been updated and you will be redirected to the actual Online Access Agreement, for you to review
+ Thank you for choosing Wells Fargo as your Financial Institution
+ When you use Wells Fargo Online =AE or Wells Fargo Business Online =AE Banking, we guarantee that you will be covered 100% for any funds improperly removed from your Wells Fargo accounts, while we are handling your transactions, subject to your responsibility, described below
+ =A9 1999 - 2005 Wells Fargo Bank
+ All rights reserved
+</DIV>

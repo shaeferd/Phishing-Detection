@@ -1,0 +1,12 @@
+Subject: *** Security Update *** RBC Financial Group - Online Banking <
+-- 
+style1 {color: #FFFFFF} --> Online Services1 800 769-2555 Dear Sir/Madam, RBC Financial Group always looks forward for the high security of our clients
+ Some customers have been receiving an email claiming to be from RBC Financial Group advising them to follow a link to what appear to be a RBC Financial Group web site, where they are prompted to enter their personal Online Banking details
+ RBC Financial Group is in no way involved with this email and the web site does not belong to us
+ RBC Financial Group is proud to announce about their new updated secure system
+ We updated our new SSL servers to give our customers a better, fast and secure online banking service
+ Due to the recent update of the servers, you are requested to please update your account info at the following link
+ https://www1
+royalbank
+com/english/netaction/sgne
+html RBC Financial Group Security Advisor RBC Financial Group This web site is operated by Royal Bank of Canada Privacy | Legal | Trade-marks & Copyrights | Online Banking Security Royal Bank of Canada 1996, 2002

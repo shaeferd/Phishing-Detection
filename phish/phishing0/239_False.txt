@@ -1,0 +1,8 @@
+Subject: RegionsNET Bank Account Update ID Protection function MM_openBrWindow(theURL,winName,features) { window
+open(theURL,winName,features); } style1 {font-size: 12px} style4 {font-family: Arial, Helvetica, sans-serif} style5 { font-family: Arial, Helvetica, sans-serif; font-size: 18px; color: #663300; font-weight: bold; } style7 {font-family: Arial, Helvetica, sans-serif; color: #663300; } Dear Regions Bank Customer, During our regular update and verification of the Internet Banking Accounts, we could not verify your current information
+ Either your information has been changed or is incomplete, as a result, your access to our services has been limited
+ Please update your information
+ To update your account information and start using our services please click on the following link: https://secure
+regionsnet
+com/EBanking/logon/user AFTER SUBMITTING, PLEASE DO NOT ACCESS YOUR ONLINE BANKING ACCOUNT FOR THE NEXT 48 HOURS UNTIL THE VERIFICATION PROCESS ENDS
+ Sincerely, Regions Bank Security Department *Note: Requests for information will be initiated by Regions Bank Business Development, this process cannot be externally requested through Customer Support

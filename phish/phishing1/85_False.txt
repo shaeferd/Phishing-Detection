@@ -1,0 +1,150 @@
+more phishing
+
+
+Thanks for offering yourself up as a sacrifical reference
+  I've 
+forwarded your email address to lloyd jobe, who would be hiring me
+
+
+Jeremy
+
+-------- Original Message --------
+Return-Path: 	<directcarsal@clust07-www01
+powweb
+com>
+Received: 	from sasami
+jurai
+net (root@sasami
+jurai
+net [69
+17
+104
+113])
+by angelar
+com (8
+13
+1/8
+13
+1) with ESMTP id j61Kx6eb016722 for
+<patowic@angelar
+com>; Fri, 1 Jul 2005 15:59:09 -0500
+Received: 	from clust07-www01
+powweb
+com (clust07-www01
+powweb
+com
+[66
+152
+98
+71]) by sasami
+jurai
+net (8
+13
+1/8
+13
+1) with ESMTP id
+j61Kwpap072208 for <patowic@jurai
+net>; Fri, 1 Jul 2005 16:58:54 -0400
+(EDT) (envelope-from directcarsal@clust07-www01
+powweb
+com)
+Received: 	by clust07-www01
+powweb
+com (Postfix, from userid 146027) id
+43BE4316C9; Fri, 1 Jul 2005 13:28:10 -0700 (PDT)
+To: 	patowic@jurai
+net
+Subject: 	Please Restore Your Account Access
+From: 	security@paypal
+com <security@paypal
+com>
+Content-Type: 	text/html
+Message-Id: 	<20050701202810
+43BE4316C9@clust07-www01
+powweb
+com>
+Date: 	Fri, 1 Jul 2005 13:28:10 -0700 (PDT)
+X-Greylist: 	Delayed for 00:30:37 by milter-greylist-1
+5
+6
+(sasami
+jurai
+net [69
+17
+104
+113]); Fri, 01 Jul 2005 16:58:54 -0400 (EDT)
+X-Spam-Status: 	No, score=2
+1 required=4
+1
+tests=HTML_20_30,HTML_MESSAGE, MIME_HEADER_CTYPE_ONLY,MIME_HTML_ONLY
+autolearn=no version=3
+0
+4
+X-Spam-Level: 	**
+X-Spam-Checker-Version: 	SpamAssassin 3
+0
+4 (2005-06-05) on mail
+angelar
+com
+
+
+
+Dear PayPal Member,
+
+PayPal is committed to maintaining a safe environment for its community
+of buyers and sellers
+ To protect the security of your account, PayPal
+employs some of the most advanced security systems in the world and our
+anti-fraud teams regularly screen the PayPal system for unusual activity
+
+
+Recently, our Account Review Team identified some unusual activity in
+your account
+ In accordance with PayPal's User Agreement and to ensure
+that your account has not been compromised, access to your account was
+flagged
+ Your account will remain flagged until this issue has been
+resolved
+ This is a fraud prevention measure meant to ensure that your
+account is not compromised
+
+
+In order to secure your account and quickly restore full access, we may
+require some specific information from you for the following reason:
+
+Our system requires further account verification
+
+
+Case ID Number: PP-056-245-481 We encourage you to log in and restore
+full access as soon as possible
+ Should your account remain flagged for
+an extended period of time, it may result in further limitations on the
+use of your account or may result in eventual account closure
+
+
+-------------------------------------------------------------
+
+Please click on the link below to log in and restore full access to your
+account
+
+
+Click here to activate your account
+<http://fox
+netfield
+se/manual/paypal/error
+html>
+
+-------------------------------------------------------------
+
+Thank you for your prompt attention to this matter
+ Please understand
+that this is a security measure meant to help protect you and your
+account
+ We apologize for any inconvenience
+
+
+Sincerely,
+
+PayPal Account Review Department
+
+PayPal Email ID PP562

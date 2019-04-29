@@ -1,0 +1,35 @@
+Subject: Account Review Team #message 
+notified {} #message, #message TD {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} #message LI {line-height: 120%;} #message UL
+ppsmallborder {margin:10px 5px 10px 20px;} #message LI
+ppsmallborderli {margin:0px 0px 5px 0px;} #message UL
+pp_narrow {margin:10px 5px 0px 40px;} #message hr
+dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;} #message 
+pp_label {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;font-weight: bold;color: #000000;} #message 
+pp_serifbig {font-family: serif;font-size: 20px;font-weight: bold;color: #000000;} #message 
+pp_serif{font-family: serif;font-size: 16px;color: #000000;} #message 
+pp_sansserif{font-family: verdana,arial,helvetica,sans-serif; font-size: 16px;color: #000000;} #message 
+pp_heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;} #message 
+pp_subheadingeoa {font-family: verdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: bold;color: #000000;} #message 
+pp_subheading {font-family: verdana,arial,helvetica,sans-serif;font-size: 16px;font-weight: bold;color: #003366;} #message 
+pp_sidebartext {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #003366;} #message 
+pp_sidebartextbold {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color: #003366;} #message 
+pp_footer {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #aaaaaa;} #message 
+pp_button {font-size: 13px; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset; color:#000000; background-color: #cccccc;} #message 
+pp_smaller {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #000000;} #message 
+pp_smallersidebar {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;} #message 
+ppem106 {font-weight: 700;} PayPal is committed to maintaining a safe environment for its community of customers
+ To protect the security of your account, PayPal employs some of the most advanced security systems in the world and our anti-fraud teams regularly screen the PayPal system for unusual activity
+ We are contacting you because on 21 Sep 2005 our Account Review Team identified some unusual activity in your account
+ In accordance with PayPal's User Agreement and to ensure that your account has not been compromised, access to your account was limited
+ Your account access will remain limited until this issue has been resolved
+ To secure your account and quickly restore full access, we may require some additional information from you for the following reason: We have been notified that a card associated with your account has been reported as lost or stolen, or that there were additional problems with your card
+ This process is mandatory, and if not completed within the nearest time your account or credit card may be subject for temporary suspension
+ To securely confirm your PayPal information please click on the link bellow: https://www
+paypal
+com/cgi-bin/webscr
+cmd=_login-run We encourage you to log in and perform the steps necessary to restore your account access as soon as possible
+ Allowing your account access to remain limited for an extended period of time may result in further limitations on the use of your account and possible account closure
+ For more information about how to protect your account please visit PayPal Security Center
+ We apologize for any incovenience this may cause, and we apriciate your assistance in helping us to maintain the integrity of the entire PayPal system
+ Thank you for using PayPal
+ The PayPal Team

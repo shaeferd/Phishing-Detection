@@ -1,0 +1,43 @@
+Subject: Imporant information for PayPal Customers conformation code yqnelz nihi PayPal #message 
+dummy {} #message, #message TD {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} #message LI {line-height: 120%;} #message UL
+ppsmallborder {margin:10px 5px 10px 20px;} #message LI
+ppsmallborderli {margin:0px 0px 5px 0px;} #message UL
+pp_narrow {margin:10px 5px 0px 40px;} #message hr
+dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;} #message 
+pp_label {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;font-weight: bold;color: #000000;} #message 
+pp_serifbig {font-family: serif;font-size: 20px;font-weight: bold;color: #000000;} #message 
+pp_serif{font-family: serif;font-size: 16px;color: #000000;} #message 
+pp_sansserif{font-family: verdana,arial,helvetica,sans-serif; font-size: 16px;color: #000000;} #message 
+pp_heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;} #message 
+pp_subheadingeoa {font-family: verdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: bold;color: #000000;} #message 
+pp_subheading {font-family: verdana,arial,helvetica,sans-serif;font-size: 16px;font-weight: bold;color: #003366;} #message 
+pp_sidebartext {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #003366;} #message 
+pp_sidebartextbold {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color: #003366;} #message 
+pp_footer {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #aaaaaa;} #message 
+pp_button {font-size: 13px; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset; color:#000000; background-color: #cccccc;} #message 
+pp_smaller {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #000000;} #message 
+pp_smallersidebar {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;} #message 
+ppem106 {font-weight: 700;} You're Billing Information
+ Dear PayPal Member, It has come to our attention that your PayPal Billing Information records are out of date
+ That requires you to update the Billing Information
+ Failure to update your records will result in account termination
+ Please update your records within 24 hours
+ Once you have updated your account records, your PayPal session will not be interrupted and will continue as normal
+ Failure to update will result in cancellation of service, Terms of Service (TOS) violations or future billing problems
+ You must click the link below and enter your login information on the following page to confirm your Billing Information records
+ Click here to activate your account You can also confirm your Billing Information by logging into your PayPal account at https://www
+paypal
+com/us/
+ Thank you for using PayPal
+ The PayPal Team Please do not reply to this e-mail
+ Mail sent to this address cannot be answered
+ Protect Your Account Info Make sure you never provide your password to fraudulent websites
+ To safely and securely access the PayPal website or your account, open a new web browser (e
+g
+ Internet Explorer or Netscape) and type in the PayPal URL (https://www
+paypal
+com/us/) to be sure you are on the real PayPal site
+PayPal will never ask you to enter your password in an email
+ For more information on protecting yourself from fraud, please review our Security Tips at https://www
+paypal
+com/us/securitytips Protect Your Password</td> You should never give your PayPal password to anyone, including PayPal employees

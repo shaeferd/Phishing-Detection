@@ -1,0 +1,33 @@
+Subject: Commonwealth Bank Phone Verification Commonwealth Bank Phone Verification h1 {font-family: Verdana,Arial,Helvetica,sans-serif; font-weight:bold; font-size: 1
+25em; color: rgb(000,000,000); background-color: transparent; margin-bottom:26px} h1
+nospacing {margin-bottom:0px} h2 {font-family: Verdana,Arial,Helvetica,sans-serif; font-weight:bold; font-size: 0
+917em; color: rgb(000,000,000); background-color: transparent; margin:0px} h3 {font-family: Verdana,Arial,Helvetica,sans-serif; font-weight:bold; font-size: 0
+8em; color: rgb(000,000,000); background-color: transparent; margin:0px} h4 {font-family: Verdana,Arial,Helvetica,sans-serif; font-weight:bold; font-size: 0
+8em; color: rgb(000,000,000); background-color: transparent; margin:0px} body { font-family: Verdana,Arial,Helvetica,sans-serif; margin-top:5px; margin-left:5px; height: 100%; font-size: 9pt;} html {height: 99%;} td
+labels {width:25%; text-align:left} td
+labelsheight {height:20px;text-align:left} td
+labelsnumbering {width:10px} td
+paddingleft {padding-left:5px} td
+paddingright {padding-right:5px} td
+paddingcentre {padding-left:5px; padding-right:5px} table
+template {border:0px; width:100%; height:99%; padding:0px} table
+logon_borderTable { border: 1px solid black; padding: 0px; } td
+logon_label { text-align: right; font-size: 0
+75em; font-weight: bold; padding-right: 10px; } table
+logon {background-color:#ffcc00; color:black; border-right: 1px solid black; border-left: 1px solid black; border-bottom: 1px solid black; border-top: 1px solid black } ol
+logon { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 0
+8em; font-weight: normal; color: rgb(000,000,000); background-color: transparent; padding-left:10px; } ol
+termsconditions { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 1em; font-weight: normal; color: rgb(000,000,000); background-color: transparent; padding-left:10px; } td
+tandcpadding { padding-left:27px ; padding-top: 27px} li
+logon { color: #ffcc00 ; background-color:#ffffff; vertical-align: middle} dl
+logon { font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 0
+8em; font-weight: normal; color: rgb(000,000,000); background-color: transparent; padding-left:20px; } img
+logon { border-style: none; vertical-align:top; text-align:center;} Dear Commonwealth Bank Customer, Commonwealth Bank is constantly working to improve the account security of our customers
+ In order, to ensure the integrity and security of our online banking system, we periodically review accounts
+ We were unable to contact you by phone during the last check, so please verify the information at your account file and make sure it is right
+ Please, verify your account information by following the link: https://netbank
+commbank
+com
+au/ The next verification will be done soon, invalid account information will result in your account being placed to restricted status
+ Commonwealth Bank Customer Support
+ Email security code: #NSS33511954%^-CommAU

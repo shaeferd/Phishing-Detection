@@ -1,0 +1,22 @@
+Subject: Account compromised: billing information moved or changed <
+-- 
+panel{-moz-border-radius: 
+3em 
+3em 
+3em 
+3em; border: 1px dotted silver; background-color: #F7F6F4; } --> LEGAL NOTICE Message sent to you follows: Dear PayPal client, Did you know that Unverified PayPal members have a Sending Limit
+ You can send unlimited payments when you become Verified
+ It's easy
+ As a security measure, PayPal asks members to add and confirm ownership of a bank account
+ When you confirm your bank account, you become Verified
+ This process is a secure and easy way to confirm a member's identity and leads to safer transactions between buyers and sellers
+ Become Verified and help increase the security of your PayPal transactions for yourself and for everyone with whom you do business
+ You can also: - Fund purchases directly from your checking or savings account, in addition to using credit cards - Shop without interruption because Verified users have no Sending Limit - Improve your reputation by letting others know you're a confirmed, Verified member of the PayPal community - Send money to friends, family, and PayPal Personal Account holders Get Verified Now
+ Click the link below: https://www
+paypal
+com/cgi-bin/webscr
+cmd=_login to get verified Thank you for using PayPal
+ The PayPal Team Please do not reply to this email
+ This mailbox is not monitored and you will not receive a response
+ For assistance, log in to your PayPal account and click the Help link located in the top right corner of any PayPal page
+ PayPal Email ID PP247 Best regards, - PayPal Team

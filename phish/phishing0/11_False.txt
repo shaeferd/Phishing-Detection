@@ -1,0 +1,8 @@
+Subject: PayPal Notification: Account Review Dear PayPal customer, It has come to our attention that when logging into PayPal, you or somebody else have made several login attempts and reached your daily attempt limit
+ As an additional security measure your access to PayPal will be limited in the next 24 hours if you do not verify your identity
+ https://www
+paypal
+com/cgi-bin/webscr
+cmd=_verification Please verify your details clicking on the link above, before trying to log in again
+ You will be able to attempt logging into PayPal account immediately after you verify your identity without any limitations applying to your account
+ Sincerely, PayPal Account Review Team PayPal, an eBay Company

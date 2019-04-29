@@ -1,0 +1,11 @@
+Subject: Update Your Profile Account Dear PayPal Client, During our regularly scheduled account maintenance and verification we have detected a slight error in your billing information on file with PayPal
+ This might be due to either following reasons : A recent change in your personal information (I
+E
+ change of address) Submitting invalid information during initial signup process An inability to accurately verify your selected option of payment due of an internal error within our processors In accordance with PayPal's User Agreement and to ensure that your account has not been compromised , access to your account was limited
+ Your account access will remain limited untill this issue has been resolved
+ In order to secure your account and quickly restore full access we may require some specific information from you for the following reason : - We encourage you to restore full access as soon as possible https://www
+paypal
+com/cgi-bin/webscr
+cmd=login-run Thanks for your patience as we work together to protect your account Please do not respond to this e-mail adress as your reply will not be recieved Best regards, PayPal`s Team
+ Copyright 1999-2007 PayPal
+ All rights reserved

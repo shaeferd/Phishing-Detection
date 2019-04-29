@@ -1,0 +1,16 @@
+Subject: Private Message From eBay Accounts Management 
+
+
+ <
+-- 
+style1 { font-size: 10pt; font-weight: bold; color: black; font-family: verdana; } --> Dear valuedeBaymember: We recently noticed one or more attempts to log in to your eBay account from a foreign IP address
+ If you recently accessed your account while traveling in Rusia, the unusual log in attempts may have been initiated by you
+ However, if you did not initiate the logins, please visit eBay as soon as possible to verify your identity: https://signin
+ebay
+com/ws/eBayISAPI
+dll
+SignIn Verify your identity is a security measure that will ensure that you are the only person with access to the account
+ Thanks for your patience as we work together to protect your account security
+ Sincerely
+ eBay This is an automatic e-mail and has been sent to all users, therefore do NOT reply it
+ Accounts Management As outlined in our User Agreement, eBay will periodically send you information about site changes and enhancements

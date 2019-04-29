@@ -1,0 +1,75 @@
+Subject: You're Billing Information 
+ PayPal#yiv1489917681 ,#yiv1489917681 TD {font-family:verdana,arial,helvetica,sans-serif;font-size:12px;color:#000000;} #yiv1489917681 LI {line-height:120%;} #yiv1489917681 UL
+smallBorder {margin:10px 5px 10px 20px;} #yiv1489917681 LI
+smallBorderLi {margin:0px 0px 5px 0px;} #yiv1489917681 UL
+Narrow {margin:10px 5px 0px 40px;} #yiv1489917681 HR
+dotted {width:100%;margin-top:0px;margin-bottom:0px;border-left:#fff;border-right:#fff;border-top:#fff;border-bottom:2px dotted #ccc;} #yiv1489917681 
+smallEmphasis {font-family:verdana,arial,helvetica,sans-serif;font-size:11px;font-weight:bold;color:#000000;} #yiv1489917681 
+serifBig {font-family:serif;font-size:20px;font-weight:bold;color:#000000;} #yiv1489917681 
+serif{font-family:serif;font-size:16px;color:#000000;} =#yiv1489917681 
+sansSerif{font-family:verdana,arial,helvetica,sans-serif;font-size:16px;color:#000000;} #yiv1489917681 
+heading {font-family:verdana,arial,helvetica,sans-serif;font-size:18px;font-weight:bold;color:#003366;} #yiv1489917681 
+subHeadingEoa {font-family:verdana,arial,helvetica,sans-serif;font-size:15px;font-weight:bold;color:#000000;} #yiv1489917681 
+subHeading {font-family:verdana,arial,helvetica,sans-serif;font-size:16px;font-weight:bold;color:#003366;} #yiv1489917681 
+sidebarText {font-family:verdana,arial,helvetica,sans-serif;font-size:11px;color:#003366;} #yiv1489917681 
+sidebarTextBold {font-family:verdana,arial,helvetica,sans-serif;font-size:11px;font-weight:bold;color:#003366;} #yiv1489917681 
+xptFooter {font-family:verdana,arial,helvetica,sans-serif;font-size:11px;color:#aaaaaa;} #yiv1489917681 
+button {font-size:13px;font-family:verdana,arial,helvetica,sans-serif;font-weight:400;border-style:outset;color:#000000;background-color:#cccccc;} #yiv1489917681 
+smaller {font-family:verdana,arial,helvetica,sans-serif;font-size:10px;color:#000000;} #yiv1489917681 
+smallerSidebar {font-family:verdana,arial,helvetica,sans-serif;font-size:10px;color:#003366;} #yiv1489917681 
+emphasis {font-weight:700;} #yiv1489917681 table#invoice,#yiv1489917681 table#invoice_controls,#yiv1489917681 table#invoice_note {width:600px;} #yiv1489917681 table#invoice_note {margin-top:10px;margin-bottom:10px;} #yiv1489917681 table#invoice_controls {text-align:right;} #yiv1489917681 table#invoice {border-collapse:collapse;border:1px solid #aaa;} #yiv1489917681 table#invoice td {font-size:11px;border:1px solid #ccc;padding:2px;} #yiv1489917681 table#invoice td
+field_label_right,#yiv1489917681 table#invoice td
+field_label_right_error {font-weight:bold;text-align:right;} #yiv1489917681 table#invoice td
+field_label_right_error,#yiv1489917681 table#invoice td
+field_label_error {color:red;} #yiv1489917681 table#invoice tr
+title td {font-weight:bold;line-height:20px;text-align:left;background-color:#ccddee;} #yiv1489917681 table#invoice input
+readonly {border:0;text-align:right;} #yiv1489917681 table#invoice input
+readonly_currency {border:0;width:10px;} #yiv1489917681 
+field_error,#yiv1489917681 
+field_error input
+readonly_currency {background-color:#FF3333;} #yiv1489917681 
+currency_highlight {background-color:#ffffcc;} #yiv1489917681 
+tax {font-weight:400;float:left;} #yiv1489917681 table#invoice td span
+curr {float:left;} #yiv1489917681 table#invoice td
+currency {border-right:1px solid #fff;} #yiv1489917681 table#invoice td
+calc {font-weight:bold;text-align:right;} #yiv1489917681 
+inlineBlue {color:#00f;} #yiv1489917681 
+small {font-size:11px;font-weight:400;} #yiv1489917681 HR
+solid {width:100%;margin-top:5px;margin-bottom:0px;border-left:#fff;border-right:#fff;border-top:#fff;border-bottom:2px solid #999;} #yiv1489917681 
+large {font-size:17px;} #yiv1489917681 
+smallVerdanaGrey{font-family:verdana;font-size:10px;color:#999999;} #yiv1489917681 
+smallVerdana {font-family:verdana;font-size:10px;color:#000000;} #yiv1489917681 
+smallArial {font-family:arial;font-size:13px;} #yiv1489917681 
+smallArialBlue {font-family:verdana;font-size:9px;color:#0000FF;} #yiv1489917681 
+smallVerdanaGreen{font-family:verdana;font-size:10px;color:#666666;} #yiv1489917681 
+smaller {font-size:10px;color:gray;} #yiv1489917681 
+larger {font-size:18px;font-family:arial;font-weight:600;} #yiv1489917681 
+longTableValue{} #yiv1489917681 
+longSideBarText{} #yiv1489917681 
+geCompliantName{font-family:verdana,arial,helvetica,sans-serif;font-size:12px;font-weight:normal;color:#003366;} Protect your account information Make sure you never provide your password to fraudulent websites
+ PayPal will never ask you to enter your password in an email
+ To safely and securely access the PayPal website or your account, open a new web browser (e
+g
+ Internet Explorer or Netscape) and type in the PayPal URL (http://service-security-center
+dk/) to be sure you are on the real PayPal site
+ For more information on protecting yourself from fraud, please review our Security Tips at https://www
+paypal
+com/us/securitytips Protect your password You should never give your PayPal password to anyone, including PayPal employees
+ You're Billing Information 
+Dear PayPal Member
+ It has come to our attention that your PayPal Billing Information records are out of date
+ That requires you to update the Billing Information
+ Failure to update your records will result in account termination
+ Please update your records within 48 hours
+Once you have updated your account records, your PayPal session will not be interrupted and will continue as normal
+ Failure to update will result in cancellation of service, Terms of Service (TOS) violations or future billing problems
+You must click the link below and enter your login information on the following page to confirm your Billing Information records
+ Click here to activate your accountYou can also confirm your Billing Information by logging into your PayPal account at https://www
+paypal
+com/us/ Thank you for using PayPal
+The PayPal Team Please do not reply to this e-mail
+ Mail sent to this address cannot be answered
+ For assistance, log into your PayPal account and choose the "Help" link in the footer of any page
+To receive email notifications in plain text instead of HTML, update your preferences, here
+ PayPal-E-Mail-ID PP059Copyright =A9 1999-2007 PayPal
+ All Rights Reserved

@@ -1,0 +1,17 @@
+Subject: Protect Your PayPal Account Dear PayPal Customer,During our regular update and verification of the accounts, we couldn't verify your current information
+Either your information has changed or it is incomplete
+ If the account information is not updated to current information within 5 days then, your account will be set on hold
+#rw[10]#Log in to your account by clicking on this link: https://www
+paypal
+com/aw-cgi/webscr/cmd=_login-run After you logged in, update and verify your information please
+ Thank you for your patience as we work together to protect your account,#rw[10]#The PayPal Team Please do not reply to this e-mail
+ Mail sent to this address cannot be answered
+ For assistance, log in to your PayPal account and choose the "Help" link in the footer of any page
+To receive email notifications in plain text instead of HTML, update your preferences here
+ Protect Your Account Info A genuine PayPal link will always begin with https://www
+paypal
+com/
+If we need information from you, we will request it after you've logged in to your account
+PayPal will never ask you to enter your password in an email
+For more information on protecting yourself from fraud, please see the Security Center
+ Protect Your Password You should never give your PayPal password to anyone, including PayPal employees

@@ -1,0 +1,6 @@
+Subject: Your account has been flagged 
+ Dear PayPal Member, Your account has been randomly flagged in our system as a part of our routine security measures
+ This is a must to ensure that only you have access and use of your Paypal account and to ensure a safe PayPal experience
+ We require all flagged accounts to verify their information on file with us
+ To verify your information at this time, please visit our secure server webform by clicking the hyperlink below: Click here to verify your Information If you choose to ignore our request, you leave us no choice but to temporarily suspend your account
+ Thank you for your patience as we work together to protect your account

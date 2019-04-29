@@ -1,0 +1,28 @@
+Subject: Bank of America - Your Online ID Banking is blocked Bank of America Internal Mail Box Notification <
+--#MESSAGE a:link {color=405EBE;} #message A:hover{color=#0000FF} /* Font Definitions */ @font-face {font-family:Verdana; panose-1:2 11 6 4 3 5 4 4 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:536871559 0 0 0 415 0;} /* Style Definitions */ p
+MsoNormal, li
+MsoNormal, div
+MsoNormal {mso-style-parent:""; margin:0in; margin-bottom:
+0001pt; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman";} a:link, span
+MsoHyperlink {color:blue; text-decoration:underline; text-underline:single;} a:visited, span
+MsoHyperlinkFollowed {color:blue; text-decoration:underline; text-underline:single;} @page Section1 {size:8
+5in 11
+0in; margin:1
+0in 1
+25in 1
+0in 1
+25in; mso-header-margin:
+5in; mso-footer-margin:
+5in; mso-paper-source:0;} div
+Section1 {page:Section1;} --> Your Online Banking is Blocked Because of unusual number of invalid login attempts on you account, we had to believe that, their might be some security problem on you account
+ So we have decided to put an extra verification process to ensure your identity and your account security
+ Please click on sign in to Online Banking to continue to the verification process and ensure your account security
+ It is all about your security
+ Thank you
+ and visit the customer service section
+ Bank of America, N
+A
+ Member FDIC
+ Equal Housing Lender 2006 Bank of America Corporation
+ All rights reserved

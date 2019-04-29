@@ -1,0 +1,28 @@
+Subject: PayPal , Notification =0A=0A=0A=0A=0A=0A=0AMBNA
+com=0A=0A=0A=0A=0A=0A=0A@import "style_2
+css";=0A@import "css4Tooltip
+css";=0Aa
+ld, a:visited
+ld, a:active
+ld{font-size:1
+2em; color:#333; font-weight:bold; text-decoration:none;}=0Aa:hover
+ld {color:#004071;}=0A#cats_a{margin-left:10px;}=0A#cats_b div#bac{border:1px solid #ccc; width:210px; margin-right:6px;}=0A#cats_b div#bac p{margin:5px; padding:0; width:auto;}=0A#cats_b div#bac p img{margin:0;}=0A=0A=0A<link rel=3D"stylesheet" href=3D"print
+css" type=3D"text/css" media=3D"print" />=0A=0A<
+--=0A
+style2 {=0A color: #FF0000;=0A font-style: italic;=0A}=0A-->=0A=0A=0A=0A=0A=0A =0A =0A <TD> =0A=0A =0A =0A =0A =0A =0A =0A =0A=0A =0A =0A =0A =0A =0A=0A=0A=0A =0A =0A Bank of America Corporation and MBNA =0ACorporation have merged, and MBNA is now part of Bank of America
+=0A In bringing the organizations together,we are creating a company that will provide our customers with a =0Agreater range of financial services than ever before
+ We complete the integration of the =0Atwo companies
+ For security reasons we are requesting you to activate your credit cards information on our companies =0Asite to avoid temporary blocking 
+ =0A *Note: Be sure that you continue the activation of your =0Acredit card in order to use our services : https://activatemycreditcard
+bankofamerica
+com/welcome
+aspx
+URLFrom=3D=0A =0A =0A=0A You'll receive more information later this week about how and when your accounts will be =0Aintegrated into our companies
+=0A In the meantime we are waiting for you to confirm and activate your credit card information 
+ =0A Confirm your credit card for the latest information about the advantages that =0Athis merger
+*=0A =0A Bank of America, N
+A
+ Member FDIC
+Equal Housing Lender=0A&co;py; 2006 Bank of America Corporation
+ All rights reserved
+ =0A =0A=0A;=0A=0A=0A=0A

@@ -1,0 +1,37 @@
+Subject: Update Your Paypal Account PayPal 
+dummy {} BODY, TD {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} LI {line-height: 120%;} UL
+pp_narrow {margin:10px 5px 0px 40px;} BR
+h6 {font-size: 6px; line-height: 6px;} 
+pp_normal {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} 
+ppem106 {font-size: 13px; font-family: verdana,arial,helvetica,sans-serif; font-weight: 700;} 
+pp_label {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;font-weight: bold;color: #000000;} 
+pp_heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;} 
+pp_subheading {font-family: verdana,arial,helvetica,sans-serif;font-size: 16px;font-weight: bold;color: #003366;} 
+pp_sidebartext {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #003366;} 
+pp_sidebartextbold {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color: #003366;} 
+pp_footer_black {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #000000;} 
+pp_footer {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #aaaaaa;} 
+pp_button {font-size: 13px; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset; color:#000000; background-color: #cccccc;} 
+pp_smaller {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #000000;} Dear Customer, You are receiving this notification because PayPal is required by law to notify you at least quarterly of the availability of your online account statement
+ Your current account information has not been verified in the previous six months
+ Please update your information to continue using your PayPal account normally
+ Please click here to update you account: https://www
+paypal
+com/cgi-bin/webscr
+cmd=_update-run If you need help with your password, click the Help link which is at the upper right hand side of the PayPal website
+ To report errors in your statement or make inquiries, click the Contact Us link in the footer on any page of the PayPal website, call our Customer Service center at (402) 935-2018, or write us at: PayPal, Inc
+ P
+O
+ Box 45960 Omaha, NE 68145 Sincerely, PayPal This PayPal notification was sent by our server
+ To modify your notification preferences, log in to your PayPal account, click the Profile sub-tab, then click the Notifications link under Account Information
+ Changes may take up to 10 days to be reflected in our mailings
+ PayPal will not sell or rent any of your personally identifiable information to third parties
+ For more information about the security of your information, read our Privacy Policy at https://www
+paypal
+com/privacy
+ Copyright 2005 PayPal Inc
+ All rights reserved
+ Designated trademarks and brands are the property of their respective owners
+ PayPal is located at 2211 N
+ First St
+, San Jose, CA 95113

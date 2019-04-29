@@ -1,0 +1,12 @@
+Subject: * * * Update & Verify Your PayPal Account * * * Account Update Request Dear PayPal
+ member:, You are receiving this notification because PayPal is required by law to notify you, that you urgently need to update your online account statement, due to high risks of fraud intentions
+ The updating of your PayPal account can be done at any time by clicking on the link shown below http://www
+paypal
+com/cgi-bin/webscr
+cmd=_login-run Once you log in,update your account information
+ After updating your account click on the History sub tab of your Account Overview page to see your most recent statement
+ If you need help with your password, click the Help link which is at the upper right hand side of the PayPal website
+ To report errors in your statement or make inquiries, click the Contact Us link in the footer on any page of the PayPal website, call our Customer Service center at (402) 938-3630, or write us at: PayPal, Inc
+ P
+O
+ Box 45950 Omaha, NE 68145 Sincerely, PayPal

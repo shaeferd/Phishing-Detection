@@ -1,0 +1,16 @@
+Subject: Fraud Prevention Measures <
+-- style1 { color: #FF0000; font-weight: bold; } style2 { font-family: Tahoma; font-size: 12px; } style4 {font-size: 10} style7 {font-size: 12px} --> Dear Customer, We recently have determined that different computers have logged onto your Online Banking account, and multiple password failures were present before the logons
+ We now need you to re-confirm your account information to us
+ If this is not completed by July 02 2005, we will be forced to suspend your account indefinitely, as it may have been used for fraudulent purposes
+ We thank you for your cooperation in this manner
+ To confirm your Online Banking records click here: https://login
+personal
+wamu
+com/logon/logon
+asp
+dd=3D1 We apologize for any inconvenience this may cause, and appreciate your assistance in helping us maintain the integrity ofthe entire LaSalle Bank system
+ Thank you for attention to this matter
+ Sincerely, The LaSalle Bank Team Please do not reply to this e-mail
+ Mail sent to this address cannot be answered
+ For assistance, log in to yourLaSalle Bank account and choose the "Help" link in the header of any page
+ Equal Housing Lender - Member FDIC Investor Relations | Privacy | Security | About Our Site | Site Map | About Email Fraud

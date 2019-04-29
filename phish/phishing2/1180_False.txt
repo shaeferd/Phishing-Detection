@@ -1,0 +1,39 @@
+Subject: IMPORTANT: Confirm your PayPal account <
+-- #message #message td {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} #message #message 
+pp_heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;} #message #message 
+pp_sansserif{font-family: verdana,arial,helvetica,sans-serif; font-size: 16px;color: #000000;} #message #message hr
+dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;} #message #message 
+pp_footer {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #aaaaaa;} #message #message 
+pp_sidebartextbold {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color: #003366;} #message #message 
+pp_sidebartext {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #003366;} #message #message 
+ppem106 {font-weight: 700;} --> #message #message 
+dummy {} #message #message td {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} #message #message {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} #message #message LI {line-height: 120%;} #message #message UL
+ppsmallborder {margin:10px 5px 10px 20px;} #message #message LI
+ppsmallborderli {margin:0px 0px 5px 0px;} #message #message UL
+pp_narrow {margin:10px 5px 0px 40px;} #message #message hr
+dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;} #message #message 
+pp_label {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;font-weight: bold;color: #000000;} #message #message 
+pp_serifbig {font-family: serif;font-size: 20px;font-weight: bold;color: #000000;} #message #message 
+pp_serif{font-family: serif;font-size: 16px;color: #000000;} #message #message 
+pp_sansserif{font-family: verdana,arial,helvetica,sans-serif; font-size: 16px;color: #000000;} #message #message 
+pp_heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;} #message #message 
+pp_subheadingeoa {font-family: verdana,arial,helvetica,sans-serif;font-size: 15px;font-weight: bold;color: #000000;} #message #message 
+pp_subheading {font-family: verdana,arial,helvetica,sans-serif;font-size: 16px;font-weight: bold;color: #003366;} #message #message 
+pp_sidebartext {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #003366;} #message #message 
+pp_sidebartextbold {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;font-weight: bold;color: #003366;} #message #message 
+pp_footer {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #aaaaaa;} #message #message 
+pp_button {font-size: 13px; font-family: verdana,arial,helvetica,sans-serif; font-weight: 400; border-style:outset; color:#000000; background-color: #cccccc;} #message #message 
+pp_smaller {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #000000;} #message #message 
+pp_smallersidebar {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;color: #003366;} #message #message 
+ppem106 {font-weight: 700;} Account Verification Dear nobody@example
+com, You have received this email because we have strong reason to belive that your PayPal account had been recently compromised
+ In order to prevent any fraudulent activity from occurring we are required to open an investigation into this matter
+ If your Credit/Debit Card on file is not updated within the next 48 hours, then will assume this account is fraudulent and will be suspended
+ We apologise for this inconvenience, but the purpose of this verification is to ensure that your PayPal account has not fraudulently used and to combat fraud attempts
+ To speed up the process, you are required to call us (1-805-214-4801) to verify your PayPal account
+ We apologise in advance for any inconvenience this may cause you and we would like to thank you for cooperation as we review this matter
+ Regards, PayPal Account Verification
+ Copyright 1999-2006 PayPal
+ All rights reserved
+ Please do not reply to this e-mail
+ Mail sent to this address cannot be answered

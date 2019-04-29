@@ -1,0 +1,122 @@
+Subject: eBay NOTICE : Suspended Account Suspended Account <
+-- POWERED BY SPUICKERU 
+
+
+ var pageName "PageRegisterVerifyPSU"; //--> var noCobrandHeader true; includeHost 'https://secureinclude
+ebaystatic
+com/'; cmdName='RegisterEnterInfo'; ebay
+oDocument
+_getControl("headerCommon")
+_exec("writeStyleSheet"); ebay
+oDocument
+_getControlEx("cobrandCollection")
+_exec("writeBrow"); <
+-- regProvinceElemName "ProvinceId"; regCityElemName "CityId"; regRefreshValidationElemName "refreshnovalidation"; formName "RegisterEnterInfo";// --><
+-- function ebCreateTextFieldEventConfigurations() { var cfg ebay
+oDocument
+addConfig(new EbayConfig('eBayPolicyContainer')); cfg
+sTextAreaID "eBayPolicyContainer"; cfg ebay
+oDocument
+addConfig(new EbayConfig('retypeEmailAddress')); cfg
+sRetypeEmailAddressID "retype_email"; } ebCreateTextFieldEventConfigurations(); //--> Suspended Account Sorry, our records show that your account has been suspended
+ Please try registering Unsuspendyouraccount ebay
+oDocument
+oPage
+createConfig function() {var c ebay
+oDocument
+addConfig(new EbayConfig('EBX
+CrossLinking'));c
+sLayer='ebx_layer';c
+sHTML='<table align="center" style="border:2px solid #0098CF; margin-bottom: 15px;" width="85%" cellpadding="0" cellspacing="0" bgcolor="#EDF9FF"><tr valign="middle"><td width="36" style="padding: 0 10px 0 10px;"><img align="middle" src="https://securepics
+ebaystatic
+com/aw/pics/icon/iconInfo_16x16
+gif" /></td><td width="80%" nowrap="nowrap" style="padding-right:10px" >You\'ve left eBay Express
+</td><td align="left" nowrap="nowrap"><a href="http://www
+express
+<#1#>/">Shop again on eBay Express</a><span style="margin:0 10px 0 10px;">|</span><img align="bottom" src="https://securepics
+ebaystatic
+com/aw/pics/express/icons/iconCart_15x10
+gif" alt=""/> <a href="http://cart
+express
+<#1#>/ws/eBayISAPI
+dll
+ExpressCart&action
+view=&from=Header">Shopping Cart<#2#></a></td><td width="135" nowrap="nowrap" style="padding: 0 20px 0 20px;"><img al
+ ign="top" src="https://securepics
+ <tr> <td class="pipe"><img src="https://securepics
+ebaystatic
+com/aw/pics/s
+gif" width="1" height="10"><br><a href="http://pages
+ebay
+com/community/aboutebay/
+ssPageName=f:f:US">About eBay</a> | <a href="http://www2
+ebay
+com/aw/marketing
+shtml
+ssPageName=f:f:US">Announcements</a> | <a href="http://pages
+ebay
+com/securitycenter/
+ssPageName=f:f:US">Security Center</a> | <a href="http://pages
+ebay
+com/help/policies/hub
+html
+ssPageName=f:f:US">Policies</a> | <a href="http://pages
+ebay
+com/sitemap
+html
+ssPageName=f:f:US">Site Map</a> | <a href="http://pages
+ebay
+com/help/index
+html
+ssPageName=f:f:US">Help</a></td> </tr> <tr><td height="4" colspan="2"><img src="https://securepics
+ebaystatic
+com/aw/pics/s
+gif" width="1" height="1"></td></tr> <tr><td bgcolor="#CCCCCC" height="1" colspan="2"><img src="https://securepics
+ebaystatic
+com/aw/pics/s
+gif" width="760" height="1"></td></tr> <tr><td height="4" colspan="2"><img src="https://securepics
+ebaystatic
+com/aw/pics/s
+gif" width="1" height="1"></td></tr> <tr class="help" valign="top"> <td class="navigation">Copyright 1995-2007 eBay Inc
+ All Rights Reserved
+ Designated trademarks and brands are the property of their respective owners
+ Use of this Web site constitutes acceptance of the eBay <a href="http://pages
+ebay
+com/help/policies/user-agreement
+html
+ssPageName=f:f:US">User Agreement </a> and <a href="http://pages
+ebay
+com/help/policies/privacy-policy
+html
+ssPageName=f:f:US">Privacy Policy</a>
+<br><img src="https://securepics
+ebaystatic
+com/aw/pics/s
+gif" width="1" height="10"><table border="0" cellpadding="0" cellspacing="0" width="100%"> <tr><td height="10"><img src="https://securepics
+ebaystatic
+com/aw/pics/s
+gif" width="760" height="1"></td></tr> <tr> <td class="navigation" width="100%"><a href="http://cgi1
+ebay
+com/aw-cgi/eBayISAPI
+dll
+TimeShow">eBay official time</a></td> </tr> </table> </td> <td nowrap align="right"> <table cellpadding="0" cellspacing="0" border="0" width="100%"> <tr> <td align="center"><a href="https://seal
+verisign
+com/splash
+form_file=fdf/splash
+fdf&amp;lang=EN&amp;dn=www
+ebay
+com" target="_blank" onclick="this
+href 'https://seal
+verisign
+com/splash
+form_file=fdf/splash
+fdf&amp;lang=EN' + '&amp;dn=' + location
+host; return true;"><img alt="VeriSign Seal" src="https://securepics
+ebaystatic
+com/aw/pics/logos/logoVeriSign_100x65
+gif" border="0"></a></td> </tr> <tr> <td class="navigation" align="center" nowrap><a href="http://www
+verisign
+com/ssl-certificate" target="_blank">About SSL Certificates</a></td> </tr> </table> </td> </tr> </table> <div id="cobrandFooter"> </div><script src="https://secureinclude
+ebaystatic
+com/js/e491/us/ebayfooter_e4912us
+js">

@@ -1,0 +1,31 @@
+Subject: Please Restore Your Account Access paypal #message 
+SectionTitle { FONT-WEIGHT: bold; FONT-SIZE: small; FONT-FAMILY: arial, sans-serif } #message 
+SmallTitle { FONT-WEIGHT: bold; FONT-SIZE: x-small; FONT-FAMILY: arial, sans-serif } #message 
+SectionBody { FONT-SIZE: x-small; FONT-FAMILY: arial, sans-serif } #message 
+DetailTable { FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: arial, sans-serif } #message 
+DetailTable TH { FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: arial, sans-serif } #message 
+Title { FONT-SIZE: medium; FONT-FAMILY: verdana, arial, sans-serif } #message 
+BodyFont { FONT-WEIGHT: normal; FONT-SIZE: 10pt; FONT-FAMILY: arial, sans-serif } #message 
+BodyFontStrong { FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial, sans-serif } #message 
+SmallBody { MARGIN-TOP: 8px; FONT-WEIGHT: normal; FONT-SIZE: xx-small; MARGIN-BOTTOM: 6px; FONT-FAMILY: arial, sans-serif } #message 
+Separator { COLOR: #cccccc; HEIGHT: 1px } #message 
+HighlightedSeparator { COLOR: #9999cc; HEIGHT: 1px } #message 
+FooterSeparator { COLOR: #cccccc; HEIGHT: 1px } #message 
+Footer { MARGIN-TOP: 2px; FONT-SIZE: xx-small; MARGIN-BOTTOM: 8px; COLOR: #666666; FONT-FAMILY: arial, sans-serif } #message 
+Footer P { MARGIN-TOP: 2px; FONT-SIZE: xx-small; MARGIN-BOTTOM: 8px; COLOR: #666666; FONT-FAMILY: arial, sans-serif } #message 
+SmallPara { MARGIN-TOP: 8px; MARGIN-BOTTOM: 6px } #message 
+SmallParap { MARGIN-TOP: 8px; MARGIN-BOTTOM: 6px } #message 
+ItemTitle { FONT-WEIGHT: bold; FONT-SIZE: 10pt; FONT-FAMILY: arial, sans-serif } paypal Security Center We were unable to process your most recent payment
+ Did you recently change your bank, phone number or credit card
+
+ To ensure that your service is not interrupted, please update your account information today by clicking here
+ Or contact PayPal Member Services Team
+ We're available 24 hours a day, 7 days a week
+ If you have recently updated your records, please disregard this message as we are processing the changes you have made
+ Regards, PayPal Member Services Team If this email is inappropriate or in any way violates PayPal policy, please help protect other eBay community members by reporting it to us immediately
+ Accounts Management As outlined in our User Agreement, PayPal will periodically send you information about site changes and enhancements
+ Visit our Privacy Policy and User Agreement if you have any questions
+ http://www
+paypal
+com/cgi-bin/webscr
+cmd=p/gen/ua/policy_privacy-outside

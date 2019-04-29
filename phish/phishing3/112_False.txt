@@ -1,0 +1,19 @@
+Subject: Update And Verify Your eBay Account FIP NOTICE: eBay Registration Suspension Dear eBay Member, We regret to inform you that your eBay account has been suspended due to the violation of our site policy below: False or missing contact information - Falsifying or omitting your name, address, and/or telephone number (including use of fax machines pager numbers, modems or disconnected numbers)
+ Due to the suspension of this account, please be advised you are prohibited from using eBay in any way
+ This prohibition includes the registering of a new account
+ Please note that any seller fees due to eBay will immediately become due and payable
+ eBay will charge any amounts you have not previously disputed to the billing method currently on file
+ you are required to verify your eBay account by following the link below
+ http://signin
+ebay
+com/aw-cgi/eBayISAPI
+dll
+SignIn&ssPageName=h:h:sin:US We appreciate your support and understating, as we work together to keep eBay a safe place to trade
+ Thank you for your patience in this matter
+ Respectfully, Trust and Safety Department eBay Inc
+ As outlined in our User Agreement, eBay will periodically send you information about site changes and enhancements
+ Visit our Privacy Policy and User Agreement if you have any questions
+ Copyright 2005 eBay Inc
+ All Rights Reserved
+Designated trademarks and brands are the property of their respective owners
+ eBay and the eBay logo are trademarks of eBay Inc

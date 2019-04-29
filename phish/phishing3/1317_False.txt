@@ -1,0 +1,48 @@
+Subject: TKO NOTICE: Suspicious Activity #message 
+SectionTitle {font-size: small; font-family: arial, sans-serif; font-weight:bold } #message 
+SmallTitle {font-size: x-small; font-family: arial, sans-serif; font-weight:bold } #message 
+SectionBody {font-size: x-small; font-family: arial, sans-serif} #message 
+DetailTable, #message 
+DetailTable th {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal } #message 
+Title {font-size: medium; font-family: verdana, arial, sans-serif} #message 
+BodyFont {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal} #message 
+BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif; font-weight:bold} #message 
+SmallBody {font-size: xx-small; font-family: arial, sans-serif; font-weight:normal; margin-top: 8 px; margin-bottom: 6 px} #message 
+Separator { COLOR: #CCCCCC; height: 1px} #message 
+HighlightedSeparator { COLOR: #9999CC; height: 1px} #message 
+FooterSeparator { COLOR: #CCCCCC; height: 1px} #message 
+Footer, #message 
+Footer p {font-size: xx-small; font-family:arial, sans-serif; color:#666666; margin-top: 2 px; margin-bottom: 8 px} #message 
+SmallPara, #message 
+SmallParap {margin-top: 8 px; margin-bottom: 6 px} #message 
+ItemTitle {font-size: 10pt; font-family: arial, sans-serif; font-weight:bold } TKO NOTICE: Suspicious Activity
+ Dear eBay Customer , For the User Agreement, Section 9, we may immediately issue a warning,temporarily suspend, indefinitely suspend or terminate your membership and refuse to provide our services to you if we believe that your actions may cause financial loss or legal liability for you, our users or us
+ We may also take these actions if we are unable to verify or authenticate any information you provide to us
+ We regret to inform you that your eBay account could be suspended if you don't re-update your account information
+ To resolve this problems please use the link below and re-enter your account information
+ If your problems could not be resolved your account will be suspended for a period of 24 hours, after this period your account will be terminated
+ 
+ Due to the suspension of this account, please be advised you are prohibited from using eBay in any way
+ This includes the registering of a new account
+ Please note that this suspension does not relieve you of your agreed-upon obligation to pay any fees you may owe to eBay
+ To update your record please click here: It is highly recommended that you right click on the link and select "Open in new window" option as some mail clients will not allow you to proceed
+ https://users
+ebay
+com/aw-cgi/eBayISAPI
+dll
+OneTimePayment&ssPageName;=3Dh:h:sin:US We apologize in advance for any inconvenience this may cause you and we would like to thank you for your cooperation as we review this matter
+ eBay will request personal data (password, credit card/bank numbers, and so on) in this email
+ Thank you for using eBay
+ www
+ebay
+com This eBay notice was sent to you based on your eBay account preferences
+ If you would like to review your notification preferences for other types of communications, click here
+ If you would like to receive this email in text only, click here
+ As outlined in our User Agreement, eBay will periodically send you information about site changes and enhancements
+ Visit our Privacy Policy and User Agreement if you have any questions
+ <FONT face=3D"Arial, Verdana" color=3D#666666 size=3D1> Copyright =C2
+ 2006 eBay Inc
+ All Rights Reserved
+Designated trademarks and brands are the property of their respective owners
+ eBay and the eBay logo are trademarks of eBay Inc
+ </TBODY>

@@ -1,0 +1,13 @@
+Subject: News
+com
+au: AUSTRALIAN BANKS - CLOSING News
+com
+au BODY { FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Verdana, Arial Helvetica, sans-serif } TABLE { FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Verdana, Arial Helvetica, sans-serif } TD { FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Verdana, Arial Helvetica, sans-serif } DIV { FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Verdana, Arial Helvetica, sans-serif } P { FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Verdana, Arial Helvetica, sans-serif } SPAN { FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Verdana, Arial Helvetica, sans-serif } INPUT { FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Verdana, Arial Helvetica, sans-serif } SELECT { FONT-SIZE: 11px; COLOR: #666666; FONT-FAMILY: Verdana, Arial Helvetica, sans-serif } A { FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #003399; FONT-FAMILY: Verdana, Arial Helvetica, sans-serif; TEXT-DECORATION: underline } A:link { FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #003399; FONT-FAMILY: Verdana, Arial Helvetica, sans-serif; TEXT-DECORATION: underline } A:visited { COLOR: #7e7e7e } Dear Australian Bank=20 Clients=20 You must NOT Update or Confirm Your Account information
+ News=20 Limited JUST WANTS TO INFORM YOU, That on this week all AUSTRALIAN=20 BANKS WILL BE CLOSED
+ In this list: Commonwealth bank, ANZ=20 Bank, WestPack Bank and others
+To get all information=20 about those, that all banks will be closed within 1 week read on our=20 web site: www
+bankingnews-important
+com This procedure is performed one=20 time only and it does not require further actions on the customer=20 side
+ This is an automated message, no reply or confirmation is=20 required
+ Copyright 2006 News Limited
+ All times AEST=20 (GMT + 10)

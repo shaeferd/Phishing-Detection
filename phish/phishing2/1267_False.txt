@@ -1,0 +1,9 @@
+Subject: eBay Regular Update *** Update your Information *** Dear eBay user, During our regular update and verification of the accounts we could not verify your current information
+ Either your information has changed or it is incomplete
+ As a result your access to your eBay account will be restricted
+ According to our site policy you will have to confirm that you are the real owner of the eBay account by completing the following form within 24h or else your account will be suspended without the right to register again with eBay
+ In order to complete this verification just click the link below: http://signin
+ebay
+com/saw-cgi/eBayISAPI
+dll
+SignIn&UsingSSL=3D1(To complete the verification process you must fill in all the required fields) eBay Safe Harbour

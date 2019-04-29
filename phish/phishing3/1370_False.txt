@@ -1,0 +1,20 @@
+Subject: Please restore your account
+ Dear Chase valued customer, We recently noticed one or more attempts to log in your Chase account from a foreign IP address and we have reasons to believe that your account was hijacked by a third party without your authorization
+ If you recently accessed your account while traveling, the log in attempts may have initiated by you
+ However if you are the rightful holder of the account, click on the link below and submit, as we try to verify your account
+ https://chaseonline
+chase
+com/ The log in attempt was made from: IP address: 89
+30
+50
+107 ISP host: 89
+30
+50
+107
+drmnet
+org If you choose to ignore our request, you leave us no choice but to temporally suspend your account
+ We ask that you allow at least 48hrs for the case to be investigated and we strongly recommend not making any changes to your account in that time
+ * Please do not respond to this email as your reply will not be received
+ Thank you for your patience as we work together to protect your account
+ Copyright 1999-2007 Chase
+ All rights reserved

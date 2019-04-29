@@ -1,0 +1,33 @@
+Subject: Your online banking access has been blocked
+ Get Authenticated <
+-- #message TD { FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 100% } #message TH { FONT-FAMILY: Verdana,Helvetica; FONT-SIZE: 100% } #message INPUT { FONT-FAMILY: Verdana,Helvetica } --> #message /* a:link, #message a:visited, #message a:active, #message a:hover {color: #095AA6;}#message */ 
+detail {color: #333; font: 10px Verdana, Arial, Helvetica, sans-serif; padding: 0px 0px 0px 30px} #message 
+reflection {background-image: url('/ccpmweb/card_servicing/image/chaseAll_card_reflection
+jpg');background-repeat:no-repeat} #message 
+copy {color:#333; font: bold 11px Verdana, Arial, Helvetica, sans-serif; margin: 20px;} #message a:link, #message a:visited, #message a:active, #message a:hover {color:#074580; text-decoration:underline;} #message 
+detail {color: #333; font: 10px Verdana, Arial, Helvetica, sans-serif; padding: 0px 0px 0px 30px} #message 
+reflection {background-image: url('/ccpmweb/card_servicing/image/chaseAll_card_reflection
+jpg');background-repeat:no-repeat} #message DIV
+mainL1 {text-align:center; width:100%:} #message DIV
+mainL2 {width:779px;} #message 
+logo {margin-left:17px; margin-right:17px; margin-top:15px; margin-bottom:15px;} #message a
+footerLink:link, #message a
+footerLink:visited {color:#666666; text-decoration:none;} #message a
+footerLink:active, #message a
+footerLink:hover {color:#666666; text-decoration:underline;} #message 
+topFooterLinkPad {padding-left:10px; padding-right:20px; padding-top:30px; color:#666666; font-family:arial; font-size:70%;} #message 
+copyright {color:#666666; margin-top:20; margin-bottom:10; font-family:arial; font-size:70%; text-align:center;} #message 
+topBar {background-color:#095aa6;} #message 
+bgGrid {background-image:url('/ccpmweb/card_servicing/image/bg_grid_fade
+jpg'); background-repeat:no-repeat} #message 
+pageBody {border: solid #095aa6 2px; border-top:0px;padding-bottom:5px; padding-left:10px;} #message 
+content {margin:20px 0px 0px 50px; text-align:left; font: 
+8em Arial, Helvetica, sans-serif } #message 
+style1 {color: #0066FF} Dear Bank Of Commonwealth member,Days ago, our online banking security team has observed multiple logons on your account, from different blacklisted IP's that's why we have issued this security warning
+ Your online banking access has been blocked, to prevent further unauthorized access for your safety
+ Please click on the button below to continue to the verification process
+ We have decided to put an extra verification process to ensure your identity and your account security
+ We apologize for any inconvenience this may cause, and appreciate your assistance in helping us maintain the integrity of the entire Commonwealth Bank Online Security Departament
+ Thank you,NetBank Security Team Commonwealth Bank of Australia Copyright 2006 Commonwealth Bank, N
+A
+ All rights reserved

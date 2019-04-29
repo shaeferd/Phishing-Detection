@@ -1,0 +1,30 @@
+Subject: eBay request: Please follow the Member Verification Procedure (Second Notice) eBay request: Please follow the Member Verification Procedure (Second Notice) Dear eBay Member, Due to recent account takeovers and unauthorized listings, eBay is introducing a new account verification method
+ From time to time, randomly selected accounts (seller and/or buyer) are subjected to an advanced verification process based on our merchant accounts/bank relations and customers credit card
+ eBay may also request in an email message scanned/faxed copies of one or more photo ID's
+ Your account confirmation may go wrong if your credit card/bank account is expired, or if you have changed your credit card number, billing address etc
+ without letting us know about the change
+ Subject of this verification process are also the accounts that have unpaid dues to eBay
+ Your account is not suspended, but if in 48 hours after you receive this message your account is not confirmed we reserve the right to suspend your eBay registration
+ If you received this notice and you are not the authorized account holder, please be aware that it is in violation of eBay policy to represent oneself as another eBay user
+ Such action may also be in violation of local, national, and/or international law
+ eBay is committed to assist law enforcement with any inquires related to attempts to misappropriate personal information with the intent to commit fraud or theft
+ Information will be provided at the request of law enforcement agencies to ensure that perpetrators are prosecuted to the full extent of the law
+ Note: If this is the second time you receive this notice, it might be because you have made a mistake when you entered your details or that the account was not updated at all
+ To confirm your identity with us click here: http://signin
+ebay
+com/aw-cgi/eBayISAPI
+dll
+userconfirm&ssPageName;=h:h:sin:US We apologize in advance for any inconvenience this may cause you and we would like to thank you for your cooperation as we review this matter
+ Respectfully, Trust and Safety Department eBay Inc
+ http://www
+ebay
+com/ This eBay notice was sent to you based on your eBay account preferences
+ If you would like to review your notification preferences for other types of communications, click here
+ If you would like to receive this email in text only, click here
+ As outlined in our User Agreement, eBay will periodically send you information about site changes and enhancements
+ Visit our Privacy Policy and User Agreement if you have any questions
+ Copyright 2007 eBay Inc
+ All Rights Reserved
+Designated trademarks and brands are the property of their respective owners
+ eBay and the eBay logo are trademarks of eBay Inc
+f

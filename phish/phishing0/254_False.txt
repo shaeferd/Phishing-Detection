@@ -1,0 +1,22 @@
+Subject: Place or Update Credit Card on File Place or Update Credit Card on File Dear eBay,We regret to inform you that your eBay account was been suspended for a period of 3-4 days, after that it will be terminated
+ During our regulary schedule account maintenance and verification we have detected a slight error in your billing information on file with eBay
+ This might be due to either following reasons: - A recent change in your personal information (i
+e
+ change of address)- Submiting invalid information during the initial sign up process
+-An inability to accurately verify your selected option of payment due an internal error within ourprocessors
+For the User Agreement, Section 9, we may immediately issue a warning, temporarily suspend,indefinitely suspend or terminate your membership and refuse to provide our services to you if we believe that your actions may cause financial loss or legal liability for you, our users or us
+We may also take these actions if we are unable to verify or authenticate any inf Your credit card on file with eBay Card number: XXXX-XXXX-XXXX-XXXX (Not shown for security purposes) Expiration date: 11/06 Please sign in to your eBay account and update your billing information:http://signin
+ebay
+com/eBayISAPI
+dll
+SignIn&ssPageName=h:h:sin:US If your account information is not update, your ability to sell or bid on eBay will become restricted
+ Thank you,eBay Billing Department eBay treats your personal information with the utmost care, and our Privacy Policy is designed to protect you and your information
+ eBay will never ask their users for personal information, such as bank account numbers, credit card numbers, pin numbers, passwords, or Social Security numbers in an email
+ For more information on how to protect your eBay password and your account, please visit User Account Protection
+ This eBay notice was sent toyou based on your eBay account preferences and in accordance with our Privacy Policy
+ To change your notification preferences, click here
+ If you would like to receive this email in text format, click here
+ Copyright 2004 eBay Inc
+ All Rights Reserved
+ Designated trademarks and brands are the property of their respective owners
+eBay and the eBay logo are trademarks of eBay Inc

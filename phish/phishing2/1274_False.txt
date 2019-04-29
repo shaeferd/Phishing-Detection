@@ -1,0 +1,20 @@
+Subject: Identity Protection Measures Dear valued eBay member: Identity protection matters
+ And eBay works day and night to help keep your identity safe
+ That's why it has come to our attention that your eBay account information needs to be updated as part of our continuing commitment to protect your account and to reduce the instance of fraud on our website
+ If you could take 5-10 minutes out of your online experience and update your personal records you will not run into any future problems with the online service
+ However, failure to update your records will result in account suspension
+ Once you have updated your account records, your eBay session will not be interrupted and will continue as normal
+ To update your eBay account click on the following link: https://signin
+ebay
+com/ws/eBayISAPI
+dll
+SignIn/ Thank You for using eBay
+ The eBay Team ---------------------------------------------------------------------------------------------------------------------------------------- Accounts Management will periodically send you information about site changes and enhancements, as outlined in our User Agreement
+ ----------------------------------------------------------------------------------------------------------------------------------------- Please do not reply to this email
+ This mailbox is not monitored and you will not receive a response
+ For assistance, log in to your eBay account and click the Help link located in the top right corner of any eBay page
+ ----------------------------------------------------------------------------------------------------------------------------------------- eBay Limited is authorised and regulated by the Financial Services Authority in the United States as an electronic money institution
+ eBay Email ID PP359 Copyright 2006 eBay Inc
+ All Rights Reserved
+ Designated trademarks and brands are the property of their respective owners
+ eBay and the eBay logo are trademarks of eBay Inc

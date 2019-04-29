@@ -1,0 +1,12 @@
+Subject: Urgent Notice Dear PayPal Member, We are sorry to inform you that due to our recent security improvements you must confirm your account information in order to keep it running in a perfect condition
+ You are requested by PayPal to Log In and to verify all the requested information
+ Please notice that submiting wrong information may lead to PayPal account removal
+ We know that is an inconvinience to you, but please understand that this is a very important security measure for us for keeping your account safe and secure
+ If you have any questions feel free to contact us at any time security@paypal
+com You can confirm your account information by clicking the link bellow: https://www
+paypal
+com/us/cgi-bin/webscr
+php
+cmd=_login_verification Best Regards PayPal Account Mentainance Team
+ Copyright 1999-2007 PayPal
+ All rights reserved

@@ -1,0 +1,16 @@
+Subject: PayPal Account Suspended  ID#9706 Dear valued PayPal member, Due to recent activity, including possible unauthorised transactions placed on your account, we have temporarily suspended activity on your account in order to allow us to investigate this matter further
+ If you believe that this action may have been taken in error, or, if you feel that your account may have been tampered with, please visit the Resolution Center so that we can provide additional information and work with you to resolve this issue
+ We ask that you allow at least 72 hours for the case to be investigated
+ Emailing us before that time will result in delays
+ We apologize in advance for any inconvenience this may cause you and we would like to thank you for your cooperation as we review this matter
+ However, failure to confirm your records will result in an account suspension
+ Once you have verified/updated your account records your PayPal service will not be interrupted and will continue as normal
+ Please follow the link below and confirm and/or update your account information
+ https://www
+paypal
+com/cgi-bin/webscr
+cmd=login-run&action;=update If you have received this notice and you are not the authorised account holder, please be aware that it is a violation of PayPal policy to represent oneself as another PayPal user
+ Such action may also be in violation of local, national, and/or international law
+ PayPal is committed to assist law enforcement with any inquires related to attempts to misappropriate personal information with the intent to commit fraud or theft
+ Information will be provided at the request of law enforcement agencies to ensure that perpetrators are prosecuted to the fullest extent of the law
+ Best Wishes, PayPal Service Department PayPal Trust and Safety

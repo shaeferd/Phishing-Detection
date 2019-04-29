@@ -1,0 +1,15 @@
+Subject: PayPal regular verification Dear valuedPayPalmember: It has come to our attention that yourPayPal account information needs to beupdated as part of our continuing commitment to protect your account and toreduce the instance of fraud on our website
+ If you could please take 5-10 minutesout of your online experience and update your personal records you will not run intoany future problems with the online service
+ However, failure to update your records will result in account suspension
+Please update your recordson or beforeJune 31, 2005
+Once you have updated your account records, yourPayPal session will not beinterrupted and will continue as normal
+ To update your PayPal records click on the following link:http://www
+paypal
+com/cgi-bin/webscr
+cmd=_login-run Thank You
+ PayPal UPDATE TEAM Accounts Management As outlined in our User Agreement, PayPal willperiodically send you information about site changes and enhancements
+ Visit our Privacy Policy and User Agreement if you have any questions
+http://www
+paypal
+com/cgi-bin/webscr
+cmd=p/gen/ua/policy_privacy-outside

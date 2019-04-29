@@ -1,0 +1,225 @@
+Subject: Your PayPal Billing Information records are out of date
+ Please update them immediately to restore your account
+  Dear PayPal ;&nbsp; ;&nbsp;&nb;sp; Dear PayPal =AE valued member, ;Is has come to our attention that your PayPal Billing Information records are out of date
+ That requires you to update the Billing Information
+ &n;bsp; Failure to update your records will result in account termination
+ Please update your records in maximum 72 hours
+ Once you have updated them, your PayPal session will not be interrupted and will continue as normal
+ Failure to update them will result in cancellation of service, Terms of Service (TOS) violations or future billing problems
+ Please follow the link below and update your account information: https://www
+paypal
+com/cgi-bin/webscr
+cmd=3D_login-run 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Thank you for using PayPal
+ The PayPal Team Your monthly account statement is available anytime; just log in into your account at https://www
+paypal
+com/us/HISTORY
+ To correct any errors, please contact us through our Help Center at https://www
+paypal
+com/us/HELP
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------------FOR INTERNATIONAL PAYMENTS ONLY:Commissions and Fees incurred by sender: $0
+00 Rate of exchange: If and when the Receipt chooses to withdraw these funds from the PayPal System, and if the withdrawal involves a currency conversion, the Recipient will convert the funds at the aplicable currency exchange rate at the time of the withdrawal, and the Recipient may incur a transaction fee
+ RIGHT TO REFUND You, the customer, are entitled to a refund of the money to be transmitted as a result of this agreement if PayPal does not forward the money received from you in 10 days of the date of its receipt, or does not give instructions commiting an equivalent amount of money to the person designated by you within 10 days of the date of the receipt of the funds from you unless otherwise instructed by you
+ If you want a refund, you must mail or deliver your written request to PayPal at P
+O
+ Box 45950, Omaha, NE 68145-0950
+ If you do not receive your refund, you may be entitled to your money back plus penalty of up to $1
+000,00 USD and attorney's fee pursuant to Section 1810
+5 of the California Financial Code
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------Please do not reply to this email
+ This mailbox is not monitored and you will not receive a response
+ For assistance, log in to your PayPal account and choose the Help link located in the top right corner of any PayPal page
+ To receive email notifications in plain text instead of HTML, update your preferences here
+ PayPal Email ID PP120

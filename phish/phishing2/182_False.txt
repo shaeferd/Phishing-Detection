@@ -1,0 +1,14 @@
+Subject: Update your account information within 72 hours to avoid suspension 
+dummy {} hr
+dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;} 
+pp_s {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;font-weight: bold;color: #003366;} 
+pp_smaller {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} Dear users of PayPal services, Due to upcoming year 2006, and recent changes in PayPal's Service Agreement you need to submit additional details on your PayPal account
+ Starting from 2006 all PayPal accounts will come with complete detailed information
+ You can submit additional information at the following link:<br> https://www
+paypal
+com/cgi-bin/webscr
+cmd=3D_login-run According the new changes in Service Agreement any unverified account will be deleted from the system in 72 hours after receiving this letter
+ Thank You for using PayPal
+ Your PayPal team
+ Attention
+ Do not reply to this letter, it has been sent to You automatically by an email robot

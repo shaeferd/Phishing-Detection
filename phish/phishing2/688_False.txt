@@ -1,0 +1,19 @@
+Subject: New Message from Chase Online(SM) <
+-- blockquote, dl, ul, ol, li { padding-top: 0 ; padding-bottom: 0 } style30 { font-size: 14px; font-family: Verdana; } style34 { font-size: 14px; color: #00395D; font-weight: bold; } style35 { font-size: 12px; font-weight: bold; } style37 {font-size: 12px; font-family: Verdana; } style38 {font-size: 12px} --> CHASE ONLINE <img src=3D"https://chaseonline
+chase
+com/echaseweb/common/images/chase_online
+gif" alt=3D"1" width=3D"200" height=3D"25"> Message: Dear CHASE Customer, We regret to inform you, that we had to lock your Chase Access because we have reasons to believe that your account may have been compromised by outside parties
+ In order to protect your sensitive information, we temporaly suspended your account
+ To reactivate your account, click on the link below and confirm your identity by completing the secure form what will appear
+ http://www
+chase
+com/cmserver/users/confirm
+cfm We have seen unusual attempts for logging in regarding your personal account, therefore this confirmation regarding your account it’s only for security reasons
+ Thank you for your time and consideration in this matter
+ Have questions
+ Our online help screens provide answers to many frequently asked questions
+ You can also click the Customer Center tab then go to the Contact Us page to find a list of helpful numbers to call
+ Please do not reply to this automatically generated e-mail
+ We know you have a choice of banks
+ Thanks for choosing ours
+ Sincerely, Online Banking Team,

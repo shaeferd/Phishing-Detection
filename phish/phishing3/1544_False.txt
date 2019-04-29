@@ -1,0 +1,10 @@
+Subject: Online Banking Alert ( Your Account Has Been Blocked ) Dear Bank of America Customer, For the User Agreement, Section 9, we may immediately issue a warning, temporarily suspend, indefinitely suspend or terminate your membership and refuse to provide our services to you if we believe that your actions may cause financial loss or legal liability for you, our users or us
+ Our terms and conditions you agreed to state that your service must always be under your control or those you designate all times
+ We have noticed some unusual activity related to your service that indicates that other parties may have access and or control of your information's in your service
+ We recently noticed one or more attempts to log in to your Bank of America Account, service from a foreign IP address
+ If you recently accessed your service while traveling, the unusual log in attempts may have been initiated by you
+ However, if you did not initiate the logins, please visit Bank of America homepage as soon as possible to restore your account status
+ The log in attempt was made from: ISP host : user-0cdf2ni
+cable
+mindspring
+com To restore your account status click the link below:

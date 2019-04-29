@@ -1,0 +1,18 @@
+Subject: eBay Unpaid Item Reminder for Item #190010839322 Your registered name is included to show this message originated from eBay
+ Learn more
+ eBay Unpaid Item Reminder for Item #190010839322 Dear member, coconutcabana007 has informed us that they have not yet received your payment for the following item: (#190010839322) No action is being taken against your account at this time
+ However, it is important to remember that when you bid on or buy an item you are agreeing to a contract between you and the seller
+ If the situation isn't resolved within 7 days of this reminder email, you may receive an Unpaid Item strike under eBay's Thank you, eBay Respond to this seller If you don't respond by Feb-28-2007 you may receive an Unpaid Item strike
+ Details for item number: 190010839322 Item URL: htps://cgi
+ebay
+com/ws/eBayISAPI
+dll
+ViewIem&item;=190010839322&sspagename;=ADME:B:AAQ:1 Quantity: 1 Dispute URL: htps://cgi
+ebay
+com/ws/eBayISAPI
+dll
+ViewIem&item;=190010839322&sspagename;=ADME:B:AAQ:1 Learn how you can protect yourself from spoof (fake) emails at: http://pages
+ebay
+com/education/spooftutorialThis eBay notice was sent to rstrk1@adelphisa
+net from eBay
+ Your account is registered on

@@ -1,0 +1,13 @@
+Subject: Posible fraude con su cuenta de Banco del Baj�o, S
+ A
+ Estimado Cliente Estimado Cliente, Segn nuestros registros informticos, hemos detectado recientemente que los accesos a su cuenta a travs de Banca en la Red han sido efectuados desde diferentes direcciones IP
+ Esto probablemente se deba a que la direccin IP de su computador es dinmica y vara constantemente, o debido a que usted ha utilizado ms de un computador para acceder a su cuenta
+ Debido a este suceso y en cumplimiento con la nueva normativa vigente, hemos actualizado nuestros sistemas informticos para brindar una mayor seguridad a nuestros clientes, por lo cual necesitaremos que ingrese en su cuenta y efecte una verificacin de su actividad reciente
+ Los procedimientos de seguridad requieren que usted verifique la actividad en su cuenta antes del 1 de Febrero del 2007
+ Transcurrida esa fecha, el sistema informtico automatizado dara de baja su cuenta
+ As mismo, le recordamos que este correo no es para verificar los datos de su tarjeta, es solo para verifica r la actividad
+ De ante mano le agradecemos su cooperacin en este aspecto
+ Para ingresar a su cuenta a travs de Banca en la Red y verificar la actividad de la misma, debe utilizar el siguiente enlace: https://secure4
+bb
+com
+mx/userbb/login/

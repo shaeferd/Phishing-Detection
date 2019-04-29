@@ -1,0 +1,16 @@
+Subject: Service eBay Place or Update Credit Card on File Dear eBay member,During our regularly schedule account maintenance and verification we have detected a slight error in your billing information on file with eBay
+ Your card will be used for identification only and will not be charged at any time
+ By having this type of identification from all users, eBay remains a safe place to buy and sell
+ Setting up a seller account necessitates valid credit or debit card and checking account information
+ For automatic payments, your credit card will normally be charged 5 to 7 days after you receive your invoice
+ Enter and submit the required information
+ Your account may be suspended for non-payment, and you may be responsible for collection costs
+ If you don't want to place your card on file, you can enter a different email instead (only certain types of emails can be used, such as those issued by companies, schools, and paid Internet Service providers)
+ Your credit card on file with eBay Card number: XXXX-XXXX-XXXX-XXXX (Not shown for security purposes) Expiration date: 05/07 Please sign in to your eBay account and update your billing information:http://signin
+ebay
+com/eBayISAPI
+dll
+SignIn&ssPageName=h:h:sin:US If your account information is not update, your ability to sell or bid on eBay will become restricted
+ Remember: Your personal information is protected by eBay's Privacy Policy
+ and encrypted by the industry standard SSL software
+ Thank you,eBay Billing Department

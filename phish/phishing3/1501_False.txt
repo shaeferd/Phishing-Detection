@@ -1,0 +1,19 @@
+Subject: Your PayPal account access is limited
+ : Please verify your online account PayPal <
+-- #yiv1134411377 #yiv349305321 #yiv1809902406 style1 { font-family:Arial, Helvetica, sans-serif; font-weight:bold; color:#CC0000; font-size:18px; } #yiv1134411377 #yiv349305321 #yiv1809902406 
+style2 {font-family:Arial, Helvetica, sans-serif;} #yiv1134411377 #yiv349305321 #yiv1809902406 
+style4 {font-family:Arial, Helvetica, sans-serif;font-size:18px;} #yiv1134411377 #yiv349305321 #yiv1809902406 
+style5 {font-size:12px;} #yiv1134411377 #yiv349305321 #yiv1809902406 
+style6 {font-family:Arial, Helvetica, sans-serif;font-size:12px;} #yiv1134411377 #yiv349305321 #yiv1809902406 
+style7 {font-size:10px;} #yiv1134411377 #yiv349305321 #yiv1809902406 
+style8 {color:#333333;} #yiv1134411377 #yiv349305321 #yiv1809902406 
+style10 {font-size:10px;color:#333333;} --> Your PayPal Account is Blocked Dear Member, We recently reviewed your account, and suspect that your PayPal account may have been accessed by an unauthorized third party
+ Protecting the security of your account is our primary concern
+ Therefore, as a preventative measure, we have temporarily limited access to sensitive account features
+ To restore your online account access, we need you to confirm your account, to do so we need you to follow the link below and proceed to confirm your information: https://www
+paypal
+com/cgi-bin/webscr
+cmd=3D_login-submit Tank you for your patience as we work together to protect your account
+ Sincerely, PayPal Customer Service *Important* Please update your records on or before 48 hours, a failure to update your records will result in a temporal hold on your funds
+ Copyright 1999-2007 PayPal
+ All rights reserved

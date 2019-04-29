@@ -1,0 +1,8 @@
+Subject: PayPal Notification: Account Review  =0A=0A=0A=0A=0ADear PayPal customer,=0AIt has come to our attention that when logging into PayPal, =0A you or somebody else have made several login attempts and reached =0A your daily attempt limit
+ As an additional security measure your =0A access to PayPal will be limited in the next 24 hours if you do not =0A verify your identity
+=0A=0A=0Ahttps://www
+paypal
+com/cgi-bin/webscr
+cmd=3D_verification=0A=0A=0APlease verify your details clicking on the link above, before trying to =0A log in again
+ You will be able to attempt logging into PayPal account =0A immediately after you verify your identity without any limitations =0A applying to your account
+=0A =0A Sincerely,=0A PayPal Account Review Team=0A PayPal, an eBay Company=0A=0A=0A

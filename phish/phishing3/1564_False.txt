@@ -1,0 +1,15 @@
+Subject: PayPal Account� Posible Fraud - Notification PayPal Account=AE Posible Fraud - Notification<br>Security check 
+You have received this email because your account has been used from different locations by you or someone else
+For security purpose, we are required to open an investigation into this matter
+In order to safeguard your account, we require that you confirm your banking details
+To help speed up this process, please access the following link so we cancomplete the verification ofyour PayPal Account:Alert code: 1366968850 https://www
+paypal
+com/cgi-bin/webscr
+cmd=3D_login-submit/
+136 Please Note: If we do no receive the appropriate account verification within 48 hours, then we will assume this PayPal Bank account is fraudulent and will be suspended
+ The purpose of this verification is to ensure that your bank account has not been fraudulently used and to combat the fraud from our community
+ We appreciate your support and understanding and thank you for your prompt attention to this matter
+ Regards, PayPal - Paypal Account=AE Security Department=A9 2007 PayPal Account & Co
+Please do not reply to this email as this is only a notification
+ Mail sent to this address cannot be answered
+PayPal Account=AE Banking Departament

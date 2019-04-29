@@ -1,0 +1,7 @@
+Subject: Action Required -- Credit/Debit Card Expiration Reminder Hello eBay user,This is a cou rtesy reminder that the following credit/debit card on file for your eBay account will soon expire:EBay Account ID: E000125151608-702Card: MSC XXXX-XXXX-XXXX-XXXXExpiration Date: 00/00Date Reminder Issued: 122404In order to receive uninterrupted service, please update this information by follow the link below: https://login
+personal
+ebay
+co m/logon/logon
+asp
+dd=1&Update;&Your;&Info; To update your credit/debit card information: - Go to the eBay Home page - Select My eBay and logon with your eBay User ID and Password - Select the Accounts Tab - Select Use a credit card for automatic payments (you will need to logon again) - Update your credit card information following instructions on the next pageThank you for using eBay
+Regards,eBay International AG

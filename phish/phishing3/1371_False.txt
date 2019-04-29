@@ -1,0 +1,11 @@
+Subject: Unauthorized access to your PayPal account
+ PayPal BODY, TD {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} HR
+dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;} 
+sansSerif{font-family: verdana,arial,helvetica,sans-serif; font-size: 14px;color: #000000;} 
+heading {font-family: verdana,arial,helvetica,sans-serif;font-size: 18px;font-weight: bold;color: #003366;} 
+xptFooter {font-family: verdana,arial,helvetica,sans-serif;font-size: 11px;color: #aaaaaa;} Unauthorized access to your PayPal account
+ We recently noticed more attempts to log in to your PayPal account from a foreign IP address
+ If you accessed your account while traveling, the unusual log in attempts may have been initiated by you
+ However, if you are the rightfull holder of the account, please visit Paypal as soon as possible to verify your identity: Please do not reply to this email
+ This mailbox is not monitored and you will not receive a response
+ For assistance, log in to your PayPal account and choose the He$ here

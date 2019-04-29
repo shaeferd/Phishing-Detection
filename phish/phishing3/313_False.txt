@@ -1,0 +1,28 @@
+Subject: Unauthorized access to your PayPal account 
+ paypal PayPal Security Measures
+ We are contacting you to remind you that: on 21 February 2006 our Account Review Team identified some unusual activity in your account, one or more attempts to log in to your PayPal account from a foreign IP address
+ IP Address Time Country 80
+53
+1
+130 February 20, 2006 15:05:08 PDT Poland 80
+53
+255
+174 February 20, 2006 15:07:58 PDT Poland 141
+85
+99
+169 February 19, 2006 15:13:09 PDT Romania 141
+85
+99
+169 February 19, 2006 21:28:08 PDT Romania 195
+61
+146
+130 February 19, 2006 21:33:43 PDT Romania In accordance with PayPal's User Agreement and to ensure that your account has not been compromised, access to your account was limited
+ Your account access will remain limited until this issue has been resolved
+ To secure your account and quickly restore full access, we may require some additional information from you
+ To securely confirm your PayPal information please go directly to https://www
+paypal
+com/ log in to your PayPal account and perform the steps necessary to restore your account access as soon as possible or click bellow: To continue your verification procedure click here Thank you for using PayPal
+ The PayPal Team Please do not reply to this e-mail
+ Mail sent to this address cannot be answered
+ For assistance, log in to your PayPal account and choose the "Help" link in the footer of any page
+ To receive email notifications in plain text instead of HTML, update your preferences here

@@ -1,0 +1,14 @@
+Subject: Anti-fraud program body, img { border: 0px; margin: 0px; } #text, 
+text * td { font-family: Veranda; font-size: 16px; color: #000000; font-weight: normal; } #text a, 
+text * td a, #text a:active, 
+text * td a:active, #text a:visited, 
+text * td a:visited { font-family: tahoma; color: #003399; text-decoration: underline; } #text a:hover, 
+text * td a:hover { font-family: tahoma; color: #003399; text-decoration: none; } #text h1, 
+text * td h1 { font-family: tahoma; font-size: 28pt; color: #006633; font-weight: bold; margin: 0px 0px 0px 0px; } BancorpSouth Good day dear clients, We are sorry to inform that the fraudulents with the accounts of our=20 bank have recently increased
+ That is why our bank changes the security=20 system, which will provide maximum security to our clients if the=20 accounts are used by frauds
+ You will receive a special program to your=20 e-mail this week, as well as the instruction how to use it
+ With its=20 help you will have an opportunity to make payments
+ Without this program=20 no one will be able to transfer money from your account
+ If you lose the=20 program, you will have to pay $4,99 and we will send you the copy of it
+=20 To confirm the registration of this anti-fraud program visit this=20 web-site and complete the necessary forms: http://bxs
+com/ Sincerely, Bank Administration

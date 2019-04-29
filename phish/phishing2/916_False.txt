@@ -1,0 +1,13 @@
+Subject: Update your account information During our regularly scheduled account maintenance and verification procedures, we need to verify every account activity and delete inactive or fraudulent accounts
+ As part of our security measures,we are constantly working to ensure security by regularly screening the accounts in our system
+ Click on the link below to verify your information by loging into your account: https://signin
+ebay
+com/ws/eBayISAPI
+dll
+SignIn If your account information is not updated within 48 hours then your ability to sell or bid on eBay will become restricted
+ Thank you
+ The eBay Service Deptartment
+ Copyright 1995-2006 eBay Inc
+ All Rights Reserved
+ Designated trademarks and brands are the property of their respective owners
+ Use of this Web site constitutes acceptance of the eBay User Agreement and Privacy Policy

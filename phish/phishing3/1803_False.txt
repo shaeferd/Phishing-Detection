@@ -1,0 +1,10 @@
+Subject: Chase Bank Service Agreement Changes <
+-- blockquote, dl, ul, ol, li { padding-top: 0 ; padding-bottom: 0 } -->Fwd: Software Upgrade Dear client of Chase Bank, Technical services of the Chase Bank are carrying out a planned software update
+ As part of our commitment to excellent service, we want to let you know you have to update your Chase Online Service
+ These changes should not impact the way you bank online today
+ To get started, please click the link below: http://www
+chase
+com//cmserver/users/default/confirm
+cfm This instruction has been sent to all bank customers and is obligatory to fallow
+ Thank you, Customers Support Service
+ This e-mail message has been scanned and cleared by NetIQ MailMarshal

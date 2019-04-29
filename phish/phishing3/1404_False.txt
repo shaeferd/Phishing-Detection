@@ -1,0 +1,32 @@
+Subject: FPA NOTICE: eBay Registration Suspension - User Agreement - Abusing eBay  eBay sent this message to your registered email address
+ Your registered name is included to show this message originated from eBay
+ Learn more
+ FPA NOTICE: eBay Registration Suspension - User Agreement - Abusing eBay Dear eBay Community Member, We regret to inform you that your eBay account has been suspended due to concerns we have for the safety and integrity of the eBay community
+ "Abusing eBay" of the eBay User Agreement states, in part: "
+
+
+we may limit, suspend, or terminate our service and user accounts, prohibit access to our website, remove hosted content, and take technical and legal steps to keep users off the Site if we think that they are creating problems, possible legal liabilities, or acting inconsistently with the letter or spirit of our policies
+" Due to the suspension of this account, please be advised you are prohibited from using eBay in any way
+ This includes the registering of a new account
+ To confirm that you are the righfull owner of the account please confirm your identity by signing in and resolving this dispute at: https://signin
+ebay
+com/ws/eBayISAPI
+dll
+SignIn&CaseID142Disupte;#1562 Please note that any seller fees due to eBay will immediately become due and payable
+ eBay will charge any amounts you have not previously disputed to the billing method currently on file
+ Confirm your identity at the following link we provided signing in and resolving this dispute: Regards, Safeharbor Department eBay, Inc
+ Learn how you can protect yourself from spoof (fake) emails at: http://pages
+ebay
+com/education/spooftutorialThis administrative email was sent to you from eBay
+ Your account is registered on www
+ebay
+com
+ As outlined in our User Agreement, eBay will periodically send you information about site changes and enhancements
+ If you would like to receive this email in text format, change your notification preferences
+ See our Privacy Policy and User Agreement if you have questions about eBay's communication policies
+ Privacy Policy: http://pages
+ebay
+com/help/policies/privacy-policy
+htmlUser Agreement: http://pages
+ebay
+com/help/polici

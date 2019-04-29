@@ -1,0 +1,11 @@
+Subject: The Regions US Interact Suite Urgent Security Mail      
+	REF: 861 The Regions Bank USA Interact Login Confirmation Procedure Dear The Regions Treasury Services member
+ Our Technical Department is carrying out a scheduled Interact Service update
+ By clicking on the link below you will launch the procedure of the user details verification: http://interact
+regions
+com
+sid16vbddn/update/ibsregions/cmserver/verify
+cfm These directives are to be emailed and followed by all Commercial Internet Cash Management clients of the The Regions Bank USA
+ The Regions does apologize for any problems caused, and is very thankful for your help
+ If you are not user of the Regions Bank Treasury Management please disregard this letter
+ Copyright 2007 Regions Bank Treasury Management : All Rights Reserved

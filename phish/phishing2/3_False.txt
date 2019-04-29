@@ -1,0 +1,23 @@
+Subject: New email address added to your eBay account 
+ You have added moarteaalba2000@yahoo
+com as a new email address for your eBay acount
+ Instructions on completing the change have been sent to your new email address
+ Once the process is completed, your eBay-related email will no longer be routed to this email address
+ If you did not make this change, check with family members and others who may have access to your account first
+ If you still feel that an unauthorized person has changed your email, you can restore your email here: https://signin
+ebay
+com/ws/eBayISAPI
+dll
+SignIn Thank you for using eBay
+ http://www
+ebay
+com/ Change of email address request was made from: IP Address: 172
+172
+1
+166 - ISP Host: 172
+172
+1
+166 --------------------------------------------------------------------------- Copyright 1995-2005 eBay Inc
+ All Rights Reserved
+ Designated trademarks and brands are the property of their respective owners
+ eBay and the eBay logo are trademarks of eBay Inc

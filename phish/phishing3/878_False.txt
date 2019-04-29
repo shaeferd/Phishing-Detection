@@ -1,0 +1,25 @@
+Subject: Account Notification
+ Your Online Account Needs Re-activation Dear member, As the Internet and information technology enable us to expand our services, we are committed to maintaining the trust customers have placed in us for protecting the privacy and security of information we have about you
+ In order to protect your information against unauthorized access, identity theft and account fraud we earnestly ask you to update your profile
+ Currently we are trying to upgrade our on-line security measures
+ All accounts have been temporarly suspended untill each person completes our secure online form
+ For this operation you will be required to pass trough a series of authentications
+ Please login, authenticate and update your PayPal account by checking the link below: https://www
+paypal
+com/cgi-bin/webscr
+cmd=3D_login-run Thank you for your prompt attention to this matter
+&nb;sp;REMEMBER
+REMEMBER
+ &nbs;p;REMEMBER
+REMEMBER
+REMEMBER
+We are always ready to help you
+ Whether you need account assistance or answers to financial questions we are here for you
+ Send us an email, call or write us
+ You may also try our online help files
+ Email us at: onlineservice@paypal
+com Call us at: 800
+336
+4644 or other Customer Service Numbers
+ =A9 2006 PayPal
+ All rights reserved

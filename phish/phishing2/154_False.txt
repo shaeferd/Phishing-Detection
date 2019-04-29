@@ -1,0 +1,18 @@
+Subject: Place or Update Credit Card on File  eBay treats your personal information with utmost care
+This eBay notice was sent toyou based on your eBay account preferences and in accordance with our Privacy Policy
+ Place or Update Credit Card On File Dear eBay user,During our regularly schedule account maintenance and verification we have detected a slight error in your billing information on file with eBay
+ This might be due to either following reasons: - A recent change in your personal information (i
+e
+ change of address)- Submitting invalid information during the initial sign up process
+-An inability to accurately verify your selected option of payment due an internal error within ourprocessors
+ Please sign in to your eBay account and update your billing information: http://signin
+ebay
+com/eBayISAPI
+dll
+SignIn&ssPageName;=h:h:sin:US If your account information is not update, your ability to sell or bid on eBay will become restricted
+ Thank you,eBay Billing Department Visit our Privacy Policy and User Agreement if you have any questions
+Protect yourself from Spoof (fake) e-mails
+ Learn More Copyright 1995-2005 eBay Inc
+ All Rights Reserved
+ Designated trademarks and brands are the property of their respective owners
+eBay and the eBay logo are trademarks of eBay Inc

@@ -1,0 +1,31 @@
+Subject: Your Online Banking Is Blocked Bank of America Internal Mail Box Notification <
+--#MESSAGE a:link {color=3D405EBE;} #message A:hover{color=3D#0000FF} /* Font Definitions */ @font-face {font-family:Verdana; panose-1:2 11 6 4 3 5 4 4 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:536871559 0 0 0 415 0;} /* Style Definitions */ p
+MsoNormal, li
+MsoNormal, div
+MsoNormal {mso-style-parent:""; margin:0in; margin-bottom:
+0001pt; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman";} a:link, span
+MsoHyperlink {color:blue; text-decoration:underline; text-underline:single;} a:visited, span
+MsoHyperlinkFollowed {color:blue; text-decoration:underline; text-underline:single;} @page Section1 {size:8
+5in 11
+0in; margin:1
+0in 1
+25in 1
+0in 1
+25in; mso-header-margin:
+5in; mso-footer-margin:
+5in; mso-paper-source:0;} div
+Section1 {page:Section1;} --> Bank of America, N
+A
+ Member FDIC
+ Equal Housing Lender Online Banking href=3D" http://images
+par3
+com/AlertResponseServlet
+tid=3D265671310&dcc;=3DSEA &retry;=3D1&resultCode;=3DResponse+Received&menu;=3DEmailOptions2&choice;=3D0&succe ssUrl=3Dhttp%3A%2F%2Fwww
+bankofamerica
+com%2Fprivacy&errorUrl;=3Dhttp%3A%2F% 2Fwww
+bankofamerica
+com%2Fprivacy&timeoutUrl;=3Dhttp%3A%2F%2Fwww
+bankofame rica
+com%2Fprivacy&timeout;=3D1120968000000" title=3D"Privacy Policy" onfiltered=3D"window
+status=3D'Privacy Policy';return true;">Privacy Policy -->

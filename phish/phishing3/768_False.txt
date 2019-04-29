@@ -1,0 +1,125 @@
+To report a botnet PRIVATELY please email: c2report@isotf
+org
+----------
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+in-line:
+
+J
+ Oquendo wrote:
+> virendra rode // wrote:
+>> - ---------------------------
+>> Just curious, are you addressing this via IPs & port(s) 
+ If so, what
+>> happens if these IPs are doing port hopping
+ Are you doing any sort of
+>> L7 monitoring
+ What happens if it is a virtual IP
+
+>>
+>> How you guys doing any bogon filtering
+
+>>
+>>
+>>
+>> regards,
+>> /virendra
+> 
+> Me personally, I have zero tolerance for bs
+ The scenario I described would
+> be for my own network and probably should not be used in a WAN scenario
+
+> Again I did mention I no longer work at the ISP level nor do I work in
+> academia land any longer, so my notions don't apply to those types of
+> industries
+ However I will give you a better scenario if you do work in
+> those industries
+
+
+
+- -----------------------
+I'm sorry I somehow missed that
+
+
+> 
+> Firstly, I again no noone on the planet who should come knocking on those
+> port doors so my reaction is to block them out
+ They're infected machines
+> so I see no reason to allow them anywhere on your network, traversing your
+> network, heck even wasting a ping on your network
+ What you could do is
+> flush your rules every twenty four hours or so, rinse and repeat
+ I fail
+> to see your logic in wondering what happens if they can't connect
+ Maybe
+> I'm misconstruing your response, but if it is a "well what happens if
+> they can't connect", good for them
+ They should take their infested traffic
+> elsewhere
+ To be fair, a script to flush your rules would be nice sure
+
+> Me
+ On my personal network, I don't care if they re-connect or blow up
+
+- --------------------------
+I try and implement aggressive filters
+(bogon/flood-blocking/nbar/URPF/anti-spoof, etc
+) for my customer
+networks
+ Yes it works for the most part but we occasionally run into
+buffer/congestion issues and this is where qos comes to our rescue
+
+
+We monitor (proactive approach) our qos policies very closely because
+they can possibly work against us given certain (white-list)
+application-level data rate that are in use
+
+
+
+regards,
+/virendra
+
+> 
+> 
+> 
+> =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+> J
+ Oquendo
+> http://pgp
+mit
+edu:11371/pks/lookup
+op=get&search=0x1383A743
+> sil infiltrated 
+ net http://www
+infiltrated
+net
+> 
+> "How a man plays the game shows something of his
+> character - how he loses shows all" - Mr
+ Luckey 
+> 
+> 
+> 
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+4
+2
+2 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail
+mozdev
+org
+
+iD8DBQFE441HpbZvCIJx1bcRAl6PAJ9IQT7cS0wHGsyHGORS6c3xZT2sRwCfV2d8
+a2qChnwCQckniYVNZqxLubc=
+=qFiH
+-----END PGP SIGNATURE-----
+_______________________________________________
+To report a botnet PRIVATELY please email: c2report@isotf
+org
+All list and server information are public and available to law enforcement upon request
+
+http://www
+whitestar
+linuxbox
+org/mailman/listinfo/botnets

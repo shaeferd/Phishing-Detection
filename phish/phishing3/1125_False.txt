@@ -1,0 +1,57 @@
+Subject: Bank of America Alert: Online Account Locked Bank of America Alert <
+-- a:link { color: #405ebe; background: #ffffff; } a:hover { color: #0000ff; background: #ffffff; } body, table, div, h1, h2, h3, h4, h5, h6, p { font-family: verdana, arial, geneva, helvetica, sans-serif; color: #222222; background: #ffffff; } 
+font-sign-in { font-size: 85%; font-family: "times new roman"; font-weight: bold; } 
+font-title-red { font-size: 120%; color: #d4001a; background: #ffffff; font-weight: bold; margin-bottom: 0
+50em; } 
+font-x { font-size: 75%; font-family: verdana, arial, geneva, helvetica, sans-serif; } 
+font-y { font-size: 70%; font-family: verdana, arial, geneva, helvetica, sans-serif; } 
+font-footer { color: #222222; background: #ffffff; font-size: 70%; margin-top: 0em; margin-bottom: 1em; } 
+inner-table { width: 100%; font-size: 75%; font-family: verdana, arial, geneva, helvetica, sans-serif; margin-bottom: 1em; } 
+paragraph-body { font-size: 75%; margin-top: 0
+45em; margin-bottom: 1em; color: #222222; background: #ffffff; } 
+paragraph-dynamic { color: #405ebe; background: #ffffff; font-size: 75%; font-family: verdana, arial, geneva, helvetica, sans-serif; margin-top: 3em; margin-bottom: 3em; } 
+paragraph-fine-print { font-size: 70%; margin-top: 1em; margin-bottom: 1em; color: #575756; background: #ffffff; } 
+email-address { text-transform: lowercase; } hr { width: 100%; color: #cccccc; } 
+red-heading { width: 78
+6%; } 
+bold { font-weight: bold; } 
+first-col { width: 4
+0%; } 
+second-col { width: 17
+4%; } 
+third-col { width: 2
+0%; } 
+fourth-col { width: 76
+6%; } 
+first-second-col { width: 21
+4%; } 
+third-fourth-col { width: 78
+6%; } 
+first-second-third-col { width: 80
+0%; } 
+all-four-col { width: 100
+0%; } 
+banner-row { height: 80px; } 
+sub-banner-row { height: 103px; } 
+empty-row { height: 23px; } --> Remember: Always look for your SiteKey before you Sign In Online Account Locked Dear Bank Of America Customer You last logged in to Online Banking: 9/29/2006 Due to the number of incorrect login attempts, your Bank of America Online Banking Account has been locked for your security on 10/12/2006
+ You must reset your Passcode before you can enter Online Banking
+ You can reset your Passcode just with one click on the link below
+ At Bank of America we care about your security so, for your protection we are proactively notifying you of this activity
+ If you did not trigger this lockout, please try to sign in to www
+bankofamerica
+com to confirm the lockout and then contact us immediately at 1
+800
+933
+6262
+ Want to confirm this email is from Bank of America
+ Log in to Online Banking, select Manage Alerts and Alerts History to view all alerts sent from Bank of America
+ Your Alerts History is updated every 2 hours
+ https://www
+bankofamerica
+com/signin/ Because E-Mail Is Not A Secure Form Of Communication, This E-Mail Box Is Not Equipped To Handle Replies
+ If you have any questions about your account or need assistance, please call the phone number on your statement or go to Contact Us
+ Bank of America, N
+A
+ Member FDIC
+ Equal Housing Lender 2006 Bank of America Corporation
+ All Rights Reserved

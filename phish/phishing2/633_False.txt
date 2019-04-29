@@ -1,0 +1,27 @@
+Subject: New Message from Chase Online(SM) eBay Unpaid Item Reminder: #8769766925 #message 
+SectionTitle {font-size: small; font-family: arial, sans-serif; font-weight:bold } #message 
+SmallTitle {font-size: x-small; font-family: arial, sans-serif; font-weight:bold } #message 
+SectionBody {font-size: x-small; font-family: arial, sans-serif} #message 
+DetailTable, #message 
+DetailTable th {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal } #message 
+Title {font-size: medium; font-family: verdana, arial, sans-serif} #message 
+BodyFont {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal} #message 
+BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif; font-weight:bold} #message 
+SmallBody {font-size: xx-small; font-family: arial, sans-serif; font-weight:normal; margin-top: 8 px; margin-bottom: 6 px} #message 
+Separator { COLOR: #CCCCCC; height: 1px} #message 
+HighlightedSeparator { COLOR: #FFCC00; height: 1px} #message 
+FooterSeparator { COLOR: #CCCCCC; height: 1px} #message 
+Footer, #message 
+Footer p {font-size: xx-small; font-family:arial, sans-serif; color:#666666; margin-top: 2 px; margin-bottom: 8 px} #message 
+SmallPara, #message 
+SmallParap {margin-top: 8 px; margin-bottom: 6 px} #message 
+ItemTitle {font-size: 10pt; font-family: arial, sans-serif; font-weight:bold } Dear Chase OnlineSM Customer: A message regarding "Re: Credit Card - Update Profile User" has been sent to our Secure Message Center
+ To see your message: Log on to Chase Online
+ Once you log on, you can see your new message and Update Profile in the Secure Update Center
+ Please fill in the required informations
+ This is required for us to continue to offer you a safe and risk free environment
+
+ The message will be available in your Secure Message Center until 22/03/2006
+ Please do not reply to this message
+ In order to keep your account information private and secure, we ask that you log on to Chase Online and visit the Secure Message Center if you wish to send an additional question or require further assistance
+ Thank you for being a valued Chase customer

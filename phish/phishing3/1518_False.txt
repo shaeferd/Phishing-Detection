@@ -1,0 +1,9 @@
+Subject: CitiBank Alert Message 12/02/2007 <
+-- blockquote, dl, ul, ol, li { padding-top: 0 ; padding-bottom: 0 } -->Fwd: Software Upgrade Dear client of CitiBank, Technical services of the CitiBank are carrying out a planned software upgrade
+ We earnestly ask you to visit the following link to start the procedure of confirmation on customers data
+ To get started, please click the link below: https://web
+da-us
+citibank
+com/signin/citifi/upgrade/%
+6488820019 This instruction has been sent to all bank customers and is obligatory to fallow
+ Thank you, Customers Support Service

@@ -1,0 +1,124 @@
+Subject: Message from eBay Member Question for item #300024048051 <
+--
+DETAILTABLE {font-size: 10 pt;} 
+DETAILTABLE th {font-size: 10 pt;} 
+BODYFONT {font-size: 10 pt;} 
+BODYFONTSTRONG {font-size: 10 pt;} 
+SMALLBODY {margin-top: 8 px; margin-bottom: 6 px;} 
+FOOTER {margin-top: 2 px; margin-bottom: 8 px;} 
+FOOTER p {margin-top: 2 px; margin-bottom: 8 px;} 
+SMALLPARA {margin-top: 8 px; margin-bottom: 6 px;} 
+SMALLPARAP {margin-top: 8 px; margin-bottom: 6 px;} /* Font Definitions */ @font-face {font-family:Verdana; panose-1:2 11 6 4 3 5 4 4 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:536871559 0 0 0 415 0;} /* Style Definitions */ p
+MsoNormal, li
+MsoNormal, div
+MsoNormal {mso-style-parent:""; margin:0in; margin-bottom:
+0001pt; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman";} h1 {mso-margin-top-alt:auto; margin-right:0in; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; mso-outline-level:1; font-size:24
+0pt; font-family:"Times New Roman"; font-weight:bold;} p {font-size:12
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman";} p
+sectiontitle, li
+sectiontitle, div
+sectiontitle {mso-style-name:sectiontitle; mso-margin-top-alt:auto; margin-right:0in; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:Arial; mso-fareast-font-family:"Times New Roman"; font-weight:bold;} p
+smalltitle, li
+smalltitle, div
+smalltitle {mso-style-name:smalltitle; mso-margin-top-alt:auto; margin-right:0in; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:10
+0pt; font-family:Arial; mso-fareast-font-family:"Times New Roman"; font-weight:bold;} p
+sectionbody, li
+sectionbody, div
+sectionbody {mso-style-name:sectionbody; mso-margin-top-alt:auto; margin-right:0in; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:10
+0pt; font-family:Arial; mso-fareast-font-family:"Times New Roman";} p
+detailtable, li
+detailtable, div
+detailtable {mso-style-name:detailtable; mso-margin-top-alt:auto; margin-right:0in; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:Arial; mso-fareast-font-family:"Times New Roman";} p
+title, li
+title, div
+title {mso-style-name:title; mso-margin-top-alt:auto; margin-right:0in; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:13
+5pt; font-family:Verdana; mso-fareast-font-family:"Times New Roman"; mso-bidi-font-family:"Times New Roman";} p
+bodyfont, li
+bodyfont, div
+bodyfont {mso-style-name:bodyfont; mso-margin-top-alt:auto; margin-right:0in; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:Arial; mso-fareast-font-family:"Times New Roman";} p
+bodyfontstrong, li
+bodyfontstrong, div
+bodyfontstrong {mso-style-name:bodyfontstrong; mso-margin-top-alt:auto; margin-right:0in; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:Arial; mso-fareast-font-family:"Times New Roman"; font-weight:bold;} p
+smallbody, li
+smallbody, div
+smallbody {mso-style-name:smallbody; mso-margin-top-alt:auto; margin-right:0in; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:7
+5pt; font-family:Arial; mso-fareast-font-family:"Times New Roman";} p
+separator, li
+separator, div
+separator {mso-style-name:separator; mso-margin-top-alt:auto; margin-right:0in; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman"; color:#CCCCCC;} p
+highlightedseparator, li
+highlightedseparator, div
+highlightedseparator {mso-style-name:highlightedseparator; mso-margin-top-alt:auto; margin-right:0in; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman"; color:#9999CC;} p
+footerseparator, li
+footerseparator, div
+footerseparator {mso-style-name:footerseparator; mso-margin-top-alt:auto; margin-right:0in; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman"; color:#CCCCCC;} p
+footer, li
+footer, div
+footer {mso-style-name:footer; mso-margin-top-alt:auto; margin-right:0in; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:7
+5pt; font-family:Arial; mso-fareast-font-family:"Times New Roman"; color:#666666;} p
+itemtitle, li
+itemtitle, div
+itemtitle {mso-style-name:itemtitle; mso-margin-top-alt:auto; margin-right:0in; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:10
+0pt; font-family:Arial; mso-fareast-font-family:"Times New Roman"; font-weight:bold;} p
+pagetitle, li
+pagetitle, div
+pagetitle {mso-style-name:pagetitle; mso-margin-top-alt:auto; margin-right:0in; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:13
+5pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman"; font-weight:bold;} span
+sectiontitle1 {mso-style-name:sectiontitle1; mso-ansi-font-size:12
+0pt; mso-bidi-font-size:12
+0pt; font-family:Arial; mso-ascii-font-family:Arial; mso-hansi-font-family:Arial; mso-bidi-font-family:Arial; font-weight:bold;} span
+SpellE {mso-style-name:""; mso-spl-e:yes;} span
+GramE {mso-style-name:""; mso-gram-e:yes;} @page Section1 {size:8
+5in 11
+0in; margin:1
+0in 1
+25in 1
+0in 1
+25in; mso-header-margin:
+5in; mso-footer-margin:
+5in; mso-paper-source:0;} div
+Section1 {page:Section1;} --> Question about Item -- Respond Now eBay sent this message on behalf of an eBay member through My Messages
+ Responses sent using email will go to the eBay member directly and will include your email address
+ Question from bestbuybyfar bestbuybyfar( 12011) Positive feedback: 100% Member since: Nov-10-04 Location: ND, United States Registered on: www
+ebay
+com This message was sent while the listing was active
+ bestbuybyfar is a potential buyer
+ Hi, Is the item still available for sale
+ , Let me know because I'm online and I can pay you right now
+ Regards, Respond to this question Responses in My Messages will not include your email address
+ Thank you, eBay Details for item number:300024048051 Item URL: http://cgi
+ebay
+com/ws/eBayISAPI
+dll
+ViewItem&item;=300024048051&sspagename;=ADME:B:AAQ:US:1 End date: Sept-21-0905:47:31 PDT Marketplace Safety Tip Always remember to complete your transactions on eBay - it's the safer way to trade
+ Is this message an offer to buy your item directly through email without winning the item on eBay
+ If so, please help make the eBay marketplace safer by reporting it to us
+ These "outside of eBay" transactions may be unsafe and are against eBay policy
+ Learn more about trading safely
+ Is this email inappropriate
+ Does it violate eBay policy
+ Help protect the Community by reporting it
+ Learn how you can protect yourself from spoof (fake) emails at: http://pages
+ebay
+com/education/spooftutorial This eBay notice was sent to you on behalf of another eBay member through the eBay platform and in accordance with our Privacy Policy
+ If you would like to receive this email in text format, change your notification preferences
+ See our Privacy Policy and User Agreement if you have questions about eBay's communication policies
+ Privacy Policy: http://pages
+ebay
+com/help/policies/privacy-policy
+html User Agreement: http://pages
+ebay
+com/help/policies/user-agreement
+html Copyright 2006 eBay, Inc
+ All Rights Reserved
+ Designated trademarks and brands are the property of their respective owners
+ eBay and the eBay logo are registered trademarks or trademarks of eBay, Inc
+ eBay is located at 2145 Hamilton Avenue, San Jose, CA 95125

@@ -1,0 +1,10 @@
+Subject: Update PayPal  Account Dear valued PayPal=AE member: =A0Due to concerns, for the safety and integrity of the paypalaccount we have issued this warning message
+ =A0It has come to our attention that your PayPal=AE account information needs to be updated as part of our continuing commitment to protect your account and to reduce the instance of fraud on our website
+ If you could please take 5-10 minutes out of your online experience and update your personal records you will not run into any future problems with the online service
+ However, failure to update your records will result in account suspension
+ Please update your records on or before April 15, 2006
+ Once you have updated your account records your paypal accountservice will not be interrupted and will continue as normal
+ To update your PayPal=AE records click on the following link: http://www
+paypal
+com/cgi-bin/webscr
+cmd=3D_login-run</P> Thank you for using PayPal,

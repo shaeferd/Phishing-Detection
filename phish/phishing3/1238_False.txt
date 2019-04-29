@@ -1,0 +1,34 @@
+Subject: In attention of all Bank Of America customers * {font-family: Arial, Helvetica, sans-serif; font-size:9pt; } A { font-size: 9pt; color: #003399; text-decoration:underline; font-family: Arial, Helvetica, sans-serif; } A:visited { color: #003399; font-family: Arial, Helvetica, sans-serif;} A:active { color: #003399; font-family: Arial, Helvetica, sans-serif;} A:hover { color: #003399; font-family: Arial, Helvetica, sans-serif;} A
+nav { font-size: 9pt; color: #003399; font-family: Arial, Helvetica, sans-serif; } A
+nav:visited { color: #003399; font-family: Arial, Helvetica, sans-serif;} A
+nav:active { color: #003399; font-family: Arial, Helvetica, sans-serif;} A
+nav:hover { color: #003399; font-family: Arial, Helvetica, sans-serif;} 
+warning { color: red; font-weight: bold; font-family: Arial, Helvetica, sans-serif;} 
+mainTitle { color: #003399; font-weight: bold; font-size: 12pt; font-family: Arial, Helvetica, sans-serif;} 
+serviceTitle { color: #003399; font-weight: bold; font-size: 10pt; font-family: Arial, Helvetica, sans-serif;} 
+sectionTitle { color: #003399; font-weight: bold; font-size: 10pt; font-family: Arial, Helvetica, sans-serif;} 
+subtitle { color: black; font-weight: normal; font-size: 10pt; font-family: Arial, Helvetica, sans-serif;} 
+heading { color: #003399; font-weight: normal; font-size: 10pt; font-family: Arial, Helvetica, sans-serif;} 
+tableHeader { color: white; font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;} 
+tableRow1 { color: black; font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;} 
+tableRow1Alt { color: black; font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;} 
+tableRow2 { color: black; font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;} 
+tableRow2Alt { color: black; font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;} 
+stockQuoteData{ color: #8E2323; font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;} 
+bottomNavDivider{ color: black; font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;} 
+footnote { color: black; font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;} 
+tableNegative{ color: red; font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;} 
+tablePositive{ color: green; font-weight: normal; font-size: 9pt; font-family: Arial, Helvetica, sans-serif;} 
+pageLink { font-size: 10pt; color: #003399; text-decoration:underline; } 
+tableLink { font-size: 10pt; color: #003399; text-decoration:none; } Checking & Savings > Online Banking In attention of all Bank Of America customers, As the Internet and information technology enable us to expand our services, we are committed to maintaining the trust customers have placed in us for protecting the privacy and security of information we have about you
+ In order to protect your information against unauthorized access, identity theft and account fraud we earnestly ask you to update your profile
+ To get started, please click the link below and login to your account: https://www
+bankofamerica
+com/index
+cfm If you received this notice and you are not the authorized account holder, please be aware that it is in violation of our policy to represent oneself as another Bank Of America user
+ Such action may also be in violation of local, national, and/or international law
+ Bank Of America is committed to assist law enforcement with any inquiries related to attempts to misappropriate personal information with the intent to commit fraud or theft
+ Information will be provided at the request of law enforcement agencies to ensure that perpetrators are prosecuted to the fullest extent of the law
+ Thank you for your patience as we work together to protect your account
+ Bank of America Investment Services, Inc is a registered broker-dealer, member NASD and SIPC, and a nonbank subsidiary of Bank of America, N
+A

@@ -1,0 +1,57 @@
+Subject: [TKO] : your (eBay) account could be suspended <
+-- /* Font Definitions */ @font-face {font-family:Verdana; panose-1:2 11 6 4 3 5 4 4 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:536871559 0 0 0 415 0;} /* Style Definitions */ p
+MsoNormal, li
+MsoNormal, div
+MsoNormal {mso-style-parent:""; margin:0cm; margin-bottom:
+0001pt; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman";} a:link, span
+MsoHyperlink {color:blue; text-decoration:underline; text-underline:single;} a:visited, span
+MsoHyperlinkFollowed {color:blue; text-decoration:underline; text-underline:single;} p {mso-margin-top-alt:auto; margin-right:0cm; mso-margin-bottom-alt:auto; margin-left:0cm; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman";} @page Section1 {size:595
+3pt 841
+9pt; margin:70
+85pt 70
+85pt 70
+85pt 70
+85pt; mso-header-margin:35
+4pt; mso-footer-margin:35
+4pt; mso-paper-source:0;} div
+Section1 {page:Section1;} --> eBay sent this message to member of ebay Your registered name is included to show this message originated from eBay
+ Learn more
+ Ebay Security -- Security Service Notification eBay sent this message on behalf of an eBay member via My Messages
+ Responses sent using email will go to the eBay member directly and will include your email address
+ Click the Respond Now button below to send your response via My Messages (your email address will not be included)
+ Security Service Notification Dear Customer For the User Agreement, Section 9, we may immediately issue a warning, temporarily suspend, indefinitely suspend or terminate your membership and refuse to provide our services to you if we believe that your actions may cause financial loss or legal liability for you, our users or us
+ We may also take these actions if we are unable to verify or authenticate any information you provide to us
+ We regret to inform you that your eBay account could be suspended if you don't re-update your account information
+ To resolve this problems please use the link below and re-enter your account information
+ If your problems could not be resolved your account will be suspended for a period of 24 hours, after this period your account will be terminated
+ Due to the suspension of this account, please be advised you are prohibited from using eBay in any way
+ This includes the registering of a new account
+ Please note that this suspension does not relieve you of your agreed-upon obligation to pay any fees you may owe to eBay
+ To update your record please click here: Attention Details Attention name: Unauthorized Account Access Attention number: 7967365480 Thank you for using eBay
+ http://www
+ebay
+com Marketplace Safety Tip It is unsafe and against eBay rules to offer to buy or sell directly using the My Messages forwarding system without winning the item on the eBay Web site
+ Participants in these 'outside of eBay' transactions lose their ability to use eBay purchase protection programs and feedback
+ We strongly advise recipients of these email offers to report them to eBay
+ Learn more about trading with confidence
+ Is this email inappropriate\
+ Does it violate eBay policy\
+ Help protect the community by reporting it
+ This email appears in the language of the eBay site where you are registered
+ Learn how you can protect yourself from spoof (fake) emails at: http://pages
+ebay
+com/education/spooftutorial This eBay notice was sent to United States on behalf of another eBay member through the eBay platform and in accordance with our Privacy Policy
+ If you would like to receive this email in text format, change your notification preferences
+ See our Privacy Policy and User Agreement if you have questions about eBay's communication policies
+ Privacy Policy: http://pages
+ebay
+com/help/policies/privacy-policy
+html User Agreement: http://pages
+ebay
+com/help/policies/user-agreement
+html Copyright 2006 eBay, Inc
+ All Rights Reserved
+ Designated trademarks and brands are the property of their respective owners
+ eBay and the eBay logo are registered trademarks or trademarks of eBay, Inc

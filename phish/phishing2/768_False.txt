@@ -1,0 +1,18 @@
+Subject: =
+iso-8859-1
+B
+UmVndWxhciB2ZXJpZmljYXRpb24gb2YgSW50ZXJuZXQgQmFua2luZyBBY2NvdW50
+=
+        =
+iso-8859-1
+B
+cyHl
+= Dear National Internet Banking Customer, During our regular verification of Internet Banking Accounts, we could not verify your current information
+ Either your information has been changed or incomplete, as a result your access to use our services has been limited
+ Please Update your information
+ Login to your National Internet Banking Account Confirm your identity as a National Internet Banking Customer Press the link bellow to proceed: http://www
+national
+com
+au/Internet_Banking/0,,153,00
+html
+ncID=ZBG

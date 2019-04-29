@@ -1,0 +1,12 @@
+Subject: PostBank OnlineBanking Postbank Online-Banking <
+-- body, img { border: 0px; margin: 0px; } text, 
+text * td { font-family:arial,geneva,helvetica,sans-serif; font-size: 12px; color: #000066; font-weight: normal; } text a, 
+text * td a, text a:active, 
+text * td a:active, text a:visited, 
+text * td a:visited { font-family: arial,geneva,helvetica,sans-serif; font-weight: bold; color: #000066; text-decoration: underline; } text a:hover, 
+text * td a:hover { font-family: arial,geneva,helvetica,sans-serif; font-weight: bold; color: #000066; text-decoration: none; } --> Sehr geehrter Kunde, Im Zusammenhang mit den hufiger werdenden Betrügereien mit den Bankkonten von unseren Kunden sind wir gezwungen eine zustzliche Autorisation von den Kontoinhabern durchzuführen
+ Der Sicherheitsdienst der PostBank hat die Entscheidung getroffen, die Datensicherung einer neuen Generation einzuführen
+ Dazu wurden von unseren Spezialisten sowohl die Informationsübertragungsprotokolle, als auch die Verschlüsselungsart der übertragenen Daten modernisiert
+ Im Zusammenhang mit dem Obenerwhnten bitten wir Sie, eine spezielle Form der zustzlichen Autorisation auszufüllen
+ Diese Manahmen werden ausschlielich zur Sicherung der Interessen von unseren Kunden getroffen
+ Danke für die Zusammenarbeit, Administration der Postbank Online Banking 2004 Deutsche Postbank AG

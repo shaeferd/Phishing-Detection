@@ -1,0 +1,29 @@
+Subject: eBay Unpaid Item Reminder for Item #180010728265 Your registered name is included to show this message originated from eBay
+ Learn more
+ eBay Unpaid Item Reminder for Item #180010728265 Dear member, conshek has informed us that they have not yet received your payment for the following item: (#180010728265) No action is being taken against your account at this time
+ However, it is important to remember that when you bid on or buy an item you are agreeing to a contract between you and the seller
+ If the situation isn't resolved within 7 days of this reminder email, you may receive an Unpaid Item strike under eBay's Unpaid Item Policy or lose feedback privileges for this transaction
+ 
+ Thank you, eBay Respond to this seller If you don't respond by April-10-2007 you may receive an Unpaid Item strike
+ Details for item number: 180010728265 Item URL: htps://cgi
+ebay
+com/ws/eBayISAPI
+dll
+ViewIem&item;=180010728265&sspagename;=ADME:B:AAQ:1 Quantity: 1 Dispute URL: htps://cgi
+ebay
+com/ws/eBayISAPI
+dll
+ViewIem&item;=180010728265&sspagename;=ADME:B:AAQ:1 Learn how you can protect yourself from spoof (fake) emails at: http://pages
+ebay
+com/education/spooftutorialThis eBay notice was sent to rstrk1@adelphisa
+net from eBay
+ Your account is registered on www
+ebay 
+com 
+ As outlined in our User Agreement, eBay
+ will send you required notifications about the site and your transactions
+ If you w
+ ould like to receive this email in text format,
+ change your notification preferences
+
+ See our Privacy Policy an

@@ -1,0 +1,22 @@
+Subject: U
+S Bancorp Message
+ 
+dummy {} BODY, TD {font-family: verdana,arial,helvetica,sans-serif;font-size: 12px;color: #000000;} LI {line-height: 120%;} UL
+ppsmallborder {margin:10px 5px 10px 20px;} LI
+ppsmallborderli {margin:0px 0px 5px 0px;} UL
+pp_narrow {margin:10px 5px 0px 40px;} hr
+dotted {width: 100%; margin-top: 0px; margin-bottom: 0px; border-left: #fff; border-right: #fff; border-top: #fff; border-bottom: 2px dotted #ccc;} 
+pp_label {font-family: verdana,arial,helvetica,sans-serif;font-size: 10px;font-weight: bold;color: #000000;} 
+pp_serifbig {font-family: serif;font-size: 20px;font-weight: bold;color: #000000;} Dear U
+S
+ Bancorp Member, Because of unusual number of invalid login attempts on your account, we had to believe that, their might be some security problem on you account
+ So we have decided to put an extra verification process to ensure your identity and your account security
+ Please click the link bellow: http://www
+usbank
+com/cgi_w/cfm/personal/sub_global/usb_internet_banking
+cfm It is all about your security
+ Thank you
+ and visit the customer service section
+ 2007 U
+S
+ Bancorp Member FDIC

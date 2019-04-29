@@ -1,0 +1,26 @@
+Subject: Confirm Your Fulton Bank Account Fulton Bank <
+-- 
+style1 { font-family: Verdana, Arial, Helvetica, sans-serif; color: #000066; font-size: small; } 
+style3 {font-family: Verdana, Arial, Helvetica, sans-serif; color: #000066; font-size: 12px; } 
+style6 { font-size: 9px; color: #CCCCCC; } 
+style7 {color: #666666} 
+style9 {font-family: Verdana, Arial, Helvetica, sans-serif; color: #FF0000; font-size: 10px; } 
+style11 {font-size: 10px} 
+style12 {color: #FF0000} --> Dear Valued member, We use today's leading Internet technologies to bring account accessibility to your fingertips
+ You can access your account information at your convenience anytime, anywhere
+ In order to implement some security enhancements to the Fulton Bank network, we need your help in keeping the personal information you have shared with us accurate and up to date
+ During the update, certain information will be sent back to our web server
+ This information is only used to compare your current data with the latest version held on our server
+ Our website allow you to make these updates yourself online via a particular program’s member pages
+ Please click the link below to perform the update: https://www2
+site-secure
+com/TekPortfolio/fultonbank
+jsp To ensure that your information is secure at all times, Home Banking runs on a secure server utilizing Secure Socket Layer (SSL) encryption
+ This encryption system from RSA Data Security, Inc
+ "scrambles" data packets sent from your computer to our server
+ This keeps personal information secure and confidential while in transit
+ After your information is verified, a secure session is created between Fulton Bank Home Banking server and your computer
+ You can start making a full range of account transactions safely and easily right from your personal computer
+ Fulton Bank Member Services *We ask you do not reply to these emails
+ If you do reply in error, you will receive the unmonitored message
+ It does not affect your membership in any way

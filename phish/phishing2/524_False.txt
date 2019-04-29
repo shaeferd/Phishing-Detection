@@ -1,0 +1,27 @@
+To report a botnet PRIVATELY please email: c2report@isotf
+org
+----------
+bodik wrote:
+> To report a botnet PRIVATELY please email: c2report@isotf
+org
+> ----------
+> hi,
+> 
+> this list seems to be for white Jedi ;) so I'll add my contribution
+ 
+> Even with low expirience I believe I found botnet through snort report 
+> about WEB remote include path:
+
+Any contribution is welcome
+
+
+We are looking into it, thanks
+
+_______________________________________________
+botnets mailing list
+To report a botnet PRIVATELY please email: c2report@isotf
+org
+http://www
+whitestar
+linuxbox
+org/mailman/listinfo/botnets

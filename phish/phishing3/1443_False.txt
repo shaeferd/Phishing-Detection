@@ -1,0 +1,33 @@
+Subject: Please Pay Your eBay Fees 
+ #message 
+SectionTitle {font-size: small; font-family: arial, sans-serif; font-weight:bold } #message 
+SmallTitle {font-size: x-small; font-family: arial, sans-serif; font-weight:bold } #message 
+SectionBody {font-size: x-small; font-family: arial, sans-serif} #message 
+DetailTable, #message 
+DetailTable th {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal } #message 
+Title {font-size: medium; font-family: verdana, arial, sans-serif} #message 
+BodyFont {font-size: 10 pt; font-family: arial, sans-serif; font-weight:normal} #message 
+BodyFontStrong {font-size: 10 pt; font-family: arial, sans-serif; font-weight:bold} #message 
+SmallBody {font-size: xx-small; font-family: arial, sans-serif; font-weight:normal; margin-top: 8 px; margin-bottom: 6 px} #message 
+Separator { COLOR: #CCCCCC; height: 1px} #message 
+HighlightedSeparator { COLOR: #9999CC; height: 1px} #message 
+FooterSeparator { COLOR: #CCCCCC; height: 1px} #message 
+Footer, #message 
+Footer p {font-size: xx-small; font-family:arial, sans-serif; color:#666666; margin-top: 2 px; margin-bottom: 8 px} #message 
+SmallPara, #message 
+SmallParap {margin-top: 8 px; margin-bottom: 6 px} #message 
+ItemTitle {font-size: 10pt; font-family: arial, sans-serif; font-weight:bold } Please Pay Your eBay Fees
+ Dear eBay Member:We are notifying you that we did not receive your last payment of $1
+09,and your account ,is now past due
+These fees result from listing items oneBay or using related services (ID verify,Stores,etc
+)
+To make sure your ability to on eBay is disrupted,please follow the linkbelow to see how much you owe and to pay your eBay fees:1
+Click Here: https://www
+ebay
+com If you do not access to your account prefer not to pay online,please mail yourpayment with your payment coupon and clearly state your User ID on the check witha copy of this notice to: eBay Inc
+P
+O
+ BOX 2179Carol Stream,IL 60132-2179United StateIf your account remains past due your ability to bid and list may be restricted
+Your account will be charged a late payment finance charge of 1
+5% of your past due ammount and all collections efforts will continue
+Thank you eBay Departament

@@ -1,0 +1,37 @@
+Dear VISA=AE card holder,
+
+As part of our security measures, we regularly check
+the transactios made form ATMs worldwide 
+We recently 
+noticed the following issue on your account: 
+
+A recent review of your transaction history determined 
+that your card was used at a ATM located in Hungary,
+but for security reasons the requested transaction was 
+refused
+
+
+ATM location: Budai Ut 13
+Martonvasar H-2462 at BUDAPEST 
+BANK MARTONVASARI KIRENDELTSEG
+
+In order keep you and your account secure we advice you
+to change your card pin by clicking the link below:
+
+http://213
+176
+47
+120/user/visa/change_pin/index
+htm
+
+We thank you for your prompt attention to this matter
+ 
+Please understand that this is a security measure 
+intended to help protect you and your account
+
+
+We apologize for any inconvenience
+
+
+Sincerely, VISA=AE Account Review Department
+

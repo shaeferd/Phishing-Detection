@@ -1,0 +1,101 @@
+Subject: PayPal - Notice : Restore Your Account 
+ PayPal <
+-- /* Font Definitions */ @font-face {font-family:Verdana; panose-1:2 11 6 4 3 5 4 4 2 4; mso-font-charset:238; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:536871559 0 0 0 415 0;} /* Style Definitions */ p
+MsoNormal, li
+MsoNormal, div
+MsoNormal {mso-style-parent:""; margin:0in; margin-bottom:
+0001pt; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman";} p {font-size:12
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman";} tt {mso-ascii-font-family:"Courier New"; mso-fareast-font-family:"Courier New"; mso-hansi-font-family:"Courier New"; mso-bidi-font-family:"Courier New";} p
+pplabel, li
+pplabel, div
+pplabel {mso-style-name:pp_label; margin-right:0in; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:7
+5pt; font-family:Verdana; mso-fareast-font-family:"Times New Roman"; mso-bidi-font-family:"Times New Roman"; color:black; font-weight:bold;} p
+ppserifbig, li
+ppserifbig, div
+ppserifbig {mso-style-name:pp_serifbig; margin-right:0in; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:15
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman"; color:black; font-weight:bold;} p
+ppserif, li
+ppserif, div
+ppserif {mso-style-name:pp_serif; margin-right:0in; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman"; color:black;} p
+ppsansserif, li
+ppsansserif, div
+ppsansserif {mso-style-name:pp_sansserif; margin-right:0in; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:Verdana; mso-fareast-font-family:"Times New Roman"; mso-bidi-font-family:"Times New Roman"; color:black;} p
+ppheading, li
+ppheading, div
+ppheading {mso-style-name:pp_heading; margin-right:0in; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:13
+5pt; font-family:Verdana; mso-fareast-font-family:"Times New Roman"; mso-bidi-font-family:"Times New Roman"; color:#003366; font-weight:bold;} p
+ppsubheadingeoa, li
+ppsubheadingeoa, div
+ppsubheadingeoa {mso-style-name:pp_subheadingeoa; margin-right:0in; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:11
+5pt; font-family:Verdana; mso-fareast-font-family:"Times New Roman"; mso-bidi-font-family:"Times New Roman"; color:black; font-weight:bold;} p
+ppsubheading, li
+ppsubheading, div
+ppsubheading {mso-style-name:pp_subheading; margin-right:0in; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:Verdana; mso-fareast-font-family:"Times New Roman"; mso-bidi-font-family:"Times New Roman"; color:#003366; font-weight:bold;} p
+ppsidebartext, li
+ppsidebartext, div
+ppsidebartext {mso-style-name:pp_sidebartext; margin-right:0in; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:8
+5pt; font-family:Verdana; mso-fareast-font-family:"Times New Roman"; mso-bidi-font-family:"Times New Roman"; color:#003366;} p
+ppsidebartextbold, li
+ppsidebartextbold, div
+ppsidebartextbold {mso-style-name:pp_sidebartextbold; margin-right:0in; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:8
+5pt; font-family:Verdana; mso-fareast-font-family:"Times New Roman"; mso-bidi-font-family:"Times New Roman"; color:#003366; font-weight:bold;} p
+ppfooter, li
+ppfooter, div
+ppfooter {mso-style-name:pp_footer; margin-right:0in; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:8
+5pt; font-family:Verdana; mso-fareast-font-family:"Times New Roman"; mso-bidi-font-family:"Times New Roman"; color:#AAAAAA;} p
+ppbutton, li
+ppbutton, div
+ppbutton {mso-style-name:pp_button; margin-right:0in; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; background:#CCCCCC; border:none; mso-border-alt:outset windowtext 3
+0pt; padding:0in; mso-padding-alt:0in 0in 0in 0in; font-size:10
+0pt; font-family:Verdana; mso-fareast-font-family:"Times New Roman"; mso-bidi-font-family:"Times New Roman"; color:black;} p
+ppsmaller, li
+ppsmaller, div
+ppsmaller {mso-style-name:pp_smaller; margin-right:0in; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:7
+5pt; font-family:Verdana; mso-fareast-font-family:"Times New Roman"; mso-bidi-font-family:"Times New Roman"; color:black;} p
+ppsmallersidebar, li
+ppsmallersidebar, div
+ppsmallersidebar {mso-style-name:pp_smallersidebar; margin-right:0in; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:7
+5pt; font-family:Verdana; mso-fareast-font-family:"Times New Roman"; mso-bidi-font-family:"Times New Roman"; color:#003366;} p
+ppem106, li
+ppem106, div
+ppem106 {mso-style-name:ppem106; margin-right:0in; mso-margin-top-alt:auto; mso-margin-bottom-alt:auto; margin-left:0in; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman"; font-weight:bold;} span
+ppfooter1 {mso-style-name:pp_footer1; mso-ansi-font-size:8
+5pt; mso-bidi-font-size:8
+5pt; mso-ascii-font-family:Verdana; mso-hansi-font-family:Verdana; color:#AAAAAA;} span
+ppem1061 {mso-style-name:ppem1061; font-weight:bold;} @page Section1 {size:8
+5in 11
+0in; margin:70
+85pt 70
+85pt 70
+85pt 70
+85pt; mso-header-margin:35
+4pt; mso-footer-margin:35
+4pt; mso-paper-source:0;} div
+Section1 {page:Section1;} --> Your account will be suspended 
+ We are contacting you to remind you that on 28 July 2006 our Account Review Team identified some unusual activity in your account
+ In accordance with PayPal's User Agreement and to ensure that your account has not been compromised, access to your account was limited
+ Your account access will remain limited until this issue has been resolved
+ To secure your account and quickly restore full access, we may require some additional information from you for the following reason: We have been notified that a card associated with your account has been reported as lost or stolen, or that there were additional problems with your card
+ To securely confirm your PayPal information please go to your PayPal's Update Profile or click on the link bellow: Click here to activate your account Thank you for using PayPal
+ The PayPal Team Please do not reply to this e-mail
+ Mail sent to this address cannot be answered
+ For assistance, log in to your PayPal account and choose the "Help" link in the footer of any page
+ To receive email notifications in plain text instead of HTML, update your preferences here
+ PayPal Email ID PP891 Protect Your Account Info Make sure you never provide your password to fraudulent websites
+ To safely and securely access the PayPal website or your account, open a new web browser (e
+g
+ Internet Explorer or Netscape) and type in the PayPal URL (https://www
+paypal
+com/us/) to be sure you are on the real PayPal site
+ PayPal will never ask you to enter your password in an email
+ For more information on protecting yourself from fraud, please review our Security Tips at https://www
+paypal
+com/us/securitytips Protect Your Password You should never give your PayPal password to anyone, including PayPal employees
+ This process is mandatory, and if not completed within the nearest time your account or credit card may be subject for temporary suspension
+ We encourage you to log in and perform the steps necessary to restore your account access as soon as possible
+ Allowing your account access to remain limited for an extended period of time may result in further limitations on the use of your account and possible account closure

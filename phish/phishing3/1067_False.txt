@@ -1,0 +1,11 @@
+Subject: eBay - Important Notice Dear eBay Customer,We recently noticed one or more attempts to log in to your eBay accountfrom a foreign IP address
+If you recently accessed your account while traveling, the unusual log inattempts may have been initiated by you
+ However, if you did not initiatethe log ins, please visit eBay as soon as possible to verify your identity:https://signin
+ebay
+com/ws/eBayISAPI
+dllVerify your identity is a security measure that will ensure that you arethe only person with access to the account
+Thanks for your patience as we work together to protect your account
+Sincerely,eBay security team---------------------------------------------------------------- Please do not reply to this e-mail
+ Mail sent to this address cannot beanswered
+ For assistance, log in to your CeBay account and choose the "Help" link in the header of any page
+eBay Email ID PP321

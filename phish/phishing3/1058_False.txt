@@ -1,0 +1,17 @@
+Subject: Security Measures Dear PayPal,We recently noticed one or more attempts to log in to your PayPal accountfrom a foreign IP address
+If you recently accessed your account while traveling, the unusual log inattempts may have been initiated by you
+ However, if you did not initiatethe log ins, please visit PayPal as soon as possible to verify youridentity:https://www
+paypal
+com/us/cgi-bin/webscr
+ cmd=_login-runVerify your identity is a security measure that will ensure that you arethe only person with access to the account
+Thanks for your patience as we work together to protect your account
+Sincerely,PayPal------------------------------------------------ ---------------- PROTECT YOUR PASSWORD NEVER give your password to anyone and ONLY log in athttps://www
+paypal
+com/
+ Protect yourself against fraudulent websites byopening a new web browser (e
+g
+ Internet Explorer or Netscape) and typingin the PayPal URL every time you log in to your account
+---------------------------------------------------------------- Please do not reply to this e-mail
+ Mail sent to this address cannot beanswered
+ For assistance, log in to your PayPal account and choose the"Help" link in the header of any page
+PayPal Email ID PP321

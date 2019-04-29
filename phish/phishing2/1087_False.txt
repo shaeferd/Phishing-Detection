@@ -1,0 +1,17 @@
+Subject: Notification of PayPal Limited Account Access Dear PayPal Customer This e-mail is the notification of recent innovations taken by PayPal to detect inactive customers and non-functioning mailboxes
+ The inactive customers are subject to restriction and removal in the next 1 month
+ Please confirm your email address and credit card information by clicking the link below: https://www
+paypal
+com/cgi-bin/webscr
+cmd=_login-run This notification expires Aug
+ 1, 2005 Thanks for using PayPal
+ This PayPal notification was sent to your mailbox
+ Your PayPal account is set up to receive the PayPal Periodical newsletter and product updates when you create your account
+ To modify your notification preferences and unsubscribe, go to https://www
+paypal
+com/PREFS-NOTI and log in to your account
+ Changes to your preferences may take several days to be reflected in our mailings
+ Replies to this email will not be processed
+ Copyright 2005 PayPal Inc
+ All rights reserved
+ Designated trademarks and brands are the property of their respective owners

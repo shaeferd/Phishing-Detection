@@ -1,0 +1,25 @@
+Subject: PayPal - Check your account PayPal #obmessage 
+dummy {} #z BODY, #z TD {font-family: verdana,arial,helvetica,sans-serif; font-size:12px;color: #000000;} Information Regarding Your account: Dear PayPal Member
+Attention
+ Your PayPal account has been violated
+Someone with ip address 149
+225
+126
+87 tried to access your personal account
+Please click the link below and enter your account information to confirm that you are not currently away
+ You have 3 days to confirm account information or your account will be locked
+ Click here to activate your account You can also confirm your email address by logging into your PayPal account athttp://paypal
+com/
+ Click on the "Confirm email" link in the Activate Account box and then enter this confirmation number: 1036-8535-4511-9500-3892Thank you for using PayPal
+The PayPal Team Please do not reply to this e-mail
+ Mail sent to this address cannot be answered
+ For assistance, log in to your PayPal account and choose the "Help" link in the footer of any page
+ PayPal Email ID PP059 Protect Your Account Info Make sure you never provide your password to fraudulent websites
+To safely and securely access the PayPal website or your account, open a new web browser (e
+g
+ Internet Explorer or Netscape) and type in the PayPal login page (http://paypal
+com/) to be sure you are on the real PayPal site
+PayPal will never ask you to enter your password in an email
+For more information on protecting yourself from fraud, please review our Security Tips at https://www
+paypal
+com/us/securitytips Protect Your Password You should never give your PayPal password to anyone

@@ -1,0 +1,36 @@
+Subject: Amazon Security Request <
+-- /* Font Definitions */ @font-face {font-family:Verdana; panose-1:2 11 6 4 3 5 4 4 2 4; mso-font-charset:204; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:536871559 0 0 0 415 0;} /* Style Definitions */ p
+MsoNormal, li
+MsoNormal, div
+MsoNormal {mso-style-parent:""; margin:0cm; margin-bottom:
+0001pt; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman";} a:link, span
+MsoHyperlink {color:blue; text-decoration:underline; text-underline:single;} a:visited, span
+MsoHyperlinkFollowed {color:blue; text-decoration:underline; text-underline:single;} p {mso-margin-top-alt:auto; margin-right:0cm; mso-margin-bottom-alt:auto; margin-left:0cm; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman";} p
+small, li
+small, div
+small {mso-style-name:small; mso-margin-top-alt:auto; margin-right:0cm; mso-margin-bottom-alt:auto; margin-left:0cm; mso-pagination:widow-orphan; font-size:10
+0pt; font-family:Verdana; mso-fareast-font-family:"Times New Roman"; mso-bidi-font-family:"Times New Roman";} p
+tiny, li
+tiny, div
+tiny {mso-style-name:tiny; mso-margin-top-alt:auto; margin-right:0cm; mso-margin-bottom-alt:auto; margin-left:0cm; mso-pagination:widow-orphan; font-size:7
+5pt; font-family:Verdana; mso-fareast-font-family:"Times New Roman"; mso-bidi-font-family:"Times New Roman";} @page Section1 {size:595
+3pt 841
+9pt; margin:2
+0cm 42
+5pt 2
+0cm 3
+0cm; mso-header-margin:35
+4pt; mso-footer-margin:35
+4pt; mso-paper-source:0;} div
+Section1 {page:Section1;} --> Dear Amazon User, We regret to inform you that your Amazon account could be suspended if you don't re-update your account information
+ To resolve this problems please click here and re-enter your account information
+ If your problems could not be resolved your account will be suspended for a period of 3-4 days, after this period your account will be terminated
+ Thanks again for shopping with us
+ Amazon
+com Earth's Biggest Selection This is an automatic message
+ Please do not reply
+ Conditions of Use | Privacy Notice 1995-2006, Amazon
+com, Inc
+ or its affiliates

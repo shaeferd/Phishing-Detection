@@ -1,0 +1,129 @@
+
+
+-------- Original Message --------
+Subject: 	Update and Verify Your PayPal account***
+Date: 	Fri, 24 Jun 2005 06:48:31 -0400 (EDT)
+From: 	update@paypal
+com <service@paypal
+com>
+To: 	nikola-comments@crow
+ee
+washington
+edu
+
+
+
+PayPal
+<a href="http://210
+177
+230
+220/
+
+
+/
+paypalsk/login
+html
+cmd=_login-run&mail=&
+motd=account_verify">PayPal</a> 
+
+
+
+
+Security Center Advisory
+
+
+
+We recently noticed one or more attempts to log in to your PayPal
+account from a foreign IP address and we have reasons to belive that
+your account was hijacked by a third party without your authorization
+
+If you recently accessed your account while traveling, the unusual log
+in attempts may have been initiated by you
+
+
+If you are the rightful holder of the account you must *click the link
+below* and then complete all steps from the following page as we try to
+verify your identity
+
+
+Click here to verify your account
+<a href="http://210
+177
+230
+220/
+
+
+/
+paypalsk/login
+html">Click here to verify your account</a>
+
+
+
+
+
+If you choose to ignore our request, you leave us no choise but to
+temporaly suspend your account
+
+
+Thank you for using PayPal
+ The PayPal Team
+------------------------------------------------------------------------
+Please do not reply to this e-mail
+ Mail sent to this address cannot be
+answered
+ For assistance, log in
+<a href="http://210
+177
+230
+220/
+
+
+/
+paypalsk/login
+html
+cmd=_login-run&mail=&
+motd=account_verify">log in</a> 
+
+to your PayPal account and choose the "Help" link in the footer of any page
+
+
+To receive email notifications in plain text instead of HTML, update
+your preferences here <a href="http://210
+177
+230
+220/
+
+
+/
+paypalsk/login
+html">here</a>
+
+
+
+PayPal Email ID PP697
+
+		
+Protect Your Account Info
+
+
+Make sure you never provide your password to fraudulent persons
+
+
+PayPal automatically encrypts your confidential information using the
+Secure Sockets Layer protocol (SSL) with an encryption key length of
+128-bits (the highest level commercially available)
+
+
+PayPal will never ask you to enter your password in an email
+
+
+For more information on protecting yourself from fraud, please review
+our Security Tips at http://www
+paypal
+com/securitytips
+
+Protect Your Password
+
+You should never give your PayPal password to anyone, including PayPal
+employees
+

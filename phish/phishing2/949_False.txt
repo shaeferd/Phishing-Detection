@@ -1,0 +1,17 @@
+Subject: Personal information misused
+ Take action IMMEDIATELY
+ Washington Mutual | Identity Theft <
+-- body { background-color: #FFFFFF; } style1 { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #666666; } style2 {font-size: 9px} --> Dear BancorpSouth member, We have reasons to believe that your personal information might be misused or your accounts tampered with
+ We strongly advise to take action immediately
+ Please review your account statements, and authenticate your account by clicking the link below: https://www
+bancorpsouthonline
+com/onlineserv/HB/Login
+cgi
+runmode=3DAuthentification *When you click this link, you will enter the bancorpsouthonline
+com Web site
+ Please refer to the Terms of Use and Privacy Policy of our Web site
+ Please allow 24hrs for investigation
+ Even if you we do not find any evidence of suspicious activity on your account, the Federal Trade Commission (FTC) recommends that you check your credit reports periodically
+ Victim information sometimes is held for use or shared among a group of thieves at different times
+ Checking your credit reports periodically can help you spot problems and address them quickly
+ Thank you for your attention, BancorpSouth | Identity Theft

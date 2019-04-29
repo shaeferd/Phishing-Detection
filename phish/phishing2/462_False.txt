@@ -1,0 +1,15 @@
+Subject: PayPal Security Measures Dear PayPal User Dear PayPal User, We recently noticed one or more attempts to log in to your PayPal account from a foreign IP address
+ If you recently accessed your account while traveling, the unusual log in attempts may have been initiated by you
+ However, if you did not initiate the log ins, please visit PayPal as soon as possible to update your account: https://www
+paypal
+com/us/cgi-bin/webscr
+cmd=_login-run Changing your password is a security measure that will ensure that you are the only person with access to the account
+ Thanks for your patience as we work together to protect your account
+ Sincerely, PayPal ---------------------------------------------------------------- PROTECT YOUR PASSWORD NEVER give your password to anyone, including PayPal employees
+ Protect yourself against fraudulent websites by opening a new web browser (e
+g
+ Internet Explorer or Netscape) and typing in the PayPal URL every time you log in to your account
+ ---------------------------------------------------------------- Please do not reply to this email
+ This mailbox is not monitored and you will not receive a response
+ For assistance, log in to your PayPal account and click the Help link located in the top right corner of any PayPal page
+ PayPal Email ID PP321

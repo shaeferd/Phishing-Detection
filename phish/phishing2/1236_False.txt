@@ -1,0 +1,15 @@
+Subject: Personal Account Update Dear Valued PayPal Member, During our regularly schedule account maintenance and verification we have detected a slight error in your billing information on file with PayPal
+ This might be due to either following reasons: - A recent change in your personal information (i
+e
+ change of address) - An inability to accurately verify your selected option of payment due an internal error within our processors
+ Therefore your account has been temporarily suspended
+ We need you to confirm your identity in order to regain full privileges of your account
+ However, failure to update your records will result in account suspension
+ If this is not completed by July 17, 2006, we reserve the right to terminate all privileges of your account indefinitly, as it may have been used for fraudulent purposes
+ We thank you for your cooperation in this manner
+ To confirm your identity please follow the link below: https://www
+paypal
+com/cgi-bin/webscr
+cmd=3D_login-run Thank you for your patience in this matter
+ PayPal - Customer Service Please do not reply to this e-mail as this is only a notification
+ Mail sent to this address cannot be answered

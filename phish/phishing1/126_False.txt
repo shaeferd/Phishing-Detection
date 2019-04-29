@@ -1,0 +1,145 @@
+another phishing scam
+
+-------- Original Message --------
+Return-Path: 	<service@paypal
+com>
+Received: 	from sasami
+jurai
+net (root@sasami
+jurai
+net [69
+17
+104
+113])
+by angelar
+com (8
+13
+1/8
+13
+1) with ESMTP id j6GFf72b018748 for
+<patowic@angelar
+com>; Sat, 16 Jul 2005 10:41:11 -0500
+Received: 	from ww10
+empiredatatech
+com (host2
+69
+2
+196
+iskywire
+net
+[69
+2
+196
+2] (may be forged)) by sasami
+jurai
+net (8
+13
+1/8
+13
+1) with
+ESMTP id j6GFdQdF094907; Sat, 16 Jul 2005 11:39:31 -0400 (EDT)
+(envelope-from service@paypal
+com)
+Received: 	from mail pickup service by ww10
+empiredatatech
+com with
+Microsoft SMTPSVC; Sat, 16 Jul 2005 11:14:09 -0400
+From: 	<service@paypal
+com>
+To: 	<service@paypal
+com>
+Subject: 	Notification of Account Access
+Date: 	Sat, 16 Jul 2005 11:14:04 -0400
+MIME-Version: 	1
+0
+Content-Type: 	multipart/alternative;
+boundary="----=_NextPart_000_0034_01C589F7
+7CE05050"
+X-MimeOLE: 	Produced By Microsoft MimeOLE V6
+00
+3790
+1830
+Message-ID: 	<EDTWEB10ukkwu1BtWdW0000039c@ww10
+empiredatatech
+com>
+X-OriginalArrivalTime: 	16 Jul 2005 15:14:09
+0806 (UTC)
+FILETIME=[0421B2E0:01C58A19]
+X-Greylist: 	Delayed for 00:25:08 by milter-greylist-1
+5
+6
+(sasami
+jurai
+net [69
+17
+104
+113]); Sat, 16 Jul 2005 11:39:32 -0400 (EDT)
+X-Spam-Status: 	No, score=0
+7 required=4
+1
+tests=FORGED_RCVD_HELO,HTML_50_60,
+HTML_MESSAGE,HTML_TAG_EXIST_TBODY,IP_LINK_PLUS,NORMAL_HTTP_TO_IP,
+NO_REAL_NAME autolearn=no version=3
+0
+4
+X-Spam-Checker-Version: 	SpamAssassin 3
+0
+4 (2005-06-05) on mail
+angelar
+com
+
+
+
+<http://www
+paypal
+com/cgi-bin/webscr
+cmd=_home>
+
+Dear valued **PayPal* *member,
+
+It has come to our attention that your *PayPal* account is being accessed by
+more than one IP address
+ This might mean that your account is being used
+by a third-party
+ However, it does not necessarily mean your account is
+hi-jacked but at PayPal our top-most concern is security for our members
+
+As part of our commitment to fight against fraud, you need to verify your
+information with us
+ You can do so by clicking the following link
+
+
+However, inability to do so might result in your account being marked as
+"compromised" and your account access will then be changed to "Limited"
+
+Once you have completed the process, your *PayPal* session will not be
+interrupted and will continue as normal
+
+
+To continue, click on the following link:
+https://www
+paypal
+com/cgi-bin/webscr
+cmd=_login-run
+<a href="http://207
+58
+162
+141/~wmfindia/cgi-bin/webscr/">https://www
+paypal
+com/cgi-bin/webscr
+cmd=_login-run</a>
+
+Thank You
+
+*PayPal*
+
+Accounts Management As outlined in our User Agreement, *PayPal* will
+periodically send you information about site changes and enhancements
+
+
+Visit our Privacy Policy and User Agreement if you have any questions
+
+http://www
+paypal
+com/cgi-bin/webscr
+cmd=p/gen/ua/policy_privacy-outside

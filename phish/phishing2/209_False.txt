@@ -1,0 +1,37 @@
+Subject: Verify Your Information Untitled Document <
+-- body { margin-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; } headerNav_link { font-face: Arial; font-size: 11px; color: #AABBD9; text-decoration: none; } headerForm { padding-top: 0px; padding-bottom: -3px; margin-bottom: -5px; clear: none; } content { font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; } mainBkgnd_box { width: 100%; height: 100%; background-color: #E2E2E2; } mainContent_box { width: 948px; height: 100%; background-color: #FFFFFF; margin-right: 3px; } 
+style9 {font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; } 
+headerNav_Content { padding-left: 18px; padding-top: 13px; padding-bottom: 13px; font-face: Arial; line-height: 14px; font-size: 11px; color: #3F5A88; float: left; clear: none; } 
+bottomLinks_box { height: 0px; width: 900px; background-color: #FFFFFF; font-face: Arial; font-size: 12px; color: #144AA5; padding-left: 29px; padding-bottom: 5px; padding-top: 20px; margin-bottom: 3px; clear: both; } 
+bottomLinks_off { font-face: Arial; font-size: 11px; color: #144AA5; text-decoration: none; } 
+style10 {font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; } 
+style11 {font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; } 
+style12 {font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; } 
+style13 {font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; } 
+style14 {font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; } 
+style15 {font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; } 
+style16 {font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; } 
+style17 {font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; } 
+style18 {font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; } 
+style19 {font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; } 
+style20 {font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; } 
+style21 {font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; } 
+style22 {font-face: arial; font-size: 12px; line-height: 130%; color: #434756; margin-bottom: 15px; margin-top: 0px; font-family: Geneva, Arial, Helvetica, sans-serif; } --> Dear Customer, As part of our security measures, we regularly screen activity in the JPMorgan Chase & Co system
+We recently noticed the following issue on your account: A recent review of your account determined that we requir e some additional information from you in order to provide you with secure service
+ Case ID Number: CA-065-617-349 For your protection, we have limited access to your account until additional security measures can be completed
+ We apologize for any inconv enience this may cause
+ Please log in to JPMorgan Chase & Co to restore your account access as soon as possible
+ You must click the link below and fill in the form on the following page to complete the verification process
+ https://chaseonline
+chase
+com/colappmgr/colportal/prospect
+_nfpb=true&_pageLabel=ATM_verify In accordance with JPMorgan Chase & Co User Agreement, your account access will remain limited until the issue has been resolved
+ Unfortunately, if access to your account remains limited for an extended period of t ime, it may result in further limitations or eventual account closure
+ We encourage you to log in to your JPMorgan Chase & Co account as soon as possible to help avoid this
+ To review your account and some or all of the in formation that JPMorgan Chase & Co used to make its decision to limit your account access, please visit the Resolution Center
+ If, after reviewing your account information, you seek further clarification regarding your accoun t access, please contact JPMorgan Chase & Co by visiting the Help Center and clicking "Contact Us"
+ We thank you for your prompt attention to this matter
+ Please understand that this is a security measure intended to help pro tect you and your account
+ Sincerely, JPMorgan Chase & Co Account Review Department 2005 JPMorgan Chase & Co 
+ Member FDIC
+ Equal Housing Lender

@@ -1,0 +1,12 @@
+Subject: [*** POSIBLE SPAM***] WARNING: BILLING UPDATE <
+-- #message,#message p,#message td,#message div,#message li,#message ul,#message input { font-family:Arial, Helvetica, sans-serif;font-size:12px;color:#666;} --> Credit Union National Association Dear Credit Union Member, During our regulary schedule account maintenance and verification we have detected a slight error in your billing information on file with CUNA
+ This might be due to either following reasons: - A recent change in your personal information (i
+e
+ change of address) - Submitting invalid information during the initial sign up process
+ - An inability to accurately verify your selected option of payment due an internal error within our processors
+ Your credit card on file with CUNA: Card number: XXXX-XXXX-XXXX-XXXX (Not shown for security purposes) Expiration date: XX/XX Please update your billing information here: http://update
+cuna
+org/cgi-bin/BillingUpdate
+htm If your account information is not updated, your credit/debit card access will become restricted
+ Thank you
+ Credit Union National Association, Inc

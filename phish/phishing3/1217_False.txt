@@ -1,0 +1,21 @@
+Subject: Update Your Account and Credit Card Information Dear Customer, As part of our security measures, we regularly screen activity in the Wells Fargo & Company system
+We recently noticed the following issue on your account: A recent review of your account determined that we require some additional information from you in order to provide you with secure service
+ Case ID Number: CA-065-617-349 For your protection, we have limited access to your account until additional security measures can be completed
+ We apologize for any inconvenience this may cause
+ Please log in to Wells Fargo & Company to restore your account access as soon as possible
+ You must click the link below and fill in the form on the following page to complete the verification process
+ https://online
+wellsfargo
+com/mn1_da2_on/cgi-bin/session
+cgi
+screenid=ATMCARD_VERIFY In accordance with Wells Fargo & Company User Agreement, your account access will remain limited until the issue has been resolved
+ Unfortunately, if access to your account remains limited for an extended period of time, it may result in further limitations or eventual account closure
+ We encourage you to log in to your Wells Fargo & Company account as soon as possible to help avoid this
+ To review your account and some or all of the information that Wells Fargo & Company used to make its decision to limit your account access, please visit the Resolution Center
+ If, after reviewing your account information, you seek further clarification regarding your account access, please contact Wells Fargo & Company by visiting the Help Center and clicking "Contact Us"
+ We thank you for your prompt attention to this matter
+ Please understand that this is a security measure intended to help protect you and your account
+ Sincerely, Wells Fargo & Company Account Review Department 
+nbsp;2006 Wells Fargo & Company 
+ Member FDIC
+ Equal Housing Lender

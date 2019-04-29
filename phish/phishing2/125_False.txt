@@ -1,0 +1,13 @@
+Subject: TKO NOTICE: eBay Account Suspended Dear eBay user: We regret to inform you that your eBay account has been suspended due to concerns we have for the safety and integrity of the eBay community
+ Per the User Agreement, Section 9, we may immediately issue a warning, temporarily suspend, indefinitely suspend or terminate your membership and refuse to provide our services to you if we believe that your actions may cause financial loss or legal liability for you, our users or<br> us
+ We may also take these actions if we are unable to verify or authenticate any information you provide to us
+ To speed up this process, you are required to verify your personal information against the account registration data we have on file by following the link below
+ https://signin
+ebay
+com/ws/eBayISAPI
+dll
+Signin Due to the suspension of this account, please be advised you are prohibited from using eBay in any way
+ This includes the registering of a new account
+ Please note that any seller fees due to eBay will immediately become due and payable
+ eBay will charge any amounts you have not previously disputed to the billing method currently on file
+ Regards, Safeharbor Department eBay, Inc

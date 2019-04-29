@@ -1,0 +1,9 @@
+Subject: PayPal Request Member Verification Procedure (Routing Code 6P1s1Q4) PayPal Security Service Dear valued PayPal member :Identity protection matters and PayPal works day and night to help keepyour identity safe
+That's why it was come to our attention that your PayPal account informationneeds to be updated as part of our continuing commitment to protect your account and to reduce the instance of fraud on our website
+If u could take 5-10 minutes out of your online experience and update your personal recordsyou will not run into any future problems with the online service
+However , failure to update your records, your PayPal session will not be interruptedand will continued as normal
+To login to your paypal account and update your records click on thefollowing link:https://www
+paypal
+com/us/cgi-bin/webscr
+ cmd=3D_login-runThank you for using PayPal Privacy Notice =A92006, PayPal, Inc
+ or its affiliates

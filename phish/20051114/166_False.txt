@@ -1,0 +1,18 @@
+Subject: eBay Billing <
+-- p{font-family:Arial,Helvetica,sans-serif;font-size:x-small;} h1{font-family:Arial,Helvetica,sans-serif;font-size:x-small;} h1{font-size:medium;font-weight:bold;} --> eBay - Invalid User Information Help Dear eBay Member, We regret to inform you that your home phone number had an error on eBay Inc
+ databases
+ We use your phone number for your identification purpose only
+ If the requested information is not provided to us then we will regret to inform you that your account will be suspended from our database until required information is provided
+ * Invalid User Information - Our records show that there are some discrepancies with the information that you registered with on our service
+ Due to this violation your account will be suspended indefinitely from the site until valid information can be provided
+* Due to the suspension of this account, please be advised you are prohibited from using eBay in any way
+ This includes the registering of a new account
+ Please note that this suspension does not relieve you of your agreed-upon obligation to pay any fees you may owe to eBay
+ To provide us with your phone number, just click the link below and Please complete this form : http://signin
+ebay
+com/aw-cgi/eBayISAPI
+dll
+SignIn Regards, Ian eBay SafeHarbor Investigations Team About eBay | Announcements | Security Center | Policies | Site Map | Help Copyright 1995-2004 eBay Inc
+ All Rights Reserved
+ Designated trademarks and brands are the property of their respective owners
+ Use of this Web site constitutes acceptance of the eBay User Agreement and Privacy Policy

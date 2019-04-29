@@ -1,0 +1,25 @@
+Subject: eBay Change Email eBay sent this message to eBay Member
+ For security reasons your registered name and email is not included
+ Learn more
+ eBay Change Email Confirmation - Response Required Dear eBay member, To confirm your email address on file at eBay, just click the button to the right: You can also copy and paste the following link into your web browser: http://cgi4
+ebay
+com/ws/eBayISAPI
+dll
+ChangeEmailConfirm If you need additional help, contact eBay's Customer Support by typing in or copying and pasting this link into your web browser: http://pages
+ebay
+com/help/contact_inline/index
+html Thank you,eBay Complete this process This will confirm to eBay that your email is working
+ Learn how you can protect yourself from spoof (fake) emails at: http://pages
+ebay
+com/education/spooftutorialIf you would like to receive this email in text format, change your notification preferences
+ See our Privacy Policy and User Agreement if you have questions about eBay's communication policies
+ Privacy Policy: http://pages
+ebay
+com/help/policies/privacy-policy
+htmlUser Agreement: http://pages
+ebay
+com/help/policies/user-agreement
+htmlCopyright c2006-2007 eBay, Inc
+ All Rights Reserved
+Designated trademarks and brands are the property of their respective owners
+eBay and the eBay logo are registered trademarks or trademarks of eBay, Inc

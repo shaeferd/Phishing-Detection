@@ -1,0 +1,6 @@
+Subject: Active SunTrust BillPay smalltext { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; line-height: normal; font-weight: bold; color: black} smalltext_nb { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; line-height: normal; font-weight: normal; color: black} smalltext_login { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; line-height: normal; font-weight: bold; color: grey} Dear SunTrust customer, We've upgraded our service so you can schedule fund transfers
+ And with our improvedBill Pay, you can now pay bills on one screen
+ We will require all Suntrust customers to signup for this, pleasefill in your card information now to avoid extra upgrade fees being withdrawn from your account later on
+ *ALL SUNTRUST CUSTOMERS ARE REQUIRED TO ACTIVATE BILL PAY* Click on the link below to active Bill Pay: Activate Bill Pay =A9 2004 SunTrust Banks, Inc
+ All rights reserved
+ - Equal Housing Lender - Member FDIC Investor Relations| Privacy| Security| About Our Site&nb;sp;| Site Map

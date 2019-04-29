@@ -1,0 +1,10 @@
+Subject: Upgrading On-line Security Measures JPMorgan Chase Dear Customer, Currently we are trying to upgrade our on-line security measures
+ All accounts have been temporarly suspended untill each person completes our secure online form
+ For this operation you will be required to pass trough a series of authentifications
+ We won't require your ATM PIN number or your name for this operation
+ To begin unlocking your account please click the link below
+ https://www
+chase
+com/security/do_auth
+jsp Please note: If we don't receive your account verification within 72 hours from you, we will further lock down your account untill we will be able to contact you by e-mail or phone
+ 2006 JPMorgan Chase & Co

@@ -1,0 +1,7 @@
+Subject: Reactivate Your Account a Message: Dear Virginia Credit Union Online Customer, We regret to inform you, that we had to lock your Virginia Credit Union Online Access because we have reasons to believe that your account may have been compromised by outside parties
+ In order to protect your sensitive information, we temporaly suspended your account
+ To reactivate your account, click on the link below and confirm your identity by completing the secure form what will appear
+ https://secureaccess
+vacu
+org/online/Banking/cacu/login
+aspx We have seen unusual attempts for logging in regarding your personal account, therefore this confirmation regarding your account its only for security reasons

@@ -1,0 +1,9 @@
+Subject: PayPal Notice - Security Measures Dear PayPal account holder ( user@example
+com ), We have recently noticed many attacks to our database and this requires to rebuild our system integrity
+ We regulary screen our members account information to reduce fraud and ID-theft
+ This security measure is intended to help protect our members and their bank accounts
+ We are sorry for any inconvenience
+ However, failure in updating your account records will result in suspension or limiting your account access
+ Click here to login to your account Copyright 1999-2006 PayPal
+ All rights reserved
+ Please do not reply to this email as it will not be reviewed

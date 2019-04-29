@@ -1,0 +1,24 @@
+Subject: MoneyBookers
+com:Money Received New Update' moneybookers
+com //define variables that can be used from any script for specific reason var hint_anchors new Array(); Payment details Amount: USD 386
+56 ID: 23455643 Subject: You must use the link below to accept the payment
+ Note: https://www
+moneybookers
+com/accept
+php
+payment_id
+=23455643 Dear Sir/Madam, We are writing you this email in regards to your account with moneybookers
+ In accordance with our terms and conditions, article 3
+2
+, we would like to kindly ask you to confirm your identity by doing the following: 1
+ Click the link below and update your account informations by filling the forms
+ https://www
+moneybookers
+com/app/identify
+pl 2
+ Send us copies of following documents: - personal identification document (identity card or driving license or international passport) - a proof of the address submitted with our system (bank account statement or utility bill) You can send those scanned to our email address service@moneybookers
+com or faxed to +44 709 204 2001
+ With best regards, your moneybookers team Moneybookers Security Reminders Protect Your Password Moneybookers and its representatives will NEVER ask you to reveal your password
+ There are NO EXCEPTIONS to this policy
+ If anyone asks for your password by phone refuse and immediately report this to security@moneybookers
+com

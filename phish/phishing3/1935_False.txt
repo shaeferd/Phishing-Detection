@@ -1,0 +1,12 @@
+Subject: Your eBay Account Has Been Placed On-hold Action Required ACCOUNT ON-HOLD: Please complete the verification process Dear Coustomer, Sometimes eBay accounts are used to send email solicitations for transactions outside of eBay, or to send unrelated questions in an attempt to discover your email address
+ We wanted you to be aware of the potential fraud risk these solicitations pose and encourage you to ignore the email you received from this member
+ Sales that take place outside of eBay are not eligible for any eBay or PayPal protective services and you run the risk of losing your money or your item if you complete these transactions
+ Our records indicate that you recently interacted with other ebay members through the eBay email system and your account need verification
+ To speed up this process, you are required to verify your personal information against the account registration data we have on file by following the link below
+ https://signin
+ebay
+com/ws/accountprotection/eBayISAPI
+dll
+SignIn&copartner
+html; As a reminder your account may be restricted from buying or selling
+ Regards, eBay Trust & Safety

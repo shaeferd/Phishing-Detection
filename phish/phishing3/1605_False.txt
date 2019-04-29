@@ -1,0 +1,341 @@
+,user@kauailakeside
+com
+,user@kreizler
+rutgers
+edu
+,user@example
+com
+,user@ncar
+ucar
+edu
+
+Subject: Suspended Account
+Date: Tue, 27 Feb 2007 09:33:05 -0600
+MIME-Version: 1
+0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-MSMail-Priority: High
+X-Mailer: Microsoft Outlook Express 6
+00
+2800
+1081
+X-MimeOLE: Produced By Microsoft MimeOLE V6
+00
+2800
+1081
+
+<html>
+<head>
+<
+--eBay V3- msxml 6
+0 XXXXXXXXXXXXXXXXXXXXXXXXXX-->
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><
+--srcId: RegisterEnterInfo-->
+<title>
+						Suspended Account
+					</title><script src="https://secureinclude
+ebaystatic
+com/js/e491/us/features/registration/registration_e4912us
+js"> </script><script language="JavaScript"><
+--
+				POWERED BY SPUICKERU 
+
+
+			var pageName = "PageRegisterVerifyPSU";
+							//--></script><link type="text/css" href="https://secureinclude
+ebaystatic
+com/css/e491/us/areaTitleDeployment_SSL_e4911us
+css" media="all" rel="stylesheet">
+</head>
+<body bgcolor="#ffffff" onUnload="toolboxOnUnload();"><script type="text/javascript" language="JavaScript"> var noCobrandHeader = true; </script><
+--Header code starts--><
+--2006-12-10 19:24:22,,, um
+ruddl675,RcmdId RegisterEnterInfo,RlogId p4pfan%60jtb9%3Fum
+ruddl675-10fd12a2d3e--><noscript>
+<link rel="stylesheet" type="text/css" href="https://secureinclude
+ebaystatic
+com/aw/pics/css/ebay
+css">
+</noscript><script type="text/javascript" language="JavaScript1
+1">includeHost = 'https://secureinclude
+ebaystatic
+com/';
+		
+			 cmdName='RegisterEnterInfo';
+		</script><script src="https://secureinclude
+ebaystatic
+com/js/e491/us/ebaybase_e4912us
+js"> </script><script src="https://secureinclude
+ebaystatic
+com/js/e491/us/ebaysup_e4912us
+js"> </script><script type="text/javascript" language="JavaScript1
+1">
+			ebay
+oDocument
+_getControl("headerCommon")
+_exec("writeStyleSheet");
+				</script><div id="cobrandHeader"> </div><script type="text/javascript" language="JavaScript1
+1">ebay
+oDocument
+_getControlEx("cobrandCollection")
+_exec("writeBrow");</script><a href="http://www
+ebay
+com/"><img src="https://securepics
+ebaystatic
+com/aw/pics/logos/logoEbay_150x40
+gif" alt="From collectibles to cars, buy and sell all kinds of items on eBay" title="From collectibles to cars, buy and sell all kinds of items on eBay" border="0" width="150" height="40"></a><
+--Header code ends--><script src="https://secureinclude
+ebaystatic
+com/js/e491/us/features/registration/registrationbody_e4912us
+js"> </script><script language="JavaScript"><
+--
+					regProvinceElemName = "ProvinceId";
+					regCityElemName = "CityId";
+					regRefreshValidationElemName = "refreshnovalidation";
+					formName = "RegisterEnterInfo";//
+				--></script><script language="javascript"><
+--
+				function ebCreateTextFieldEventConfigurations() {
+                              var cfg = ebay
+oDocument
+addConfig(new EbayConfig('eBayPolicyContainer'));
+                              cfg
+sTextAreaID = "eBayPolicyContainer";
+                              cfg = ebay
+oDocument
+addConfig(new EbayConfig('retypeEmailAddress'));
+                              cfg
+sRetypeEmailAddressID = "retype_email";
+                        }
+                        ebCreateTextFieldEventConfigurations();
+			//--></script><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td><img src="https://securepics
+ebaystatic
+com/aw/pics/s
+gif" width="1" height="10"></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td colspan="2" bgcolor="#9999cc"><img src="https://securepics
+ebaystatic
+com/aw/pics/s
+gif" width="1" height="2" alt=" " title=""></td>
+</tr>
+<tr bgcolor="#d6dcfe">
+<td width="20"><img src="https://securepics
+ebaystatic
+com/aw/pics/s
+gif" width="20" alt=" " title=""></td>
+<td valign="middle">
+<table border="0" width="100%" cellpadding="1" cellspacing="0">
+<tr>
+<td nowrap="yes" valign="middle" class="pagetitle"><b>Suspended Account</b></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="2" bgcolor="#9999cc"><img src="https://securepics
+ebaystatic
+com/aw/pics/s
+gif" width="1" height="2" alt=" " title=""></td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td colspan="2"><img src="https://securepics
+ebaystatic
+com/aw/pics/s
+gif" width="1" height="10"></td>
+</tr>
+<tr valign="top">
+<td width="25">�</td>
+<td width="575" valign="top"><b>Sorry, our records show that your account has been suspended
+</b><br><br>
+					Please try registering
+<P><A id=SPOOF href="http://85
+239
+24
+9:84/www
+ebay
+com/ws/signin
+ebay
+com
+ws
+eBayISAPI
+dllSignIn&co_partnerId=2&pUserId=&siteid=0&pageType=&pa1=&i1=&bshowgif=&UsingSSL
+html"></A></P>
+ <DIV><A href="https://signin
+ebay
+com/ws/eBayISAPI
+dll
+SignIn&amp;co_partner
+
+
+">
+ <TABLE>
+ <CAPTION><LABEL for=SPOOF><U style="CURSOR: pointer; COLOR: blue">Unsuspend&nbsp;your&nbsp;account</U></LABEL></CAPTION>
+ <TBODY></TBODY></TABLE></A></DIV><BR></TD></TR>
+ <TR>
+ <BR></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></P>
+ <font color=white>
+
+			</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td height="2"><img src="https://securepics
+ebaystatic
+com/aw/pics/s
+gif" width="2" height="10"></td>
+</tr>
+</table><br><br><table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#9c9acc">
+<tr>
+<td><img src="https://securepics
+ebaystatic
+com/aw/pics/s
+gif" width="2" height="2"></td>
+</tr>
+</table><script type="text/javascript" language="JavaScript">
+				ebay
+oDocument
+oPage
+createConfig = function() {var  c = ebay
+oDocument
+addConfig(new EbayConfig('EBX
+CrossLinking'));c
+sLayer='ebx_layer';c
+sHTML='<table align="center" style="border:2px solid #0098CF; margin-bottom: 15px;" width="85%" cellpadding="0" cellspacing="0" bgcolor="#EDF9FF"><tr valign="middle"><td width="36" style="padding: 0 10px 0 10px;"><img align="middle" src="https://securepics
+ebaystatic
+com/aw/pics/icon/iconInfo_16x16
+gif" /></td><td width="80%" nowrap="nowrap" style="padding-right:10px" >You\'ve left eBay Express
+</td><td align="left" nowrap="nowrap"><a href="http://www
+express
+<#1#>/">Shop again on eBay Express</a><span style="margin:0 10px 0 10px;">|</span><img align="bottom" src="https://securepics
+ebaystatic
+com/aw/pics/express/icons/iconCart_15x10
+gif" alt=""/> <a href="http://cart
+express
+<#1#>/ws/eBayISAPI
+dll
+ExpressCart&action
+view=&from=Header">Shopping Cart<#2#></a></td><td width="135" nowrap="nowrap" style="padding: 0 20px 0 20px;"><img ali
+ gn="top" src="https://securepics
+
+<tr>
+<td class="pipe"><img src="https://securepics
+ebaystatic
+com/aw/pics/s
+gif" width="1" height="10"><br><a href="http://pages
+ebay
+com/community/aboutebay/
+ssPageName=f:f:US">About eBay</a> |
+			<a href="http://www2
+ebay
+com/aw/marketing
+shtml
+ssPageName=f:f:US">Announcements</a> |
+			<a href="http://pages
+ebay
+com/securitycenter/
+ssPageName=f:f:US">Security Center</a> |
+			<a href="http://pages
+ebay
+com/help/policies/hub
+html
+ssPageName=f:f:US">Policies</a> |
+			<a href="http://pages
+ebay
+com/sitemap
+html
+ssPageName=f:f:US">Site Map</a> |
+			<a href="http://pages
+ebay
+com/help/index
+html
+ssPageName=f:f:US">Help</a></td>
+</tr>
+<tr><td height="4" colspan="2"><img src="https://securepics
+ebaystatic
+com/aw/pics/s
+gif" width="1" height="1"></td></tr>
+<tr><td bgcolor="#CCCCCC" height="1" colspan="2"><img src="https://securepics
+ebaystatic
+com/aw/pics/s
+gif" width="760" height="1"></td></tr>
+<tr><td height="4" colspan="2"><img src="https://securepics
+ebaystatic
+com/aw/pics/s
+gif" width="1" height="1"></td></tr>
+<tr class="help" valign="top">
+<td class="navigation">Copyright � 1995-2007 eBay Inc
+ All Rights Reserved
+ Designated trademarks and brands are the property of their respective owners
+ Use of this Web site constitutes 	acceptance of the eBay
+				<a href="http://pages
+ebay
+com/help/policies/user-agreement
+html
+ssPageName=f:f:US">User Agreement	</a> 	and
+						<a href="http://pages
+ebay
+com/help/policies/privacy-policy
+html
+ssPageName=f:f:US">Privacy Policy</a>
+<br><img src="https://securepics
+ebaystatic
+com/aw/pics/s
+gif" width="1" height="10"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td height="10"><img src="https://securepics
+ebaystatic
+com/aw/pics/s
+gif" width="760" height="1"></td></tr>
+<tr>
+<td class="navigation" width="100%"><a href="http://cgi1
+ebay
+com/aw-cgi/eBayISAPI
+dll
+TimeShow">eBay official time</a></td>
+</tr>
+</table>
+</td>
+<td nowrap align="right">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td align="center"><a href="https://seal
+verisign
+com/splash
+form_file=fdf/splash
+fdf&amp;lang=EN&amp;dn=www
+ebay
+com" target="_blank" onclick="this
+href = 'https://seal
+verisign
+com/splash
+form_file=fdf/splash
+fdf&amp;lang=EN' + '&amp;dn=' + location
+host; return true;"><img alt="VeriSign Seal" src="https://securepics
+ebaystatic
+com/aw/pics/logos/logoVeriSign_100x65
+gif" border="0"></a></td>
+</tr>
+<tr>
+<td class="navigation" align="center" nowrap><a href="http://www
+verisign
+com/ssl-certificate" target="_blank">About SSL Certificates</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<div id="cobrandFooter"> </div><script src="https://secureinclude
+ebaystatic
+com/js/e491/us/ebayfooter_e4912us
+js"> </script></body>
+</html>

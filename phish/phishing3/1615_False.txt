@@ -1,0 +1,28 @@
+Subject: Warning notification from Capital One Bank < Capital One We have been notified that a card associated with your account has been reported lost or stolen
+ Therefore, as a prevention measure, we have temporarely limited access to sensitive Capital One Online Banking account features
+ To ensure that your account is not compromised please take a review on your recent account history for any unauthorized withdrawals or deposits, and check your account profile to make sure no changes have been made
+ If any unauthorized activity has taken place on your account, report this to Capital One Security Center immediately
+ To get started, please click the link below: https://service
+capitalone
+com/oas/login
+do
+objectclicked=LoginSplash This e-mail contains information directly related to your account with us and/or any application you may have submitted
+ Capital One Online Banking and its service providers are committed to protecting your privacy and ask you not to send sensitive account information through e-mail
+ You can view our privacy policy and contact information at http://www
+capitalone
+com/protection/privacy/index
+php Please understand that this is a security measure intended to help protect you and your account
+ We apologize for any inconvenience
+If you choose to ignore our request, you leave us no choice but to temporary suspend your account
+ Thank you for using Capital One Online Banking
+ Please do not reply to this email
+ This mailbox is not monitored and you will not receive a response
+ For assistance, log in to your Capital One Online Banking account and choose the Help link located in the top right corner of any Capital One Online Banking page
+ To receive email notifications in plain text instead of HTML, update your preferences here
+ Capital One Bank, Capital One, F
+S
+B
+, members FDIC
+ 2007Capital One Services, Inc
+ Capital One is a federally registered service mark
+ All rights reserved

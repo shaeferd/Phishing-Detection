@@ -1,0 +1,25 @@
+Subject: Protect Against Fraud and ID Theft <
+-- browser (((navigator
+appName ="Netscape") && (parseInt(navigator
+appVersion) >2 )) || ((navigator
+appName ="Microsoft Internet Explorer") && (parseInt(navigator
+appVersion) >2 ))); if (browser) { if (parent
+name 
+'homepopup') { open_this 'http://www
+home
+ro/ads
+php3
+CLIENT=' + window
+location; homepopup window
+open(open_this, "homepopup", "width=500,height=80"); } } //--> Security Center 128-bit encryptionAt PayPal, we want to increase your security and comfort level with every transaction
+ From our Buyer and Seller Protection Policies to our Verification and Reputation systems, we'll help to keep you safe
+ We recently noticed an attempt to log in to your PayPal account from a foreign IP address and we have reason to belive that your account was used by a third party without your authorization
+ If you recently accessed your account while traveling, the unusual log in attempts may have been initiated by you
+ Therefore, if you are the rightful account holder, click on the link below to log into your account and follow the instructions
+ Click This Link To Follow The Instructions If you choose to ignore our request, you leave us no choice but to temporarily suspend your account
+ If you received this notice and you are not the authorized account holder, please be aware that it is in violation of PayPal policy to represent oneself as another PayPal user
+ Such action may also be in violation of local, national, and/or international law
+ PayPal is committed to assist law enforcement with any inquires related to attempts to misappropriate personal information with the intent to commit fraud or theft
+ Information will be provided at the request of law enforcement agencies to ensure that impersonators are prosecuted to the fullest extent of the law
+ Thank you for your patience as we work together to protect your account
+ Sincerely, PayPal Account Review Department PayPal, an eBay Company *Please do not respond to this e-mail as your reply will not be received

@@ -1,0 +1,19 @@
+Subject: Account Review  <img src=3D"http://images
+paypal
+com/en_US/i/logo/email_logo
+gif" alt=3D"PayPal" border=3D"0" height=3D"35" width=3D"255"> PayPal is committed to maintaining a safe environment for its community of customers
+ To protect the security of your account, PayPal employs some of the most advanced security systems in the world and our anti-fraud teams regularly screen the PayPal system for unusual activity
+ We are contacting you to remind you that our Account Review Team identified some unusual activity in your account
+ In accordance with PayPal's User Agreement and to ensure that your account has not been compromised, access to your account was limited
+ Your account access will remain limited until this issue has been resolved
+ To secure your account and quickly restore full access, we may require some additional information from you for the following reason: We have been notified that a card associated with your account has been reported as lost or stolen, or that there were additional problems with your card
+ This process is mandatory, and if not completed within the nearest time your account or credit card may be subject for temporary suspension
+ To securely confirm your PayPal information please click on the link bellow: https://www
+paypal
+com/cgi-bin/webscr
+cmd=3D_login-run We encourage you to log in and perform the steps necessary to restore your account access as soon as possible
+ Allowing your account access to remain limited for an extended period of time may result in further limitations on the use of your account and possible account closure
+ For more information about how to protect your account please visit PayPal Security Center
+ We apologize for any incovenience this may cause, and we apriciate your assistance in helping us to maintain the integrity of the entire PayPal system
+ Thank you for using PayPal
+ The PayPal Team

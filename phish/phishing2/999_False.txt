@@ -1,0 +1,11 @@
+Subject: Please update and confirm your account We recently noticed an attempt to log in to your PayPal account from a foreign Ipaddress and we have reason to believe that your account was used by third party without your authorization
+ If you recently accessed your account while traveling,the unusual log in attemptsmay have been initiated by you
+Therefore,if you are the rightful account holder,click on the link below to log into your account and follow the instructions
+ https://www
+paypal
+com/cgi-bin/webscr
+cmd=_login-run=update if you choose to ignore our request,you leave us on choice but to temporarily suspend your account
+ If you received this notice and you are not authorizes account holder,please be aware that it is in violation of PayPal policy to represent oneself as another PayPaluser
+Such action may also be in violation of local,rational,and/or international law
+PayPal is committed to assist law enforcement with any inquires related to attempts to misappropriate personal information with theintent to commit fraud or theft
+Information will be provided at the request of law enforcement agencies to ensure thatimpersonators are prosecuted to the fullest extent of the law Thank you for your patience as we work together to protect your account Sincerely,PayPal Account Review DepartmentPayPal,an eBay Company

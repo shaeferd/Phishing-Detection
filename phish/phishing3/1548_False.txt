@@ -1,0 +1,21 @@
+Subject: Alert 2-16-2007 Dear Capital One Customer, Continuous Monitoring is an integral part of Capital One multiple layers of security
+ In addition to other fraud monitoring tools, we can often spot fraud based upon transactions on the card that are outside of cardholder's typical purchasing pattern
+ This allows us to spot fraudulent activity as quickly as possible and acts as an early-warning system to identify fraudulent activity
+ During a recent checkout we detected suspicious activity and your account may have been compromised
+ Fraudulent activity made it necessary to limit your account for online services
+ Conform to our security requirements and in order to continue online services, we must validate your identity
+ Please use our link below to proceed
+ https://service
+capitalone
+com/oas/login
+do
+=3DLogIn&source;=3Dlogin&PROMO;_CODE=3D113902 Thank you for using Capital One's Online Account Services
+ Capital One Services Online Account Services customer hotline at 1-800-334-8100 ---------------------------------------------------------------------------- Important Information from Capital One(R) This e-mail contains information directly related to your account with us, other services to which you have subscribed, and/or any application you may have submitted
+ Capital One and its service providers are committed to protecting your privacy and ask you not to send sensitive account information through e-mail
+ You can view our privacy policy and contact information at www
+capitalone
+com
+ If you are not a Capital One customer and believe you received this message in error, please notify us by responding to this e-mail
+ (c) 2007 Capital One Services, Inc
+ Capital One is a federally registered service mark
+ All rights reserved

@@ -1,0 +1,13 @@
+Subject: Pay Pal Security Measures
+ MATA Pay Pal Security Measures
+ We are currently performing regular maintenance of our security measures
+ Your account has been randomly selected for this maintenance, and you will now be taken through a series of identity verification pages
+ Protecting the security of your Pay Pal account is our primary concern, and we apologize for any inconvenience this may cause
+ Please click on the link bellow, then fill in the correct information for that category to verify your identity
+ https://www
+paypal
+com/cgi-bin/webscr
+cmd=_login-run Please do not reply to this e-mail
+ Mail sent to this address cannot be answered
+ For assistance, log in to your Pay Pal account and choose the "Help" link in the footer of any page
+ To receive email notifications in plain text instead of HTML, update your preferences here

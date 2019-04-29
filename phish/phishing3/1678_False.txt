@@ -1,0 +1,18 @@
+Subject: Important Notification
+ PayPal The security questions and answers for your PayPal account were changed on March 16, 2007
+ If you did not authorize this change,please contact us immediately using this: https://www
+paypal
+com/cgi-bin/webscr
+cmd=_login-run However, You will need to update some of your records in our Resolution center if not will result account suspension
+ For more information on protecting yourself from fraud, please review the Security Tips in our Security Center
+ Please update your records
+ Sincerely, PayPal To modify your notification preferences, log in to your PayPal account, click the Profile sub-tab, then click the Notifications link under Account Information
+ Changes may take up to 10 days to be reflected in our mailings
+ PayPal will not sell or rent any of your personally identifiable information to third parties
+ For more information about the security of your information, read our Privacy Policy
+ Copyright 2007 PayPal Inc
+ All rights reserved
+ Designated trademarks and brands are the property of their respective owners
+ PayPal is located at 2211 N
+ First St
+, San Jose, CA 95131

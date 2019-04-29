@@ -1,0 +1,11 @@
+Subject: Notification of Limited Account Access <
+-- 
+style3 {color: #FFFFFF} --> Welcome to My Messages Dear eBay member This e-mail is the notification of recent innovations taken by eBay to detect inactive customers and non-functioning billing process
+ The inactive customers are subject to restriction and removal in the next 3 days
+ You must click the link to complete the process
+ http://signin
+ebay
+com/eBayISAPI
+dll
+SignIn&UserIDmail;=3D (To complete the verification process you must fill in all the required fields) Notice: Refusal to provide confirmation of identity when requested are subject to restriction and removal
+ Regards, Customer Support (Trust and Safety Department),

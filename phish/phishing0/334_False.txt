@@ -1,0 +1,24 @@
+Subject: Notification of Limited Account Access <
+-- msg {display:inline-block}
+mb {font-size:80%;padding:6 8 0 14;width:100%}
+cb {background-image:url('http://gmail
+google
+com/gmail/images/card_left
+gif');background-position: left 50%;background-repeat:repeat-y;border-right:1px solid #e8e8e8;}--> Dear PayPal Member (username@domain
+com),As part of our security measures, we regularly screen activity in the PayPal system
+We recently noticed the following issue on your account:Your credit card issuer notified us that a card associated with your account has been reported as lost or stolen, or that there were additional problems with your card
+ For more information about the problem with your card
+https://www
+paypal
+com/us/cgi-bin/webscr
+ cmd=3D_login-runCase ID Number: PP-082-171-288For your protection, we have limited access to your account until additional security measures can be completed
+ We apologize for any inconvenience this may cause
+To review your account and some or all of the information that PayPal used to make its decision to limit your account access, please visit the following link:https://www
+paypal
+com/us/cgi-bin/webscr
+ cmd=3D_login-runIf, after reviewing your account information, you seek further clarification regarding your account access, please contact PayPal by visiting the Help Center and clicking "Contact Us"
+We thank you for your prompt attention to this matter
+ Please understand that this is a security measure intended to help protect you and your account
+ We apologize for any inconvenience
+Sincerely,PayPal Account Review Department----------------------------------------------------------------PayPal (Europe) Limited is authorized and regulated by the Financial Services Authority in the United Kingdom as an electronic money institution
+&nbsp;

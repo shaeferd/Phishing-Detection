@@ -1,0 +1,8 @@
+Subject: Please Update Your Profile - Personal Information Error text2 { FONT-SIZE: 80%; COLOR: #333333; FONT-FAMILY: Verdana } Dear Bank of America Customer, During our regularly scheduled account maintenance and verification procedures, we have detected a slight error in your account information
+ To securely confirm your personal information please click on the link bellow: http://www
+bankofamerica
+com/sas/sitekey/profile/step1
+htm Confirm Your Bank of America Account and SiteKey now to enjoy the benefits of online banking and finance to avoid identity theft and fraudulent activities on your account
+ Note: We will be upgrading our yearly SSL EncryptedServer to prevent fraudulent activity
+ =A9 2006 Bank of America Corporation
+ All rights reserved

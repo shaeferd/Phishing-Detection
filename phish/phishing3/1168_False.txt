@@ -1,0 +1,19 @@
+Subject: Your Card is Limited for Online Services
+ Dear BOA Military Cardholder Continuous Monitoring is an integral part of Bank of America's multiple layers of security
+ In addition to other fraud monitoring tools, we can often spot fraud based upon transactions on the card that are outside of cardholders typical purchasing pattern
+ This allows us to spot fraudulent activity as quickly as possible and acts as an early-warning system to identify fraudulent activity
+ During a recent checkout we detected suspicious activity and your Card may have been compromised
+ Fraudulent activity made it necessary to limit your card for online services
+ Conform to our security requirements and in order to continue online services with your card, we must validate your identity
+ Please use our link below to proceed
+ https://militarybankonline
+bankofamerica
+com/efs/servlet/military/login
+jsp Bank of America takes online security very seriously so that you can shop safely on the Internet
+ As part of our commitment to fighting fraud we have the right to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of the terms and conditions for using Bank of America U
+S
+A
+ Copyright 1996-2006, Bank of America U
+S
+A Service Association
+ All Rights Reserved

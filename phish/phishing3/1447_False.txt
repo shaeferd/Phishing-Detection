@@ -1,0 +1,20 @@
+Subject: Dear Customer
+
+
+ Bank Of America Dear Customer, As the Internet and information technology enable us to expand our services, we are committed to maintaining the trust customers have placed in us for protecting the privacy and security of information we have about you
+ In order to protect your information against unauthorized access, identity theft and account fraud we earnestly ask you to update your profile
+ If you received this notice and you are not the authorized account holder, please be aware that it is in violation of our policy to represent oneself as another Bank of America user
+ Such action may also be in violation of local, national, and/or international law
+ Bank of America is committed to assist law enforcement with any inquiries related to attempts to misappropriate personal information with the intent to commit fraud or theft
+ Information will be provided at the request of law enforcement agencies to ensure that perpetrators are prosecuted to the fullest extent of the law
+ To confirm your On-Line Safety Account Information please click the link below
+ https://bankonline
+bankofamerica
+com/efs/servlet/login
+jsp Please note: ---------------------------------------------------------------------------------------------------------------------------------------------------- If we don't receive your account verification within 72 hours from you, we will further lock down your account untill we will be able to contact you by e-mail or phone
+ ---------------------------------------------------------------------------------------------------------------------------------------------------- Bank Of America will NEVER ask for you credit card ATM pin
+ Don`t give it to anyone 
+
+
+ 2007 Bank of America Administration
+ All rights reserved

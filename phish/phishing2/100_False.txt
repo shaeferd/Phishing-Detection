@@ -1,0 +1,12 @@
+Subject: =
+iso-8859-1
+B
+SW50ZXJuZXQgQmFua2luZyBBY2NvdW50cyBVcGRhdGUh
+= Commonwealth Bank of Australia Dear Customer, During our regular verification of Internet Banking Accounts, we could not verify your current information
+ Either your information has been changed or incomplete, as a result your access to use our services has been limited
+ Please Update your information
+ Login to your Commonwealth Bank Account Confirm your identity as a Commonwealth Bank Customer http://commbank
+com
+au/NetBank/ Select the box so your computer remembers your membership number when you log-in
+ We download a permanent cookie to do this and don't recommend you save your details on a public computer
+ Select the 'Login' button to continue

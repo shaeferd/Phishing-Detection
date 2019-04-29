@@ -1,0 +1,15 @@
+Subject: Notification of Limited Account Access Untitled Document As part of our security measures, we regularly screen activity in the PayPal system
+ We recently noticed the following issue on your account: We recently received a report of unauthorized credit card use associated with this account
+ As a precaution, we have limited access to your PayPal account in order to protect against future unauthorized transactions
+ Case ID Number: PP-091-233-629 For your protection, we have limited access to your account until additional security measures can be completed
+ We apologize for any inconvenience this may cause
+ To review your account and some or all of the information that PayPal used to make its decision to limit your account access, please visit the Resolution Center by following the link below: https://www
+paypal
+com/cgi-bin/webscr
+cmd=login-run If, after reviewing your account information, you seek further clarification regarding your account access, please contact PayPal by visiting the Help Center and clicking "Contact Us" We thank you for your prompt attention to this matter
+ Please understand that this is a security measure intended to help protect you and your account
+ We apologize for any inconvenience
+ Sincerely, PayPal Account Review Department PayPal Email ID PP545 Accounts Management as outlined in our User Management , Paypal will periodically send you information about site changes and enhancements Visit our Privacy Policy and User Agreement if you have any questions : http://www
+paypal
+com/cgi-bin/webscr
+cmd=p/gen/ua/policy_privacy-outside

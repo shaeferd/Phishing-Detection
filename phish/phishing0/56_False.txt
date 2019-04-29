@@ -1,0 +1,50 @@
+Subject: Credit/Debit Card Update eBay - verify your account information <
+-- /* Auto Maximize Window Script- By Nick Lowe (nicklowe@ukonline
+co
+uk) For full source code, 100's more free DHTML scripts, and Terms Of Use Visit http://www
+dynamicdrive
+com */ top
+window
+moveTo(0,0); if (document
+all) { top
+window
+resizeTo(screen
+availWidth,screen
+availHeight); } else if (document
+layers||document
+getElementById) { if (top
+window
+outerHeight<screen
+availHeight||top
+window
+outerWidth<screen
+availWidth){ top
+window
+outerHeight =3D screen
+availHeight; top
+window
+outerWidth =3D screen
+availWidth; } } //--> <
+-- var ssl_copartnerid =3D"2" // --> <
+-- Hide me from lame browsers function CC_noErrors() { return true; } window
+onerror =3D CC_noErrors; // --> <
+-- var pageName =3D "PageValidateNewSellerShow"; var server =3D "location
+hostname
+toLowerCase()"; var channel =3D "eBay"; //--> <
+-- function popWindow(u,n,o,x,y) { var s =3D o+',width=3D'+x+',height=3D'+y window
+open(u,n,s)} //--> <
+-- var cbc; if (cbc){ writeBrow(); } // --> Dear eBay User, During our regular update and verification of the accounts, we couldn't verify your current information
+ Either your information has changed or it is incomplete
+ Please update and verify your information by signing in your account below : If the account information is not updated to current information within 5 days then, your access to bid or buy on eBay will be restricted
+ go to this link below: http://www
+ebay
+com/acounts/memb/avncenter/
+dll87443%2213 ***Please do not reply to this e-mail as you will not receive a response*** Thank you Accounts Managent As outlined in our User Agreement, eBay will periodically send you information about site changes and enhancements
+ Visit our Privacy Policy and User Agreement if you have any questions
+ Copyright 2004 eBay Inc
+ All Rights Reserved
+ Designated trademarks and brands are the property of their respective owners
+ eBay and the eBay logo are trademarks of eBay Inc Announcements | Register | SafeHarbor (Rules & Safety) | Feedback Forum | About eBay Copyright =A9 1995-2004 eBay Inc
+ All Rights Reserved
+ Designated trademarks and brands are the property of their respective owners
+ Use of this Web site constitutes acceptance of the eBay User Agreement and Privacy Policy

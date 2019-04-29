@@ -1,0 +1,19 @@
+Subject: Key Bank Customer Notification [Fri, 18 Feb 2005 08:14 AM +0300] We recently reviewed your account, and suspect an fraudulent ATM transaction, procesed without autorization
+ Therefore, as a preventative measure, we have temporarily limited access to your on-line banking access
+ To restore your account access, please follow the steps listed bellow
+ 1
+ Login to your Internet Banking account
+ In case you are not enrolled for Internet Banking, you will have to use your Social Security Number as your User ID and the first 6 digits of Social Security Number as Password, then, fill in all the required information
+ 2
+ Review your recent account history for any unauthorized withdrawals or deposits, and check your account profile to make sure no changes have been made
+ If any unauthorized activity has taken place on your account, report this to KeyBank staff immediately
+ To get started, please click the link below: https://accounts2
+keybank
+com/ib2/Controller
+requester=signon Thank you for your prompt attention to this matter and thank you for using KeyBank
+ Key Bank, N
+A
+ Member FDIC
+ Equal Housing Lender Copyright 2004 KeyBank, N
+A
+ All rights reserved Do not reply to this e-mail as it is an unmonitored alias

@@ -1,0 +1,6 @@
+Subject: View Your Accounts (Action Required) PayPal #obmessage 
+dummy {} #z BODY, #z TD {font-family: verdana,arial,helvetica,sans-serif; font-size:12px;color: #000000;} Update Your Account Information Fraudulent Money Transfers It has come to our attention that yourPayPal account information needs to beupdated as part of our continuing commitment to protect your account and toreduce the instance of fraud on our website
+ Due to your recent account activity, we are kindly asking you to confirm that ONLY you manage your PayPal account, and the recent money transfers were made by you
+ If you did not effectuated the money transfers, you can confirm by logging to your account and filling up the verification procedure here: Click here to activate your account Once you have updated your account records, yourPayPal account be fully protected
+ Thank You, PayPal Security PayPal Email ID PP391 Protect Your Account Info To safely and securely access the PayPal website or your account, follow the link provided by us to be sure you are on the real PayPal website
+ Protect Your Password You should never give your PayPal password to anyone

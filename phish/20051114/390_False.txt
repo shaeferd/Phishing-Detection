@@ -1,0 +1,44 @@
+Subject: Verify and update your Amazon account Dear Amazon member, <
+-- /* Font Definitions */ @font-face {font-family:Wingdings; panose-1:5 0 0 0 0 0 0 0 0 0; mso-font-charset:2; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:0 268435456 0 0 -2147483648 0;} @font-face {font-family:Tahoma; panose-1:2 11 6 4 3 5 4 4 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:1627421319 -2147483648 8 0 66047 0;} @font-face {font-family:Verdana; panose-1:2 11 6 4 3 5 4 4 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:536871559 0 0 0 415 0;} /* Style Definitions */ p
+MsoNormal, li
+MsoNormal, div
+MsoNormal {mso-style-parent:\"\"; margin:0cm; margin-bottom:
+0001pt; mso-pagination:widow-orphan; font-size:12
+0pt; font-family:\"Times New Roman\"; mso-fareast-font-family:\"Times New Roman\";} a:link, span
+MsoHyperlink {color:blue; text-decoration:underline; text-underline:single;} a:visited, span
+MsoHyperlinkFollowed {color:purple; text-decoration:underline; text-underline:single;} span
+treb {mso-style-name:treb;} span
+SpellE {mso-style-name:\"\"; mso-spl-e:yes;} span
+GramE {mso-style-name:\"\"; mso-gram-e:yes;} @page Section1 {size:612
+0pt 792
+0pt; margin:72
+0pt 90
+0pt 72
+0pt 90
+0pt; mso-header-margin:35
+4pt; mso-footer-margin:35
+4pt; mso-paper-source:0;} div
+Section1 {page:Section1;} /* List Definitions */ @list l0 {mso-list-id:13655865; mso-list-type:hybrid; mso-list-template-ids:-743304448 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;} @list l0:level1 {mso-level-number-format:bullet; mso-level-text:\\F0B7; mso-level-tab-stop:99
+0pt; mso-level-number-position:left; margin-left:99
+0pt; text-indent:-18
+0pt; font-family:Symbol;} @list l1 {mso-list-id:443892358; mso-list-type:hybrid; mso-list-template-ids:-1402727322 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;} @list l1:level1 {mso-level-number-format:bullet; mso-level-text:\\F0B7; mso-level-tab-stop:102
+0pt; mso-level-number-position:left; margin-left:102
+0pt; text-indent:-18
+0pt; font-family:Symbol;} @list l2 {mso-list-id:443963501; mso-list-type:hybrid; mso-list-template-ids:368981086 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;} @list l2:level1 {mso-level-number-format:bullet; mso-level-text:\\F0B7; mso-level-tab-stop:99
+0pt; mso-level-number-position:left; margin-left:99
+0pt; text-indent:-18
+0pt; font-family:Symbol;} ol {margin-bottom:0cm;} ul {margin-bottom:0cm;} --> Dear valued member, Due to concerns we have for the safety and integrity of the Amazon community we have issued this warning
+ Per the User Agreement, Section 9, we may immediately issue a warning, temporarily suspend, indefinitely suspend or terminate your membership and refuse to provide our services to you if we believe that your actions may cause financial loss or legal liability for you, our users or us
+ We may also take these actions if we are unable to verify or authenticate any information you provide to us
+ Please follow the link below: http://www
+amazon
+com/exec/obidos/account-access-login/ref=/index to update your account information
+ We will suspend your account for a period of 10 days if the provided information will be different from that we have stored in our database
+ · If you use popup killers please disable them
+ A popup window will appear, please fill out the form with your correct information
+ · We apologize for any inconvenience this may cause, and appreciate your assistance in helping us maintain the integrity of the entire Amazon system
+ · Thank you for your prompt attention to this matter
+ · Please do not reply to this mail
+ Mail sent to this address cannot be answered
+ · For assistance, log in to your Amazon account and chose the "Help" link in the header of any page
+ Best Regards , Amazon Safety Department

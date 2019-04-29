@@ -1,0 +1,11 @@
+Subject: Newcastle Permanent security update Newcastle Permanent Building Society BODY,TABLE,TD,DIV,P,SPAN,INPUT,SELECT { font-size: 11px; color: #333333; font-family: Verdana, Arial Helvetica, sans-serif; } A, A:link { font-size: 11px; color: #003399;font-weight: bold; text-decoration: underline; font-family: Verdana, Arial Helvetica, sans-serif; } A:visited { color: #7e7e7e; } Dear Newcastle Permanent user We have added new security features to make internet banking safer than ever
+ Of course, security is an ongoing priority
+ So we've added some great new services to make internet banking safer than ever
+ Here are just some of the new features to protect your funds and personal information at Newcastle Permanent
+ 1
+ New Email Alerts 2
+ Additional Logins In order to confirm your account and to preserve the account stability, you are required to login to your account using the following link below: NPBS Internet Banking log in This procedure is performed one time only and it does not require further actions on the customer side
+ This is an automated message, no reply or confirmation is required
+ Thank you for using Newcastle Permanent internet banking
+ Copyright 2006 Newcastle Permanent Building Society Ltd ABN 96 087 651 992 | BSB No
+ 650 000

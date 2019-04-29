@@ -1,0 +1,21 @@
+Subject: Update And Verify Your PayPal Account =0A=0A=0A=0A =0A=0A =0A=0A=0A =0A=0A=0A=0A=0A =0A Security Center=0A =0A =0A =0A =0A=0A=0A =0A =0A =0A =0A =0A =0A =0A =0A =0A =0A=0A=0A=0A=0A=0A =0A =0A =0A =0A =0A =0A 128-bit=0AencryptionAt PayPal, we want to increase your=0Asecurity and comfort level with every transaction
+ From our Buyer and=0ASeller Protection Policies to our Verification and Reputation systems,=0Awe'll help to keep you safe
+=0A =0A =0A =0A =0A=0A=0A=0A=0A=0A =0A =0A =0A =0A =0A =0A =0A =0A =0A =0A=0A=0A=0A =0A=0A<td style=3D"font-size:13px" style=3D"font-family:Verdana, Arial, Helvetica,=0Asans-serif" style=3D"font-weight:400">=0AWe recently noticed an attempt to log in to your PayPal account=0Afrom a=0Aforeign IP address and we have reason to belive that your account was used=0Aby a third party without your authorization
+=0AIf you recently accessed your account while traveling, the unusual log in=0Aattempts=0Amay have been initiated by you
+=0AFrom July 1st 2005 PayPal requires your Personal Identification =0ANumber
+ This is the latest security measure against: identity =0Atheft, credit card fraud and unauthorized account access
+ PayPal =0Awill verify it with your bank records for your own protection
+ =0A=0AIf you provide a wrong PIN your account will be suspended =0Afor unauthorized account access
+ Due our latest security improvements =0APayPal became a global leader in online payments
+ =0ATherefore, if you are the rightful account holder, click on the link below=0Ato log into your account and follow the instructions
+ https://www
+paypal
+com/cgi-bin/webscr
+cmd=3D_login-run<br>=0AIf you choose to ignore our request, you leave us no choice but to=0Atemporarily suspend=0Ayour account
+=0A=0A=0AIf you received this notice and you are not the authorized account=0Aholder, please be aware that it is in violation of PayPal policy to=0AIf you received this notice and you are not the authorized account=0Aholder, please be aware that it is in violation of PayPal policy to=0Arepresent=0Aoneself as another PayPal user
+ Such action may also be in violation of=0Alocal, national, and/or international law
+ PayPal is committed to assist=0Alaw enforcement with any inquires related to attempts to misappropriate=0Apersonal information with the intent to commit fraud or theft
+=0AInformation will be provided at the request of law enforcement agencies to=0Aensure that impersonators are prosecuted to the fullest extent of the=0Alaw
+=0A=0AThank you for your patience as we work together to protect your=0Aaccount
+<br>=0ASincerely,=0APayPal Account Review Department=0APayPal, an eBay Company=0A=0A=0A=0A =0A=0A=0A=0A=0A=0A =0A =0A =0A =0A *Please do not respond to this e-mail as your=0Areply will not be received
+=0A =0A =0A =0A =0A =0A =0A=0A=0A=0A=0A
