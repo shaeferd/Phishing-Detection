@@ -3,6 +3,7 @@ Phishing Detection System using Link Analysis and NLP
 
 ## REQUIREMENTS
 - Python3
+- Jupyter Notebook
 - Selenium Webdriver Chromedriver
 
 ## Running
