@@ -1,5 +1,5 @@
 # Phishing-Detection
-Phishing Detection System Natural Language Processing
+Phishing Detection System Natural Language Processing and Machine Learning
 
 ## REQUIREMENTS
 - Python3
